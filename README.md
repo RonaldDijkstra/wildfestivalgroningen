@@ -1,12 +1,13 @@
-# Project Name
+# Wildfestival Groningen 2019 #WFG
 
-This app is built with [Middleman].
+A website for a beer festival dedicated to spontaneously, wild fermentation.
+Expect a great line-up with fantastic beer (and other wild drinks) and delicious food.
 
-[Middleman]: https://middlemanapp.com/
+This website is built with [Middleman](https://middlemanapp.com/) and [Middleman Template by ThoughtBot](https://github.com/thoughtbot/middleman-template) and is multilanguage ready.
 
 ## Setup
 
-After you have cloned this repo, follow these steps to run the app:
+After you have cloned this repo, follow these steps to run the website:
 
 1. Run the setup script to set up your machine with the necessary dependencies:
 
@@ -17,7 +18,8 @@ After you have cloned this repo, follow these steps to run the app:
 1. Start the Middleman server:
 
     ```
-    bundle exec middleman server
+    rake serve:nl
+    rake serve:en
     ```
 
-    You should now be able to view your app at <http://localhost:4567>.
+    You should now be able to view your website at <http://localhost:4567>.
