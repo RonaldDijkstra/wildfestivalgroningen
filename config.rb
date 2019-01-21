@@ -1,3 +1,13 @@
+# frozen_string_literal: true
+
+# Determine root locale
+root_locale = (ENV["LOCALE"] ? ENV["LOCALE"].to_sym : :nl)
+# Accessible as `root_locale` in helpers and `config[:root_locale]` in templates
+set :root_locale, root_locale
+
+# Activate i18n for root locale
+activate :i18n, mount_at_root: root_locale, langs: %i[nl en]
+
 activate :aria_current
 activate :autoprefixer
 activate :inline_svg
