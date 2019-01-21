@@ -12,3 +12,5 @@ gem "middleman-minify-html"
 gem "neat"
 gem "redcarpet"
 gem "sassc"
+
+gem "rake"

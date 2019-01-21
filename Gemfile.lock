@@ -134,6 +134,7 @@ DEPENDENCIES
   middleman-inline_svg
   middleman-minify-html
   neat
+  rake
   redcarpet
   sassc
 
