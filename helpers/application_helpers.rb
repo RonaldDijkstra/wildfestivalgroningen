@@ -60,4 +60,9 @@ module ApplicationHelpers
   def meta_description
     localized_description || description
   end
+
+  # Robots is current page data or default
+  def robots
+    current_page.data.robots || "noydir,noodp,index,follow"
+  end
 end
