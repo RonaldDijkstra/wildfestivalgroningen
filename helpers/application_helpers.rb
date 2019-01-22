@@ -33,4 +33,25 @@ module ApplicationHelpers
       website_name
     end
   end
+
+  # Description is the value for description in frontmatter data
+  # or the default value defined in site.yml
+  def description
+    current_page.data.description || data.site.description
+  end
+
+  # Localized description value
+  #
+  # description:
+  #   nl: "Dit is een beschrijving"
+  #   en: "This is a description"
+  #
+  def localized_description
+    description.send(I18n.locale) if description.is_a?(Hash) && description[I18n.locale]
+  end
+
+  # Meta description is localized_description or description
+  def meta_description
+    localized_description || description
+  end
 end
