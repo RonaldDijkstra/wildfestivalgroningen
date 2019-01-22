@@ -15,23 +15,29 @@ module ApplicationHelpers
     markdown.render(contents)
   end
 
-  # Get the website name from data
+  # Get the website name from site.yml
   def website_name
     data.site.name
   end
 
-  # Use frontmatter or fallback for page title
-  def page_title(page)
-    frontmatter_title = page.data.title
-    if frontmatter_title
-      if frontmatter_title.is_a?(Hash) && frontmatter_title[I18n.locale]
-        [frontmatter_title.send(I18n.locale), website_name].join(" - ")
-      else
-        [frontmatter_title, website_name].join(" - ")
-      end
-    else
-      website_name
-    end
+  # Get the title from frontmatter if any
+  def frontmatter_title
+    current_page.data.title
+  end
+
+  # If there's a title in frontmatter check if it's localized
+  # and then join them with the website_name
+  def local_title
+    if frontmatter_title.is_a?(Hash) && frontmatter_title[I18n.locale]
+      [frontmatter_title.send(I18n.locale), website_name]
+    elsif frontmatter_title
+      [frontmatter_title, website_name]
+    end.join(" - ")
+  end
+
+  # Page title is localized or title
+  def page_title
+    local_title || website_name
   end
 
   # Description is the value for description in frontmatter data
