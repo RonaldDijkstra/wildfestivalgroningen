@@ -43,7 +43,7 @@ module ApplicationHelpers
   # Description is the value for description in frontmatter data
   # or the default value defined in site.yml
   def description
-    current_page.data.description || data.site.description
+    current_page.data.description || t("site.description")
   end
 
   # Localized description value
