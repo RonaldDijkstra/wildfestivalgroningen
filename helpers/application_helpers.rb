@@ -73,4 +73,10 @@ module ApplicationHelpers
     classes = super(path.gsub("localizable", ""))
     classes.prepend("#{I18n.locale} ")
   end
+
+  # Get full url
+  def full_url(url, locale = I18n.locale)
+    base = "http://#{I18n.t('CNAME', locale: locale)}"
+    URI.join(base, url).to_s
+  end
 end
