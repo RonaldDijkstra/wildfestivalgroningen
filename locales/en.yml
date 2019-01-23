@@ -1,4 +1,11 @@
 ---
   en:
 
-    my_first_translation: "Hello world"
+    # Path translations
+    paths:
+      programma: "program"
+    # Pages
+    index:
+      title: "Wild Festival Groningen 2019"
+    program:
+      title: "Program"

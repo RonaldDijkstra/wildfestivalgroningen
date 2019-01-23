@@ -1,4 +1,7 @@
 ---
   nl:
 
-    my_first_translation: "Hallo wereld"
+    index:
+      title: "Wild Festival Groningen 2019"
+    program:
+      title: "Programma"
