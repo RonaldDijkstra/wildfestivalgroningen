@@ -29,10 +29,10 @@ module ApplicationHelpers
   # and then join them with the website_name
   def local_title
     if frontmatter_title.is_a?(Hash) && frontmatter_title[I18n.locale]
-      [frontmatter_title.send(I18n.locale), website_name]
+      [frontmatter_title.send(I18n.locale), website_name].join(" - ")
     elsif frontmatter_title
-      [frontmatter_title, website_name]
-    end.join(" - ")
+      [frontmatter_title, website_name].join(" - ")
+    end
   end
 
   # Page title is localized or title
@@ -64,5 +64,13 @@ module ApplicationHelpers
   # Robots is current page data or default
   def robots
     current_page.data.robots || "noydir,noodp,index,follow"
+  end
+
+  # Make custom page classes that don't translate from target_resource.path
+  # Now we can target these pages with a single styling
+  def page_classes
+    path = current_resource.target_resource.path
+    classes = super(path.gsub("localizable", ""))
+    classes.prepend("#{I18n.locale} ")
   end
 end
