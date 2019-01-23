@@ -79,4 +79,19 @@ module ApplicationHelpers
     base = "http://#{I18n.t('CNAME', locale: locale)}"
     URI.join(base, url).to_s
   end
+
+  # Define image for Open Graph
+  def og_image
+    full_url(asset_url(current_page.data.image || "assets/images/social.png"))
+  end
+
+  # Get full locale (eg. nl_NL)
+  def full_locale(lang = I18n.locale.to_s)
+    case lang
+    when "en"
+      "en_US"
+    else
+      "#{lang.downcase}_#{lang.upcase}"
+    end
+  end
 end
