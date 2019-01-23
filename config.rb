@@ -7,9 +7,9 @@ set :root_locale, root_locale
 
 # Activate i18n for root locale
 activate :i18n, mount_at_root: root_locale, langs: %i[nl en]
-
 activate :aria_current
 activate :autoprefixer
+activate :directory_indexes
 activate :inline_svg
 
 set :css_dir, "assets/stylesheets"
