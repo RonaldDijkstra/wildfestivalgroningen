@@ -3,22 +3,9 @@ def name
 end
 
 ## Serve
-namespace :serve do
-  def serve(env)
-    puts "== Project: " + name
-    puts "== Locale: " + env.upcase.to_s
-    system "LOCALE=#{env} bundle exec middleman serve"
-  end
-
-  desc "Serve the website in NL"
-  task :nl do
-    serve :nl
-  end
-
-  desc "Serve the website in EN"
-  task :en do
-    serve :en
-  end
+task :serve do
+  puts "== Project: " + name
+  system "bundle exec middleman serve"
 end
 
 ## Clean build the website

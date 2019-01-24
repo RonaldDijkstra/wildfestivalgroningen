@@ -37,4 +37,9 @@ configure :production do
   activate :minify_css
   activate :minify_html
   activate :minify_javascript
+
+  # Raise exception for missing translations during build
+  require "lib/test_exception_localization_handler"
+
+  I18n.exception_handler = TestExceptionLocalizationHandler.new
 end
