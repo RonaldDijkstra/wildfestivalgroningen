@@ -13,4 +13,5 @@ gem "neat"
 gem "redcarpet"
 gem "sassc"
 
+gem "html-proofer"
 gem "rake"
