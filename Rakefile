@@ -21,17 +21,19 @@ namespace :serve do
   end
 end
 
-## Build the website
+## Clean build the website
 task :build do
   puts "== Project: " + name
-  puts "== Brewing... 🍺"
-  system "bundle exec middleman build --verbose" or exit(1)
+  puts "== Brewing in clean mode..."
+  system "bundle exec middleman build --clean" or exit(1)
 end
 
-## Test the build
+## Test with verbose build
 task :test do
-  Rake::Task["build"].invoke
-  puts "== Drinking... 🍺"
+  puts "== Project: " + name
+  puts "== Brewing in verbose mode..."
+  system "bundle exec middleman build --verbose" or exit(1)
+  puts "== Drinking..."
   system "ruby test.rb"
-  puts "Brewed & Tested"
+  puts "Brewed & Tested 🍺🍺🍺"
 end
