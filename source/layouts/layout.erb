@@ -14,9 +14,11 @@
 
   %>
   <body class="<%= page_classes %>">
-    <main role="main">
-      <%= yield %>
-    </main>
+    <div class="container">
+      <main role="main">
+        <%= yield %>
+      </main>
+    </div>
     <%= javascript_include_tag "main" %>
     <%= partial "partials/analytics" %>
   </body>
