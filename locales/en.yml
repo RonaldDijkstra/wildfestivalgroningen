@@ -4,11 +4,35 @@
 
     # Path translations
     paths:
+      contact: "contact"
+      drinken: "drinks"
+      eten: "food"
+      over: "about"
       programma: "program"
-    # Pages
-    index:
-      title: "Wild Festival Groningen 2019"
-    program:
-      title: "Program"
+      tickets: "tickets"
     site:
       description: "Wild Festival Groningen is a new concept of Bierselect Groningen & Boilermaker."
+    navigation:
+      about: "About"
+      contact: "Contact"
+      drinks: "Drinks"
+      food: "Food"
+      index: "Home"
+      program: "Program"
+      tickets: "Tickets"
+    # Pages
+    pages:
+      about:
+        title: "About"
+      contact:
+        title: "Contact"
+      drinks:
+        title: "Drinks"
+      food:
+        title: "Food"
+      index:
+        title: "Wild Festival Groningen 2019"
+      program:
+        title: "Program"
+      tickets:
+        title: "Tickets"
