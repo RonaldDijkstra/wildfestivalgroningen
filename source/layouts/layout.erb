@@ -8,18 +8,16 @@
     <meta name="description" content="<%= meta_description %>">
     <meta name="robots" content="<%= robots %>">
     <%= stylesheet_link_tag "main" %>
-    <%= partial "partials/open-graph" %>
+    <%= partial "partials/open_graph" %>
   </head>
   <%
 
   %>
   <body class="<%= page_classes %>">
-    <%= partial "partials/site_nav" %>
-    <div class="container">
-      <main role="main">
-        <%= yield %>
-      </main>
-    </div>
+    <%= partial "partials/site_navigation" %>
+    <main role="main">
+      <%= yield %>
+    </main>
     <%= javascript_include_tag "main" %>
     <%= partial "partials/analytics" %>
   </body>

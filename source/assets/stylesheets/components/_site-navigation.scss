@@ -1,0 +1,162 @@
+.site-navigation {
+  background: $white;
+  height: 50px;
+  line-height: 50px;
+  position: relative;
+  width: 100%;
+
+  @include grid-media($for-desktop-up) {
+    height: auto;
+  }
+
+  .logo {
+    font-size: $base-font-size * 1.2;
+    padding-left: 1em;
+
+    @include grid-media($for-desktop-up) {
+      display: block;
+      padding: 1em 0;
+      text-align: center;
+    }
+
+    a {
+      transition: all 0.2s ease;
+    }
+  }
+
+  a {
+    color: $black;
+    text-decoration: none;
+  }
+
+  .mobile-toggle {
+    background: $black;
+    cursor: pointer;
+    display: block;
+    font-size: 20px;
+    height: 50px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: all 200ms ease-in;
+    width: 50px;
+
+    @include grid-media($for-desktop-up) {
+      display: none;
+    }
+
+    span {
+      background-color: $white;
+      bottom: auto;
+      height: 3px;
+      left: 50%;
+      position: absolute;
+      right: auto;
+      top: 50%;
+      transform: translateX(-50%) translateY(-50%);
+      transition: background-color 0.3s ease;
+      width: 26px;
+
+      &::after,
+      &::before {
+        background-color: $white;
+        content: "";
+        height: 3px;
+        left: 0;
+        position: absolute;
+        transition: 0.3s;
+        width: 26px;
+      }
+
+      &::after {
+        transform: translateY(9px);
+      }
+
+      &::before {
+        transform: translateY(-9px);
+      }
+    }
+  }
+
+  &.navigation-open {
+    .mobile-toggle span {
+      background-color: transparent;
+
+      &::before {
+        transform: rotate(45deg);
+      }
+
+      &::after {
+        transform: rotate(-45deg);
+      }
+    }
+  }
+
+  .navigation-bar {
+    background-color: $white;
+    float: none;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s;
+    width: 100%;
+
+    @include grid-media($for-desktop-up) {
+      border-bottom: $base-border;
+      border-top: $base-border;
+      display: block;
+      max-height: none;
+      text-align: center;
+    }
+
+    &.expand {
+      max-height: 25em;
+    }
+
+    .menu {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+
+      li {
+        display: block;
+        list-style-type: none;
+
+        @include grid-media($for-desktop-up) {
+          display: inline-block;
+          margin-right: -4px;
+          text-align: center;
+        }
+
+        a {
+          background-color: $light-gray;
+          border-bottom: $base-border;
+          color: $black;
+          display: block;
+          padding: 0 0.8em;
+          text-decoration: none;
+          transition: all 0.2s ease;
+
+          @include grid-media($for-desktop-up) {
+            background-color: $white;
+            border-bottom: 0;
+            display: block;
+
+            &:hover {
+              background-color: $light-gray;
+              text-decoration: none;
+            }
+          }
+
+          &[aria-current]:not([aria-current="false"]) {
+            background: $black;
+            color: $white;
+          }
+        }
+      }
+    }
+  }
+
+  &.navigation-open .navigation-bar {
+    max-height: 25em;
+  }
+}
