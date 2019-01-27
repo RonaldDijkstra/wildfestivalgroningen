@@ -19,4 +19,8 @@ gem "sassc"
 gem "html-proofer"
 gem "rake"
 
-gem "rails-assets-jquery", source: "https://rails-assets.org"
+# Frontend
+source "https://rails-assets.org" do
+  gem "rails-assets-jquery"
+  gem "rails-assets-what-input"
+end

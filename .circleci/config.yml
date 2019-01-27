@@ -26,4 +26,4 @@ jobs:
 
       - run:
           name: Build Middleman site
-          command: bundle exec middleman build --verbose
+          command: bundle exec rake test
