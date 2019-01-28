@@ -109,10 +109,9 @@ module ApplicationHelpers
     end
 
     link_options = options
-    current_path = current_resource.target_resource.path.gsub("localizable/", "")
     resource_path = path.delete("/")
 
-    link_options["aria-current"] = aria_current if current_path == resource_path
+    link_options["aria-current"] = aria_current if proxied_to == resource_path
 
     locale_link_to(text, path, link_options)
   end
@@ -134,5 +133,10 @@ module ApplicationHelpers
     url_parts = url.split("#")
     url_parts[0] = extensions[:i18n].localized_path(url_parts[0], locale) ||
                    url_parts[0]
+  end
+
+  # Current resource is proxied to?
+  def proxied_to
+    current_resource.target_resource.path.gsub("localizable/", "")
   end
 end
