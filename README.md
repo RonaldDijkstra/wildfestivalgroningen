@@ -1,5 +1,7 @@
 # Wildfestival Groningen 2019 #WFG
 
+[![CircleCI branch](https://img.shields.io/circleci/project/github/RonaldDijkstra/wildfestivalgroningen/master.svg)](https://circleci.com/gh/RonaldDijkstra/wildfestivalgroningen)
+
 A website for a beer festival dedicated to spontaneously, wild fermentation.
 Expect a great line-up with fantastic beer (and other wild drinks) and delicious food.
 
