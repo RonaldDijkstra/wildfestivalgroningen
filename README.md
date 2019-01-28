@@ -3,7 +3,7 @@
 A website for a beer festival dedicated to spontaneously, wild fermentation.
 Expect a great line-up with fantastic beer (and other wild drinks) and delicious food.
 
-Saturday the 23th of November 2019 @ EM2 Groningen, The Netherlands
+Saturday the 23th of November 2019 @ EM2 Groningen, The Netherlands.
 
 This website is built with [Middleman](https://middlemanapp.com/) and [Middleman Template by ThoughtBot](https://github.com/thoughtbot/middleman-template) and is multilanguage ready.
 
