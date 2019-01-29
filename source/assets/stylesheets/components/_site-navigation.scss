@@ -101,7 +101,6 @@
     width: 100%;
 
     @include grid-media($for-desktop-up) {
-      border-bottom: $base-border;
       border-top: $base-border;
       display: block;
       max-height: none;

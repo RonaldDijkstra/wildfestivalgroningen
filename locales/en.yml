@@ -10,6 +10,8 @@
       organisatie: "organisation"
       programma: "program"
       tickets: "tickets"
+    actions:
+      tickets: "Tickets"
     site:
       description: "Wild Festival Groningen is a new concept of Bierselect Groningen & Boilermaker."
     navigation:

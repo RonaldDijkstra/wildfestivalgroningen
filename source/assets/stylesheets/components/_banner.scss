@@ -1,0 +1,9 @@
+.banner {
+  background: $black;
+  color: $white;
+
+  &.variant-big {
+    padding: 4em 0;
+    text-align: center;
+  }
+}

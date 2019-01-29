@@ -4,6 +4,8 @@
 
     site:
       description: "Wild Festival Groningen is een nieuw concept van Bierselect Groningen & Boilermaker, waarbij natuurlijke, spontane vergisting centraal staat."
+    actions:
+      tickets: "Tickets"
     navigation:
       contact: "Contact"
       drinks: "Drinken"
