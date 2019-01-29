@@ -1,6 +1,9 @@
 - Deploy to Netlify
 - Build Grid
-- Build Header + Navigation (Dont forget active nav)
+
+- Typography
+- Design
+- Add Social Icons
 
 - Language switcher
 - Build Main Section incl 2 or 3 hero variants
@@ -9,8 +12,6 @@
 - Fill up other pages
 
 - Add Google Analytics
-- Add Schema.org data
-
-- Setup Dependabot
-- Setup CircleCI
+- Setup Dependabot (?)
+- Setup CircleCI (?)
 - gem "rails-assets-what-input"
