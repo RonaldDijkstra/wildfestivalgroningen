@@ -137,8 +137,10 @@
           border-bottom: $base-border;
           color: $dark-gray;
           display: block;
+          font-family: $heading-font-family;
           padding: 0 0.8em;
           text-decoration: none;
+          text-transform: uppercase;
           transition: all 0.2s ease;
 
           @include grid-media($for-desktop-up) {
