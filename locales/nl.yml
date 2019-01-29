@@ -23,6 +23,10 @@
         title: "Eten"
       index:
         title: "Wild Festival Groningen 2019"
+        banner:
+          title: "Wild Festival Groningen"
+          date: "23 november 2019"
+          location: "EM2 Venue Groningen"
       organisation:
         title: "Organisatie"
       program:

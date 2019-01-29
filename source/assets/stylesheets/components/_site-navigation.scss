@@ -10,7 +10,7 @@
   }
 
   .logo {
-    font-size: $base-font-size * 1.2;
+    font-size: $base-font-size * 1.6;
     padding-left: 1em;
 
     @include grid-media($for-desktop-up) {
@@ -20,6 +20,9 @@
     }
 
     a {
+      color: $dark-gray;
+      font-family: $heading-font-family;
+      text-transform: uppercase;
       transition: all 0.2s ease;
     }
   }
@@ -116,27 +119,29 @@
       margin: 0;
       padding: 0;
 
+      @include grid-media($for-desktop-up) {
+        display: flex;
+        justify-content: center;
+      }
+
       li {
         display: block;
         list-style-type: none;
 
         @include grid-media($for-desktop-up) {
-          display: inline-block;
-          margin-right: -4px;
           text-align: center;
         }
 
         a {
-          background-color: $light-gray;
+          background-color: $white;
           border-bottom: $base-border;
-          color: $black;
+          color: $dark-gray;
           display: block;
           padding: 0 0.8em;
           text-decoration: none;
           transition: all 0.2s ease;
 
           @include grid-media($for-desktop-up) {
-            background-color: $white;
             border-bottom: 0;
             display: block;
 
@@ -147,7 +152,7 @@
           }
 
           &[aria-current]:not([aria-current="false"]) {
-            background: $black;
+            background-color: $black;
             color: $white;
           }
         }

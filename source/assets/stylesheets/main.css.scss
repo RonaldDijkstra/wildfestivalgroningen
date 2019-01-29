@@ -5,6 +5,7 @@
 
 @import "library/variables";
 
+@import "base/fonts";
 @import "base/forms";
 @import "base/grid";
 @import "base/layout";
@@ -15,4 +16,6 @@
 @import "components/banner";
 @import "components/buttons";
 @import "components/lists";
-@import "components/site-navigation"
+@import "components/site-navigation";
+
+@import "pages/index";
