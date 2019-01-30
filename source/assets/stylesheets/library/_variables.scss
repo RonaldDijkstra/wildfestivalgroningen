@@ -1,12 +1,13 @@
 // Typography
 $base-font-family: $font-stack-system;
-$heading-font-family: "Oswald", cursive;
+$heading-font-family: "Yanone Kaffeesatz", cursive;
 
 // Line height
 $base-line-height: 1.5;
 $heading-line-height: 1.2;
 
 // Font weights
+$font-weight-small: 300;
 $font-weight-regular: 400;
 $font-weight-semibold: 600;
 $font-weight-bold: 700;
@@ -28,6 +29,7 @@ $orange: #e86240;
 $black: #000;
 $white: #fff;
 $brown: #5d5250;
+$limegreen: #32cd32;
 
 // Font Colors
 $base-font-color: $dark-gray;
