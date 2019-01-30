@@ -19,7 +19,7 @@
       <%= yield %>
     </main>
     <%= javascript_include_tag "main" %>
-    <%= partial "partials/analytics" %>
+    <%= partial "partials/analytics" unless development? %>
     <%= partial "partials/schema" if proxied_to.to_s == "index.html" %>
   </body>
 </html>

@@ -7,20 +7,18 @@
     actions:
       tickets: "Tickets"
     navigation:
+      about: "Over"
       contact: "Contact"
-      drinks: "Drinken"
-      food: "Eten"
       index: "Home"
       organisation: "Organisatie"
+      participators: "Deelnemers"
       program: "Programma"
       tickets: "Tickets"
     pages:
+      about:
+        title: "Over het festival"
       contact:
         title: "Contact"
-      drinks:
-        title: "Drinken"
-      food:
-        title: "Eten"
       index:
         title: "Wild Festival Groningen 2019"
         banner:
@@ -29,6 +27,8 @@
           location: "EM2 Venue"
       organisation:
         title: "Organisatie"
+      participators:
+        title: "Deelnemers"
       program:
         title: "Programma"
       tickets:
