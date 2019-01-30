@@ -49,6 +49,16 @@ a {
   }
 }
 
+// Using what-intent to target specific input
+// https://github.com/ten1seven/what-input
+[data-whatintent='mouse'] *:focus {
+  outline: none;
+}
+
+[data-whatintent='keyboard'] *:focus {
+  outline: 3px solid $orange;
+}
+
 hr {
   border-bottom: $base-border;
   border-left: 0;

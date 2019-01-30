@@ -162,29 +162,31 @@
           color: $brown;
           display: block;
           font-family: $heading-font-family;
+          font-size: $base-font-size * 1.4;
+          font-weight: $font-weight-small;
           padding: 0 0.8em;
           text-decoration: none;
           text-transform: uppercase;
           transition: all 0.2s ease;
 
           @include grid-media($for-desktop-up) {
-            background: linear-gradient(limegreen, limegreen);
+            background: linear-gradient($limegreen, $limegreen);
             background-position: 0 3em;
             background-repeat: no-repeat;
-            background-size: 100% 0.2em;
+            background-size: 100% 0.1em;
             border-bottom: 0;
             display: block;
 
             &:hover {
               background-position: 0 bottom;
-              color: limegreen;
+              color: $limegreen;
               text-decoration: none;
             }
           }
 
           &[aria-current]:not([aria-current="false"]) {
             background-position: 0 bottom;
-            color: limegreen;
+            color: $limegreen;
           }
         }
       }
