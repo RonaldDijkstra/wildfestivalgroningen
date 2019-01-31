@@ -1,50 +1,48 @@
 <nav class="site-navigation" role="navigation">
-  <div class="navigation-wrapper">
-    <div class="logo">
-      <% link_to("/", relative: false, class: "root-link home") do %>
-          <%= inline_svg "logo-wild-festival-groningen-2019.svg", alt: "Logo Wild Festival Groningen 2019", class: "logo-desktop" %>
-          <span class="logo-mobile">
-            <%= data.site.name %>
-          </span>
-      <% end %>
-    </div>
+  <div class="logo">
+    <% link_to("/", relative: false, class: "root-link home") do %>
+        <%= inline_svg "logo-wild-festival-groningen-2019.svg", alt: "Logo Wild Festival Groningen 2019", class: "logo-desktop" %>
+        <span class="logo-mobile">
+          <%= data.site.name %>
+        </span>
+    <% end %>
+  </div>
 
-    <a id="mobile-toggle" class="mobile-toggle">
-      <span></span>
-      <span></span>
-      <span></span>
-    </a>
+  <a id="mobile-toggle" class="mobile-toggle">
+    <span></span>
+    <span></span>
+    <span></span>
+  </a>
 
-    <div class="navigation-bar">
-      <ul class="menu">
-        <li>
-          <%= current_link_to t("navigation.index"), "/index.html", relative: false, class: "root-link" %>
-        </li>
-        <li>
-          <%= current_link_to t("navigation.about"), "/over.html", class: "root-link" %>
-        </li>
-        <li>
-          <%= current_link_to t("navigation.participators"), "/deelnemers.html", class: "root-link" %>
-        </li>
-        <li>
-          <%= current_link_to t("navigation.program"), "/programma.html", class: "root-link" %>
-        </li>
-        <li>
-          <%= current_link_to t("navigation.organisation"), "/organisatie.html", class: "root-link" %>
-        </li>
-        <li>
-          <%= current_link_to t("navigation.contact"), "/contact.html", class: "root-link" %>
-        </li>
-        <li>
-          <%= current_link_to t("navigation.tickets"), "/tickets.html", class: "root-link" %>
-        </li>
-      </ul>
-      <div class="social-links">
-        <a href="https://www.untappd.com" class="icon-untappd"></a>
-        <a href="https://www.facebook.com" class="icon-facebook"></a>
-        <a href="https://www.instagram.com" class="icon-instagram"></a>
-        <a href="https://www.facebook.com" class="icon-twitter"></a>
-      </div>
+  <div class="navigation-bar">
+    <ul class="menu">
+      <li>
+        <%= current_link_to t("navigation.index"), "/index.html", relative: false, class: "root-link" %>
+      </li>
+      <li>
+        <%= current_link_to t("navigation.about"), "/over.html", class: "root-link" %>
+      </li>
+      <li>
+        <%= current_link_to t("navigation.participators"), "/deelnemers.html", class: "root-link" %>
+      </li>
+      <li>
+        <%= current_link_to t("navigation.program"), "/programma.html", class: "root-link" %>
+      </li>
+      <li>
+        <%= current_link_to t("navigation.organisation"), "/organisatie.html", class: "root-link" %>
+      </li>
+      <li>
+        <%= current_link_to t("navigation.contact"), "/contact.html", class: "root-link" %>
+      </li>
+      <li>
+        <%= current_link_to t("navigation.tickets"), "/tickets.html", class: "root-link" %>
+      </li>
+    </ul>
+    <div class="social-links">
+      <a href="https://www.untappd.com" class="icon-untappd" target="_blank" rel="noopener noreferrer"></a>
+      <a href="https://www.facebook.com" class="icon-facebook" target="_blank" rel="noopener noreferrer"></a>
+      <a href="https://www.instagram.com/bierselectgroningen/" class="icon-instagram" target="_blank" rel="noopener noreferrer"></a>
+      <a href="https://www.twitter.com" class="icon-twitter" target="_blank" rel="noopener noreferrer"></a>
     </div>
   </div>
 </nav>
