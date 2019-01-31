@@ -9,6 +9,12 @@
     height: auto;
   }
 
+  // .navigation-wrapper {
+  //   margin: 0 auto;
+  //   max-width: 960px;
+  //   position: relative;
+  // }
+
   .logo {
     font-size: $base-font-size * 1.6;
     padding-left: 1em;
@@ -129,7 +135,6 @@
   }
 
   .navigation-bar {
-    background-color: $white;
     float: none;
     max-height: 0;
     overflow: hidden;
@@ -141,10 +146,6 @@
       display: block;
       max-height: none;
       text-align: center;
-    }
-
-    &.expand {
-      max-height: 25em;
     }
 
     .menu {
@@ -166,9 +167,9 @@
         }
 
         a {
-          background: $white;
+          background: $brown;
           border-bottom: $base-border;
-          color: $brown;
+          color: $white;
           display: block;
           font-family: $heading-font-family;
           font-size: $base-font-size * 1.4;
@@ -184,6 +185,7 @@
             background-repeat: no-repeat;
             background-size: 100% 0.1em;
             border-bottom: 0;
+            color: $brown;
             display: block;
 
             &:hover {
@@ -200,9 +202,43 @@
         }
       }
     }
+
+    .social-links {
+      background-color: $brown;
+      padding: 0.8em 0;
+      position: relative;
+      text-align: center;
+
+      @include grid-media($for-desktop-up) {
+        background-color: transparent;
+        padding: 1em;
+        position: fixed;
+        right: 0;
+        top: 0;
+      }
+
+      a[class^="icon-"],
+      a[class*=" icon-"] {
+        background-color: $white;
+        color: $brown;
+        font-size: 1.6em;
+        margin: 0 0.2em;
+
+        &:hover {
+          background-color: darken($brown, 10%);
+        }
+
+        @include grid-media($for-desktop-up) {
+          background-color: $brown;
+          color: $white;
+          font-size: 1.2em;
+          margin: 0 0.1em;
+        }
+      }
+    }
   }
 
   &.navigation-open .navigation-bar {
-    max-height: 25em;
+    max-height: 30em;
   }
 }

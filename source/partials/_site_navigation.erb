@@ -1,5 +1,5 @@
 <nav class="site-navigation" role="navigation">
-
+  <div class="navigation-wrapper">
     <div class="logo">
       <% link_to("/", relative: false, class: "root-link home") do %>
           <%= inline_svg "logo-wild-festival-groningen-2019.svg", alt: "Logo Wild Festival Groningen 2019", class: "logo-desktop" %>
@@ -39,6 +39,12 @@
           <%= current_link_to t("navigation.tickets"), "/tickets.html", class: "root-link" %>
         </li>
       </ul>
+      <div class="social-links">
+        <a href="https://www.untappd.com" class="icon-untappd"></a>
+        <a href="https://www.facebook.com" class="icon-facebook"></a>
+        <a href="https://www.instagram.com" class="icon-instagram"></a>
+        <a href="https://www.facebook.com" class="icon-twitter"></a>
+      </div>
     </div>
-
+  </div>
 </nav>
