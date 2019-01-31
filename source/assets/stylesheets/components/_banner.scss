@@ -1,5 +1,7 @@
 header.banner {
-  background: $dark-gray;
+  $banner-image: "../images/banner-homepage.jpg";
+  background: url($banner-image) no-repeat center center fixed;
+  background-size: cover;
   color: $white;
   padding: 0 $base-spacing;
 
