@@ -14,8 +14,8 @@
 
   %>
   <body class="<%= page_classes %>">
-    <%= partial "partials/site_navigation" %>
-    <main role="main">
+    <main class="main" role="main">
+      <%= partial "partials/site_navigation" %>
       <%= yield %>
     </main>
     <%= partial "partials/site_footer" %>
