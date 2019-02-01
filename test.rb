@@ -9,7 +9,7 @@ raise IOError, "Directory ./build does not exist." unless Dir.exist?("./build")
 # Configuration
 # All options: https://github.com/gjtorikian/html-proofer#configuration
 options = {
-  log_level: :debug,
+  log_level: :error,
   check_img_http: true,
   allow_hash_href: true,
   check_html: true, validation: { report_missing_names: false },
