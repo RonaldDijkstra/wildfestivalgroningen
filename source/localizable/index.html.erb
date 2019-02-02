@@ -5,15 +5,7 @@ description:
 sitemap_priority: 1
 ---
 
-<header class="banner variant-big" role="banner">
-  <div class="grid-row">
-    <h1>
-      <span><%= t("pages.index.banner.title") %></span>
-      <span><%= t("pages.index.banner.date") %></span>
-      <span><%= t("pages.index.banner.location") %></span>
-    </h1>
-  </div>
-</header>
+<%= partial "homepage/banner" %>
 
 <div class="grid-row">
   <%= partial "homepage/homepage" %>
