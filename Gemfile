@@ -16,6 +16,7 @@ gem "sassc"
 
 # Extensions
 gem "rake"
+gem "html-proofer"
 
 # Frontend
 source "https://rails-assets.org" do
