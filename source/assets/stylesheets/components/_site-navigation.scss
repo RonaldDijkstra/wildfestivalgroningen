@@ -47,7 +47,6 @@
     a {
       color: $brown;
       font-family: "Great Vibes", sans-serif;
-      transition: all 0.2s ease;
     }
   }
 
@@ -166,12 +165,12 @@
           color: $white;
           display: block;
           font-family: $heading-font-family;
-          font-size: $base-font-size * 1.4;
+          font-size: $base-font-size * 1.6;
           font-weight: $font-weight-small;
           padding: 0 0.8em;
           text-decoration: none;
           text-transform: uppercase;
-          transition: all 0.2s ease;
+          transition: background 200ms ease;
 
           @include grid-media($for-desktop-up) {
             background: linear-gradient($limegreen, $limegreen);
@@ -181,6 +180,7 @@
             border-bottom: 0;
             color: $brown;
             display: block;
+            font-size: $base-font-size * 1.4;
 
             &:hover {
               background-position: 0 bottom;
@@ -200,7 +200,7 @@
     .social-links {
       background-color: $brown;
       line-height: normal;
-      padding: 0.8em 0;
+      padding: 2em 0;
       position: relative;
       text-align: center;
 
@@ -212,12 +212,14 @@
         top: 0;
       }
 
-      a[class^="icon-"],
-      a[class*=" icon-"] {
+      [class^="icon-"],
+      [class*=" icon-"] {
         background-color: $white;
+        border-radius: 50%;
         color: $brown;
         font-size: 1.6em;
         margin: 0 0.2em;
+        padding: 0.4em;
 
         &:hover {
           background-color: lighten($brown, 50%);

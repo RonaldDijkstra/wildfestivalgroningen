@@ -13,12 +13,12 @@
 [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: "icomoon" !important;
-  speak: none;
   font-style: normal;
-  font-weight: normal;
   font-variant: normal;
-  text-transform: none;
+  font-weight: normal;
   line-height: 1;
+  speak: none;
+  text-transform: none;
   vertical-align: middle;
 
   /* Better Font Rendering =========== */
@@ -26,33 +26,33 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-facebook:before {
+.icon-facebook::before {
   content: "\ea90";
 }
 
-.icon-instagram:before {
+.icon-instagram::before {
   content: "\ea92";
 }
 
-.icon-whatsapp:before {
+.icon-whatsapp::before {
   content: "\ea93";
 }
 
-.icon-twitter:before {
+.icon-twitter::before {
   content: "\ea96";
 }
-.icon-rss:before {
+.icon-rss::before {
   content: "\ea9b";
 }
 
-.icon-youtube:before {
+.icon-youtube::before {
   content: "\ea9d";
 }
 
-.icon-github:before {
+.icon-github::before {
   content: "\eab0";
 }
 
-.icon-untappd:before {
+.icon-untappd::before {
   content: "\e900";
 }
