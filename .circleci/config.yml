@@ -12,8 +12,11 @@ jobs:
           key: middleman-project-{{ arch }}-{{ checksum "Gemfile.lock" }}
 
       - run:
-          name: Install Ruby dependencies
+          name: Install proper bundler
           command: gem install bundler:2.0.1
+
+      - run:
+          name: Install Ruby dependencies
           command: bundle install --path vendor/bundle
 
       - save_cache:
