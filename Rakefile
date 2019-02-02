@@ -19,7 +19,7 @@ end
 task :test do
   puts "== Project: " + name
   puts "== Brewing in verbose mode..."
-  system "bundle exec middleman build --verbose" or exit(1)
+  system "bundle exec middleman build ----clean" or exit(1)
   puts "== Drinking..."
   system "ruby test.rb"
   puts "Brewed & Tested 🍺🍺🍺"

@@ -1,24 +1,29 @@
 version: 2
+
 jobs:
   build:
     docker:
       - image: circleci/ruby:2.5.3-node
+
     steps:
       - checkout
 
-      # Restore Cached Dependencies
-      - type: cache-restore
-        name: Restore bundle cache
-        key: middleman-project-{{ arch }}-{{ checksum "Gemfile.lock" }}
+      - restore_cache:
+          key: middleman-project-{{ arch }}-{{ checksum "Gemfile.lock" }}
 
-      # Bundle install dependencies
-      - run: bundle install --path vendor/bundle
+      - run:
+          name: Install Ruby dependencies
+          command: bundle install --path vendor/bundle
 
-      # Cache Dependencies
-      - type: cache-save
-        name: Save bundle cache
-        key: middleman-project-{{ arch }}-{{ checksum "Gemfile.lock" }}
-        paths:
-          - ./vendor/bundle
+      - save_cache:
+          key: middleman-project-{{ arch }}-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
 
-      - run: bundle exec rake test
+      - run:
+          name: Setup the environment
+          command: cp .env.sample .env
+
+      - run:
+          name: Build Middleman site
+          command: bundle exec rake test
