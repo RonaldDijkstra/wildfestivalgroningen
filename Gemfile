@@ -15,7 +15,6 @@ gem "redcarpet"
 gem "sassc"
 
 # Extensions
-gem "html-proofer"
 gem "rake"
 
 # Frontend
