@@ -13,6 +13,9 @@ activate :directory_indexes
 activate :inline_svg
 activate :sprockets
 
+# Ignore the selection file for Icomoon
+ignore "/fonts/icons/selection.json"
+
 set :css_dir, "assets/stylesheets"
 set :fonts_dir, "assets/fonts"
 set :images_dir, "assets/images"
