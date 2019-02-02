@@ -14,13 +14,3 @@ task :build do
   puts "== Brewing in clean mode..."
   system "bundle exec middleman build --clean" or exit(1)
 end
-
-## Test with verbose build
-task :test do
-  puts "== Project: " + name
-  puts "== Brewing in verbose mode..."
-  system "bundle exec middleman build ----clean" or exit(1)
-  puts "== Drinking..."
-  system "ruby test.rb"
-  puts "Brewed & Tested 🍺🍺🍺"
-end
