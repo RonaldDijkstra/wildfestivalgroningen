@@ -30,6 +30,15 @@ h6 {
   margin: 0 0 $small-spacing;
 }
 
+h1 {
+  font-weight: $font-weight-small;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-weight: $font-weight-regular;
+}
+
 p {
   margin: 0 0 $small-spacing;
 }

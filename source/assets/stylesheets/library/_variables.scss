@@ -1,5 +1,5 @@
 // Typography
-$base-font-family: $font-stack-system;
+$base-font-family: "Open Sans", sans-serif;
 $heading-font-family: "Yanone Kaffeesatz", cursive;
 
 // Line height
@@ -23,7 +23,8 @@ $base-z-index: 0;
 $blue: #1565c0;
 $dark-gray: #333;
 $medium-gray: #999;
-$light-gray: #ddd;
+$light-gray: #aaa;
+$lighter-gray: #ddd;
 $orange: #e86240;
 
 $black: #000;
@@ -33,7 +34,7 @@ $limegreen: #32cd32;
 
 // Font Colors
 $base-font-color: $dark-gray;
-$action-color: $orange;
+$action-color: $limegreen;
 
 // Border
 $base-border-color: $light-gray;

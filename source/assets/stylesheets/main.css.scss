@@ -1,11 +1,10 @@
 @import "bourbon";
 @import "neat";
-
 @import "reset/normalize";
 
 @import "library/variables";
+@import "library/fonts";
 
-@import "base/fonts";
 @import "base/forms";
 @import "base/grid";
 @import "base/layout";
@@ -21,3 +20,5 @@
 @import "components/site-navigation";
 
 @import "pages/index";
+@import "pages/about";
+@import "pages/participators";
