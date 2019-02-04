@@ -187,6 +187,18 @@
               color: $limegreen;
               text-decoration: none;
             }
+
+            &.language-link {
+              span {
+                @include grid-media($for-desktop-up) {
+                  display: none;
+                }
+              }
+
+              &:hover {
+                background-position: 0 3em;
+              }
+            }
           }
 
           &[aria-current]:not([aria-current="false"]) {
@@ -217,7 +229,7 @@
         background-color: $white;
         border-radius: 50%;
         color: $brown;
-        font-size: 1.6em;
+        font-size: 1.2em;
         margin: 0 0.2em;
         padding: 0.4em;
 
@@ -228,7 +240,7 @@
         @include grid-media($for-desktop-up) {
           background-color: $brown;
           color: $white;
-          font-size: 1.2em;
+          font-size: 1em;
           margin: 0 0.1em;
 
           &:hover {
@@ -240,6 +252,6 @@
   }
 
   &.navigation-open .navigation-bar {
-    max-height: 30em;
+    max-height: 34em;
   }
 }
