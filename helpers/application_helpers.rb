@@ -135,6 +135,10 @@ module ApplicationHelpers
                    url_parts[0]
   end
 
+  def locale_pretty_url(url, options = {})
+    locale_url_for(url, options).gsub(".html", "/")
+  end
+
   # Where's the current resource proxied to?
   def proxied_to
     current_resource.target_resource.path.gsub("localizable/", "")
