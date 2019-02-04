@@ -43,5 +43,7 @@
         title: "Deelnemers"
       program:
         title: "Programma"
+      thanks:
+        title: "Bedankt!"
       tickets:
         title: "Tickets"

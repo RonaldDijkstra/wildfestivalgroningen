@@ -4,6 +4,7 @@
 
     # Path translations
     paths:
+      bedankt: "thanks"
       contact: "contact"
       deelnemers: "participators"
       organisatie: "organisation"
@@ -53,5 +54,7 @@
         title: "Participators"
       program:
         title: "Program"
+      thanks:
+        title: "Thanks!"
       tickets:
         title: "Tickets"
