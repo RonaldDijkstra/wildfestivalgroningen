@@ -187,6 +187,18 @@
               color: $limegreen;
               text-decoration: none;
             }
+
+            &.language-link {
+              span {
+                @include grid-media($for-desktop-up) {
+                  display: none;
+                }
+              }
+
+              &:hover {
+                background-position: 0 3em;
+              }
+            }
           }
 
           &[aria-current]:not([aria-current="false"]) {

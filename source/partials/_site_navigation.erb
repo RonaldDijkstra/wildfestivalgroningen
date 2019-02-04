@@ -37,6 +37,19 @@
       <li>
         <%= current_link_to t("navigation.tickets"), "/tickets.html", class: "root-link" %>
       </li>
+      <li>
+        <% if I18n.locale == :nl %>
+          <a href="/en/" class="language-link">
+            <%= inline_svg "en.svg", alt: "English" %>
+            <span>English</span>
+          </a>
+        <% elsif I18n.locale == :en %>
+          <a href="/" class="language-link">
+            <%= inline_svg "nl.svg", alt: "Nederlands" %>
+            <span>Nederlands</span>
+          </a>
+        <% end %>
+      </li>
     </ul>
     <div class="social-links">
       <a href="https://www.untappd.com" class="icon-untappd" target="_blank" rel="noopener noreferrer"></a>

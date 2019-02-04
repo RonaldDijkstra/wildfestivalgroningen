@@ -76,7 +76,7 @@ module ApplicationHelpers
 
   # Get full url
   def full_url(url, locale = I18n.locale)
-    base = "http://#{I18n.t('CNAME', locale: locale)}"
+    base = "https://#{I18n.t('CNAME', locale: locale)}"
     URI.join(base, url).to_s
   end
 
@@ -135,8 +135,18 @@ module ApplicationHelpers
                    url_parts[0]
   end
 
-  # Current resource is proxied to?
+  # Where's the current resource proxied to?
   def proxied_to
     current_resource.target_resource.path.gsub("localizable/", "")
+  end
+
+  # Get the other languages than current
+  def other_locales
+    langs - [I18n.locale]
+  end
+
+  # 404?
+  def x404?
+    current_page.url == "/404.html"
   end
 end
