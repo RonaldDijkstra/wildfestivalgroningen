@@ -22,9 +22,21 @@
       index:
         title: "Wild Festival Groningen 2019"
         banner:
-          title: "Wild Festival Groningen"
           date: "23 november 2019"
           location: "EM2 Venue"
+        sections:
+          about:
+            text: "Hier een korte tekst over het festival met links naar %{link}"
+            title: "Over"
+          line-up:
+            text: "Hier een korte tekst over de deelnemers met link naar %{link}"
+            title: "Deelnemers"
+          location:
+            text: "Hier komt de kaart"
+            title: "Locatie"
+          program:
+            text: "Hier een korte tekst over het programma met link naar %{link}"
+            title: "Programma"
       organisation:
         title: "Organisatie"
       participators:

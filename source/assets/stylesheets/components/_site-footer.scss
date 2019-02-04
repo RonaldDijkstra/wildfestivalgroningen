@@ -2,4 +2,13 @@ footer {
   background: $brown;
   color: $white;
   text-align: center;
+
+  a {
+    color: $white;
+    text-decoration: none;
+
+    &:hover {
+      color: darken($white, 15%);
+    }
+  }
 }
