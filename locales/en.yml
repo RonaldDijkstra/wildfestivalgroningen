@@ -11,10 +11,15 @@
       over: "about"
       programma: "program"
       tickets: "tickets"
-    actions:
-      tickets: "Tickets"
     site:
       description: "Wild Festival Groningen is a new concept of Bierselect Groningen & Boilermaker."
+    actions:
+      tickets: "Tickets"
+    form:
+      email: "Your email"
+      message: "Message"
+      name: "Your name"
+      submit: "Submit"
     navigation:
       about: "About"
       contact: "Contact"
