@@ -25,5 +25,5 @@ jobs:
           command: cp .env.sample .env
 
       - run:
-          name: Build Middleman site
-          command: bundle exec rake build
+          name: Build & Proof Middleman site
+          command: bundle exec rake proof
