@@ -17,11 +17,11 @@ task :build do
   system "bundle exec middleman build --verbose" or exit(1)
 end
 
-## Clean build the website
-task :test do
+## Build & Proof
+task :proof do
   puts "== Project: " + project_name.green
   puts "== Brewing in verbose mode...".green
   system "bundle exec middleman build --verbose" or exit(1)
-  puts "== Testing the brew...".green
+  puts "== Proofing the brew...".green
   system "ruby lib/html-proofer.rb" or exit(1)
 end
