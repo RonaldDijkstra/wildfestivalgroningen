@@ -11,6 +11,7 @@ raise IOError, "Directory ./build does not exist." unless Dir.exist?("./build")
 options = {
   log_level: :debug,
   check_img_http: true,
+  disable_external: true,
   allow_hash_href: true,
   check_html: true, validation: { report_missing_names: false },
   check_favicon: false,
