@@ -1,3 +1,14 @@
+GIT
+  remote: git://github.com/KevinBongart/middleman-imageoptim.git
+  revision: c1e562bd5adeba04a348286fd1e79f49fa233be6
+  branch: manifest_path_option
+  specs:
+    middleman-imageoptim (0.2.1)
+      image_optim (~> 0.25.0)
+      image_optim_pack (~> 0.2.1)
+      middleman-cli
+      middleman-core (>= 3.1)
+
 GEM
   remote: https://rubygems.org/
   remote: https://rails-assets.org/
@@ -29,9 +40,11 @@ GEM
     ethon (0.12.0)
       ffi (>= 1.3.0)
     execjs (2.7.0)
+    exifr (1.3.5)
     fast_blank (1.0.0)
     fastimage (2.1.5)
     ffi (1.9.25)
+    fspath (3.1.0)
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
@@ -50,6 +63,17 @@ GEM
     htmlcompressor (0.2.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
+    image_optim (0.25.0)
+      exifr (~> 1.2, >= 1.2.2)
+      fspath (~> 3.0)
+      image_size (~> 1.5)
+      in_threads (~> 1.3)
+      progress (~> 3.0, >= 3.0.1)
+    image_optim_pack (0.2.3)
+      fspath (>= 2.1, < 4)
+      image_optim (~> 0.19)
+    image_size (1.5.0)
+    in_threads (1.5.1)
     jaro_winkler (1.5.2)
     kramdown (1.17.0)
     listen (3.0.8)
@@ -117,6 +141,7 @@ GEM
     parser (2.6.0.0)
       ast (~> 2.4.0)
     powerpack (0.1.2)
+    progress (3.5.0)
     public_suffix (3.0.3)
     rack (2.0.6)
     rails-assets-jquery (3.3.1)
@@ -173,6 +198,7 @@ DEPENDENCIES
   html-proofer
   middleman
   middleman-autoprefixer
+  middleman-imageoptim!
   middleman-inline_svg
   middleman-minify-html
   middleman-sprockets

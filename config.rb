@@ -12,6 +12,11 @@ activate :directory_indexes
 activate :inline_svg
 activate :sprockets
 
+activate :imageoptim do |options|
+  options.manifest = true
+  options.manifest_path = "./"
+end
+
 # Ignore the selection file for Icomoon
 ignore "assets/fonts/selection.json"
 
@@ -33,6 +38,10 @@ set :markdown_engine, :redcarpet
 page "/*.json", layout: false
 page "/*.txt", layout: false
 page "/*.xml", layout: false
+
+# configure :build do
+#   activate :imageoptim
+# end
 
 configure :production do
   activate :asset_hash
