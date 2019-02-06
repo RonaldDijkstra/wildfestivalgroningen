@@ -13,7 +13,7 @@ This website is built with [Middleman](https://middlemanapp.com/) with [Middlema
 
 ## Before Setup
 
--   Install Homebrew
+-   Install [Homebrew](https://brew.sh/index_nl)
 
     `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)`
 
