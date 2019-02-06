@@ -27,3 +27,21 @@ task :proof do
   puts "== Proofing the brew...".green
   system "ruby lib/html_proofer.rb" || exit(1)
 end
+
+def git_branch_name
+  `git rev-parse --abbrev-ref HEAD`
+end
+
+desc "Submits PR to GitHub"
+task :pr do
+  branch_name = git_branch_name
+  if branch_name == "master"
+    puts "On master branch, not PRing."
+    exit 1
+  end
+
+  puts branch_name
+
+  `git push -u origin #{branch_name}`
+  `open https://github.com/RonaldDijkstra/wildfestivalgroningen/pull/new/wildfestivalgroningen:master...#{branch_name}`
+end
