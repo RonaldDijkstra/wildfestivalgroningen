@@ -43,5 +43,5 @@ task :pr do
   puts branch_name
 
   `git push -u origin #{branch_name}`
-  `open https://github.com/RonaldDijkstra/wildfestivalgroningen/pull/new/wildfestivalgroningen:master...#{branch_name}`
+  `open https://github.com/RonaldDijkstra/wildfestivalgroningen/compare/#{branch_name}?expand=1`
 end
