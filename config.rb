@@ -48,6 +48,8 @@ configure :production do
   activate :imageoptim do |options|
     options.manifest = true
     options.manifest_path = "./"
+    options.svgo = false
+    options.pngout = false
   end
 
   # Raise exception for missing translations during build
