@@ -12,11 +12,6 @@ activate :directory_indexes
 activate :inline_svg
 activate :sprockets
 
-activate :imageoptim do |options|
-  options.manifest = true
-  options.manifest_path = "./"
-end
-
 # Ignore the selection file for Icomoon
 ignore "assets/fonts/selection.json"
 
@@ -49,6 +44,11 @@ configure :production do
   activate :minify_css
   activate :minify_html
   activate :minify_javascript
+
+  activate :imageoptim do |options|
+    options.manifest = true
+    options.manifest_path = "./"
+  end
 
   # Raise exception for missing translations during build
   require "lib/test_exception_localization_handler"
