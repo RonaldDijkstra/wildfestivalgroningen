@@ -13,7 +13,7 @@ activate :inline_svg
 activate :sprockets
 
 # Ignore the selection file for Icomoon
-ignore "assets/fonts/icons/selection.json"
+ignore "assets/fonts/selection.json"
 
 set :css_dir, "assets/stylesheets"
 set :fonts_dir, "assets/fonts"
