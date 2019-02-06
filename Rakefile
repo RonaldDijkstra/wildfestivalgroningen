@@ -40,8 +40,6 @@ task :pr do
     exit 1
   end
 
-  puts branch_name
-
   `git push -u origin #{branch_name}`
   `open https://github.com/RonaldDijkstra/wildfestivalgroningen/compare/#{branch_name}?expand=1`
 end
