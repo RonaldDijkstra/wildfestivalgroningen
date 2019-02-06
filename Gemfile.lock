@@ -156,7 +156,7 @@ DEPENDENCIES
   middleman-autoprefixer
   middleman-inline_svg
   middleman-minify-html
-  middleman-sprockets (~> 4.1.0)
+  middleman-sprockets
   neat
   rails-assets-jquery!
   rails-assets-what-input!
