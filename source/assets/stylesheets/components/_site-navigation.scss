@@ -55,15 +55,6 @@
     text-decoration: none;
   }
 
-  a[class^="icon-"],
-  a[class*=" icon-"] {
-    background: $brown;
-    border-radius: $base-border-radius;
-    color: $white;
-    padding: 0.2em;
-    text-decoration: none;
-  }
-
   .mobile-toggle {
     background: $brown;
     cursor: pointer;
@@ -172,7 +163,7 @@
         font-family: $heading-font-family;
         font-size: $base-font-size * 1.6;
         font-weight: $font-weight-small;
-        padding: 0 0.8em;
+        padding: 0 $base-spacing * 0.7;
         text-transform: uppercase;
 
         @include grid-media($for-desktop-up) {
@@ -183,7 +174,6 @@
           border-bottom: 0;
           color: $brown;
           display: block;
-          font-size: $base-font-size * 1.4;
           transition: background-position 200ms ease;
 
           &:hover {
@@ -208,47 +198,6 @@
         &[aria-current]:not([aria-current="false"]) {
           background-position: 0 bottom;
           color: $limegreen;
-        }
-      }
-    }
-
-    .social-links {
-      background-color: $brown;
-      line-height: normal;
-      padding: 2em 0;
-      position: relative;
-      text-align: center;
-
-      @include grid-media($for-desktop-up) {
-        background-color: transparent;
-        padding: 1em;
-        position: fixed;
-        right: 0;
-        top: 0;
-      }
-
-      [class^="icon-"],
-      [class*=" icon-"] {
-        background-color: $white;
-        border-radius: 50%;
-        color: $brown;
-        font-size: 1.2em;
-        margin: 0 0.2em;
-        padding: 0.4em;
-
-        @include grid-media($for-desktop-up) {
-          background-color: $brown;
-          color: $white;
-          font-size: 1em;
-          margin: 0 0.1em;
-
-          &:hover {
-            background-color: darken($brown, 10%);
-          }
-        }
-
-        &:hover {
-          background-color: lighten($brown, 50%);
         }
       }
     }
