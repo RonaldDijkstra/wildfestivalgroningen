@@ -125,6 +125,10 @@
         transform: rotate(-45deg);
       }
     }
+
+    .navigation-bar {
+      max-height: 34em;
+    }
   }
 
   .navigation-bar {
@@ -158,53 +162,52 @@
         @include grid-media($for-desktop-up) {
           text-align: center;
         }
+      }
 
-        a {
-          background: $brown;
-          border-bottom: $base-border;
-          color: $white;
+      a {
+        background: $brown;
+        border-bottom: $base-border;
+        color: $white;
+        display: block;
+        font-family: $heading-font-family;
+        font-size: $base-font-size * 1.6;
+        font-weight: $font-weight-small;
+        padding: 0 0.8em;
+        text-transform: uppercase;
+
+        @include grid-media($for-desktop-up) {
+          background: linear-gradient($limegreen, $limegreen);
+          background-position: 0 3em;
+          background-repeat: no-repeat;
+          background-size: 100% 0.1em;
+          border-bottom: 0;
+          color: $brown;
           display: block;
-          font-family: $heading-font-family;
-          font-size: $base-font-size * 1.6;
-          font-weight: $font-weight-small;
-          padding: 0 0.8em;
-          text-decoration: none;
-          text-transform: uppercase;
-          transition: background 200ms ease;
+          font-size: $base-font-size * 1.4;
+          transition: background-position 200ms ease;
 
-          @include grid-media($for-desktop-up) {
-            background: linear-gradient($limegreen, $limegreen);
-            background-position: 0 3em;
-            background-repeat: no-repeat;
-            background-size: 100% 0.1em;
-            border-bottom: 0;
-            color: $brown;
-            display: block;
-            font-size: $base-font-size * 1.4;
-
-            &:hover {
-              background-position: 0 bottom;
-              color: $limegreen;
-              text-decoration: none;
-            }
-
-            &.language-link {
-              span {
-                @include grid-media($for-desktop-up) {
-                  display: none;
-                }
-              }
-
-              &:hover {
-                background-position: 0 3em;
-              }
-            }
-          }
-
-          &[aria-current]:not([aria-current="false"]) {
+          &:hover {
             background-position: 0 bottom;
             color: $limegreen;
+            text-decoration: none;
           }
+
+          &.language-link {
+            span {
+              @include grid-media($for-desktop-up) {
+                display: none;
+              }
+            }
+
+            &:hover {
+              background-position: 0 3em;
+            }
+          }
+        }
+
+        &[aria-current]:not([aria-current="false"]) {
+          background-position: 0 bottom;
+          color: $limegreen;
         }
       }
     }
@@ -233,10 +236,6 @@
         margin: 0 0.2em;
         padding: 0.4em;
 
-        &:hover {
-          background-color: lighten($brown, 50%);
-        }
-
         @include grid-media($for-desktop-up) {
           background-color: $brown;
           color: $white;
@@ -247,11 +246,11 @@
             background-color: darken($brown, 10%);
           }
         }
+
+        &:hover {
+          background-color: lighten($brown, 50%);
+        }
       }
     }
-  }
-
-  &.navigation-open .navigation-bar {
-    max-height: 34em;
   }
 }
