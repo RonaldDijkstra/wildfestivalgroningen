@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/KevinBongart/middleman-imageoptim.git
+  remote: https://github.com/KevinBongart/middleman-imageoptim.git
   revision: c1e562bd5adeba04a348286fd1e79f49fa233be6
   branch: manifest_path_option
   specs:

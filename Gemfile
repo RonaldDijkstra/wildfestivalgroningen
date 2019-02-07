@@ -25,7 +25,7 @@ gem "html-proofer"
 gem "rake"
 
 gem "middleman-imageoptim", git:
-  "git://github.com/KevinBongart/middleman-imageoptim.git", branch:
+  "https://github.com/KevinBongart/middleman-imageoptim.git", branch:
     "manifest_path_option"
 
 # Frontend
