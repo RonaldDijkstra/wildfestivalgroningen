@@ -34,10 +34,7 @@ page "/*.json", layout: false
 page "/*.txt", layout: false
 page "/*.xml", layout: false
 
-# configure :build do
-#   activate :imageoptim
-# end
-
+# Settings for production
 configure :production do
   activate :asset_hash
   activate :gzip

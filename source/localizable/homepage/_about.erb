@@ -6,5 +6,14 @@
     <p>
       <%= t("pages.index.sections.about.text", link: locale_link_to(t("navigation.tickets"), "/tickets.html")) %>
     </p>
+    <p>
+      <%= locale_link_to(t("navigation.tickets"), "/tickets.html", class: "button brown") %>
+    </p>
+    <p>
+      <%= locale_link_to(t("navigation.program"), "/programma.html", class: "button orange") %>
+    </p>
+    <p>
+      <%= locale_link_to(t("navigation.contact"), "/contact.html", class: "button") %>
+    </p>
   </div>
 </section>
