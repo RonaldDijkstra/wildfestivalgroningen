@@ -34,12 +34,23 @@ page "/*.json", layout: false
 page "/*.txt", layout: false
 page "/*.xml", layout: false
 
+# configure :build do
+#   activate :imageoptim
+# end
+
 configure :production do
   activate :asset_hash
   activate :gzip
   activate :minify_css
   activate :minify_html
   activate :minify_javascript
+
+  activate :imageoptim do |options|
+    options.manifest = true
+    options.manifest_path = "./"
+    options.svgo = false
+    options.pngout = false
+  end
 
   # Raise exception for missing translations during build
   require "lib/test_exception_localization_handler"
