@@ -41,7 +41,7 @@ After you have cloned this repo, follow these steps to run the website:
     rake serve
     ```
 
-    You should now be able to view your website at <http://localhost:4567>.
+    You should now be able to view the website at <http://localhost:4567>.
 
 ## Build & Proof
 
@@ -51,12 +51,8 @@ After you have cloned this repo, follow these steps to run the website:
     rake build
     ```
 
-    You should now see an attempt to a build.
-
 -   Proof
 
     ```bash
     rake proof
     ```
-
-    You should now see an attempt to a build with a test with html-proofer right after.
