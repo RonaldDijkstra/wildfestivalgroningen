@@ -9,7 +9,7 @@
     color: $white;
   }
 
-  &.outline {
+  &.ghost {
     background-color: transparent;
     border-color: $color;
     color: $color;
@@ -69,7 +69,7 @@
       color: $base-font-color;
     }
 
-    &.outline {
+    &.ghost {
       &:hover,
       &:focus {
         border-color: $white;
