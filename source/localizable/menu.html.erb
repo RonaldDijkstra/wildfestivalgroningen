@@ -9,14 +9,11 @@ description:
   <div class="grid-row">
 
     <% data.menu.items.each do |beer| %>
-      <div>
+      <div class="beer-item">
         <%= image_tag beer.label_image %><br>
-        Naam: <%= beer.name %><br>
-        Brouwerij: <%= beer.brewery %><br>
-        Stijl: <%= beer.style %><br>
-        Rating: <%= beer.rating.to_f.round(2) %><br>
-        Alc: <%= beer.abv %>%<br>
-        Beschrijving: <%= beer.description %>
+        <h2><%= beer.name %> - <%= beer.style %></h2>
+        <p>Alc: <%= beer.abv %>% * <%= beer.ibu.to_f.round(0) %> IBU * <%= beer.rating.to_f.round(2) %> * <strong><%= beer.brewery %></strong>
+        <p><%= beer.description %></p>
       </div>
     <% end %>
 
