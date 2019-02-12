@@ -1009,7 +1009,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.9375'
+  rating: '3.92586'
   in_production: true
   untappd_beer_slug: de-moersleutel-update-complete
   untappd_brewery_id: 269726
@@ -9439,7 +9439,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.4403'
+  rating: '3.44034'
   in_production: true
   untappd_beer_slug: brouwerij-roman-ename-pater
   untappd_brewery_id: 292
@@ -16034,7 +16034,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.55867'
+  rating: '3.55933'
   in_production: true
   untappd_beer_slug: jopen-many-faced-got
   untappd_brewery_id: 620

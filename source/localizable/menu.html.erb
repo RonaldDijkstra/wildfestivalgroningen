@@ -1,0 +1,24 @@
+---
+title: "Menu POC"
+description:
+  nl: "Test van Menu POC"
+  en: "Test of Menu POC"
+---
+
+<section class="about">
+  <div class="grid-row">
+
+    <% data.menu.items.each do |beer| %>
+      <div>
+        <%= image_tag beer.label_image %><br>
+        Naam: <%= beer.name %><br>
+        Brouwerij: <%= beer.brewery %><br>
+        Stijl: <%= beer.style %><br>
+        Rating: <%= beer.rating.to_f.round(2) %><br>
+        Alc: <%= beer.abv %>%<br>
+        Beschrijving: <%= beer.description %>
+      </div>
+    <% end %>
+
+  </div>
+</section>
