@@ -7,12 +7,24 @@ def project_name
 end
 
 ## Serve
-task :serve do
-  puts "== Project: " + project_name.green
-  puts "== Retrieving external data..."
-  system "ruby lib/untappd_menu.rb" || exit(1)
-  puts "== Start server..."
-  system "bundle exec middleman serve" || exit(1)
+namespace :serve do
+  def serve
+    puts "== Start server..."
+    system "bundle exec middleman serve" || exit(1)
+  end
+
+  task :data do
+    puts "== Project: " + project_name.green
+    puts "== Retrieving external data..."
+    system "ruby lib/untappd_menu.rb" || exit(1)
+    puts "== Retrieved external data".green
+    serve
+  end
+
+  task :clean do
+    puts "== Project: " + project_name.green
+    serve
+  end
 end
 
 ## Build the website
