@@ -9,7 +9,10 @@ end
 ## Serve
 task :serve do
   puts "== Project: " + project_name.green
-  system "bundle exec middleman serve --verbose" || exit(1)
+  puts "== Retrieving external data..."
+  system "ruby lib/untappd_menu.rb" || exit(1)
+  puts "== Start server..."
+  system "bundle exec middleman serve" || exit(1)
 end
 
 ## Build the website

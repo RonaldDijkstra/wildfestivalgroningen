@@ -7,7 +7,7 @@ require "json"
 
 uri = URI.parse("https://business.untappd.com/api/v1/sections/350941/items")
 request = Net::HTTP::Get.new(uri)
-request["Authorization"] = "Basic UT_API_KEY"
+request["Authorization"] = "Basic UT API KEY"
 
 req_options = {
   use_ssl: uri.scheme == "https"
