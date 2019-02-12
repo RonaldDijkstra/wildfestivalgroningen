@@ -5,9 +5,9 @@ require "uri"
 require "yaml"
 require "json"
 
-uri = URI.parse("https://business.untappd.com/api/v1/sections/350941/items")
+uri = URI.parse("https://business.untappd.com/api/v1/sections/350873/items")
 request = Net::HTTP::Get.new(uri)
-request["Authorization"] = "Basic UT API KEY"
+request["Authorization"] = "Basic"
 
 req_options = {
   use_ssl: uri.scheme == "https"
