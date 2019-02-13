@@ -45,18 +45,18 @@
     }
 
     a {
-      color: $brown;
-      font-family: "Great Vibes", sans-serif;
+      color: $dark-gray;
+      font-family: $heading-font-family, sans-serif;
     }
   }
 
   a {
-    color: $brown;
+    color: $dark-gray;
     text-decoration: none;
   }
 
   .mobile-toggle {
-    background: $brown;
+    background: $dark-gray;
     cursor: pointer;
     display: block;
     font-size: 20px;
@@ -156,7 +156,7 @@
       }
 
       a {
-        background: $brown;
+        background: $dark-gray;
         border-bottom: $base-border;
         color: $white;
         display: block;
@@ -167,18 +167,19 @@
         text-transform: uppercase;
 
         @include grid-media($for-desktop-up) {
-          background: linear-gradient($limegreen, $limegreen);
+          background: linear-gradient($action-color, $action-color);
           background-position: 0 3em;
           background-repeat: no-repeat;
           background-size: 100% 0.1em;
           border-bottom: 0;
-          color: $brown;
+          color: $dark-gray;
           display: block;
-          transition: background-position 200ms ease;
+          //transition: background-position 200ms ease;
 
           &:hover {
+            //background: linear-gradient($action-color, $action-color);
             background-position: 0 bottom;
-            color: $limegreen;
+            color: $action-color;
             text-decoration: none;
           }
 
@@ -196,8 +197,15 @@
         }
 
         &[aria-current]:not([aria-current="false"]) {
+          background-color: $white;
           background-position: 0 bottom;
-          color: $limegreen;
+          color: $action-color;
+          font-weight: $font-weight-semibold;
+
+          @include grid-media($for-desktop-up) {
+            color: $action-color;
+            font-weight: $font-weight-small;
+          }
         }
       }
     }
