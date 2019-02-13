@@ -42,13 +42,6 @@ configure :production do
   activate :minify_html
   activate :minify_javascript
 
-  activate :imageoptim do |options|
-    options.manifest = true
-    options.manifest_path = "./"
-    options.svgo = false
-    options.pngout = false
-  end
-
   # Raise exception for missing translations during build
   require "lib/test_exception_localization_handler"
 

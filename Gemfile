@@ -24,10 +24,6 @@ gem "neat"
 gem "html-proofer"
 gem "rake"
 
-gem "middleman-imageoptim", git:
-  "https://github.com/KevinBongart/middleman-imageoptim.git", branch:
-    "manifest_path_option"
-
 # Frontend
 source "https://rails-assets.org" do
   gem "rails-assets-jquery"
