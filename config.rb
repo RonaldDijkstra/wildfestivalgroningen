@@ -14,6 +14,7 @@ activate :sprockets
 
 # Ignore the selection file for Icomoon
 ignore "assets/fonts/selection.json"
+ignore "beer/template.html"
 
 set :css_dir, "assets/stylesheets"
 set :fonts_dir, "assets/fonts"
@@ -33,6 +34,17 @@ set :markdown_engine, :redcarpet
 page "/*.json", layout: false
 page "/*.txt", layout: false
 page "/*.xml", layout: false
+
+data.menu.items.each do |beer|
+  proxy "/beer/#{beer.untappd_beer_slug}/index.html",
+        "localizable/beer/template.html", locals: {
+          name: beer.name,
+          image: beer.label_image_hd,
+          brewery: beer.brewery,
+          id: beer.untappd_id,
+          beer_description: beer.description
+        }, ignore: true
+end
 
 # Settings for production
 configure :production do
