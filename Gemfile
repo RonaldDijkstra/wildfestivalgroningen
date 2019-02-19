@@ -33,11 +33,3 @@ end
 # Linters (not required)
 gem "rubocop", require: false
 gem "scss_lint", require: false
-
-# Windows support
-
-# For faster file watcher updates on Windows:
-gem "wdm", "~> 0.1.1", platforms: %i[mswin mingw]
-
-# Windows does not come with time zone data
-gem "tzinfo-data", platforms: %i[mswin mingw jruby]
