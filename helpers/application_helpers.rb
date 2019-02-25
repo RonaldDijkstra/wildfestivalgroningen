@@ -66,11 +66,20 @@ module ApplicationHelpers
     current_page.data.robots || "noydir,noodp,index,follow"
   end
 
-  # Make custom page classes that don't translate from target_resource.path
+  # Blog?
+  def is_menu?(page = current_page)
+    page.url.start_with?("/menu/")
+  end
+
+  # Make custom page classes that don't translate from ource.path
   # Now we can target these pages with a single styling
   def page_classes
-    path = current_resource.target_resource.path
-    classes = super(path.gsub("localizable", ""))
+    if is_menu?
+      classes = "menu_index"
+    else
+      path = current_resource.target_resource.path
+      classes = super(path.gsub("localizable", ""))
+    end
     classes.prepend("#{I18n.locale} ")
   end
 
@@ -111,7 +120,9 @@ module ApplicationHelpers
     link_options = options
     resource_path = path.delete("/")
 
-    link_options["aria-current"] = aria_current if proxied_to == resource_path
+    unless is_menu?
+      link_options["aria-current"] = aria_current if proxied_to == resource_path
+    end
 
     locale_link_to(text, path, link_options)
   end
@@ -141,7 +152,9 @@ module ApplicationHelpers
 
   # Where's the current resource proxied to?
   def proxied_to
-    current_resource.target_resource.path.gsub("localizable/", "")
+    unless is_menu?
+      current_resource.target_resource.path.gsub("localizable/", "")
+    end
   end
 
   # Get the other languages than current

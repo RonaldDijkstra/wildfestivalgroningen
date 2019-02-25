@@ -10,6 +10,7 @@ gem "middleman-autoprefixer"
 gem "middleman-inline_svg"
 gem "middleman-minify-html"
 gem "middleman-sprockets"
+gem "middleman-blog"
 
 # Templating Engines
 gem "builder"

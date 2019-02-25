@@ -5,7 +5,7 @@ require "uri"
 require "yaml"
 require "json"
 
-uri = URI.parse("https://business.untappd.com/api/v1/sections/350873/items")
+uri = URI.parse("https://business.untappd.com/api/v1/sections/350941/items")
 request = Net::HTTP::Get.new(uri)
 request["Authorization"] = "Basic anVzdF9pbl9iZWVyQGhvdG1haWwuY29tOlBIeEFUdHJZejZReGh5cjRCc1Zm"
 
@@ -17,6 +17,8 @@ response = Net::HTTP.start(uri.hostname, uri.port, req_options) do |http|
   http.request(request)
 end
 
+options = response.body
+
 File.open("data/menu.yml", "w") do |f|
-  f.write(JSON.parse(response.body).to_yaml)
+  f.write(options).to_yaml
 end

@@ -14,7 +14,6 @@ activate :sprockets
 
 # Ignore the selection file for Icomoon
 ignore "assets/fonts/selection.json"
-ignore "beer/template.html"
 
 set :css_dir, "assets/stylesheets"
 set :fonts_dir, "assets/fonts"
@@ -35,15 +34,27 @@ page "/*.json", layout: false
 page "/*.txt", layout: false
 page "/*.xml", layout: false
 
-data.menu.items.each do |beer|
-  proxy "/beer/#{beer.untappd_beer_slug}/index.html",
-        "localizable/beer/template.html", locals: {
-          name: beer.name,
-          image: beer.label_image_hd,
-          brewery: beer.brewery,
-          id: beer.untappd_id,
-          beer_description: beer.description
-        }, ignore: true
+page "blog/index.html", layout: :blog_layout
+
+# per_page = 20
+#
+# articles = data.menu.items
+#
+# total_pages = articles.size.fdiv(per_page).ceil # Calculate the numer of pages
+#
+# articles[0...total_pages].coerce.each do |page, i |
+#   puts "#{i + 1}"
+# end
+
+activate :blog do |blog|
+  blog.layout = "blog_layout"
+  blog.name = "menu"
+  blog.permalink = ":title"
+  blog.prefix = "menu"
+  blog.paginate = true
+  blog.page_link = "{num}"
+  blog.per_page = 2
+  blog.sources = "menu/beers/{title}.html"
 end
 
 # Settings for production
