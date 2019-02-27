@@ -13,6 +13,7 @@
       submit: "Verstuur"
     navigation:
       about: "Over"
+      blog: "Blog"
       contact: "Contact"
       index: "Home"
       organisation: "Organisatie"

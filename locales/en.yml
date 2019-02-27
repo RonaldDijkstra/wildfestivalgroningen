@@ -22,6 +22,7 @@
       submit: "Submit"
     navigation:
       about: "About"
+      blog: "Blog"
       contact: "Contact"
       participators: "Participators"
       index: "Home"
