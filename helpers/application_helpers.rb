@@ -153,4 +153,19 @@ module ApplicationHelpers
   def x404?
     current_page.url == "/404.html"
   end
+
+  # Root url?
+  def root_url?(page = current_page)
+    page.url == "/"
+  end
+
+  # Blog?
+  def blog?(page = current_page)
+    page.url.start_with?("/blog/")
+  end
+
+  # Blog index?
+  def blog_index?(page = current_page)
+    (page.url =~ %r{^\/blog\/(\d+\/)?$}).present?
+  end
 end
