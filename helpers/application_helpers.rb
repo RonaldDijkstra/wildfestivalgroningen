@@ -68,9 +68,18 @@ module ApplicationHelpers
 
   # Make custom page classes that don't translate from target_resource.path
   # Now we can target these pages with a single styling
-  def page_classes
-    path = current_resource.target_resource.path
+  # Custom page classes
+  def page_classes(path = current_path)
+    path = current_resource.target_resource.path unless blog?
     classes = super(path.gsub("localizable", ""))
+
+    if blog_index?
+      # Replace `blog_#_index` with `blog_index`
+      classes.sub!(/blog_\d+_index/, "blog_index")
+    elsif is_blog_article?
+      classes += " blog-article"
+    end
+
     classes.prepend("#{I18n.locale} ")
   end
 
@@ -141,7 +150,7 @@ module ApplicationHelpers
 
   # Where's the current resource proxied to?
   def proxied_to
-    current_resource.target_resource.path.gsub("localizable/", "")
+    current_resource.target_resource.path.gsub("localizable/", "") unless blog?
   end
 
   # Get the other languages than current

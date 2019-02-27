@@ -30,6 +30,21 @@ set :markdown,
   with_toc_data: true
 set :markdown_engine, :redcarpet
 
+# Activate and setup the blog content type
+activate :blog do |blog|
+  blog.name = "blog"
+  blog.prefix = "blog"
+  blog.permalink = ":title"
+  blog.sources = "/beers/{title}.html"
+  blog.paginate = true
+  blog.page_link = "{num}"
+  blog.per_page = 5
+end
+
+# With layout
+page "blog/index.html", layout: :blog_layout
+
+# Without layout
 page "/*.json", layout: false
 page "/*.txt", layout: false
 page "/*.xml", layout: false

@@ -1,0 +1,17 @@
+---
+blog: blog
+pageable: true
+index: false
+---
+
+<section>
+  <div class="grid-row">
+
+    <ul>
+      <% page_articles.each do |article| %>
+        <li><%= article.title %></li>
+      <% end %>
+    </ul>
+
+  </div>
+</section>
