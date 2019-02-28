@@ -5,19 +5,20 @@ blog: menu
 pageable: true
 ---
 
+<header class="banner variant-normal" role="banner">
+  <div class="grid-row">
+    <h1>
+      Menu
+    </h1>
+  </div>
+</header>
+
 <section>
   <div class="grid-row">
 
     <ul>
       <% page_articles.each do |article| %>
-        <li>
-          <img src="<%= article.data.image %>" width="50">
-          <h2><%= article.title %> <%= article.data.style %></h2>
-          <div><%= article.data.abv %>% | <%= article.data.ibu %> IBU | <%= article.data.brewery %> | <%= article.data.rating %></div>
-          <p><%= article.data.description %></p>
-          <p>
-            <a href="<%= article.data.untappd_url %>" target="_blank" rel="noopener noreferrer" title="Check bier op Untappd">Check bier op Untappd</a>
-        </li>
+        <%= partial "menu/untappd-menu-item", locals: { article: article } %>
       <% end %>
     </ul>
 
