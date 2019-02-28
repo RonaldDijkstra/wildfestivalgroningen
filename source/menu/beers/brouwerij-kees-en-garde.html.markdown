@@ -6,6 +6,7 @@ brewery: "Brouwerij Kees"
 image: "https://labels.untappd.com/labels/2364405?size=hd"
 rating: "3.44"
 description: ""
+untappd_url: "https://untappd.com/b/brouwerij-kees-en-garde/2364405"
 abv: "7.5"
 ibu: "35"
 robots: noindex,nofollow

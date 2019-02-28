@@ -6,6 +6,7 @@ brewery: "Brouwerij Martinus"
 image: "https://labels.untappd.com/labels/1491207?size=hd"
 rating: "3.39"
 description: ""
+untappd_url: "https://untappd.com/b/brouwerij-martinus-saison/1491207"
 abv: "6.7"
 ibu: "0"
 robots: noindex,nofollow

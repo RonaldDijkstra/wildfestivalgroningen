@@ -6,6 +6,7 @@ brewery: "Muifelbrouwerij"
 image: "https://labels.untappd.com/labels/248089?size=hd"
 rating: "3.45"
 description: "Beerskey is een uniek speciaalbier gebrouwen met op turf afgeëeste. Het bier is best of both worlds omdat het de unieke eigenschappen combineert van rijk en krachtig speciaalbier en een stevig geturfde whiskey."
+untappd_url: "https://untappd.com/b/muifelbrouwerij-beerskey/248089"
 abv: "11.0"
 ibu: "40"
 robots: noindex,nofollow

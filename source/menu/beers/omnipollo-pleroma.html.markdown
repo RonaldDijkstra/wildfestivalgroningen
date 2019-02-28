@@ -6,6 +6,7 @@ brewery: "Omnipollo"
 image: "https://labels.untappd.com/labels/2119564?size=hd"
 rating: "4.01"
 description: "Raspberry Créme Brulée Sour."
+untappd_url: "https://untappd.com/b/omnipollo-pleroma/2119564"
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow

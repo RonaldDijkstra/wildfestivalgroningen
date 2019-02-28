@@ -6,6 +6,7 @@ brewery: "FrauGruber Brewing"
 image: "https://labels.untappd.com/labels/2876980?size=hd"
 rating: "3.5"
 description: "Hops: Hallertauer Mittelfrüh, Select, Amarillo, Callista Zutaten: Brauwasser, Pilsner Malz(Steffi), Weizenmalz, Hopfen, Hefe; Bergamot Limonen"
+untappd_url: "https://untappd.com/b/fraugruber-brewing-flying-monkey/2876980"
 abv: "5.3"
 ibu: "0"
 robots: noindex,nofollow

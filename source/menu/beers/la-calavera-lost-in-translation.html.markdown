@@ -6,6 +6,7 @@ brewery: "La Calavera"
 image: "https://labels.untappd.com/labels/2838557?size=hd"
 rating: "3.64"
 description: "Belgian Blonde Ale envellida 8 mesos en barrica Pineaux."
+untappd_url: "https://untappd.com/b/la-calavera-lost-in-translation/2838557"
 abv: "8.3"
 ibu: "18"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "CoolHead Brew"
 image: "https://labels.untappd.com/labels/3028494?size=hd"
 rating: "3.96"
 description: "Imperial Coconut Milk Stout"
+untappd_url: "https://untappd.com/b/coolhead-brew-king-size-coco-jambo/3028494"
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow

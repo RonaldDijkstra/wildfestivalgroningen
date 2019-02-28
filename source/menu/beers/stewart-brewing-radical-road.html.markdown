@@ -6,6 +6,7 @@ brewery: "Stewart Brewing"
 image: "https://labels.untappd.com/labels/167182?size=hd"
 rating: "3.68"
 description: "Grapefruit - Marmalade - Pine - Bitter-Sweet  All this hop is balanced with monumental quantities of British malted barley to create a 6.4% full bodied pale ale. Dangerously quaffable.  "
+untappd_url: "https://untappd.com/b/stewart-brewing-radical-road/167182"
 abv: "6.4"
 ibu: "50"
 robots: noindex,nofollow

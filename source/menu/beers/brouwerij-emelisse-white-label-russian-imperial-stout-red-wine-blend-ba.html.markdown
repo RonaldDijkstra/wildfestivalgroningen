@@ -6,6 +6,7 @@ brewery: "Brouwerij Emelisse"
 image: "https://labels.untappd.com/labels/2333103?size=hd"
 rating: "3.91"
 description: ""
+untappd_url: "https://untappd.com/b/brouwerij-emelisse-white-label-russian-imperial-stout-red-wine-blend-ba/2333103"
 abv: "9.0"
 ibu: "0"
 robots: noindex,nofollow

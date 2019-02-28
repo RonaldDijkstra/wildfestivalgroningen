@@ -6,6 +6,7 @@ brewery: "Stewart Brewing"
 image: "https://labels.untappd.com/labels/2855177?size=hd"
 rating: "3.64"
 description: "Cucumber Gose with Seaweed.   Tart - Fresh - Clean - Salty"
+untappd_url: "https://untappd.com/b/stewart-brewing-cucumber-gose/2855177"
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow

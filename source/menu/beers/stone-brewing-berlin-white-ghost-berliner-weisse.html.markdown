@@ -6,6 +6,7 @@ brewery: "Stone Brewing - Berlin"
 image: "https://labels.untappd.com/labels/1731162?size=hd"
 rating: "3.34"
 description: "Our tartly refreshing, kettle-soured Stone Berliner Weisse gained its orthodox sour and acidic character from a specially selected Lactobacillus strain sourced from local Berlin cultures. To ensure a properly Stone, and therefore iconoclastic, Berliner Weisse, we upped the ABV to a healthy 4.7% and hopped the beer with new German varieties, Huell Melon and Callista. This beer embodies the liveliness of summer with the fruity tang of apricots and the sweetness of ripe honeydew. Versions exist labelled both White Ghost and White Geist. "
+untappd_url: "https://untappd.com/b/stone-brewing-berlin-white-ghost-berliner-weisse/1731162"
 abv: "4.7"
 ibu: "12"
 robots: noindex,nofollow

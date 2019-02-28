@@ -6,6 +6,7 @@ brewery: "Het Brouwdok"
 image: "https://labels.untappd.com/labels/1255575?size=hd"
 rating: "3.46"
 description: "Smokey Double Bock"
+untappd_url: "https://untappd.com/b/brouwerij-harlingen-haven-a-k-a-brouwdok-bolder-bock/1255575"
 abv: "7.5"
 ibu: "30"
 robots: noindex,nofollow

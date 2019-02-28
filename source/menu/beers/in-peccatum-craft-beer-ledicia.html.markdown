@@ -6,6 +6,7 @@ brewery: "In Peccatum Craft Beer"
 image: "https://labels.untappd.com/labels/2942457?size=hd"
 rating: "3.73"
 description: "NEIPA brewed with simcoe, citra and mosaic hops and New England yeast."
+untappd_url: "https://untappd.com/b/in-peccatum-craft-beer-ledicia/2942457"
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow

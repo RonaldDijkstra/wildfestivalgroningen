@@ -6,6 +6,7 @@ brewery: "Brouwerij Diggelfjoer"
 image: "https://labels.untappd.com/labels/2626251?size=hd"
 rating: "3.4"
 description: "Een fris, licht en fruitig blondbier"
+untappd_url: "https://untappd.com/b/brouwerij-diggelfjoer-noflik/2626251"
 abv: "5.0"
 ibu: "20"
 robots: noindex,nofollow

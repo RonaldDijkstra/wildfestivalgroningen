@@ -6,6 +6,7 @@ brewery: "Jopen"
 image: "https://labels.untappd.com/labels/3053274?size=hd"
 rating: "3.59"
 description: "This Black IPA is packed with fruity and floral aromas. Double Dry Hopped with Loral, Simcoe and Mandarina Bavaria.   We added fresh yuzu, mandarin and heaps of hops. Fiercely bitter with balancing dark malt in the aftertaste.  "
+untappd_url: "https://untappd.com/b/jopen-totally-yuzu/3053274"
 abv: "6.8"
 ibu: "51"
 robots: noindex,nofollow

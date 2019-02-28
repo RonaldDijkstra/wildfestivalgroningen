@@ -6,6 +6,7 @@ brewery: "Laugar Brewery"
 image: "https://labels.untappd.com/labels/2031832?size=hd"
 rating: "3.72"
 description: "Wood Aged Strong Ale."
+untappd_url: "https://untappd.com/b/laugar-brewery-random-series-90/2031832"
 abv: "9.5"
 ibu: "40"
 robots: noindex,nofollow

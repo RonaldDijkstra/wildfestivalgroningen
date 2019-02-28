@@ -6,6 +6,7 @@ brewery: "Stadsbrouwerij Radboud"
 image: "https://labels.untappd.com/labels/2049888?size=hd"
 rating: "3.31"
 description: ""
+untappd_url: "https://untappd.com/b/stadsbrouwerij-radboud-dubbele-blik/2049888"
 abv: "7.0"
 ibu: "0"
 robots: noindex,nofollow

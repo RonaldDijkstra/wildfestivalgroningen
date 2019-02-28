@@ -6,6 +6,7 @@ brewery: "Fierce Beer"
 image: "https://labels.untappd.com/labels/2797891?size=hd"
 rating: "3.85"
 description: "Black Sour"
+untappd_url: "https://untappd.com/b/fierce-beer-north-sea-bridges-blood-of-nidhoggr/2797891"
 abv: "7.0"
 ibu: "0"
 robots: noindex,nofollow

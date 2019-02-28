@@ -6,6 +6,7 @@ brewery: "Brouwerij Kees"
 image: "https://labels.untappd.com/labels/1072271?size=hd"
 rating: "3.92"
 description: "Black and sticky to the bone!"
+untappd_url: "https://untappd.com/b/brouwerij-kees-export-porter-1750/1072271"
 abv: "10.5"
 ibu: "108"
 robots: noindex,nofollow

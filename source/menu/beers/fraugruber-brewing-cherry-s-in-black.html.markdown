@@ -6,6 +6,7 @@ brewery: "FrauGruber Brewing"
 image: "https://labels.untappd.com/labels/2964547?size=hd"
 rating: "3.59"
 description: "Mit Kirschpüree."
+untappd_url: "https://untappd.com/b/fraugruber-brewing-cherry-s-in-black/2964547"
 abv: "6.3"
 ibu: "0"
 robots: noindex,nofollow

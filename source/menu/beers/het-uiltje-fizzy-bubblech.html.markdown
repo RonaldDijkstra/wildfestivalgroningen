@@ -6,6 +6,7 @@ brewery: "Het Uiltje"
 image: "https://labels.untappd.com/labels/2972519?size=hd"
 rating: "3.64"
 description: "Rice Brut IPA - Magic Rock Collab"
+untappd_url: "https://untappd.com/b/het-uiltje-fizzy-bubblech/2972519"
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow

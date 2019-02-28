@@ -6,6 +6,7 @@ brewery: "De Struise Brouwers"
 image: "https://labels.untappd.com/labels/2649199?size=hd"
 rating: "4.11"
 description: "Old Fisherman's Ale, matured for 4 years on Bordeaux wine oak barrels from France. Vintage 2014, bottled 2018."
+untappd_url: "https://untappd.com/b/de-struise-brouwers-pannepot-special-reserva-vintage-2014/2649199"
 abv: "10.0"
 ibu: "27"
 robots: noindex,nofollow

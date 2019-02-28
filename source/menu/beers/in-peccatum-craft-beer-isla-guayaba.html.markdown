@@ -6,6 +6,7 @@ brewery: "In Peccatum Craft Beer"
 image: "https://labels.untappd.com/labels/2943692?size=hd"
 rating: "3.22"
 description: "Berliner Weisse elaborada con pulpa de guayaba."
+untappd_url: "https://untappd.com/b/in-peccatum-craft-beer-isla-guayaba/2943692"
 abv: "4.5"
 ibu: "0"
 robots: noindex,nofollow

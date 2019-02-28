@@ -6,6 +6,7 @@ brewery: "Het Uiltje"
 image: "https://labels.untappd.com/labels/2972514?size=hd"
 rating: "3.67"
 description: ""
+untappd_url: "https://untappd.com/b/het-uiltje-cascade-crocodile/2972514"
 abv: "5.7"
 ibu: "0"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "DAVO"
 image: "https://labels.untappd.com/labels/382646?size=hd"
 rating: "3.49"
 description: "Fruity, hoppy, refreshing and delicious. Citrusy aroma's and a great, sunny taste. This is Hawaii in a bottle!"
+untappd_url: "https://untappd.com/b/davo-surf-ale/382646"
 abv: "6.4"
 ibu: "24"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "Sudden Death Brewing "
 image: "https://labels.untappd.com/labels/2883364?size=hd"
 rating: "3.98"
 description: "This is of our new  Dessert Line  ! An Imperial Oatmeal Stout with a touch of Lactose infused with Cinnamon Buns and Vanilla!  "
+untappd_url: "https://untappd.com/b/sudden-death-brewing-mr-cinnamon-bun/2883364"
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow

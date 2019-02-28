@@ -6,6 +6,7 @@ brewery: "Brouwerij Frontaal"
 image: "https://labels.untappd.com/labels/2713751?size=hd"
 rating: "3.33"
 description: ""
+untappd_url: "https://untappd.com/b/brouwerij-frontaal-south-2018/2713751"
 abv: "2.8"
 ibu: "29"
 robots: noindex,nofollow

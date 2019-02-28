@@ -6,6 +6,7 @@ brewery: "Eggens"
 image: "https://labels.untappd.com/labels/2847005?size=hd"
 rating: "3.5"
 description: "De Eggens zwaar blond heeft een heerlijk frisse moutsmaak, een klein bittertje en verschillende fruittonen door de vier verschillende hopsoorten die we gebruikt hebben. Drinktemperatuur 8 graden Celcius.  De bieren van Eggens worden gebrouwen in de stad Groningen."
+untappd_url: "https://untappd.com/b/eggens-eggens-zwaar-blond/2847005"
 abv: "7.9"
 ibu: "0"
 robots: noindex,nofollow

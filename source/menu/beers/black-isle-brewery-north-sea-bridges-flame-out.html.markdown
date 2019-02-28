@@ -6,6 +6,7 @@ brewery: "Black Isle Brewery"
 image: "https://labels.untappd.com/labels/2797904?size=hd"
 rating: "3.96"
 description: "Hazy DIPA"
+untappd_url: "https://untappd.com/b/black-isle-brewery-north-sea-bridges-flame-out/2797904"
 abv: "8.0"
 ibu: "0"
 robots: noindex,nofollow

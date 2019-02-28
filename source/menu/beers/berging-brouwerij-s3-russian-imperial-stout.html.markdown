@@ -6,6 +6,7 @@ brewery: "Berging Brouwerij"
 image: "https://labels.untappd.com/labels/2389516?size=hd"
 rating: "3.77"
 description: ""
+untappd_url: "https://untappd.com/b/berging-brouwerij-s3-russian-imperial-stout/2389516"
 abv: "9.2"
 ibu: "100"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "4 Islands Brewing"
 image: "https://labels.untappd.com/labels/3028504?size=hd"
 rating: "3.31"
 description: ""
+untappd_url: "https://untappd.com/b/4-islands-brewing-starry-night-cocoa-porter/3028504"
 abv: "6.0"
 ibu: "35"
 robots: noindex,nofollow

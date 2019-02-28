@@ -38,6 +38,7 @@ if response.code == "200"
       f.write("image: \"#{doc.label_image_hd}\"\n")
       f.write("rating: \"#{doc.rating.to_f.round(2)}\"\n")
       f.write("description: \"#{doc.description.gsub(/\n/, " ").gsub(/"/, " ")}\"\n")
+      f.write("untappd_url: \"https://untappd.com/b/#{doc.untappd_beer_slug}/#{doc.untappd_id}\"\n")
       f.write("abv: \"#{doc.abv}\"\n")
       f.write("ibu: \"#{doc.ibu.to_f.round(0)}\"\n")
       f.write("robots: noindex,nofollow\n")

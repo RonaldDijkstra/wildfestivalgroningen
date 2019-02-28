@@ -6,6 +6,7 @@ brewery: "Anarchy Brew Co."
 image: "https://labels.untappd.com/labels/3060083?size=hd"
 rating: "3.82"
 description: "Version 1 of our DDH IPA. 1st dry hop: Southern Cross 2nd dry hop: Amarillo & Pacifica Mix.  Vegan-friendly."
+untappd_url: "https://untappd.com/b/anarchy-brew-co-ddh-vol-1/3060083"
 abv: "6.0"
 ibu: "24"
 robots: noindex,nofollow

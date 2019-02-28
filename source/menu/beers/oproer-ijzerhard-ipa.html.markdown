@@ -6,6 +6,7 @@ brewery: "Oproer"
 image: "https://labels.untappd.com/labels/2799958?size=hd"
 rating: "3.48"
 description: "This tasteful collab between the 'crazy chef' of Karel 5 and the brewers of Oproer, is a fresh IPA. Made with the special element verveine, harvested from the monastery garden of Karel 5."
+untappd_url: "https://untappd.com/b/oproer-ijzerhard-ipa/2799958"
 abv: "4.3"
 ibu: "0"
 robots: noindex,nofollow

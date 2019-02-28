@@ -6,6 +6,7 @@ brewery: "Anarchy Brew Co."
 image: "https://labels.untappd.com/labels/3070174?size=hd"
 rating: "3.82"
 description: "Our Red IPA, launched early 2019.  Vegan-friendly."
+untappd_url: "https://untappd.com/b/anarchy-brew-co-psychotronic-warlord/3070174"
 abv: "6.9"
 ibu: "15"
 robots: noindex,nofollow

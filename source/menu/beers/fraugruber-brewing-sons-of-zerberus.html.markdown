@@ -6,6 +6,7 @@ brewery: "FrauGruber Brewing"
 image: "https://labels.untappd.com/labels/3066088?size=hd"
 rating: "3.86"
 description: ""
+untappd_url: "https://untappd.com/b/fraugruber-brewing-sons-of-zerberus/3066088"
 abv: "7.2"
 ibu: "0"
 robots: noindex,nofollow

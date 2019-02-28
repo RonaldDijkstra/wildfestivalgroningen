@@ -6,6 +6,7 @@ brewery: "Brouwerij Frontaal"
 image: "https://labels.untappd.com/labels/2924094?size=hd"
 rating: "3.61"
 description: ""
+untappd_url: "https://untappd.com/b/brouwerij-frontaal-my-milkshake-ipa-brings-all-the-boys-to-the-yard/2924094"
 abv: "7.0"
 ibu: "45"
 robots: noindex,nofollow

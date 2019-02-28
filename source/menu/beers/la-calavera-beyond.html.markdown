@@ -6,6 +6,7 @@ brewery: "La Calavera"
 image: "https://labels.untappd.com/labels/2558539?size=hd"
 rating: "3.61"
 description: "Belgian blonde aged in white wine barrels."
+untappd_url: "https://untappd.com/b/la-calavera-beyond/2558539"
 abv: "6.2"
 ibu: "0"
 robots: noindex,nofollow

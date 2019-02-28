@@ -6,6 +6,7 @@ brewery: "Sneeker Stadsbrouwerij Meerpael"
 image: "https://labels.untappd.com/labels/1249883?size=hd"
 rating: "3.37"
 description: ""
+untappd_url: "https://untappd.com/b/sneeker-stadsbrouwerij-meerpael-meerpael-omkoperij/1249883"
 abv: "7.3"
 ibu: "0"
 robots: noindex,nofollow

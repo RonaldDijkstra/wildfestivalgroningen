@@ -6,6 +6,7 @@ brewery: "La Calavera"
 image: "https://labels.untappd.com/labels/2800878?size=hd"
 rating: "3.59"
 description: ""
+untappd_url: "https://untappd.com/b/la-calavera-don-t-have-the-cow/2800878"
 abv: "7.0"
 ibu: "0"
 robots: noindex,nofollow

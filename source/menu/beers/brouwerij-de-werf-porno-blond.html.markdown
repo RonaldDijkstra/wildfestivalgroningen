@@ -6,6 +6,7 @@ brewery: "Brouwerij De Werf"
 image: "https://labels.untappd.com/labels/2766728?size=hd"
 rating: "3.42"
 description: "Porno blond is (stiekem) altijd lekker. Fris, zoet en zacht. Noem het een guilty pleasure. Noem het een tikkeltje ordinair. wij noem het gewoon een geil biertje. Proost!"
+untappd_url: "https://untappd.com/b/brouwerij-de-werf-porno-blond/2766728"
 abv: "6.0"
 ibu: "12"
 robots: noindex,nofollow

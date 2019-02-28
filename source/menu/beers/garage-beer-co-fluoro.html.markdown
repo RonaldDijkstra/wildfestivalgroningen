@@ -6,6 +6,7 @@ brewery: "Garage Beer Co."
 image: "https://labels.untappd.com/labels/3036361?size=hd"
 rating: "4.02"
 description: "DIPA feta amb llevat Vermont Ale que ajuda a destacar els llúpols Palisade, Cascade i Mosaic.  DIPA hecha con levadura Vermont Ale que contribuye a resaltar los lúpulus Palisade, Cascade y Mosaic.  DIPA using Vermont Ale yeast to highlight Palisade, Cascade and Mosaic hops."
+untappd_url: "https://untappd.com/b/garage-beer-co-fluoro/3036361"
 abv: "8.0"
 ibu: "0"
 robots: noindex,nofollow

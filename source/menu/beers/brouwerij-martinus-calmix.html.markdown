@@ -6,6 +6,7 @@ brewery: "Brouwerij Martinus"
 image: "https://labels.untappd.com/labels/2965800?size=hd"
 rating: "3.68"
 description: ""
+untappd_url: "https://untappd.com/b/brouwerij-martinus-calmix/2965800"
 abv: "9.0"
 ibu: "0"
 robots: noindex,nofollow

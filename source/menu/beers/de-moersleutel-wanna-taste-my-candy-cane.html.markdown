@@ -6,6 +6,7 @@ brewery: "De Moersleutel"
 image: "https://labels.untappd.com/labels/2952545?size=hd"
 rating: "3.74"
 description: ""
+untappd_url: "https://untappd.com/b/de-moersleutel-wanna-taste-my-candy-cane/2952545"
 abv: "11.0"
 ibu: "0"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "Garage Beer Co."
 image: "https://labels.untappd.com/labels/2940765?size=hd"
 rating: "3.82"
 description: "Berliner Weisse feta amb peras i mores.  Berliner Weisse hecha con peras y moras.  Berliner Weisse brewed with pears and blackberries."
+untappd_url: "https://untappd.com/b/garage-beer-co-dark-times-and-difficult-places/2940765"
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow

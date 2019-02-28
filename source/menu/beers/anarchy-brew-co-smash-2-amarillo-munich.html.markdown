@@ -6,6 +6,7 @@ brewery: "Anarchy Brew Co."
 image: "https://labels.untappd.com/labels/3070160?size=hd"
 rating: "3.58"
 description: "Our S.M.A.S.H. series (Single Malt And Single Hop).  Single Hop: Amarillo Single Malt: Munich  Vegan-friendly."
+untappd_url: "https://untappd.com/b/anarchy-brew-co-smash-2-amarillo-munich/3070160"
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow

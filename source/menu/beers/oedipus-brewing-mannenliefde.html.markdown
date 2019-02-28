@@ -6,6 +6,7 @@ brewery: "Oedipus Brewing"
 image: "https://labels.untappd.com/labels/223444?size=hd"
 rating: "3.48"
 description: "The first beer we put out officially. Mannenliefde is a saison flavoured with lemongrass, Szechuan pepper and Sorachi Ace hops."
+untappd_url: "https://untappd.com/b/oedipus-brewing-mannenliefde/223444"
 abv: "6.0"
 ibu: "25"
 robots: noindex,nofollow

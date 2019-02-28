@@ -6,6 +6,7 @@ brewery: "Van Moll"
 image: "https://labels.untappd.com/labels/1938864?size=hd"
 rating: "3.61"
 description: ""
+untappd_url: "https://untappd.com/b/van-moll-triple-trouble/1938864"
 abv: "8.5"
 ibu: "0"
 robots: noindex,nofollow

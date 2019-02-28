@@ -6,6 +6,7 @@ brewery: "Solt"
 image: "https://labels.untappd.com/labels/2131708?size=hd"
 rating: "3.5"
 description: ""
+untappd_url: "https://untappd.com/b/solt-thomas-van-seeratt/2131708"
 abv: "5.8"
 ibu: "22"
 robots: noindex,nofollow

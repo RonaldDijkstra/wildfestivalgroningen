@@ -6,6 +6,7 @@ brewery: "Brouwerij St. Bernardus"
 image: "https://labels.untappd.com/labels/2851738?size=hd"
 rating: "3.92"
 description: ""
+untappd_url: "https://untappd.com/b/brouwerij-st-bernardus-christmas-ale-2018/2851738"
 abv: "10.0"
 ibu: "28"
 robots: noindex,nofollow

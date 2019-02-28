@@ -6,6 +6,7 @@ brewery: "Brouwerij Brouwerslokaal"
 image: "https://labels.untappd.com/labels/2987299?size=hd"
 rating: "3.8"
 description: "Our barleywine aged on Bowmore barrels. Slightly peated. "
+untappd_url: "https://untappd.com/b/brouwerij-brouwerslokaal-dutch-bargain-imperial-pale-ale-bowmore-ba/2987299"
 abv: "10.0"
 ibu: "45"
 robots: noindex,nofollow

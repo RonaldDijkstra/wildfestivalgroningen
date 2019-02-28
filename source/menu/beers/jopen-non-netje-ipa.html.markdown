@@ -6,6 +6,7 @@ brewery: "Jopen"
 image: "https://labels.untappd.com/labels/2896493?size=hd"
 rating: "2.77"
 description: ""
+untappd_url: "https://untappd.com/b/jopen-non-netje-ipa/2896493"
 abv: "0.3"
 ibu: "0"
 robots: noindex,nofollow

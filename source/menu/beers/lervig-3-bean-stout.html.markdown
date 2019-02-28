@@ -6,6 +6,7 @@ brewery: "LERVIG"
 image: "https://labels.untappd.com/labels/1145082?size=hd"
 rating: "4.13"
 description: "Tonka, Vanilla and Cocoa beans all do their part in making this a truly complex and unique stout while delivering the dark quality you’ve come to expect from Lervig. Plant the magic beans!  "
+untappd_url: "https://untappd.com/b/lervig-3-bean-stout/1145082"
 abv: "12.0"
 ibu: "30"
 robots: noindex,nofollow

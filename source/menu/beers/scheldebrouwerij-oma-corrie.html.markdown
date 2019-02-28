@@ -6,6 +6,7 @@ brewery: "Scheldebrouwerij"
 image: "https://labels.untappd.com/labels/2407213?size=hd"
 rating: "3.6"
 description: "This second Schelde Special is a limited edition available from December 2017. It's a Belgian strong dark ale (8,5%) enriched with American oak chips and bourbon whiskey. Full bodied, dry bitter and complex with tones of vanilla, coconut and peer."
+untappd_url: "https://untappd.com/b/scheldebrouwerij-oma-corrie/2407213"
 abv: "8.5"
 ibu: "0"
 robots: noindex,nofollow

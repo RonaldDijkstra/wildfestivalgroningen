@@ -6,6 +6,7 @@ brewery: "Yeastie Boys"
 image: "https://labels.untappd.com/labels/2912701?size=hd"
 rating: "3.56"
 description: "Peach iced tea "
+untappd_url: "https://untappd.com/b/yeastie-boys-loose-lips/2912701"
 abv: "4.5"
 ibu: "0"
 robots: noindex,nofollow

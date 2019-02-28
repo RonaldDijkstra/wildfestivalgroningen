@@ -6,6 +6,7 @@ brewery: "In Peccatum Craft Beer"
 image: "https://labels.untappd.com/labels/2908447?size=hd"
 rating: "3.62"
 description: "Amarante Wild hops DH pale ale with daisy flowers."
+untappd_url: "https://untappd.com/b/in-peccatum-craft-beer-oh-daisy-you-are-wilder-than-my-hops/2908447"
 abv: "4.4"
 ibu: "0"
 robots: noindex,nofollow

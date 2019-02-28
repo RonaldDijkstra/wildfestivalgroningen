@@ -6,6 +6,7 @@ brewery: "Het Uiltje"
 image: "https://labels.untappd.com/labels/806624?size=hd"
 rating: "3.94"
 description: "Expeccially for the 5 year anniversary of the Beertemple in Amsterdam we were asked to create a awesome westcoast style IIPA. Our answer was the big fat double 5 IPA. With 5 hop varieties and some love the beer got a warm welcome!  However, the owner of the Beertemple was so impressed he decited to have the beer as his new house-beer! Eventually it became the house beer of the Beertemple, ‘t Arendsnest & Craft&Draft; all located in Amsterdam. The Big Fat Double 5 was given the Gold medal in the Dutch beer challenge for best Imperial IPA of the Netherlands."
+untappd_url: "https://untappd.com/b/het-uiltje-the-big-fat-5-double-ipa/806624"
 abv: "8.0"
 ibu: "80"
 robots: noindex,nofollow

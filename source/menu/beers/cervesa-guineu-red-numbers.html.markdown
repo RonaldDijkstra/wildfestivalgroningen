@@ -6,6 +6,7 @@ brewery: "Cervesa Guineu"
 image: "https://labels.untappd.com/labels/2800701?size=hd"
 rating: "3.86"
 description: "Red Wine BA Imperial Red Ale"
+untappd_url: "https://untappd.com/b/cervesa-guineu-red-numbers/2800701"
 abv: "13.0"
 ibu: "0"
 robots: noindex,nofollow

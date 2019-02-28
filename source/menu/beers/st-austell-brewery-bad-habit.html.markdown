@@ -6,6 +6,7 @@ brewery: "St Austell Brewery"
 image: "https://labels.untappd.com/labels/268637?size=hd"
 rating: "3.74"
 description: ""
+untappd_url: "https://untappd.com/b/st-austell-brewery-bad-habit/268637"
 abv: "8.2"
 ibu: "0"
 robots: noindex,nofollow

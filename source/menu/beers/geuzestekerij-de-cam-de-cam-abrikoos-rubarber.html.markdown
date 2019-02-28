@@ -6,6 +6,7 @@ brewery: "Geuzestekerij De Cam"
 image: "https://labels.untappd.com/labels/2815004?size=hd"
 rating: "4.1"
 description: ""
+untappd_url: "https://untappd.com/b/geuzestekerij-de-cam-de-cam-abrikoos-rubarber/2815004"
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "De Moersleutel"
 image: "https://labels.untappd.com/labels/3038628?size=hd"
 rating: "3.94"
 description: "Double NE-IPA with Calypso, Lemondrop & Mosaic."
+untappd_url: "https://untappd.com/b/de-moersleutel-battery-jumper/3038628"
 abv: "8.0"
 ibu: "0"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "Brouwerij Breugem"
 image: "https://labels.untappd.com/labels/1501499?size=hd"
 rating: "3.31"
 description: ""
+untappd_url: "https://untappd.com/b/brouwerij-breugem-lentekus/1501499"
 abv: "7.5"
 ibu: "50"
 robots: noindex,nofollow

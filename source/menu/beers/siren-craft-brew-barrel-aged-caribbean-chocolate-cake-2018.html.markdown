@@ -6,6 +6,7 @@ brewery: "Siren Craft Brew"
 image: "https://labels.untappd.com/labels/2962968?size=hd"
 rating: "4.19"
 description: "8.7% Bourbon Barrel Aged Tropical Stout with Cacao Nibs & Cypress Wood  This is a special barrel aged version of Caribbean Chocolate Cake, one of our all-time favourite beers brewed in collaboration with Cigar City Brewing. Our dense, rich and luxurious stout has been ageing in a selection of bourbon barrels, picking up delicious vanilla, whiskey and wood character."
+untappd_url: "https://untappd.com/b/siren-craft-brew-barrel-aged-caribbean-chocolate-cake-2018/2962968"
 abv: "8.7"
 ibu: "0"
 robots: noindex,nofollow

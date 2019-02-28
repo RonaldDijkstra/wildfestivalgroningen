@@ -6,6 +6,7 @@ brewery: "Fierce Beer"
 image: "https://labels.untappd.com/labels/1167985?size=hd"
 rating: "3.85"
 description: "Coffee vanilla porter"
+untappd_url: "https://untappd.com/b/fierce-beer-cafe-racer/1167985"
 abv: "6.5"
 ibu: "20"
 robots: noindex,nofollow

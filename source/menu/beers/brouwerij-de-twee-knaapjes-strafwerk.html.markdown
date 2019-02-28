@@ -6,6 +6,7 @@ brewery: "Brouwerij De School"
 image: "https://labels.untappd.com/labels/1641382?size=hd"
 rating: "3.49"
 description: " "
+untappd_url: "https://untappd.com/b/brouwerij-de-twee-knaapjes-strafwerk/1641382"
 abv: "8.2"
 ibu: "28"
 robots: noindex,nofollow

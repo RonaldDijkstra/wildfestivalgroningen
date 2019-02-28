@@ -6,6 +6,7 @@ brewery: "Bayerische Staatsbrauerei Weihenstephan"
 image: "https://labels.untappd.com/labels/2379473?size=hd"
 rating: "3.67"
 description: ""
+untappd_url: "https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-braupakt/2379473"
 abv: "6.0"
 ibu: "35"
 robots: noindex,nofollow

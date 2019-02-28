@@ -6,6 +6,7 @@ brewery: "Fierce Beer"
 image: "https://labels.untappd.com/labels/2098937?size=hd"
 rating: "3.62"
 description: "Sour beer with Tangerine"
+untappd_url: "https://untappd.com/b/fierce-beer-tangerine-tart/2098937"
 abv: "4.5"
 ibu: "10"
 robots: noindex,nofollow

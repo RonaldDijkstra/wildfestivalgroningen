@@ -6,6 +6,7 @@ brewery: "Baxbier"
 image: "https://labels.untappd.com/labels/2217747?size=hd"
 rating: "3.64"
 description: ""
+untappd_url: "https://untappd.com/b/baxbier-original-050-series-006-abel-s-ale/2217747"
 abv: "7.8"
 ibu: "49"
 robots: noindex,nofollow

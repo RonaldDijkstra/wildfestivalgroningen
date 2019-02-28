@@ -6,6 +6,7 @@ brewery: "Eggens"
 image: "https://labels.untappd.com/labels/2379456?size=hd"
 rating: "3.42"
 description: ""
+untappd_url: "https://untappd.com/b/eggens-eggens-tripel/2379456"
 abv: "8.1"
 ibu: "15"
 robots: noindex,nofollow

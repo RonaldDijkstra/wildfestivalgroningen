@@ -6,6 +6,7 @@ brewery: "Rock City Brewing"
 image: "https://labels.untappd.com/labels/2236453?size=hd"
 rating: "3.32"
 description: "Een fris en fruitige doordrinkbare saison. Gebrouwen met rogge voor een stoere punch"
+untappd_url: "https://untappd.com/b/rock-city-brewing-royaal/2236453"
 abv: "4.7"
 ibu: "25"
 robots: noindex,nofollow

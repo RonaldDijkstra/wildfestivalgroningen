@@ -6,6 +6,7 @@ brewery: "Kinnegar Brewing"
 image: "https://labels.untappd.com/labels/2719986?size=hd"
 rating: "3.52"
 description: "A dry-hopped beer created by our first K2 Brewing Academy, suitable for those of us not blessed with hollow drinking legs."
+untappd_url: "https://untappd.com/b/kinnegar-brewing-skinny-legs/2719986"
 abv: "3.5"
 ibu: "0"
 robots: noindex,nofollow

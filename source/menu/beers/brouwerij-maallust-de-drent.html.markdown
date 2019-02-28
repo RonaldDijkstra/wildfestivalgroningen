@@ -6,6 +6,7 @@ brewery: "Brouwerij Maallust"
 image: "https://labels.untappd.com/labels/2894726?size=hd"
 rating: "3.48"
 description: "Bruun bier, vol van smaak, met kruidige afdronk"
+untappd_url: "https://untappd.com/b/brouwerij-maallust-de-drent/2894726"
 abv: "7.5"
 ibu: "24"
 robots: noindex,nofollow

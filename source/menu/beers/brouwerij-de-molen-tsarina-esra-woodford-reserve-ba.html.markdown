@@ -6,6 +6,7 @@ brewery: "Brouwerij de Molen"
 image: "https://labels.untappd.com/labels/2556608?size=hd"
 rating: "4.19"
 description: ""
+untappd_url: "https://untappd.com/b/brouwerij-de-molen-tsarina-esra-woodford-reserve-ba/2556608"
 abv: "11.9"
 ibu: "93"
 robots: noindex,nofollow

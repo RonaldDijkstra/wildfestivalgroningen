@@ -6,6 +6,7 @@ brewery: "Cervesa Guineu"
 image: "https://labels.untappd.com/labels/2962397?size=hd"
 rating: "4.1"
 description: "Imperial Stout Highlands Scotch Whisky Barrel Aged (4 months). Special edition of 2673 bottles."
+untappd_url: "https://untappd.com/b/cervesa-guineu-god-of-stouts/2962397"
 abv: "12.5"
 ibu: "0"
 robots: noindex,nofollow

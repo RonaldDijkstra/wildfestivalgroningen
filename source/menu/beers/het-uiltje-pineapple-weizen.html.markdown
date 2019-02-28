@@ -6,6 +6,7 @@ brewery: "Het Uiltje"
 image: "https://labels.untappd.com/labels/2504666?size=hd"
 rating: "3.33"
 description: ""
+untappd_url: "https://untappd.com/b/het-uiltje-pineapple-weizen/2504666"
 abv: "5.0"
 ibu: "6"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "HappyFace Beers"
 image: "https://labels.untappd.com/labels/1620218?size=hd"
 rating: "3.48"
 description: "Fresh and firm tripel, some orange peel (the white part of it) that adds to the lasting bitterness as well. The Tripel has a yeasty character with a longlasting after taste."
+untappd_url: "https://untappd.com/b/happyface-beers-happyface-tripel/1620218"
 abv: "8.0"
 ibu: "22"
 robots: noindex,nofollow

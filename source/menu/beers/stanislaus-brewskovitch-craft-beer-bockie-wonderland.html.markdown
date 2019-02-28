@@ -6,6 +6,7 @@ brewery: "Stanislaus Brewskovitch Craft Beer"
 image: "https://labels.untappd.com/labels/1712091?size=hd"
 rating: "3.26"
 description: "A smooth smokey bockbier."
+untappd_url: "https://untappd.com/b/stanislaus-brewskovitch-craft-beer-bockie-wonderland/1712091"
 abv: "6.5"
 ibu: "24"
 robots: noindex,nofollow

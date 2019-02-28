@@ -6,6 +6,7 @@ brewery: "PUNT."
 image: "https://labels.untappd.com/labels/2931528?size=hd"
 rating: "3.52"
 description: "Gewoon goed IPA bier met een fruitig aroma"
+untappd_url: "https://untappd.com/b/punt-ipa/2931528"
 abv: "6.6"
 ibu: "60"
 robots: noindex,nofollow

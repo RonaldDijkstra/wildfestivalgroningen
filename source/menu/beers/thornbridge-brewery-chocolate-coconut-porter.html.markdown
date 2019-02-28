@@ -6,6 +6,7 @@ brewery: "Thornbridge Brewery"
 image: "https://labels.untappd.com/labels/2938989?size=hd"
 rating: "3.37"
 description: "This beer is a fantastic combination of milk chocolate and coconut in a decadent porter. It is roasty, rich, and inviting."
+untappd_url: "https://untappd.com/b/thornbridge-brewery-chocolate-coconut-porter/2938989"
 abv: "5.5"
 ibu: "0"
 robots: noindex,nofollow

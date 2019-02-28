@@ -6,6 +6,7 @@ brewery: "Jopen"
 image: "https://labels.untappd.com/labels/2096582?size=hd"
 rating: "3.5"
 description: "Collab with Dampegheest. Blond brewed out of eenkoorn grain with whey in the mash. Hopped with cascade and athanum."
+untappd_url: "https://untappd.com/b/jopen-eenkoorn-in-de-wei/2096582"
 abv: "6.5"
 ibu: "35"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "Cervesa Guineu"
 image: "https://labels.untappd.com/labels/2800692?size=hd"
 rating: "3.94"
 description: "Calvados BA Imperial Sour Stout + Peaches"
+untappd_url: "https://untappd.com/b/cervesa-guineu-bombshell-peche/2800692"
 abv: "11.5"
 ibu: "0"
 robots: noindex,nofollow

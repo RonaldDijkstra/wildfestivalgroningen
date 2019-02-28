@@ -6,6 +6,7 @@ brewery: "Dorpsbrouwerij de Pimpelmeesch"
 image: "https://labels.untappd.com/labels/2547438?size=hd"
 rating: "3.65"
 description: "Donker bier infused met houtgelagerde Jenever."
+untappd_url: "https://untappd.com/b/dorpsbrouwerij-de-pimpelmeesch-into-the-wood/2547438"
 abv: "9.0"
 ibu: "0"
 robots: noindex,nofollow

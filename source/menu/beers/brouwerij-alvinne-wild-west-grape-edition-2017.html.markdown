@@ -6,6 +6,7 @@ brewery: "Brouwerij Alvinne"
 image: "https://labels.untappd.com/labels/2377234?size=hd"
 rating: "4.04"
 description: "Flemish Sour Ale, fermented with our own wild house yeast strain 'Morpheus'. Barrel aged version of Omega, macerated with Grapes. "
+untappd_url: "https://untappd.com/b/brouwerij-alvinne-wild-west-grape-edition-2017/2377234"
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow

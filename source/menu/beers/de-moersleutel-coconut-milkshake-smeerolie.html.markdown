@@ -6,6 +6,7 @@ brewery: "De Moersleutel"
 image: "https://labels.untappd.com/labels/2859976?size=hd"
 rating: "4.11"
 description: "Infused with Coconut, Vanilla and lactose"
+untappd_url: "https://untappd.com/b/de-moersleutel-coconut-milkshake-smeerolie/2859976"
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow

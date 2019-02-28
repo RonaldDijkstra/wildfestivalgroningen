@@ -6,6 +6,7 @@ brewery: "Jopen"
 image: "https://labels.untappd.com/labels/1859181?size=hd"
 rating: "4.15"
 description: "Barrel aged version of the Don't tRYE this @Home Rye Wine. Aged for 228 days in cognac barrels (French oak)."
+untappd_url: "https://untappd.com/b/jopen-don-t-trye-this-home-cognac-ba/1859181"
 abv: "12.5"
 ibu: "30"
 robots: noindex,nofollow

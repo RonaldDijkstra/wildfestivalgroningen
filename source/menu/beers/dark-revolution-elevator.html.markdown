@@ -6,6 +6,7 @@ brewery: "Dark Revolution"
 image: "https://labels.untappd.com/labels/2151941?size=hd"
 rating: "3.65"
 description: "American style IPA. Heavily hopped with citra, simcoe, centennial and columbus hops to achieve 100 IBU to perfectly balance the higher ABV "
+untappd_url: "https://untappd.com/b/dark-revolution-elevator/2151941"
 abv: "7.2"
 ibu: "100"
 robots: noindex,nofollow

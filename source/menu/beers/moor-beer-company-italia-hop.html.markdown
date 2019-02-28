@@ -6,6 +6,7 @@ brewery: "Moor Beer Company"
 image: "https://labels.untappd.com/labels/2590426?size=hd"
 rating: "3.48"
 description: "Ultra Pale Ale"
+untappd_url: "https://untappd.com/b/moor-beer-company-italia-hop/2590426"
 abv: "4.1"
 ibu: "69"
 robots: noindex,nofollow

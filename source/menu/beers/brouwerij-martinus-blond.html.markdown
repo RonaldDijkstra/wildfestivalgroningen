@@ -6,6 +6,7 @@ brewery: "Brouwerij Martinus"
 image: "https://labels.untappd.com/labels/1234201?size=hd"
 rating: "3.49"
 description: ""
+untappd_url: "https://untappd.com/b/brouwerij-martinus-blond/1234201"
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "Stewart Brewing"
 image: "https://labels.untappd.com/labels/28339?size=hd"
 rating: "3.54"
 description: "A full bodied, strong stout with an abundance of roasted malt flavours. Liquorice, molasses ans a hint of sweetness."
+untappd_url: "https://untappd.com/b/stewart-brewing-cauld-reekie/28339"
 abv: "6.2"
 ibu: "65"
 robots: noindex,nofollow

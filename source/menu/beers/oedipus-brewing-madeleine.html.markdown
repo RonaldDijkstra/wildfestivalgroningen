@@ -6,6 +6,7 @@ brewery: "Oedipus Brewing"
 image: "https://labels.untappd.com/labels/2833718?size=hd"
 rating: "3.31"
 description: ""
+untappd_url: "https://untappd.com/b/oedipus-brewing-madeleine/2833718"
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow

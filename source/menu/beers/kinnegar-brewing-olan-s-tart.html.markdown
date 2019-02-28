@@ -6,6 +6,7 @@ brewery: "Kinnegar Brewing"
 image: "https://labels.untappd.com/labels/1902922?size=hd"
 rating: "3.58"
 description: ""
+untappd_url: "https://untappd.com/b/kinnegar-brewing-olan-s-tart/1902922"
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow

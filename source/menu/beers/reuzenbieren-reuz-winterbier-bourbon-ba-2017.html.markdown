@@ -6,6 +6,7 @@ brewery: "Reuzenbieren"
 image: "https://labels.untappd.com/labels/2345534?size=hd"
 rating: "3.84"
 description: "Speciaal gelagerd op Amerikaanse Woodford Bourbon vaten"
+untappd_url: "https://untappd.com/b/reuzenbieren-reuz-winterbier-bourbon-ba-2017/2345534"
 abv: "10.0"
 ibu: "40"
 robots: noindex,nofollow

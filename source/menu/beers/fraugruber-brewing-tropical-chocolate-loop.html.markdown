@@ -6,6 +6,7 @@ brewery: "FrauGruber Brewing"
 image: "https://labels.untappd.com/labels/3031259?size=hd"
 rating: "3.84"
 description: ""
+untappd_url: "https://untappd.com/b/fraugruber-brewing-tropical-chocolate-loop/3031259"
 abv: "9.3"
 ibu: "0"
 robots: noindex,nofollow

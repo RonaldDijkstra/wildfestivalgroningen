@@ -6,6 +6,7 @@ brewery: "Brouwerij Maallust"
 image: "https://labels.untappd.com/labels/2085660?size=hd"
 rating: "3.42"
 description: ""
+untappd_url: "https://untappd.com/b/brouwerij-maallust-de-pauper/2085660"
 abv: "5.5"
 ibu: "0"
 robots: noindex,nofollow

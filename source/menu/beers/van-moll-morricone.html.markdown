@@ -6,6 +6,7 @@ brewery: "Van Moll"
 image: "https://labels.untappd.com/labels/1567955?size=hd"
 rating: "3.95"
 description: "Imperial Tiramisu Stout"
+untappd_url: "https://untappd.com/b/van-moll-morricone/1567955"
 abv: "10.2"
 ibu: "0"
 robots: noindex,nofollow

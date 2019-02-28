@@ -6,6 +6,7 @@ brewery: "Fierce Beer"
 image: "https://labels.untappd.com/labels/1354574?size=hd"
 rating: "3.39"
 description: "Raspberry and Toasted Oatmeal pale"
+untappd_url: "https://untappd.com/b/fierce-beer-cranachan-killer/1354574"
 abv: "5.5"
 ibu: "25"
 robots: noindex,nofollow

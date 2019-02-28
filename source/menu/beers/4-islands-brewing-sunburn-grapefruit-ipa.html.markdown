@@ -6,6 +6,7 @@ brewery: "4 Islands Brewing"
 image: "https://labels.untappd.com/labels/2354761?size=hd"
 rating: "3.64"
 description: ""
+untappd_url: "https://untappd.com/b/4-islands-brewing-sunburn-grapefruit-ipa/2354761"
 abv: "7.0"
 ibu: "66"
 robots: noindex,nofollow

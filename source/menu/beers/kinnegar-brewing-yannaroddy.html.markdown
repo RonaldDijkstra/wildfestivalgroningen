@@ -6,6 +6,7 @@ brewery: "Kinnegar Brewing"
 image: "https://labels.untappd.com/labels/522463?size=hd"
 rating: "3.7"
 description: "Kinnegar Special Coconut Porter"
+untappd_url: "https://untappd.com/b/kinnegar-brewing-yannaroddy/522463"
 abv: "4.8"
 ibu: "0"
 robots: noindex,nofollow

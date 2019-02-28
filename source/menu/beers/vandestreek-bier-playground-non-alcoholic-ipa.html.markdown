@@ -6,6 +6,7 @@ brewery: "vandeStreek bier"
 image: "https://labels.untappd.com/labels/2016153?size=hd"
 rating: "3.38"
 description: "De eerste Nederlandse Alcoholvrije IPA"
+untappd_url: "https://untappd.com/b/vandestreek-bier-playground-non-alcoholic-ipa/2016153"
 abv: "0.5"
 ibu: "50"
 robots: noindex,nofollow

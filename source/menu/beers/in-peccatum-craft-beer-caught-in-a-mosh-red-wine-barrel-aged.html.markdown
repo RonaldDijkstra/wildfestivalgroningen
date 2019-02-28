@@ -6,6 +6,7 @@ brewery: "In Peccatum Craft Beer"
 image: "https://labels.untappd.com/labels/2896459?size=hd"
 rating: "3.41"
 description: "Grisette aged in Somontano wine barrels for 8 months."
+untappd_url: "https://untappd.com/b/in-peccatum-craft-beer-caught-in-a-mosh-red-wine-barrel-aged/2896459"
 abv: "4.0"
 ibu: "0"
 robots: noindex,nofollow

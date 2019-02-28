@@ -6,6 +6,7 @@ brewery: "Omnipollo"
 image: "https://labels.untappd.com/labels/2622482?size=hd"
 rating: "3.46"
 description: ""
+untappd_url: "https://untappd.com/b/omnipollo-mexican-vanilla-pina-colada-smoothie-ipa/2622482"
 abv: "7.2"
 ibu: "0"
 robots: noindex,nofollow

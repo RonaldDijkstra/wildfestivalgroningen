@@ -6,6 +6,7 @@ brewery: "Plattelandsbrouwerij Het Zotte Kalf"
 image: "https://labels.untappd.com/labels/1331738?size=hd"
 rating: "3.81"
 description: "Zwaar donker bier met zoete, kruidige smaak en warme afdronk."
+untappd_url: "https://untappd.com/b/plattelandsbrouwerij-het-zotte-kalf-brangus/1331738"
 abv: "10.0"
 ibu: "41"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "SixºNorth"
 image: "https://labels.untappd.com/labels/2797896?size=hd"
 rating: "3.67"
 description: "Dry hopped sour"
+untappd_url: "https://untappd.com/b/six-north-north-sea-bridges-amundsix/2797896"
 abv: "6.7"
 ibu: "0"
 robots: noindex,nofollow

@@ -6,6 +6,7 @@ brewery: "Brouwerij de Molen"
 image: "https://labels.untappd.com/labels/2776373?size=hd"
 rating: "4.22"
 description: "BA Barley Wine-ish, aged on bourbon barrels, with almond extract added."
+untappd_url: "https://untappd.com/b/brouwerij-de-molen-binkie-claws-ba-almond/2776373"
 abv: "11.2"
 ibu: "37"
 robots: noindex,nofollow

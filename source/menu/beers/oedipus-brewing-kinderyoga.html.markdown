@@ -6,6 +6,7 @@ brewery: "Oedipus Brewing"
 image: "https://labels.untappd.com/labels/1244820?size=hd"
 rating: "3.74"
 description: "A thick malt bill trying to showcase brown malt, besides chocolate, roasted and some caramel malts. Hopped with East Kent Goldings and some Chinook as late hops."
+untappd_url: "https://untappd.com/b/oedipus-brewing-kinderyoga/1244820"
 abv: "11.0"
 ibu: "50"
 robots: noindex,nofollow

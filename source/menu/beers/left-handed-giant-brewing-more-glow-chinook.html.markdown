@@ -6,6 +6,7 @@ brewery: "Left Handed Giant Brewing"
 image: "https://labels.untappd.com/labels/2908866?size=hd"
 rating: "3.75"
 description: "Single Hop IPA HOPS - Chinook MALT - Maris Otter Extra Pale, Oats, Wheat, Carapils YEAST - US-05"
+untappd_url: "https://untappd.com/b/left-handed-giant-brewing-more-glow-chinook/2908866"
 abv: "6.4"
 ibu: "0"
 robots: noindex,nofollow

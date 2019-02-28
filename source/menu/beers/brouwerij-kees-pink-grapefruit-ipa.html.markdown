@@ -6,6 +6,7 @@ brewery: "Brouwerij Kees"
 image: "https://labels.untappd.com/labels/1149112?size=hd"
 rating: "3.4"
 description: "The perfect summer ale, an IPA brewed with Pink Grapefruits. These grapefruits give the beer a wonderfully fresh flavor and a tangy bitterness of grapefruit. Summer flavoured India Pale Ale!"
+untappd_url: "https://untappd.com/b/brouwerij-kees-pink-grapefruit-ipa/1149112"
 abv: "5.5"
 ibu: "65"
 robots: noindex,nofollow

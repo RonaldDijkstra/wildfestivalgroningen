@@ -6,6 +6,7 @@ brewery: "Brasserie Cantillon"
 image: "https://labels.untappd.com/labels/56829?size=hd"
 rating: "4.23"
 description: ""
+untappd_url: "https://untappd.com/b/brasserie-cantillon-gueuze-100-lambic-bio/56829"
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
