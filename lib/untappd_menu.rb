@@ -20,12 +20,16 @@ end
 
 if response.code == "200"
 
-  FileUtils.rm_rf("source/blog/beers/.", secure: true)
+  if Dir.exist?("source/menu/beers/")
+    FileUtils.rm_rf("source/menu/beers/.", secure: true)
+  else
+    FileUtils.mkdir_p("source/menu/beers/")
+  end
 
   result = JSON.parse(response.body, object_class: OpenStruct)
 
   result.items.each do |doc|
-    File.open("source/blog/beers/#{doc.id}.html.markdown", "w") do |f|
+    File.open("source/menu/beers/#{doc.id}.html.markdown", "w") do |f|
       f.write("---\n")
       f.write("title: \"#{doc.name}\"\n")
       f.write("date: #{doc.updated_at}\n")

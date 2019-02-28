@@ -170,7 +170,7 @@ module ApplicationHelpers
 
   # Blog?
   def blog?(page = current_page)
-    page.url.start_with?("/blog/")
+    page.url.start_with?("/menu/")
   end
 
   # Blog index?

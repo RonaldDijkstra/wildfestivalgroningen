@@ -32,8 +32,8 @@ set :markdown_engine, :redcarpet
 
 # Activate and setup the blog content type
 activate :blog do |blog|
-  blog.name = "blog"
-  blog.prefix = "blog"
+  blog.name = "menu"
+  blog.prefix = "menu"
   blog.permalink = ":title"
   blog.sources = "/beers/{title}.html"
   blog.paginate = true

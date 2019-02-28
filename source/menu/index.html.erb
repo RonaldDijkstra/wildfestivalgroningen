@@ -1,5 +1,6 @@
 ---
-blog: blog
+title: "Menu"
+blog: menu
 pageable: true
 index: false
 ---
@@ -18,7 +19,7 @@ index: false
       <% end %>
     </ul>
 
-    <%= partial "blog/pagination", locals: current_page.metadata[:locals] %>
+    <%= partial "menu/pagination", locals: current_page.metadata[:locals] %>
 
   </div>
 </section>

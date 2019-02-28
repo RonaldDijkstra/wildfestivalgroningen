@@ -13,9 +13,9 @@
       submit: "Verstuur"
     navigation:
       about: "Over"
-      blog: "Blog"
       contact: "Contact"
       index: "Home"
+      menu: "Menu"
       organisation: "Organisatie"
       participators: "Deelnemers"
       program: "Programma"

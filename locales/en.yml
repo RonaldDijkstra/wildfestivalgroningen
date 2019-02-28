@@ -22,12 +22,12 @@
       submit: "Submit"
     navigation:
       about: "About"
-      blog: "Blog"
       contact: "Contact"
-      participators: "Participators"
       index: "Home"
-      organisation: "Organisation"
+      menu: "Menu"
+      participators: "Participators"
       program: "Program"
+      organisation: "Organisation"
       tickets: "Tickets"
     # Pages
     pages:

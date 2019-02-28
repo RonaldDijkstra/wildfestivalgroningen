@@ -25,8 +25,7 @@
           </li>
         <% else %>
           <%
-          page_url = "/blog/"
-          page_url << "tags/#{tagname.downcase.gsub(" ", "-")}/" if defined?(tagname)
+          page_url = "/menu/"
           page_url << "#{page}/" unless page == 1
           %>
           <li class="item">
