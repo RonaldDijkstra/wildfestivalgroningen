@@ -30,11 +30,11 @@ set :markdown,
   with_toc_data: true
 set :markdown_engine, :redcarpet
 
-# Activate and setup the blog content type
+# Activate and setup the blog content type to use for menu
 activate :blog do |blog|
   blog.name = "menu"
   blog.prefix = "menu"
-  blog.permalink = ":title"
+  blog.permalink = "beers/:title"
   blog.sources = "/beers/{title}.html"
   blog.paginate = true
   blog.page_link = "{num}"
@@ -42,7 +42,7 @@ activate :blog do |blog|
 end
 
 # With layout
-page "blog/index.html", layout: :blog_layout
+page "menu/index.html", layout: :blog_layout
 
 # Without layout
 page "/*.json", layout: false

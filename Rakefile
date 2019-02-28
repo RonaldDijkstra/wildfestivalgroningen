@@ -36,7 +36,7 @@ task :build do
   puts "== Retrieved external data".green
   puts "== Brewing...".green
   system "bundle exec middleman build" || exit(1)
-  FileUtils.rm_rf("source/blog/beers/", verbose: true)
+  FileUtils.rm_rf("build/menu/beers/", verbose: true)
 end
 
 ## Build & Proof

@@ -20,6 +20,11 @@ end
 
 if response.code == "200"
 
+  File.open("data/full_menu.yml", "w") do |f|
+    f.write(JSON.parse(response.body).to_yaml)
+    f.close
+  end
+
   if Dir.exist?("source/menu/beers/")
     FileUtils.rm_rf("source/menu/beers/.", secure: true)
   else
