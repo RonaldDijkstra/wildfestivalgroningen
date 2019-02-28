@@ -1,0 +1,11 @@
+---
+title: "S2 Russian Imperial Drop Stout"
+date: 2019-02-08T14:22:58.719383Z
+style: "Stout - Russian Imperial"
+brewery: "Berging Brouwerij"
+image: "https://labels.untappd.com/labels/2273443?size=hd"
+rating: "3.66"
+description: ""
+abv: "8.9"
+ibu: "70"
+---

@@ -1,0 +1,11 @@
+---
+title: "Bolder Bock"
+date: 2019-02-08T14:26:06.118657Z
+style: "Bock - Single / Traditional"
+brewery: "Het Brouwdok"
+image: "https://labels.untappd.com/labels/1255575?size=hd"
+rating: "3.46"
+description: "Smokey Double Bock"
+abv: "7.5"
+ibu: "30"
+---

@@ -1,0 +1,11 @@
+---
+title: "De Direkteur"
+date: 2019-02-10T11:33:22.543453Z
+style: "Barleywine - English"
+brewery: "Brouwerij De School"
+image: "https://labels.untappd.com/labels/2973353?size=hd"
+rating: "3.54"
+description: "Our English Barleywine, brewed with Pale Ale and Crystal malts. This beer is rich and complex and has flavors of toffee, stonefruit, caramel and chocolate."
+abv: "11.5"
+ibu: "20"
+---

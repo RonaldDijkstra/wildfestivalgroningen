@@ -1,0 +1,11 @@
+---
+title: "Satantonio"
+date: 2019-02-10T11:47:39.580283Z
+style: "Old Ale"
+brewery: "Oitava Colina"
+image: "https://labels.untappd.com/labels/1636222?size=hd"
+rating: "3.75"
+description: ""
+abv: "10.5"
+ibu: "45"
+---

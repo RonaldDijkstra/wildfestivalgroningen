@@ -1,0 +1,11 @@
+---
+title: "Smoked Porter (2013)"
+date: 2019-02-10T12:07:12.738534Z
+style: "Smoked Beer"
+brewery: "Alaskan Brewing Co."
+image: "https://labels.untappd.com/labels/474099?size=hd"
+rating: "3.94"
+description: ""
+abv: "6.5"
+ibu: "0"
+---

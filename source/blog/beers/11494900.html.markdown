@@ -1,0 +1,11 @@
+---
+title: "DDH (Vol. 1)"
+date: 2019-02-20T16:01:59.903149Z
+style: "IPA - American"
+brewery: "Anarchy Brew Co."
+image: "https://labels.untappd.com/labels/3060083?size=hd"
+rating: "3.82"
+description: "Version 1 of our DDH IPA. 1st dry hop: Southern Cross 2nd dry hop: Amarillo & Pacifica Mix.  Vegan-friendly."
+abv: "6.0"
+ibu: "24"
+---

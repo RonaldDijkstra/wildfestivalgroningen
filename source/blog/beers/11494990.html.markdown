@@ -1,0 +1,11 @@
+---
+title: "Kobra 2"
+date: 2019-02-20T16:07:29.451053Z
+style: "IPA - American"
+brewery: "CoolHead Brew"
+image: "https://labels.untappd.com/labels/3028496?size=hd"
+rating: "3.62"
+description: "Brewed for Tyrantti. Mosaic & Enigma hops."
+abv: "6.66"
+ibu: "0"
+---

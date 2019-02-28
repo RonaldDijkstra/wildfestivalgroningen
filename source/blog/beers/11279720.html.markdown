@@ -1,0 +1,11 @@
+---
+title: "Bourbon Infused Dubbelbock"
+date: 2019-02-08T13:35:59.587867Z
+style: "Bock - Doppelbock"
+brewery: "vandeStreek bier"
+image: "https://labels.untappd.com/labels/2290574?size=hd"
+rating: "3.46"
+description: "Bourbon infused Dubbelbock. Gebrouwen met BierNetwerk"
+abv: "9.0"
+ibu: "20"
+---

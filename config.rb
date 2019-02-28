@@ -38,7 +38,7 @@ activate :blog do |blog|
   blog.sources = "/beers/{title}.html"
   blog.paginate = true
   blog.page_link = "{num}"
-  blog.per_page = 2
+  blog.per_page = 50
 end
 
 # With layout

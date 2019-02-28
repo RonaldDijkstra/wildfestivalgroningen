@@ -1,0 +1,11 @@
+---
+title: "Morricone"
+date: 2019-02-10T12:39:08.883419Z
+style: "Stout - Imperial / Double"
+brewery: "Van Moll"
+image: "https://labels.untappd.com/labels/1567955?size=hd"
+rating: "3.95"
+description: "Imperial Tiramisu Stout"
+abv: "10.2"
+ibu: "0"
+---

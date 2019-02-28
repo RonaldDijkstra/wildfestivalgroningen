@@ -1,0 +1,11 @@
+---
+title: "Loose Lips"
+date: 2019-02-10T12:02:02.721693Z
+style: "Sour - Ale"
+brewery: "Yeastie Boys"
+image: "https://labels.untappd.com/labels/2912701?size=hd"
+rating: "3.56"
+description: "Peach iced tea "
+abv: "4.5"
+ibu: "0"
+---

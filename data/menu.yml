@@ -1,0 +1,335 @@
+---
+items:
+- id: 11591136
+  section_id: 350941
+  position: 0
+  untappd_id: 5860
+  label_image: https://labels.untappd.com/labels/5860
+  label_image_hd: https://labels.untappd.com/labels/5860?size=hd
+  brewery_location: Zoeterwoude, Zuid Holland
+  cask: false
+  nitro: false
+  tap_number: 
+  rating: '2.91837'
+  in_production: true
+  untappd_beer_slug: heineken-heineken
+  untappd_brewery_id: 1400
+  name: Heineken
+  original_name: Heineken
+  custom_name: 
+  description: Heineken is a 5% ABV euro pale lager, made by Heineken International
+    since 1873. It is available in a 4.3% alcohol by volume, in countries such as
+    Ireland. It is the flagship product of the company and is made of purified water,
+    malted barley, hops, and yeast. In 1886 H. Elion finished the development of the
+    Heineken A-yeast. This is the yeast that is still used for the beer. The beer
+    is force carbonated. It is popular in the United States, Europe and Middle Eastern
+    countries.
+  custom_description: 
+  original_description: Heineken is a 5% ABV euro pale lager, made by Heineken International
+    since 1873. It is available in a 4.3% alcohol by volume, in countries such as
+    Ireland. It is the flagship product of the company and is made of purified water,
+    malted barley, hops, and yeast. In 1886 H. Elion finished the development of the
+    Heineken A-yeast. This is the yeast that is still used for the beer. The beer
+    is force carbonated. It is popular in the United States, Europe and Middle Eastern
+    countries.
+  style: Lager - Euro
+  custom_style: 
+  original_style: Lager - Euro
+  brewery: Heineken
+  custom_brewery: 
+  original_brewery: Heineken
+  calories: '140'
+  custom_calories: 
+  original_calories: '140'
+  abv: '5.0'
+  custom_abv: 
+  original_abv: '5.0'
+  ibu: '19.0'
+  custom_ibu: 
+  original_ibu: '19.0'
+  created_at: '2019-02-25T21:13:18.079794Z'
+  updated_at: '2019-02-25T21:13:18.079794Z'
+- id: 11290289
+  section_id: 350941
+  position: 1
+  untappd_id: 8343
+  label_image: https://labels.untappd.com/labels/8343
+  label_image_hd: https://labels.untappd.com/labels/8343?size=hd
+  brewery_location: Chicago, IL
+  cask: false
+  nitro: false
+  tap_number: 
+  rating: '4.40537'
+  in_production: true
+  untappd_beer_slug: goose-island-beer-co-bourbon-county-brand-stout
+  untappd_brewery_id: 2898
+  name: Bourbon County Brand Stout
+  original_name: Bourbon County Brand Stout
+  custom_name: 
+  description: Originally brewed in honor of the 1000th batch at our original Clybourn
+    brewpub. A liquid as dark and dense as a black hole with thick foam the color
+    of a bourbon barrel. The nose is an intense mix of charred oak, chocolate, vanilla,
+    caramel and smoke. One sip has more flavor than your average case of beer.
+  custom_description: 
+  original_description: Originally brewed in honor of the 1000th batch at our original
+    Clybourn brewpub. A liquid as dark and dense as a black hole with thick foam the
+    color of a bourbon barrel. The nose is an intense mix of charred oak, chocolate,
+    vanilla, caramel and smoke. One sip has more flavor than your average case of
+    beer.
+  style: Stout - American Imperial / Double
+  custom_style: 
+  original_style: Stout - American Imperial / Double
+  brewery: Goose Island Beer Co.
+  custom_brewery: 
+  original_brewery: Goose Island Beer Co.
+  calories: '425'
+  custom_calories: 
+  original_calories: '425'
+  abv: '15.2'
+  custom_abv: 
+  original_abv: '15.2'
+  ibu: '60.0'
+  custom_ibu: 
+  original_ibu: '60.0'
+  created_at: '2019-02-08T20:17:36.609366Z'
+  updated_at: '2019-02-08T20:17:36.609366Z'
+- id: 11290112
+  section_id: 350941
+  position: 2
+  untappd_id: 2813048
+  label_image: https://labels.untappd.com/labels/2813048
+  label_image_hd: https://labels.untappd.com/labels/2813048?size=hd
+  brewery_location: 
+  cask: false
+  nitro: false
+  tap_number: 
+  rating: '0.0'
+  in_production: true
+  untappd_beer_slug: folkingebrew-frambozenmede
+  untappd_brewery_id: 371606
+  name: Frambozenmede
+  original_name: Frambozenmede
+  custom_name: 
+  description: ''
+  custom_description: 
+  original_description: ''
+  style: Mead - Melomel
+  custom_style: 
+  original_style: Mead - Melomel
+  brewery: Folkingebrew
+  custom_brewery: 
+  original_brewery: Folkingebrew
+  calories: '360'
+  custom_calories: 
+  original_calories: '360'
+  abv: '12.0'
+  custom_abv: 
+  original_abv: '12.0'
+  ibu: '0.0'
+  custom_ibu: 
+  original_ibu: '0.0'
+  created_at: '2019-02-08T20:10:41.148385Z'
+  updated_at: '2019-02-08T20:10:41.148385Z'
+- id: 11285992
+  section_id: 350941
+  position: 3
+  untappd_id: 2667210
+  label_image: https://labels.untappd.com/labels/2667210
+  label_image_hd: https://labels.untappd.com/labels/2667210?size=hd
+  brewery_location: 
+  cask: false
+  nitro: false
+  tap_number: 
+  rating: '3.94118'
+  in_production: true
+  untappd_beer_slug: folkingebrew-nelson-s-lemon-secret-ipa
+  untappd_brewery_id: 371606
+  name: Nelson's Lemon Secret IPA
+  original_name: Nelson's Lemon Secret IPA
+  custom_name: 
+  description: 6% ABV NEIPA, Double Dry-Hopped with Nelson Sauvin, Lemondrop & Vic
+    Secret
+  custom_description: 
+  original_description: 6% ABV NEIPA, Double Dry-Hopped with Nelson Sauvin, Lemondrop
+    & Vic Secret
+  style: IPA - New England
+  custom_style: 
+  original_style: IPA - New England
+  brewery: Folkingebrew
+  custom_brewery: 
+  original_brewery: Folkingebrew
+  calories: '180'
+  custom_calories: 
+  original_calories: '180'
+  abv: '6.0'
+  custom_abv: 
+  original_abv: '6.0'
+  ibu: '30.0'
+  custom_ibu: 
+  original_ibu: '30.0'
+  created_at: '2019-02-08T18:01:13.444233Z'
+  updated_at: '2019-02-08T18:01:13.444233Z'
+- id: 11284293
+  section_id: 350941
+  position: 4
+  untappd_id: 5702
+  label_image: https://labels.untappd.com/labels/5702
+  label_image_hd: https://labels.untappd.com/labels/5702?size=hd
+  brewery_location: Ellon, Aberdeenshire
+  cask: false
+  nitro: false
+  tap_number: 
+  rating: '3.78476'
+  in_production: true
+  untappd_beer_slug: brewdog-punk-ipa
+  untappd_brewery_id: 241
+  name: Punk IPA
+  original_name: Punk IPA
+  custom_name: 
+  description: "Welcome to a post Punk apocalyptic mother fucker of a pale ale.\r\n\r\nA
+    beer that spent its formative years Blitzkrieg bopping around India and the sub
+    continent. Quintessential Empire with an anarchic twist.\r\n\r\nGod save the Queen
+    and all who sail in her. Raising a Stiff Little Finger to IPAs that have come
+    before and those it is yet to meet.\r\n\r\nTurn up the volume Pay the man. Embrace
+    the punked up, fucked up outlaw elite.\r\n\r\nNever Mind the Bollocks this is
+    the real shit.\r\n\r\nMalts:\r\nMarris Otter Extra Pale.\r\n\r\nHops:\r\nChinook,
+    Simcoe, Ahtanum, Nelson Sauvin."
+  custom_description: 
+  original_description: "Welcome to a post Punk apocalyptic mother fucker of a pale
+    ale.\r\n\r\nA beer that spent its formative years Blitzkrieg bopping around India
+    and the sub continent. Quintessential Empire with an anarchic twist.\r\n\r\nGod
+    save the Queen and all who sail in her. Raising a Stiff Little Finger to IPAs
+    that have come before and those it is yet to meet.\r\n\r\nTurn up the volume Pay
+    the man. Embrace the punked up, fucked up outlaw elite.\r\n\r\nNever Mind the
+    Bollocks this is the real shit.\r\n\r\nMalts:\r\nMarris Otter Extra Pale.\r\n\r\nHops:\r\nChinook,
+    Simcoe, Ahtanum, Nelson Sauvin."
+  style: IPA - American
+  custom_style: 
+  original_style: IPA - American
+  brewery: BrewDog
+  custom_brewery: 
+  original_brewery: BrewDog
+  calories: '168'
+  custom_calories: 
+  original_calories: '168'
+  abv: '5.6'
+  custom_abv: 
+  original_abv: '5.6'
+  ibu: '35.0'
+  custom_ibu: 
+  original_ibu: '35.0'
+  created_at: '2019-02-08T17:01:30.907509Z'
+  updated_at: '2019-02-08T17:01:30.907509Z'
+- id: 11275600
+  section_id: 350941
+  position: 5
+  untappd_id: 2791248
+  label_image: https://labels.untappd.com/labels/2791248
+  label_image_hd: https://labels.untappd.com/labels/2791248?size=hd
+  brewery_location: 
+  cask: false
+  nitro: false
+  tap_number: 
+  rating: '4.46154'
+  in_production: true
+  untappd_beer_slug: folkingebrew-just-a-backyard-ipa-cuvee-ronald-and-fanneke
+  untappd_brewery_id: 371606
+  name: Just a Backyard IPA - Cuvee Ronald & Fanneke
+  original_name: Just a Backyard IPA - Cuvee Ronald & Fanneke
+  custom_name: 
+  description: ''
+  custom_description: 
+  original_description: ''
+  style: IPA - New England
+  custom_style: 
+  original_style: IPA - New England
+  brewery: Folkingebrew
+  custom_brewery: 
+  original_brewery: Folkingebrew
+  calories: '207'
+  custom_calories: 
+  original_calories: '207'
+  abv: '6.9'
+  custom_abv: 
+  original_abv: '6.9'
+  ibu: '0.0'
+  custom_ibu: 
+  original_ibu: '0.0'
+  created_at: '2019-02-08T09:50:48.409339Z'
+  updated_at: '2019-02-08T09:50:48.409339Z'
+- id: 11275446
+  section_id: 350941
+  position: 6
+  untappd_id: 2404100
+  label_image: https://labels.untappd.com/labels/2404100
+  label_image_hd: https://labels.untappd.com/labels/2404100?size=hd
+  brewery_location: 
+  cask: false
+  nitro: false
+  tap_number: 
+  rating: '3.99843'
+  in_production: true
+  untappd_beer_slug: folkingebrew-just-a-backyard-ipa
+  untappd_brewery_id: 371606
+  name: Just a Backyard IPA
+  original_name: Just a Backyard IPA
+  custom_name: 
+  description: "New England style IPA with 6.9% ABV.\r\nDouble Dry-Hopped with Citra,
+    Mosaic & Galaxy hops. "
+  custom_description: 
+  original_description: "New England style IPA with 6.9% ABV.\r\nDouble Dry-Hopped
+    with Citra, Mosaic & Galaxy hops. "
+  style: IPA - New England
+  custom_style: 
+  original_style: IPA - New England
+  brewery: Folkingebrew
+  custom_brewery: 
+  original_brewery: Folkingebrew
+  calories: '207'
+  custom_calories: 
+  original_calories: '207'
+  abv: '6.9'
+  custom_abv: 
+  original_abv: '6.9'
+  ibu: '32.0'
+  custom_ibu: 
+  original_ibu: '32.0'
+  created_at: '2019-02-08T09:49:01.103765Z'
+  updated_at: '2019-02-08T09:49:01.103765Z'
+- id: 11253318
+  section_id: 350941
+  position: 7
+  untappd_id: 2931528
+  label_image: https://labels.untappd.com/labels/2931528
+  label_image_hd: https://labels.untappd.com/labels/2931528?size=hd
+  brewery_location: 
+  cask: false
+  nitro: false
+  tap_number: 
+  rating: '3.52446'
+  in_production: true
+  untappd_beer_slug: punt-ipa
+  untappd_brewery_id: 398364
+  name: IPA
+  original_name: IPA
+  custom_name: 
+  description: Gewoon goed IPA bier met een fruitig aroma
+  custom_description: 
+  original_description: Gewoon goed IPA bier met een fruitig aroma
+  style: IPA - American
+  custom_style: 
+  original_style: IPA - American
+  brewery: PUNT.
+  custom_brewery: 
+  original_brewery: PUNT.
+  calories: '198'
+  custom_calories: 
+  original_calories: '198'
+  abv: '6.6'
+  custom_abv: 
+  original_abv: '6.6'
+  ibu: '60.0'
+  custom_ibu: 
+  original_ibu: '60.0'
+  created_at: '2019-02-07T14:15:29.555983Z'
+  updated_at: '2019-02-07T14:15:29.555983Z'

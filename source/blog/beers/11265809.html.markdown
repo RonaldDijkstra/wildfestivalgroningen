@@ -1,0 +1,11 @@
+---
+title: "Dubbele Blik"
+date: 2019-02-07T23:50:55.205151Z
+style: "Belgian Dubbel"
+brewery: "Stadsbrouwerij Radboud"
+image: "https://labels.untappd.com/labels/2049888?size=hd"
+rating: "3.31"
+description: ""
+abv: "7.0"
+ibu: "0"
+---

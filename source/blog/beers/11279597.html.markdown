@@ -1,0 +1,11 @@
+---
+title: "White Label Russian Imperial Stout Red Wine Blend BA"
+date: 2019-02-08T13:28:39.020342Z
+style: "Stout - Russian Imperial"
+brewery: "Brouwerij Emelisse"
+image: "https://labels.untappd.com/labels/2333103?size=hd"
+rating: "3.91"
+description: ""
+abv: "9.0"
+ibu: "0"
+---

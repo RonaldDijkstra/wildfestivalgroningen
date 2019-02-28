@@ -1,0 +1,11 @@
+---
+title: "Naked Sauna Sour"
+date: 2019-02-20T15:58:39.431777Z
+style: "Sour - Ale"
+brewery: "CoolHead Brew"
+image: "https://labels.untappd.com/labels/3028492?size=hd"
+rating: "3.72"
+description: ""
+abv: "4.0"
+ibu: "0"
+---

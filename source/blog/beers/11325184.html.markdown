@@ -1,0 +1,11 @@
+---
+title: "Strafwerk"
+date: 2019-02-10T11:33:27.759949Z
+style: "Belgian Tripel"
+brewery: "Brouwerij De School"
+image: "https://labels.untappd.com/labels/1641382?size=hd"
+rating: "3.49"
+description: " "
+abv: "8.2"
+ibu: "28"
+---

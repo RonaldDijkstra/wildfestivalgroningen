@@ -1,0 +1,11 @@
+---
+title: "North Sea Bridges: Blood of Nidhoggr"
+date: 2019-02-10T11:53:54.141109Z
+style: "Sour - Ale"
+brewery: "Fierce Beer"
+image: "https://labels.untappd.com/labels/2797891?size=hd"
+rating: "3.85"
+description: "Black Sour"
+abv: "7.0"
+ibu: "0"
+---

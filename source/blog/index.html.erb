@@ -9,7 +9,12 @@ index: false
 
     <ul>
       <% page_articles.each do |article| %>
-        <li><%= article.title %></li>
+        <li>
+          <img src="<%= article.data.image %>" width="50">
+          <h2><%= article.title %> <%= article.data.style %></h2>
+          <div><%= article.data.abv %> % | <%= article.data.ibu %> IBU | <%= article.data.brewery %> | <%= article.data.rating %></div>
+          <p><%= article.data.description %></p>
+        </li>
       <% end %>
     </ul>
 

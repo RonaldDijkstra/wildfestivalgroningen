@@ -1,0 +1,11 @@
+---
+title: "Kriek Girardin 1882"
+date: 2019-02-10T11:32:51.868563Z
+style: "Lambic - Kriek"
+brewery: "Brouwerij Girardin"
+image: "https://labels.untappd.com/labels/29939?size=hd"
+rating: "3.68"
+description: ""
+abv: "5.0"
+ibu: "0"
+---

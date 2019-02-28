@@ -1,0 +1,11 @@
+---
+title: "Comrade Games"
+date: 2019-02-10T11:53:18.416100Z
+style: "IPA - International"
+brewery: "Moor Beer Company"
+image: "https://labels.untappd.com/labels/2146863?size=hd"
+rating: "3.71"
+description: "Collaboration with friends from Punk band x-state ride. No poser ipa"
+abv: "6.0"
+ibu: "0"
+---

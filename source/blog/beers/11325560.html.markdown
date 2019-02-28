@@ -1,0 +1,11 @@
+---
+title: "Coconut Milkshake Smeerolie"
+date: 2019-02-10T12:41:07.317018Z
+style: "Stout - Imperial Milk / Sweet"
+brewery: "De Moersleutel"
+image: "https://labels.untappd.com/labels/2859976?size=hd"
+rating: "4.11"
+description: "Infused with Coconut, Vanilla and lactose"
+abv: "10.0"
+ibu: "0"
+---

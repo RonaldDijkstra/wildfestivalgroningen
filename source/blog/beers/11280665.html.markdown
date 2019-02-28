@@ -1,0 +1,11 @@
+---
+title: "Meerpael Omkoperij"
+date: 2019-02-08T14:31:44.037894Z
+style: "Belgian Dubbel"
+brewery: "Sneeker Stadsbrouwerij Meerpael"
+image: "https://labels.untappd.com/labels/1249883?size=hd"
+rating: "3.37"
+description: ""
+abv: "7.3"
+ibu: "0"
+---

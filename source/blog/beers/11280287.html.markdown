@@ -1,0 +1,11 @@
+---
+title: "Tripel"
+date: 2019-02-08T14:07:35.906341Z
+style: "Belgian Tripel"
+brewery: "Brouwerij Martinus"
+image: "https://labels.untappd.com/labels/1334827?size=hd"
+rating: "3.54"
+description: ""
+abv: "8.6"
+ibu: "0"
+---

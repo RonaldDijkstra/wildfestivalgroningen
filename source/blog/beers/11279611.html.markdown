@@ -1,0 +1,11 @@
+---
+title: "En Garde"
+date: 2019-02-08T13:29:15.598544Z
+style: "Bière de Garde"
+brewery: "Brouwerij Kees"
+image: "https://labels.untappd.com/labels/2364405?size=hd"
+rating: "3.44"
+description: ""
+abv: "7.5"
+ibu: "35"
+---

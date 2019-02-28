@@ -1,0 +1,11 @@
+---
+title: "Nebuchadnezzar (2018)"
+date: 2019-02-10T11:42:51.907341Z
+style: "IPA - Imperial / Double"
+brewery: "Omnipollo"
+image: "https://labels.untappd.com/labels/2643318?size=hd"
+rating: "3.97"
+description: ""
+abv: "8.5"
+ibu: "100"
+---

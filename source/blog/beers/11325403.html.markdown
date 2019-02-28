@@ -1,0 +1,11 @@
+---
+title: "Small Batch Brews Baobab"
+date: 2019-02-10T12:08:47.263750Z
+style: "Witbier"
+brewery: "St Austell Brewery"
+image: "https://labels.untappd.com/labels/1637807?size=hd"
+rating: "3.53"
+description: "Wheat beer brewed with baobab. Inspired by the Eden Project."
+abv: "5.2"
+ibu: "0"
+---

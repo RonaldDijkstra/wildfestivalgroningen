@@ -1,0 +1,11 @@
+---
+title: "Stoarmmok"
+date: 2019-02-08T14:37:59.478151Z
+style: "Bock - Single / Traditional"
+brewery: "Admiraals BierBrouwerij"
+image: "https://labels.untappd.com/labels/2320136?size=hd"
+rating: "3.42"
+description: ""
+abv: "7.0"
+ibu: "22"
+---

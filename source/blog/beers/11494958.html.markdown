@@ -1,0 +1,11 @@
+---
+title: "Psychotronic Warlord"
+date: 2019-02-20T16:05:05.424203Z
+style: "IPA - Red"
+brewery: "Anarchy Brew Co."
+image: "https://labels.untappd.com/labels/3070174?size=hd"
+rating: "3.82"
+description: "Our Red IPA, launched early 2019.  Vegan-friendly."
+abv: "6.9"
+ibu: "15"
+---

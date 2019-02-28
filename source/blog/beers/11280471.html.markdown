@@ -1,0 +1,11 @@
+---
+title: "Waterloo Récolte Hiver"
+date: 2019-02-08T14:19:45.861472Z
+style: "Winter Warmer"
+brewery: "Waterloo Brewery Mont-St-Jean"
+image: "https://labels.untappd.com/labels/1833375?size=hd"
+rating: "3.31"
+description: ""
+abv: "6.0"
+ibu: "32"
+---

@@ -1,0 +1,11 @@
+---
+title: "Olan's Tart"
+date: 2019-02-10T12:36:40.451700Z
+style: "Sour - Ale"
+brewery: "Kinnegar Brewing"
+image: "https://labels.untappd.com/labels/1902922?size=hd"
+rating: "3.58"
+description: ""
+abv: "5.0"
+ibu: "0"
+---
