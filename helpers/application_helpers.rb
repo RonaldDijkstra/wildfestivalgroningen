@@ -104,25 +104,11 @@ module ApplicationHelpers
     end
   end
 
-  FILE_EXTENSION = /\.(\w+)$/.freeze
+  # FILE_EXTENSION = /\.(\w+)$/.freeze
 
-  # Current link to helper based on thoughtbot's aria current extension
-  # https://github.com/thoughtbot/middleman-aria_current
-  def current_link_to(*arguments, aria_current: "page", **options, &block)
-    if block_given?
-      text = capture(&block)
-      path = arguments[0]
-    else
-      text = arguments[0]
-      path = arguments[1]
-    end
-
-    link_options = options
-    resource_path = path.delete("/")
-
-    link_options["aria-current"] = aria_current if proxied_to == resource_path
-
-    locale_link_to(text, path, link_options)
+  # Url for current_page?
+  def url_for_current_page(page = current_page)
+    url_for(page.url, relative: false)
   end
 
   # Localized link_to
@@ -142,6 +128,31 @@ module ApplicationHelpers
     url_parts = url.split("#")
     url_parts[0] = extensions[:i18n].localized_path(url_parts[0], locale) ||
                    url_parts[0]
+    url = url_parts.join("#")
+    url = url_for(url, options)
+  end
+
+  # Get the current_page or match on path starts_with
+  def active_page?(path)
+    arg_url = url_for(path.split("#")[0], relative: false)
+    url_for_page = url_for_current_page()
+    path_matches = url_for_page.start_with?(arg_url) && arg_url != "/"
+
+    url_for_page == arg_url || path_matches
+  end
+
+  # Link_to with aria_current for active_page
+  # https://github.com/thoughtbot/middleman-aria_current
+  def current_link_to(*args, &block)
+    url_arg_index = block_given? ? 0 : 1
+    options_index = block_given? ? 1 : 2
+    args[options_index] ||= {}
+    options = args[options_index].dup
+
+    options["aria-current"] = "page" if active_page?(args[url_arg_index])
+
+    args[options_index] = options
+    locale_link_to(*args, &block)
   end
 
   def locale_pretty_url(url, options = {})

@@ -141,7 +141,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.85355'
+  rating: '3.85105'
   in_production: true
   untappd_beer_slug: orava-brewing-raznilla
   untappd_brewery_id: 195070
@@ -492,7 +492,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.61598'
+  rating: '3.62315'
   in_production: true
   untappd_beer_slug: left-handed-giant-brewing-bubble-vision
   untappd_brewery_id: 189129
@@ -1518,7 +1518,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.9149'
+  rating: '3.91248'
   in_production: true
   untappd_beer_slug: cloudwater-brew-co-pet-nat-slushie
   untappd_brewery_id: 189896
@@ -2350,7 +2350,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.75312'
+  rating: '3.75348'
   in_production: true
   untappd_beer_slug: left-handed-giant-brewing-more-glow-chinook
   untappd_brewery_id: 189129
@@ -2948,7 +2948,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.25793'
+  rating: '3.25926'
   in_production: true
   untappd_beer_slug: walhalla-brouwerij-and-proeflokaal-aphrodite-raspberry-berliner-weisse
   untappd_brewery_id: 248337
@@ -3615,7 +3615,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.52045'
+  rating: '3.52033'
   in_production: true
   untappd_beer_slug: kinnegar-brewing-skinny-legs
   untappd_brewery_id: 34471
@@ -5387,7 +5387,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.29003'
+  rating: '3.2918'
   in_production: true
   untappd_beer_slug: nevel-weide
   untappd_brewery_id: 129660
@@ -5729,7 +5729,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.85674'
+  rating: '3.85609'
   in_production: true
   untappd_beer_slug: vandenbroek-fruity-watergeus
   untappd_brewery_id: 56026
@@ -5821,7 +5821,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '4.22731'
+  rating: '4.22713'
   in_production: true
   untappd_beer_slug: brasserie-cantillon-gueuze-100-lambic-bio
   untappd_brewery_id: 202
@@ -5997,7 +5997,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.66705'
+  rating: '3.667'
   in_production: true
   untappd_beer_slug: bayerische-staatsbrauerei-weihenstephan-weihenstephaner-braupakt
   untappd_brewery_id: 88
@@ -6478,7 +6478,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.31569'
+  rating: '3.31567'
   in_production: true
   untappd_beer_slug: st-austell-brewery-korev
   untappd_brewery_id: 1186
@@ -6638,7 +6638,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '4.01488'
+  rating: '4.01493'
   in_production: true
   untappd_beer_slug: to-ol-black-malts-and-body-salts
   untappd_brewery_id: 2241
@@ -8161,7 +8161,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.69'
+  rating: '3.68982'
   in_production: true
   untappd_beer_slug: moor-beer-company-pma-positive-mental-attitude
   untappd_brewery_id: 8386
@@ -9412,7 +9412,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.87955'
+  rating: '3.87945'
   in_production: true
   untappd_beer_slug: siren-craft-brew-broken-dream-breakfast-stout
   untappd_brewery_id: 55184
@@ -9504,7 +9504,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.7713'
+  rating: '3.77049'
   in_production: true
   untappd_beer_slug: to-ol-sweet-chai-o-mine
   untappd_brewery_id: 2241
@@ -10476,7 +10476,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.73345'
+  rating: '3.73422'
   in_production: true
   untappd_beer_slug: pontus-brewing-allmouth
   untappd_brewery_id: 48991
@@ -11523,7 +11523,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.54639'
+  rating: '3.54644'
   in_production: true
   untappd_beer_slug: abbaye-de-maredsous-maredsous-6-blonde
   untappd_brewery_id: 6
@@ -11850,7 +11850,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '4.30388'
+  rating: '4.30387'
   in_production: true
   untappd_beer_slug: central-waters-brewing-company-cassian-sunset-2018
   untappd_brewery_id: 358
@@ -14104,7 +14104,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.4607'
+  rating: '3.4609'
   in_production: true
   untappd_beer_slug: oproer-blonde-enigma
   untappd_brewery_id: 247420
@@ -15452,7 +15452,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.47572'
+  rating: '3.47584'
   in_production: true
   untappd_beer_slug: brouwerij-de-prael-tripel
   untappd_brewery_id: 10733
@@ -15647,7 +15647,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.70379'
+  rating: '3.70272'
   in_production: true
   untappd_beer_slug: rock-city-brewing-space-joose
   untappd_brewery_id: 41477
@@ -17703,7 +17703,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.71604'
+  rating: '3.71609'
   in_production: true
   untappd_beer_slug: jopen-veluws-vuur
   untappd_brewery_id: 620
@@ -18033,7 +18033,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.57427'
+  rating: '3.57438'
   in_production: true
   untappd_beer_slug: jopen-maria-magdalena-4-eureka
   untappd_brewery_id: 620
@@ -18076,7 +18076,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.53281'
+  rating: '3.53244'
   in_production: true
   untappd_beer_slug: jopen-wheat-weet-mag-het-zeggen
   untappd_brewery_id: 620
@@ -18974,7 +18974,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '4.1749'
+  rating: '4.17461'
   in_production: true
   untappd_beer_slug: jopen-ex-girlfriend-ba-jamaican-rum
   untappd_brewery_id: 620
@@ -19140,7 +19140,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '4.18608'
+  rating: '4.18639'
   in_production: true
   untappd_beer_slug: brouwerij-de-molen-tsarina-esra-woodford-reserve-ba
   untappd_brewery_id: 3367
@@ -19257,7 +19257,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.94947'
+  rating: '3.93229'
   in_production: false
   untappd_beer_slug: brouwerij-de-molen-amarillo-extra-hop
   untappd_brewery_id: 3367
@@ -19294,7 +19294,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.48562'
+  rating: '3.48477'
   in_production: true
   untappd_beer_slug: rigters-pitch-black
   untappd_brewery_id: 200660
@@ -19925,7 +19925,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.41657'
+  rating: '3.41747'
   in_production: true
   untappd_beer_slug: brouwerij-de-werf-porno-blond
   untappd_brewery_id: 68907
@@ -20344,7 +20344,7 @@ items:
   cask: false
   nitro: false
   tap_number: 
-  rating: '3.0123'
+  rating: '3.01101'
   in_production: true
   untappd_beer_slug: het-uiltje-habbekrats
   untappd_brewery_id: 32280
