@@ -40,7 +40,7 @@ if response.code == "200"
       f.write("date: #{doc.updated_at}\n")
       f.write("style: \"#{doc.style}\"\n")
       f.write("brewery: \"#{doc.brewery}\"\n")
-      f.write("image: \"#{doc.label_image_hd}\"\n")
+      f.write("image: \"#{doc.label_image}\"\n")
       f.write("rating: \"#{doc.rating.to_f.round(2)}\"\n")
       f.write("description: \"#{doc.description.gsub(/\n/, " ").gsub(/"/, " ")}\"\n")
       f.write("untappd_url: \"https://untappd.com/b/#{doc.untappd_beer_slug}/#{doc.untappd_id}\"\n")

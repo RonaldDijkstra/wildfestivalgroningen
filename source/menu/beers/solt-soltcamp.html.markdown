@@ -3,7 +3,7 @@ title: "Soltcamp"
 date: 2019-02-08T14:06:49.165089Z
 style: "IPA - Belgian"
 brewery: "Solt"
-image: "https://labels.untappd.com/labels/2677594?size=hd"
+image: "https://labels.untappd.com/labels/2677594"
 rating: "3.51"
 description: ""
 untappd_url: "https://untappd.com/b/solt-soltcamp/2677594"

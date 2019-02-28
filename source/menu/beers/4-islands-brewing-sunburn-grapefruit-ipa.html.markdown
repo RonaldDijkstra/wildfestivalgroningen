@@ -3,7 +3,7 @@ title: "Sunburn Grapefruit IPA"
 date: 2019-02-20T15:57:45.564479Z
 style: "IPA - American"
 brewery: "4 Islands Brewing"
-image: "https://labels.untappd.com/labels/2354761?size=hd"
+image: "https://labels.untappd.com/labels/2354761"
 rating: "3.64"
 description: ""
 untappd_url: "https://untappd.com/b/4-islands-brewing-sunburn-grapefruit-ipa/2354761"

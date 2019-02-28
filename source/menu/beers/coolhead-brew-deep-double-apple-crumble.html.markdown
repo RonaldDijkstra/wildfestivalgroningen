@@ -3,7 +3,7 @@ title: "Deep Double Apple Crumble"
 date: 2019-02-20T15:59:36.066728Z
 style: "Sour - Ale"
 brewery: "CoolHead Brew"
-image: "https://labels.untappd.com/labels/3028493?size=hd"
+image: "https://labels.untappd.com/labels/3028493"
 rating: "3.65"
 description: "Brewed w/ Double Apples, Extra Caramelized Oats, Milk Sugar & Cinnamon"
 untappd_url: "https://untappd.com/b/coolhead-brew-deep-double-apple-crumble/3028493"

@@ -3,7 +3,7 @@ title: "Four Rooms Barleywine"
 date: 2019-02-10T11:57:31.914910Z
 style: "Barleywine - Other"
 brewery: "SanFrutos"
-image: "https://labels.untappd.com/labels/2888039?size=hd"
+image: "https://labels.untappd.com/labels/2888039"
 rating: "3.68"
 description: "Barley Wine con mezcal. Elaborada en Cerveza SanFrutos en febrero del 18 en colaboración con Mean Sardine Brewery, Propaganda Brewing y Cerveza Domus."
 untappd_url: "https://untappd.com/b/sanfrutos-four-rooms-barleywine/2888039"

@@ -3,7 +3,7 @@ title: "Stone Ruination Double IPA - Berlin"
 date: 2019-02-10T12:23:09.768315Z
 style: "IPA - Imperial / Double"
 brewery: "Stone Brewing - Berlin"
-image: "https://labels.untappd.com/labels/1452728?size=hd"
+image: "https://labels.untappd.com/labels/1452728"
 rating: "3.83"
 description: "Stone Berlin Version - Big, bold, bitter and hugely aromatic. A liquid poem to the glory of the hop."
 untappd_url: "https://untappd.com/b/stone-brewing-berlin-stone-ruination-double-ipa-berlin/1452728"
