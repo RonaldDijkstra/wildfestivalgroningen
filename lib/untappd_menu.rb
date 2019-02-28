@@ -29,7 +29,7 @@ if response.code == "200"
   result = JSON.parse(response.body, object_class: OpenStruct)
 
   result.items.each do |doc|
-    File.open("source/menu/beers/#{doc.id}.html.markdown", "w") do |f|
+    File.open("source/menu/beers/#{doc.untappd_beer_slug}.html.markdown", "w") do |f|
       f.write("---\n")
       f.write("title: \"#{doc.name}\"\n")
       f.write("date: #{doc.updated_at}\n")
