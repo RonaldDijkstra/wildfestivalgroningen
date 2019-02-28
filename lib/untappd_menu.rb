@@ -4,6 +4,7 @@ require "net/http"
 require "uri"
 require "yaml"
 require "json"
+require "fileutils"
 
 uri = URI.parse("https://business.untappd.com/api/v1/sections/350873/items")
 request = Net::HTTP::Get.new(uri)
@@ -18,6 +19,8 @@ response = Net::HTTP.start(uri.hostname, uri.port, req_options) do |http|
 end
 
 if response.code == "200"
+
+  FileUtils.rm_rf("source/blog/beers/.", secure: true)
 
   result = JSON.parse(response.body, object_class: OpenStruct)
 

@@ -1,11 +1,0 @@
----
-title: "Amorph"
-date: 2019-02-20T16:05:45.263821Z
-style: "IPA - Imperial / Double New England"
-brewery: "Vibrant Forest Brewery"
-image: "https://labels.untappd.com/labels/3041411?size=hd"
-rating: "4.07"
-description: "Number 2 in our series of single hop double IPAs.    Amorph takes Citra and smashes quite a lot of it up a bunch of oats and London Fog yeast.    Goopy, chewy tropical fruits.  Hefty grapefruit pith.  Long lasting citrus juice.    IT'S QUITE GOOD."
-abv: "8.0"
-ibu: "0"
----
