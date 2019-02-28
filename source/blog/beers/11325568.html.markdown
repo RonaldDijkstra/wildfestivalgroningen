@@ -8,4 +8,5 @@ rating: "3.6"
 description: "Rhode Runner uses smooth, organic malts and oats to produce a hazy, tropical tasting brew that’s perfect to enjoy as a session ale."
 abv: "5.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

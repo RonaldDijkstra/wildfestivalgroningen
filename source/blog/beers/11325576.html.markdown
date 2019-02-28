@@ -8,4 +8,5 @@ rating: "3.48"
 description: "Berliner Weisse with raspberries."
 abv: "3.7"
 ibu: "0"
+robots: noindex,nofollow
 ---

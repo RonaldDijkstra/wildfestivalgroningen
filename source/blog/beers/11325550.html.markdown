@@ -8,4 +8,5 @@ rating: "3.95"
 description: "Imperial Tiramisu Stout"
 abv: "10.2"
 ibu: "0"
+robots: noindex,nofollow
 ---

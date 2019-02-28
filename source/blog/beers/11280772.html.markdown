@@ -8,4 +8,5 @@ rating: "3.56"
 description: "Bitter en hoppig zoals een echte Amerikaanse IPA betaamt. Onderscheidend door zijn krachtige body."
 abv: "7.0"
 ibu: "66"
+robots: noindex,nofollow
 ---

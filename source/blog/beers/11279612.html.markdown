@@ -8,4 +8,5 @@ rating: "3.12"
 description: "A saison with pink pepper & hibiscus."
 abv: "5.9"
 ibu: "25"
+robots: noindex,nofollow
 ---

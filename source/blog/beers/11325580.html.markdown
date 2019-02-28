@@ -8,4 +8,5 @@ rating: "3.79"
 description: "Bogan was brewed in collaboration with Three Boys from New Zealand. A single dry hop New Zealand Pale Ale packed full of fresh Nelson Sauvin hops."
 abv: "5.5"
 ibu: "0"
+robots: noindex,nofollow
 ---

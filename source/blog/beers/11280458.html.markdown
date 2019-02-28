@@ -8,4 +8,5 @@ rating: "3.7"
 description: "This dark barley wine is a remake of the first collaboration between Oproer's founders: RUIG and Rooie Dop. Bittersweet and heavy, a hurricane of flavor."
 abv: "10.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.85"
 description: "Brewed with dark chocolate malt, English Brown malt and generous amounts of Amarillo hops supplying floral aromas of chocolate and coffee that lead into similarly smooth flavors and a bit of roast."
 abv: "9.5"
 ibu: "65"
+robots: noindex,nofollow
 ---

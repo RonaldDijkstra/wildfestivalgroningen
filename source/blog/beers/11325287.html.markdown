@@ -8,4 +8,5 @@ rating: "3.58"
 description: "A terrific golden summer session beer brewed exclusively with American hops to give a slight citrus character and a rich hop aroma. A relatively low ABV make this a true golden session ale to enjoy whatever the weather."
 abv: "3.5"
 ibu: "35"
+robots: noindex,nofollow
 ---

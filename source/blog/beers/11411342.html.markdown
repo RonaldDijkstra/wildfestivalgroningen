@@ -8,4 +8,5 @@ rating: "3.96"
 description: "Everything we like into one beer. Maple syrup, toasted almonds, bacon, coconut and vanilla. Caution! Contains actual nuts and real bacon."
 abv: "12.0"
 ibu: "65"
+robots: noindex,nofollow
 ---

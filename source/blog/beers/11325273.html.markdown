@@ -8,4 +8,5 @@ rating: "3.69"
 description: "A Pale Modern Ale for those with a Positive Mental Attitude.  Brewed in support of Hardcore Hits Cancer."
 abv: "5.3"
 ibu: "45"
+robots: noindex,nofollow
 ---

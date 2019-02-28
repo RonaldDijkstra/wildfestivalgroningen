@@ -8,4 +8,5 @@ rating: "3.81"
 description: "Zwaar donker bier met zoete, kruidige smaak en warme afdronk."
 abv: "10.0"
 ibu: "41"
+robots: noindex,nofollow
 ---

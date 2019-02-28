@@ -8,4 +8,5 @@ rating: "3.62"
 description: "Amarante Wild hops DH pale ale with daisy flowers."
 abv: "4.4"
 ibu: "0"
+robots: noindex,nofollow
 ---

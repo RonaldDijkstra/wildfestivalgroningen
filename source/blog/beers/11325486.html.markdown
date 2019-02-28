@@ -8,4 +8,5 @@ rating: "3.85"
 description: "Coffee vanilla porter"
 abv: "6.5"
 ibu: "20"
+robots: noindex,nofollow
 ---

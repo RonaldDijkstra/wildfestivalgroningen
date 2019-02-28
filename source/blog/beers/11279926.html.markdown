@@ -8,4 +8,5 @@ rating: "3.5"
 description: "Hops: Hallertauer Mittelfrüh, Select, Amarillo, Callista Zutaten: Brauwasser, Pilsner Malz(Steffi), Weizenmalz, Hopfen, Hefe; Bergamot Limonen"
 abv: "5.3"
 ibu: "0"
+robots: noindex,nofollow
 ---

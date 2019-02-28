@@ -8,4 +8,5 @@ rating: "4.04"
 description: "Flemish Sour Ale, fermented with our own wild house yeast strain 'Morpheus'. Barrel aged version of Omega, macerated with Grapes. "
 abv: "6.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

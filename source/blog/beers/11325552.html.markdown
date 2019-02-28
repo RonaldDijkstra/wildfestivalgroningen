@@ -8,4 +8,5 @@ rating: "3.78"
 description: "This is the third installment in our ongoing hop-forward hazy IPA series, where we keep changing the dry hops with each batch. In this edition we chose to go with a 6,4% beer, dryhopped with Citra, Mosaic and Nelson Sauvin hops. We think it may have magical properties… Drink fresh!"
 abv: "6.4"
 ibu: "30"
+robots: noindex,nofollow
 ---

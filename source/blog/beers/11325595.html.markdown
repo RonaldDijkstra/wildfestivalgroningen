@@ -8,4 +8,5 @@ rating: "3.42"
 description: "Grisette DDH with Citra and Cascade hops"
 abv: "4.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

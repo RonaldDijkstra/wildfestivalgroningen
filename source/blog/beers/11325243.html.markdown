@@ -8,4 +8,5 @@ rating: "0.0"
 description: "Collab with Siren Craft "
 abv: "5.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

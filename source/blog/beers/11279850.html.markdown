@@ -8,4 +8,5 @@ rating: "3.77"
 description: "Cookie Cream Stout- Eight malt varieties give a complex backbone to this  dessert in a glass  beer. Cacao nibs, biscuit and oats bring cookie to the party with the cream coming from lactose in the boil and a touch of vanilla.  Contains: Malted barley (gluten), oats, wheat, yeast, hops, water, cacao, vanilla  Suitable for vegetarians"
 abv: "5.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

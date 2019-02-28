@@ -8,4 +8,5 @@ rating: "3.63"
 description: "10.5° Plato | OG 1042.5 | ABV 4.2%  A Limonata Pale… An Ultra Pale which emulates almost toxic levels of citrus zing. A nuclear sherbet dib-dab of lemon, lime and tropical pineapple."
 abv: "4.2"
 ibu: "0"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "4.12"
 description: "Barrels Aged version of Meesterstuk 2018. Aged on Auchriosk Whiskey barrels for 320 days. Discover a subtle aroma of clove followed by a somewhat floral taste with dried fruit, caramel and spiced whisky."
 abv: "13.0"
 ibu: "25"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.46"
 description: "An enigmatic brew from the past has been given new life. It's not your standard Belgian blonde, but what is it then? It's mysterious, it's better, it's a blond ale. Drink it and be puzzled."
 abv: "6.2"
 ibu: "0"
+robots: noindex,nofollow
 ---

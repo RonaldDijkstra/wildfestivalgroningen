@@ -8,4 +8,5 @@ rating: "3.98"
 description: "Bang Bang Bang  This is of our new  Dessert Line  ! An Imperial Oatmeal Stout with a touch of Lactose infused with Marzipan, Vanilla and Chocolate!  "
 abv: "10.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

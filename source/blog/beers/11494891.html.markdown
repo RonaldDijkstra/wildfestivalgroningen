@@ -8,4 +8,5 @@ rating: "3.8"
 description: "Winner of 'Best Stout in Europe' at the World Beer Awards 2015. Our dark, voluptuous breakfast stout is infused with Ethiopian Guji natural coffee beans from Stafford-based coffee roaster, Hasbean. Velvety and viscous, it's balanced delicately with New Zealand hops.  Vegan friendly. "
 abv: "7.0"
 ibu: "32"
+robots: noindex,nofollow
 ---

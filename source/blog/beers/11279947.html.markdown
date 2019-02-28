@@ -8,4 +8,5 @@ rating: "3.72"
 description: "Wood Aged Strong Ale."
 abv: "9.5"
 ibu: "40"
+robots: noindex,nofollow
 ---

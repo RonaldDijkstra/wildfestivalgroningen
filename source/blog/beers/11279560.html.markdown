@@ -8,4 +8,5 @@ rating: "4.26"
 description: "Imperial stout fermented and aged in a blend of second fill scottish speyside whisky casks. Subtle wood and whisky character. Aged with vanilla, coffee beans and maple syrup."
 abv: "12.2"
 ibu: "74"
+robots: noindex,nofollow
 ---

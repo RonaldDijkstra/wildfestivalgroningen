@@ -8,4 +8,5 @@ rating: "3.59"
 description: "Yuzu and blood orange Gose. Brewed to a traditional Gose recipe with additions of Himalayan Pink Salt and Coriander before being fruited during fermentation.  Hops - East Kent Goldings Malt - Extra Pale, Wheat Yeast - US05 Other - Blood Orange, Yuzu, Lemon Peel, Himalayan Pink Salt, Coriander"
 abv: "4.8"
 ibu: "0"
+robots: noindex,nofollow
 ---

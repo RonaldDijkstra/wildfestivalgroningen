@@ -8,4 +8,5 @@ rating: "3.95"
 description: "Imperial Stout brewed with milk sugar and oak chips.  This beer is meant to improve trought the folds of spacetime.  Store it quiet, cool and dark. Drink it before you die."
 abv: "13.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

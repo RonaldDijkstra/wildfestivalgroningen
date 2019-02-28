@@ -8,4 +8,5 @@ rating: "3.82"
 description: "Our Red IPA, launched early 2019.  Vegan-friendly."
 abv: "6.9"
 ibu: "15"
+robots: noindex,nofollow
 ---

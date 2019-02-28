@@ -8,4 +8,5 @@ rating: "3.62"
 description: "A hoppy saison, it's launch day, that's all the info I have. "
 abv: "6.8"
 ibu: "0"
+robots: noindex,nofollow
 ---

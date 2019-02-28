@@ -8,4 +8,5 @@ rating: "3.62"
 description: "Het etiketbier van de Chaamse tripel van dorpsbrouwerij de Pimpelmeesch. Een blond bier van hoge gisting met 8,5% alcohol. Ambachtelijk gebrouwen met uitsluitend natuurlijke ingrediënten. licht gekoeld komt de fruitige en kruidige smaak het best tot zijn recht. De blonde snol heeft een stevige, stabiele schuimkraag en een licht parelende koolzuurstroom. Onder andere perfect bij de Pimpelmeesch kaas. Voor meer informatie: www.pimpelmeesch.nl"
 abv: "8.5"
 ibu: "0"
+robots: noindex,nofollow
 ---

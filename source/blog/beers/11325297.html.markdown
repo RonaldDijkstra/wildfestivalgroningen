@@ -8,4 +8,5 @@ rating: "3.68"
 description: "Barley Wine con mezcal. Elaborada en Cerveza SanFrutos en febrero del 18 en colaboración con Mean Sardine Brewery, Propaganda Brewing y Cerveza Domus."
 abv: "8.4"
 ibu: "52"
+robots: noindex,nofollow
 ---

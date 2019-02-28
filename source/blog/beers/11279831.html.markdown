@@ -8,4 +8,5 @@ rating: "3.38"
 description: "De eerste Nederlandse Alcoholvrije IPA"
 abv: "0.5"
 ibu: "50"
+robots: noindex,nofollow
 ---

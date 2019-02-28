@@ -8,4 +8,5 @@ rating: "3.85"
 description: "A mixed fermentation raspberry smoothie sour ale bombarded with raspberries, vanilla and lactose. "
 abv: "5.5"
 ibu: "0"
+robots: noindex,nofollow
 ---

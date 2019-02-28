@@ -8,4 +8,5 @@ rating: "3.46"
 description: "The second beer we put out is more about hops. Centennial hops provide a citrusy and grapefruity flavor and aroma. "
 abv: "5.0"
 ibu: "30"
+robots: noindex,nofollow
 ---

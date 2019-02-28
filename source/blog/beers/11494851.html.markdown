@@ -8,4 +8,5 @@ rating: "3.65"
 description: "Brewed w/ Double Apples, Extra Caramelized Oats, Milk Sugar & Cinnamon"
 abv: "6.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.54"
 description: "Our English Barleywine, brewed with Pale Ale and Crystal malts. This beer is rich and complex and has flavors of toffee, stonefruit, caramel and chocolate."
 abv: "11.5"
 ibu: "20"
+robots: noindex,nofollow
 ---

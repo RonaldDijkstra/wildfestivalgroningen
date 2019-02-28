@@ -8,4 +8,5 @@ rating: "3.32"
 description: "Sessions IPA with New Zealand Wakatu hops. Released under the Fresh & Fast program, February 7th 2019."
 abv: "3.9"
 ibu: "0"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.39"
 description: "Raspberry and Toasted Oatmeal pale"
 abv: "5.5"
 ibu: "25"
+robots: noindex,nofollow
 ---

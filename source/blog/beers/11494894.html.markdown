@@ -8,4 +8,5 @@ rating: "3.65"
 description: "An IPA with attitude - alcoholic tropical fruit juice + winner of 'Best IPA in the UK' at the World Beer Awards 2017.  Vegan-friendly."
 abv: "6.0"
 ibu: "56"
+robots: noindex,nofollow
 ---

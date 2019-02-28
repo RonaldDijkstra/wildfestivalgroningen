@@ -8,4 +8,5 @@ rating: "3.64"
 description: "Soft sweer flavours of coconut and blueberry blended with a rich, chocolatey malt bill.  Fermented on a Norwegian kveik yeast lending soft fruits to the finish."
 abv: "8.2"
 ibu: "0"
+robots: noindex,nofollow
 ---

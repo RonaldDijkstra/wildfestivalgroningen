@@ -8,4 +8,5 @@ rating: "3.4"
 description: "The perfect summer ale, an IPA brewed with Pink Grapefruits. These grapefruits give the beer a wonderfully fresh flavor and a tangy bitterness of grapefruit. Summer flavoured India Pale Ale!"
 abv: "5.5"
 ibu: "65"
+robots: noindex,nofollow
 ---

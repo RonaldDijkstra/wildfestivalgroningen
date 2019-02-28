@@ -8,4 +8,5 @@ rating: "3.53"
 description: "Wheat beer brewed with baobab. Inspired by the Eden Project."
 abv: "5.2"
 ibu: "0"
+robots: noindex,nofollow
 ---

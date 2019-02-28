@@ -8,4 +8,5 @@ rating: "4.02"
 description: "C.H.U.D - CHRISTMAS HATING UNDERGROUND DWELLER  ‘Twas the night before Christmas, and down in the sewer, Something was lurking, a festive evildoer. Born of hangovers and fights and unwanted gifts, And rotten mistletoe that’s never seen a kiss. He plans to destroy Christmas, so go check your cellar, To avoid being taken by the.... Christmas Hating Underground Dweller. "
 abv: "10.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

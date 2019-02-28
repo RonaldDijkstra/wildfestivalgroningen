@@ -8,4 +8,5 @@ rating: "3.48"
 description: "A traditional weizen beer with a soft, full taste and a smooth aftertaste."
 abv: "6.0"
 ibu: "18"
+robots: noindex,nofollow
 ---

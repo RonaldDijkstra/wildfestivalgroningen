@@ -8,4 +8,5 @@ rating: "3.5"
 description: "Collab with Dampegheest. Blond brewed out of eenkoorn grain with whey in the mash. Hopped with cascade and athanum."
 abv: "6.5"
 ibu: "35"
+robots: noindex,nofollow
 ---

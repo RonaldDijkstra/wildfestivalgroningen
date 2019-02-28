@@ -8,4 +8,5 @@ rating: "4.01"
 description: "Raspberry Créme Brulée Sour."
 abv: "6.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

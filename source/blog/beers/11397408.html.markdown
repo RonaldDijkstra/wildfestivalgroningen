@@ -8,4 +8,5 @@ rating: "3.81"
 description: "Very dark and full beer. Coffee and chocolate tastes. Vanilla and seasalt in the recipe. Winner Bronze medal Dutch Beer Challenge 2018."
 abv: "10.0"
 ibu: "70"
+robots: noindex,nofollow
 ---

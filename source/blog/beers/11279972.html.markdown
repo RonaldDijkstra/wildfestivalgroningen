@@ -8,4 +8,5 @@ rating: "3.69"
 description: "We interred our Baltic Porter 'Archipelago' into fresh Grappa barrels, intending to brew up a truly festive treat. Svalbard is unsubtle. The aroma brings forth fond memories of deep winter, all roasting evergreen logs and sticky fruit treats, both lit with brandy. Immediately, this is replaced by a thick dripping of almond, cream, and brandied dried fruits. This is carnage, utter Christmas Cake.  "
 abv: "8.1"
 ibu: "35"
+robots: noindex,nofollow
 ---

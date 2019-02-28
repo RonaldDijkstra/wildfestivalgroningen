@@ -8,4 +8,5 @@ rating: "3.96"
 description: "Maximón is a Mayan deity represented in various forms - also as a beer. A complex, moderately spicy, smooth and full-bodied Baltic Porter. There's a hint of fruity chili combined with sweet and rich chocolate notes."
 abv: "10.5"
 ibu: "0"
+robots: noindex,nofollow
 ---

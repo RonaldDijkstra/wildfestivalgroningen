@@ -8,4 +8,5 @@ rating: "3.58"
 description: "Our S.M.A.S.H. series (Single Malt And Single Hop).  Single Hop: Amarillo Single Malt: Munich  Vegan-friendly."
 abv: "5.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

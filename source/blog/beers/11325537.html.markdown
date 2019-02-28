@@ -8,4 +8,5 @@ rating: "3.77"
 description: "Imperial porter is brewed with toasted coconut, roasted cacao nibs and Ron's cold pressed coffee for the morning kick."
 abv: "8.4"
 ibu: "0"
+robots: noindex,nofollow
 ---

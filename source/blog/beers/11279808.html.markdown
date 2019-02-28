@@ -8,4 +8,5 @@ rating: "3.6"
 description: "A strong and gluten-free IPA. This variant has been made with mosaic hops and has a pronounced mix of piney, tropical and citrussy hoppy aroma's."
 abv: "6.0"
 ibu: "65"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.31"
 description: "The mighty Kong gets a mighty beer! An 8% tripel dry-hopped with toasted coconut. Fermented at a higher temperature to create a hint of banana."
 abv: "8.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

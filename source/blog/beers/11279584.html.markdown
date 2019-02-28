@@ -8,4 +8,5 @@ rating: "3.42"
 description: "Porno blond is (stiekem) altijd lekker. Fris, zoet en zacht. Noem het een guilty pleasure. Noem het een tikkeltje ordinair. wij noem het gewoon een geil biertje. Proost!"
 abv: "6.0"
 ibu: "12"
+robots: noindex,nofollow
 ---

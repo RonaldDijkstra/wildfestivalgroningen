@@ -8,4 +8,5 @@ rating: "3.48"
 description: "This tasteful collab between the 'crazy chef' of Karel 5 and the brewers of Oproer, is a fresh IPA. Made with the special element verveine, harvested from the monastery garden of Karel 5."
 abv: "4.3"
 ibu: "0"
+robots: noindex,nofollow
 ---

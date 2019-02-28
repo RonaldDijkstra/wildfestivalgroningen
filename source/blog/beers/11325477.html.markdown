@@ -8,4 +8,5 @@ rating: "3.77"
 description: "Our flagship - 2010 World Beer Cup gold medal award - brewed and hopped with American, Centennial, Cascades, Columbus and Simcoe hops"
 abv: "7.2"
 ibu: "65"
+robots: noindex,nofollow
 ---

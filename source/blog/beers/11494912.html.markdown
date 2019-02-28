@@ -8,4 +8,5 @@ rating: "3.83"
 description: "HOPS - Columbus, Mosaic, Chinook, Simcoe MALT - Maris Otter, Maris Otter Extra Pale, Carapils, Oats YEAST - US-05"
 abv: "6.6"
 ibu: "0"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.71"
 description: "Blitzen is a Christmas Kriek.  It’s been soured overnight, before being hit with mountains of cherry.  It’s deeply tart, with cherry sweetness cutting through it.  Merry Christmas ya filthy animals!  Goes well with Cheer, goodwill and tidings."
 abv: "3.4"
 ibu: "0"
+robots: noindex,nofollow
 ---

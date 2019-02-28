@@ -8,4 +8,5 @@ rating: "3.62"
 description: "Bubble Vision, an 8% Double India Pale Lager. Brewed with heaps of Citra and Mandarina Bavaria this guy brings together dank green hops, marmalade bitterness, a clean finish and a good long time lagering over the Christmas period.   HOPS - Citra, Mandarina Bavaria MALT - Extra Pale, Pilsner, Munich YEAST - S-189"
 abv: "8.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

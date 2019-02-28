@@ -8,4 +8,5 @@ rating: "3.92"
 description: "Black and sticky to the bone!"
 abv: "10.5"
 ibu: "108"
+robots: noindex,nofollow
 ---

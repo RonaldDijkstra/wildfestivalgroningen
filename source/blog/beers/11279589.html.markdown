@@ -8,4 +8,5 @@ rating: "3.91"
 description: "A roasted chocolate/coffee alcohol explosion for the beer drinker who already tasted the whole spectrum."
 abv: "11.0"
 ibu: "90"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.75"
 description: "Single Hop IPA HOPS - Chinook MALT - Maris Otter Extra Pale, Oats, Wheat, Carapils YEAST - US-05"
 abv: "6.4"
 ibu: "0"
+robots: noindex,nofollow
 ---

@@ -2,6 +2,7 @@
 
 require_relative "./lib/colorizer"
 
+## What's this sourcery
 def project_name
   "Wildfestival Groningen #WFG 🍺"
 end
@@ -30,8 +31,12 @@ end
 ## Build the website
 task :build do
   puts "== Project: " + project_name.green
-  puts "== Brewing in verbose mode...".green
-  system "bundle exec middleman build --verbose" || exit(1)
+  puts "== Retrieving external data..."
+  system "ruby lib/untappd_menu.rb" || exit(1)
+  puts "== Retrieved external data".green
+  puts "== Brewing...".green
+  system "bundle exec middleman build" || exit(1)
+  FileUtils.rm_rf("source/blog/beers/", verbose: true)
 end
 
 ## Build & Proof

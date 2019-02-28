@@ -8,4 +8,5 @@ rating: "3.6"
 description: "DAVO Road Trip is een blonde en krachtige tripel. Het goudgele bier is zoet en verwarmend door het stevige alcoholpercentage.   Het fruitige karakter maakt het bier zeer toegankelijk en gevaarlijk doordrinkbaar!"
 abv: "8.5"
 ibu: "28"
+robots: noindex,nofollow
 ---

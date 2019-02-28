@@ -8,4 +8,5 @@ rating: "3.91"
 description: "Hops - Columbus, Mosaic, Citra, Galaxy, Simcoe Malt - Maris Otter Extra Pale, Caragold, Carapils, Oats, Wheat Yeast - WLP002"
 abv: "5.6"
 ibu: "0"
+robots: noindex,nofollow
 ---

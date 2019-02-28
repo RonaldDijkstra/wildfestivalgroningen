@@ -8,4 +8,5 @@ rating: "3.46"
 description: "Gewoon goed blond bier met een bittertje "
 abv: "5.1"
 ibu: "35"
+robots: noindex,nofollow
 ---

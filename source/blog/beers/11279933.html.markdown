@@ -8,4 +8,5 @@ rating: "4.07"
 description: "Conca d’Oro is a rich Imperial Stout aged in Chianti Classico barrels from the prestigious Tuscany winery, Candialle. Named after Conca d’Oro (Golden Bowl) in Panzano in Chianti, the valley where the winery is located. This limited edition Imperial Stout is full bodied and velvety smooth with piquant Chianti and vanilla notes from the French oak barrel."
 abv: "11.5"
 ibu: "24"
+robots: noindex,nofollow
 ---

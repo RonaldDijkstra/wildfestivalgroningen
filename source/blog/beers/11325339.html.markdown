@@ -8,4 +8,5 @@ rating: "3.56"
 description: "Peach iced tea "
 abv: "4.5"
 ibu: "0"
+robots: noindex,nofollow
 ---

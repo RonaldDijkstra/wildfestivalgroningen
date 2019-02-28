@@ -8,4 +8,5 @@ rating: "3.7"
 description: "Kinnegar Special Coconut Porter"
 abv: "4.8"
 ibu: "0"
+robots: noindex,nofollow
 ---

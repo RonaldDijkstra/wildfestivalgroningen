@@ -36,6 +36,7 @@ if response.code == "200"
       f.write("description: \"#{doc.description.gsub(/\n/, " ").gsub(/"/, " ")}\"\n")
       f.write("abv: \"#{doc.abv}\"\n")
       f.write("ibu: \"#{doc.ibu.to_f.round(0)}\"\n")
+      f.write("robots: noindex,nofollow\n")
       f.write("---\n")
       f.close
     end

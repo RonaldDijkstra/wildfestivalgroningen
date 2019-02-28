@@ -8,4 +8,5 @@ rating: "3.49"
 description: "Ons eerste Limited edition, een scotch ale. Donker, bos-achtig met een kruidig zoetje."
 abv: "6.5"
 ibu: "36"
+robots: noindex,nofollow
 ---

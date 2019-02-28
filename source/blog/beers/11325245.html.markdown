@@ -8,4 +8,5 @@ rating: "3.67"
 description: "This dark brown ale features unique notes of freshly roasted grain from the malts we grew and roasted ourselves in our own coffee roaster in the brew house."
 abv: "5.7"
 ibu: "37"
+robots: noindex,nofollow
 ---

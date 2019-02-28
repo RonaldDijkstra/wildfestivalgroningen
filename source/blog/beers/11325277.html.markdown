@@ -8,4 +8,5 @@ rating: "3.66"
 description: "“The Empire has pushed the Rebels back. No longer are new world hops the only ones strong enough to hold your loyalty. Modern English hops are having a big impact on the front lines – bolder, brighter and more powerful than before. The Empire has returned. Show your allegiance.” "
 abv: "5.7"
 ibu: "0"
+robots: noindex,nofollow
 ---

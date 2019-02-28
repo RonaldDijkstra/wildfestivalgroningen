@@ -8,4 +8,5 @@ rating: "3.4"
 description: "Een fris, licht en fruitig blondbier"
 abv: "5.0"
 ibu: "20"
+robots: noindex,nofollow
 ---

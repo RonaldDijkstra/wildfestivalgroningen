@@ -8,4 +8,5 @@ rating: "3.54"
 description: "A full bodied, strong stout with an abundance of roasted malt flavours. Liquorice, molasses ans a hint of sweetness."
 abv: "6.2"
 ibu: "65"
+robots: noindex,nofollow
 ---

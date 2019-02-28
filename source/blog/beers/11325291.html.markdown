@@ -8,4 +8,5 @@ rating: "3.75"
 description: "This wonderful rich stout is made with freshly roasted Columbian coffee beans from our friends Mozzo in Southampton. Kick-start pours an opaque black and the aroma is dark roasted malts with a big kick of coffee/espresso.  The taste leads with full-bodied dark roasted coffee upfront and oats inject a nice smooth texture to finish.  Previously called Radicale Oat and Coffee Stout. "
 abv: "5.7"
 ibu: "0"
+robots: noindex,nofollow
 ---

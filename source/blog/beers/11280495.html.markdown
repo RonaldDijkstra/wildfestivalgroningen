@@ -8,4 +8,5 @@ rating: "4.11"
 description: "Old Fisherman's Ale, matured for 4 years on Bordeaux wine oak barrels from France. Vintage 2014, bottled 2018."
 abv: "10.0"
 ibu: "27"
+robots: noindex,nofollow
 ---

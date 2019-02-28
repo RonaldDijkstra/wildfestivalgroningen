@@ -8,4 +8,5 @@ rating: "4.52"
 description: "Canadian Breakfast Stout is an Imperial Stout brewed with a blend of coffees and imported chocolates, then aged in spent bourbon barrels that have most recently been aging pure Michigan maple syrup.  Brewed in 2018."
 abv: "11.7"
 ibu: "45"
+robots: noindex,nofollow
 ---

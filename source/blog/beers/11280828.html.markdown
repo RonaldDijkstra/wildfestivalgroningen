@@ -8,4 +8,5 @@ rating: "3.68"
 description: "Grapefruit - Marmalade - Pine - Bitter-Sweet  All this hop is balanced with monumental quantities of British malted barley to create a 6.4% full bodied pale ale. Dangerously quaffable.  "
 abv: "6.4"
 ibu: "50"
+robots: noindex,nofollow
 ---

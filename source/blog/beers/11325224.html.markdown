@@ -8,4 +8,5 @@ rating: "3.67"
 description: "Dry hopped sour"
 abv: "6.7"
 ibu: "0"
+robots: noindex,nofollow
 ---

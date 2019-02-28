@@ -8,4 +8,5 @@ rating: "3.35"
 description: "Onze American Pale Ale heeft een overtuigend meerhoppig karakter. Helder, goudgeel kleurig bier met intens kruidige smaak. Ingrediënten: pilsmout, ongemoute spelt (30%), tarwe-, en Munichmout, Saazhop, water en gist. "
 abv: "8.0"
 ibu: "50"
+robots: noindex,nofollow
 ---

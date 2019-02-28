@@ -8,4 +8,5 @@ rating: "3.59"
 description: "Brouwer Patrick Breugem vroeg de mannen van Zaanse Sambal of zij een idee hadden met peper in bier. Nou, dat was niet tegen dovemansoren gezegd.. het resultaat mag er zijn! De Stout is eerst als kleine batch gebrouwen maar na het winnen van goud op de Dutch Beer Challenge 2018 hebben we er maar wat meer van gebrouwen ;-)"
 abv: "8.0"
 ibu: "42"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.79"
 description: "Mash up of spicy Rye and zesty Hops. One of our first recipes that made it out the kitchen.  Malt: Simpsons Best, Rye, Crystal Rye, CaraGold, Low colour Crystal  Hops: Magnum, Columbus, Cascade, Citra, Galaxy."
 abv: "6.2"
 ibu: "65"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.64"
 description: "Belgian Blonde Ale envellida 8 mesos en barrica Pineaux."
 abv: "8.3"
 ibu: "18"
+robots: noindex,nofollow
 ---

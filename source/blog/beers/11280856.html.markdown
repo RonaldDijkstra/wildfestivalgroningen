@@ -8,4 +8,5 @@ rating: "3.96"
 description: "Sigma aged on red wine barrels. Imperial Oud Bruin. Fermented with our own wild house yeast strain 'Morpheus'. "
 abv: "8.0"
 ibu: "5"
+robots: noindex,nofollow
 ---

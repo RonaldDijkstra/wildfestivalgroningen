@@ -8,4 +8,5 @@ rating: "3.82"
 description: "Version 1 of our DDH IPA. 1st dry hop: Southern Cross 2nd dry hop: Amarillo & Pacifica Mix.  Vegan-friendly."
 abv: "6.0"
 ibu: "24"
+robots: noindex,nofollow
 ---

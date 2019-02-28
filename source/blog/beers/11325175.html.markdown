@@ -8,4 +8,5 @@ rating: "3.84"
 description: "Speciaal gelagerd op Amerikaanse Woodford Bourbon vaten"
 abv: "10.0"
 ibu: "40"
+robots: noindex,nofollow
 ---

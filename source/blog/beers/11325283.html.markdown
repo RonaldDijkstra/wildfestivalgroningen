@@ -8,4 +8,5 @@ rating: "3.85"
 description: "Black Sour"
 abv: "7.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

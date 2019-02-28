@@ -8,4 +8,5 @@ rating: "3.73"
 description: "This tart ale is packed with a supergroup of seasonal berries, with sweet notes of raspberry, blackberry and blackcurrant that balance off a puckering sour punch. This is a beer with the ROAR levels turned up to 11, so lets get jammin!"
 abv: "4.5"
 ibu: "0"
+robots: noindex,nofollow
 ---

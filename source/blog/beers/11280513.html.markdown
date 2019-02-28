@@ -8,4 +8,5 @@ rating: "3.48"
 description: "Tasteful beer smoothy with fruity flavors and a creamy, soft mouthfeel.  Juicy, fruit-forward hops flavors and aroma, complemented by the stone-fruit and tropical-fruit esters produced by a remarkable expressive yeast strain."
 abv: "5.0"
 ibu: "30"
+robots: noindex,nofollow
 ---

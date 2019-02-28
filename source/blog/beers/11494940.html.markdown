@@ -8,4 +8,5 @@ rating: "3.96"
 description: "Hops - Mosaic, Ekuanot, Vic Secret, Galaxy Malt - Maris Otter Extra Pale, Wheat, Carapils, Oats, Munich I Yeast - WLP002"
 abv: "6.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.37"
 description: "This is a Zuiglam beer with blood orange added before botteling. Limited to 300 liters. "
 abv: "6.0"
 ibu: "38"
+robots: noindex,nofollow
 ---

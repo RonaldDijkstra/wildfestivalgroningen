@@ -8,4 +8,5 @@ rating: "3.97"
 description: "An intense, roast, toffee-like porter.  Smooth malty body, intense malt flavours with a soft and velvet finish.   Hop Variety: Herkules"
 abv: "7.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

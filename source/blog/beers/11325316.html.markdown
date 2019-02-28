@@ -8,4 +8,5 @@ rating: "3.5"
 description: "A golden, straw coloured bitter, brewed with Cascade hops adding a flinty, grapefruit aroma that is deliciously refreshing."
 abv: "4.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

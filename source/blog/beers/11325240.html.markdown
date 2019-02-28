@@ -8,4 +8,5 @@ rating: "3.81"
 description: "Blend of grains, untouched post fermentation and aspiringly hopped with Simcoe, Citra and Centennial."
 abv: "6.2"
 ibu: "65"
+robots: noindex,nofollow
 ---

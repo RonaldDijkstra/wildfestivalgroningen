@@ -8,4 +8,5 @@ rating: "3.44"
 description: "unfiltered, cloudy blond beer. Inspired by the monks of old. They used to brew beer for their own consumption, but as aware of their obligations, they created a version with less alcohol but a lot of taste. "
 abv: "5.5"
 ibu: "0"
+robots: noindex,nofollow
 ---

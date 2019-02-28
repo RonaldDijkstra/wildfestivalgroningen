@@ -8,4 +8,5 @@ rating: "4.19"
 description: "8.7% Bourbon Barrel Aged Tropical Stout with Cacao Nibs & Cypress Wood  This is a special barrel aged version of Caribbean Chocolate Cake, one of our all-time favourite beers brewed in collaboration with Cigar City Brewing. Our dense, rich and luxurious stout has been ageing in a selection of bourbon barrels, picking up delicious vanilla, whiskey and wood character."
 abv: "8.7"
 ibu: "0"
+robots: noindex,nofollow
 ---

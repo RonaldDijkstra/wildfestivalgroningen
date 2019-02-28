@@ -8,4 +8,5 @@ rating: "3.96"
 description: "Hel & Verdoemenis is bursting with flavors. Bitter, roasted, chocolate, coffee. All times 2. It's this why it's our Flag Ship and best selling Imperial Stout. Flavour indication: chocolate, coffee Translates as  Hell & Damnation"
 abv: "10.0"
 ibu: "102"
+robots: noindex,nofollow
 ---

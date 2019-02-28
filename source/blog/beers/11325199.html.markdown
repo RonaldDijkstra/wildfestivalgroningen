@@ -8,4 +8,5 @@ rating: "3.79"
 description: "The first release of the Pontus Monster Brews is a super fruity Imperial I.P.A, surprisingly light in body but will strike a punch with 10%!"
 abv: "10.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "4.22"
 description: "BA Barley Wine-ish, aged on bourbon barrels, with almond extract added."
 abv: "11.2"
 ibu: "37"
+robots: noindex,nofollow
 ---

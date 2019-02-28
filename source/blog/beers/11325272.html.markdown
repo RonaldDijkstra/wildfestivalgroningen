@@ -8,4 +8,5 @@ rating: "3.61"
 description: "Ultra pale, ultra modern, ultra hoppy. This sexy beer showcasing northern hemisphere hops will leave your sense pushed to overdrive"
 abv: "4.1"
 ibu: "30"
+robots: noindex,nofollow
 ---

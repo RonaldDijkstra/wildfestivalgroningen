@@ -8,4 +8,5 @@ rating: "3.37"
 description: "Historic Dutch Recipe called Luiks Bier. The recipe describes the use of 55% spelt malt, 20% unmalted wheat And 25% barley malt. Firmly hopped With classic European hops up To 45 EBU."
 abv: "5.5"
 ibu: "45"
+robots: noindex,nofollow
 ---

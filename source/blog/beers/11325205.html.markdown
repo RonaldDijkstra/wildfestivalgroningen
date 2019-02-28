@@ -8,4 +8,5 @@ rating: "3.46"
 description: "Wheat Mango IPA"
 abv: "5.4"
 ibu: "0"
+robots: noindex,nofollow
 ---

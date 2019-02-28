@@ -8,4 +8,5 @@ rating: "3.74"
 description: "Smoked Porter with hints of orange peel, smoked malt, coffee and chocolate. Creamy porter. "
 abv: "8.0"
 ibu: "28"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.87"
 description: "14.3° Plato | OG 1058 | ABV 6.3%  Supercharged India Pale Ale.... Rich/bright & amber/bronze with lots of American hop aroma. Distinctly bittersweet on the palate with a massive hop complexity fashioned deep within the IPA tradition."
 abv: "6.3"
 ibu: "0"
+robots: noindex,nofollow
 ---

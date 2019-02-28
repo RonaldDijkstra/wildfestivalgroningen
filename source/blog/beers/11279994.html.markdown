@@ -8,4 +8,5 @@ rating: "3.32"
 description: "Een fris en fruitige doordrinkbare saison. Gebrouwen met rogge voor een stoere punch"
 abv: "4.7"
 ibu: "25"
+robots: noindex,nofollow
 ---

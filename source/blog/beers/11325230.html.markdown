@@ -8,4 +8,5 @@ rating: "3.75"
 description: "Exploding with tropical fruit, the simple grain bill accentuates the citrus and grassy notes of the hops while still allowing the flavour to linger. A hoppy golden ale that is awesome and lethal at the same time.  Cobbled together from the old brew house, a simple Mr Fusion Home Energy Reactor and gold spray paint, Robohop stood alone between KAIJU! HQ and the cataclysm. Too bad his reactor consumed more hops than the ravaging beasts.  "
 abv: "5.7"
 ibu: "40"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.13"
 description: "As collaboration brew with Blauwe IJsbeer, we brewed a session weizen IPA. A mix of fruitiy esthers from the weizen and hoppy bitterness at a drinkable alcohol level of 3%"
 abv: "3.0"
 ibu: "27"
+robots: noindex,nofollow
 ---

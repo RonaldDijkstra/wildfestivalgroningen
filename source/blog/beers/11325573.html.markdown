@@ -8,4 +8,5 @@ rating: "3.92"
 description: "Siempre es buen momento para volver a disfrutar con una cerveza negra. Cuerpo cremoso con notas intensas de café y cacao, redondeado con los matices resinosos y amargos del lúpulo Chinook."
 abv: "9.0"
 ibu: "100"
+robots: noindex,nofollow
 ---

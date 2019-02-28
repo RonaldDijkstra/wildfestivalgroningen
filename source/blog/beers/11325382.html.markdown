@@ -8,4 +8,5 @@ rating: "4.01"
 description: "While abstaining from being schizophrenic, this beer is everything. IIPA, Coffee Beer, Stout. Expect the best put together in the toughest balance between hops, coffee, light malts and dark malts.  A Black Imperial IPA brewed with black malts, body salts and french press coffee."
 abv: "9.9"
 ibu: "120"
+robots: noindex,nofollow
 ---

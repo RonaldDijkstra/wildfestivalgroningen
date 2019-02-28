@@ -8,4 +8,5 @@ rating: "3.48"
 description: "The first beer we put out officially. Mannenliefde is a saison flavoured with lemongrass, Szechuan pepper and Sorachi Ace hops."
 abv: "6.0"
 ibu: "25"
+robots: noindex,nofollow
 ---

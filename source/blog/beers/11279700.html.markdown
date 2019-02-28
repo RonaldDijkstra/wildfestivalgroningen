@@ -8,4 +8,5 @@ rating: "4.15"
 description: "Barrel aged version of the Don't tRYE this @Home Rye Wine. Aged for 228 days in cognac barrels (French oak)."
 abv: "12.5"
 ibu: "30"
+robots: noindex,nofollow
 ---

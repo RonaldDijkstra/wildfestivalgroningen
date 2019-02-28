@@ -8,4 +8,5 @@ rating: "4.09"
 description: "Our classic Gose infused with the delicious flavors of key lime pie."
 abv: "4.0"
 ibu: "10"
+robots: noindex,nofollow
 ---

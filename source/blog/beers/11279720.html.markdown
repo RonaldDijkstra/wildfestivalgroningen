@@ -8,4 +8,5 @@ rating: "3.46"
 description: "Bourbon infused Dubbelbock. Gebrouwen met BierNetwerk"
 abv: "9.0"
 ibu: "20"
+robots: noindex,nofollow
 ---

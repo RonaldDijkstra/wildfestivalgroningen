@@ -8,4 +8,5 @@ rating: "3.82"
 description: "A Pale Ale brewed with Citra, Mosaic & Simcoe."
 abv: "5.2"
 ibu: "0"
+robots: noindex,nofollow
 ---

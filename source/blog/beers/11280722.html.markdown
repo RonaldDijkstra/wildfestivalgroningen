@@ -8,4 +8,5 @@ rating: "3.92"
 description: "A collaboration brewed together with Brouwerij Kees. Imperial Stout infused with dates, coconut and tonka beans.  The idea to brew this beautiful beer was born in Paris, France in the Summer of 2017. Sori and Kees fell in love with each others beers and that was it. Every good date night ends in a dessert that makes you smile.  Ours is a sweet dessert like Imperial Stout that is infused with dates, coconut and tonka beans."
 abv: "9.5"
 ibu: "48"
+robots: noindex,nofollow
 ---

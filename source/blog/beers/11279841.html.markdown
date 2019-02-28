@@ -8,4 +8,5 @@ rating: "3.16"
 description: "Enjoy the ride is a traditional  Koninginnebier  (Queens beer) from the Netherlands. A brown ale brewed with poppy leafs. Brewed for the Enjoy the ride event in Nijmegen."
 abv: "4.5"
 ibu: "30"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "4.11"
 description: "Infused with Coconut, Vanilla and lactose"
 abv: "10.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

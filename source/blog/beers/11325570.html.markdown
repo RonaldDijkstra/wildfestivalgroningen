@@ -8,4 +8,5 @@ rating: "3.41"
 description: "Grisette aged in Somontano wine barrels for 8 months."
 abv: "4.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

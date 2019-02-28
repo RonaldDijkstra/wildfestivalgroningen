@@ -8,4 +8,5 @@ rating: "3.26"
 description: "A bottom-fermenting copper colored beer for all seasons!  Malty flavor with a slightly bitter aftertaste. The beer is unfiltered and unpasteurized.  Ingredients:  Water, malted barley, hops, and bottom-fermenting yeast  Serving suggestion: Maallust Pint Glass  Serving temperature: 5 to 6 degrees Celsius (41 to 42.8 degrees Fahrenheit)"
 abv: "5.0"
 ibu: "26"
+robots: noindex,nofollow
 ---

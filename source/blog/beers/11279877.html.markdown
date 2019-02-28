@@ -8,4 +8,5 @@ rating: "3.86"
 description: "Red Wine BA Imperial Red Ale"
 abv: "13.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

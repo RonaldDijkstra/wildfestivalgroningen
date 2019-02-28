@@ -8,4 +8,5 @@ rating: "3.48"
 description: "Ultra Pale Ale"
 abv: "4.1"
 ibu: "69"
+robots: noindex,nofollow
 ---

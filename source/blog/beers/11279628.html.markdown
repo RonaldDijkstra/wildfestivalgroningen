@@ -8,4 +8,5 @@ rating: "3.49"
 description: "Pitch Black IPA is een  collab  tussen de Twentse brouwers Rigters en Rubelijn. Black IPA, dat kan toch niet? In Amerika denken ze van wel. India Pale Ale heeft van nature een koperachtige kleur en zeker geen zwarte zoals deze Pitch Black. Black IPA is een bier met de kleur van een stout en het smaakprofiel van een IPA. Door gebruik te bakenvan ontbitterende zwarte mout en typische Amerikaanse hopsoorten krijgt deze Pitch Black IPA een zeer uniek karakter."
 abv: "7.6"
 ibu: "88"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.67"
 description: "West Coast Pale.  Citrus hops balanced with cutting bitterness. Easy drinking beer which will leave you wanting more. "
 abv: "4.5"
 ibu: "45"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.45"
 description: "Beerskey is een uniek speciaalbier gebrouwen met op turf afgeëeste. Het bier is best of both worlds omdat het de unieke eigenschappen combineert van rijk en krachtig speciaalbier en een stevig geturfde whiskey."
 abv: "11.0"
 ibu: "40"
+robots: noindex,nofollow
 ---

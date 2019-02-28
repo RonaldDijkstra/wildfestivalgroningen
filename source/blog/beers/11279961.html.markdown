@@ -8,4 +8,5 @@ rating: "3.88"
 description: "In Cacaophony, we set out to brew pudding. Potent, unadulterated chocolate pudding. We went mad on the oats to create a thick, decadent mouthfeel. The nose is pure Bruge, all roasty chocolate warmth. The body follows suit with a thick broth of milk chocolate and softly roasted malts accentuate this opulent brew. "
 abv: "8.4"
 ibu: "50"
+robots: noindex,nofollow
 ---

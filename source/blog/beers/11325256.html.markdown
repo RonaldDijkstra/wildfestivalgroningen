@@ -8,4 +8,5 @@ rating: "3.61"
 description: "Belgian blonde aged in white wine barrels."
 abv: "6.2"
 ibu: "0"
+robots: noindex,nofollow
 ---

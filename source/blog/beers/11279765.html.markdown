@@ -8,4 +8,5 @@ rating: "2.29"
 description: "You can smell and taste grapefruit and citrus fruits, with fresh wheat elements and a herbal top note. the Orange IPA only contains 0.2% alcohol!"
 abv: "0.2"
 ibu: "50"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.7"
 description: "HOPS - Mosaic, Citra, Simcoe MALT - Maris Otter Extra Pale, Maris Otter, Carapils, Oats, Munich I, Wheat YEAST - WLP002"
 abv: "3.8"
 ibu: "0"
+robots: noindex,nofollow
 ---

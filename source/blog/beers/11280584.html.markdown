@@ -8,4 +8,5 @@ rating: "3.91"
 description: "Koffie, maar dan bier. De Billiard is een Imperial Coffee Oatmeal Stout en zo zwart als de nacht. En deze batch daarna nog eens vier maanden op Springbank (1996) barrels gelegd. Peaty boy!"
 abv: "10.1"
 ibu: "55"
+robots: noindex,nofollow
 ---

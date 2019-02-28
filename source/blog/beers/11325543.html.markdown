@@ -8,4 +8,5 @@ rating: "3.95"
 description: "Brewed with bru-1 & mosaic hops (both aroma and dry-hop) using lallemand new england yeast "
 abv: "5.2"
 ibu: "0"
+robots: noindex,nofollow
 ---

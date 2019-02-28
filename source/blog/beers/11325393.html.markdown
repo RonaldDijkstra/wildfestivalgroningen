@@ -8,4 +8,5 @@ rating: "3.32"
 description: "Ko•rev (cor-eff) n. traditional Cornish word meaning beer. It's taken us nearly 160 years to create the perfect lager, and we wanted to make sure it was uniquely Cornish. Crafted at our brewery in St Austell, we've used the finest lager malt from barley grown right here in Cornwall. Korev has a wonderful pale colour and a clean, crisp taste, bottled in amber glass to protect the freshness. We think you'll agree it's been worth the wait. "
 abv: "4.8"
 ibu: "0"
+robots: noindex,nofollow
 ---

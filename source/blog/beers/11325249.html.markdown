@@ -8,4 +8,5 @@ rating: "3.93"
 description: "Brewed with locally-roasted Black Dog Coffee, Kujo has the perfect balance of roasty stout and chocolatey coffee notes."
 abv: "8.9"
 ibu: "40"
+robots: noindex,nofollow
 ---

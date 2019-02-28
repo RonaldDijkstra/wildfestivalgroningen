@@ -8,4 +8,5 @@ rating: "3.7"
 description: "Big on American hop flavour and aroma from Mosaic and Chinook hops. Drinkability for its ABV from a clean malt base. A real juicy one!  Contains malted barley (gluten), wheat, yeast, hops, water.  Suitable for vegetarians and vegans"
 abv: "5.1"
 ibu: "0"
+robots: noindex,nofollow
 ---

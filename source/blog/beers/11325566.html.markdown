@@ -8,4 +8,5 @@ rating: "3.73"
 description: "NEIPA brewed with simcoe, citra and mosaic hops and New England yeast."
 abv: "6.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

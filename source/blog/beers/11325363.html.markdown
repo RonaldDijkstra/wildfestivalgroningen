@@ -8,4 +8,5 @@ rating: "3.61"
 description: "Built like an IPA but at a strength that makes it ultra crushable, Sonic is the full flavoured, hop forward pale ale that you can drink all day. Immense citrus hop aroma paired with a crisp, dry and balanced bitter finish."
 abv: "4.9"
 ibu: "40"
+robots: noindex,nofollow
 ---

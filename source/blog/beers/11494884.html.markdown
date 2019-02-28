@@ -8,4 +8,5 @@ rating: "3.55"
 description: "Our collaboration with local roller derby team, Tyne & Fear. Big U.S. hops (Citra, Cascade, Chinook).   Vegan friendly."
 abv: "4.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.64"
 description: "Een stevige New England IPA met Bloedperzik."
 abv: "7.1"
 ibu: "15"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.85"
 description: "A creamy full bodied strong stout"
 abv: "7.7"
 ibu: "0"
+robots: noindex,nofollow
 ---

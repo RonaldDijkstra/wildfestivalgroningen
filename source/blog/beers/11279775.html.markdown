@@ -8,4 +8,5 @@ rating: "3.91"
 description: "Our Imperial Russian Stout aged on Auchentoshan Barrels. "
 abv: "11.5"
 ibu: "48"
+robots: noindex,nofollow
 ---

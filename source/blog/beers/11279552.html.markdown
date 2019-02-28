@@ -8,4 +8,5 @@ rating: "3.56"
 description: "Centennial single hop IPA"
 abv: "4.8"
 ibu: "0"
+robots: noindex,nofollow
 ---

@@ -8,4 +8,5 @@ rating: "3.91"
 description: ""
 abv: "9.0"
 ibu: "0"
+robots: noindex,nofollow
 ---

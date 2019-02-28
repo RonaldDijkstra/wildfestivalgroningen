@@ -8,4 +8,5 @@ rating: "3.74"
 description: "A thick malt bill trying to showcase brown malt, besides chocolate, roasted and some caramel malts. Hopped with East Kent Goldings and some Chinook as late hops."
 abv: "11.0"
 ibu: "50"
+robots: noindex,nofollow
 ---

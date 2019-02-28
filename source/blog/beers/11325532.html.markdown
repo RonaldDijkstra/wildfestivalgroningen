@@ -8,4 +8,5 @@ rating: "3.52"
 description: "A dry-hopped beer created by our first K2 Brewing Academy, suitable for those of us not blessed with hollow drinking legs."
 abv: "3.5"
 ibu: "0"
+robots: noindex,nofollow
 ---
