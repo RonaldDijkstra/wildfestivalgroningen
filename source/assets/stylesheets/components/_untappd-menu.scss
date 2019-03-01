@@ -49,7 +49,7 @@
 
     .item-brewery {
       font-size: $base-font-size * 0.8;
-      padding-bottom: 1em;
+      // padding-bottom: 1em;
 
       @include grid-media($for-desktop-up) {
         display: inline-block;

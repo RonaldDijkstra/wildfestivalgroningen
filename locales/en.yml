@@ -54,6 +54,12 @@
           program:
             text: "Here a short text about the program with link to %{link}"
             title: "Program"
+      menu:
+        latest_update: "Latest update"
+        more_info: "More info"
+        sub_title: "Our beers"
+        text: "View all beers available at Just in Beer."
+        title: "Menu"
       organisation:
         title: "Organisation"
       participators:

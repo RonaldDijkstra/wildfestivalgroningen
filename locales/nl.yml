@@ -44,6 +44,12 @@
           program:
             text: "Hier een korte tekst over het programma met link naar %{link}"
             title: "Programma"
+      menu:
+        latest_update: "Laatste update"
+        more_info: "Meer info"
+        sub_title: "Onze bieren"
+        text: "Bekijk hier alle bij Just in Beer verkrijgbare bieren."
+        title: "Menu"
       organisation:
         title: "Organisatie"
       participators:

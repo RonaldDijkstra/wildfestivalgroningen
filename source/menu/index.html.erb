@@ -13,19 +13,28 @@ pageable: true
   </div>
 </header>
 
-<section>
+<section class="untappd-menu">
   <div class="grid-row">
 
-    <h2>
-      Onze bieren
-    </h2>
+    <div class="headline">
+      <h2>
+        <%= t("pages.menu.sub_title") %>
+      </h2>
+      <p>
+        <%= t("pages.menu.text") %>
+      </p>
+      <p>
+        <%= t("pages.menu.latest_update") %>: <em><%= blog("menu").articles.first.date.strftime("%d-%m-%Y") %></em>
+      </p>
+    </div>
+
     <ul>
       <% page_articles.each do |article| %>
-        <%= partial "menu/untappd-menu-item", locals: { article: article } %>
+        <%= partial "partials/untappd-menu-item", locals: { article: article } %>
       <% end %>
     </ul>
 
-    <%= partial "menu/pagination", locals: current_page.metadata[:locals] %>
+    <%= partial "partials/pagination", locals: current_page.metadata[:locals] %>
 
   </div>
 </section>
