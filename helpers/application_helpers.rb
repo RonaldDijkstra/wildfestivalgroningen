@@ -146,16 +146,21 @@ module ApplicationHelpers
 
   # Link_to with aria_current for active_page
   # https://github.com/thoughtbot/middleman-aria_current
-  def current_link_to(*args, &block)
-    url_arg_index = block_given? ? 0 : 1
-    options_index = block_given? ? 1 : 2
-    args[options_index] ||= {}
-    options = args[options_index].dup
+  def current_link_to(*arguments, aria_current: "page", **options, &block)
+    if block_given?
+      text = capture(&block)
+      path = arguments[0]
+    else
+      text = arguments[0]
+      path = arguments[1]
+    end
 
-    options["aria-current"] = "page" if active_page?(args[url_arg_index])
+    link_options = options
+    resource_path = path.delete("/")
 
-    args[options_index] = options
-    locale_link_to(*args, &block)
+    link_options["aria-current"] = aria_current if proxied_to == resource_path
+
+    locale_link_to(text, path, link_options)
   end
 
   def locale_pretty_url(url, options = {})
@@ -164,7 +169,11 @@ module ApplicationHelpers
 
   # Where's the current resource proxied to?
   def proxied_to
-    current_resource.target_resource.path.gsub("localizable/", "") unless blog?
+    if blog?
+      "menu.html"
+    else
+      current_resource.target_resource.path.gsub("localizable/", "")
+    end
   end
 
   # Get the other languages than current
