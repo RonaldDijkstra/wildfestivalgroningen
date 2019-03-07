@@ -78,6 +78,9 @@ module ApplicationHelpers
       classes.sub!(/blog_\d+_index/, "blog_index")
     elsif is_blog_article?
       classes += " blog-article"
+    elsif classes.include? "capp-entwickeln"
+      # Replace `capp-entwickeln` with `capp-lms`
+      classes.gsub!("capp-entwickeln", "capp-lms")
     end
 
     classes.prepend("#{I18n.locale} ")
@@ -181,7 +184,7 @@ module ApplicationHelpers
 
   # Blog?
   def blog?(page = current_page)
-    page.url.start_with?("/menu/")
+    page.url.start_with?("/menu/", "/en/menu/", "/nl/beers/", "/en/beers/")
   end
 
   # Blog index?
