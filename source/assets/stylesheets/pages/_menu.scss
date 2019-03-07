@@ -1,4 +1,5 @@
-body.menu {
+body.menu,
+body.en_menu {
   header.banner {
     $banner-image: "../images/banner-barrels.jpg";
     background-image: url($banner-image);
