@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/de-moersleutel-coconut-milkshake-smeerolie/2
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

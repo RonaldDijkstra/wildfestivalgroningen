@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/walhalla-brouwerij-and-proeflokaal-enki-pale
 abv: "4.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

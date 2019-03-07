@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/oproer-ijzerhard-ipa/2799958"
 abv: "4.3"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/bruut-bier-wazig/2514361"
 abv: "5.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

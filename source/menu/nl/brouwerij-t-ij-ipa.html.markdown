@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-t-ij-ipa/72136"
 abv: "7.0"
 ibu: "60"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/la-calavera-acid-chaos/2653683"
 abv: "6.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/anarchy-brew-co-sublime-chaos/233639"
 abv: "7.0"
 ibu: "32"
 robots: noindex,nofollow
-lang: en
 ---

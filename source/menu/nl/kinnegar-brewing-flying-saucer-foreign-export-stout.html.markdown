@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/kinnegar-brewing-flying-saucer-foreign-expor
 abv: "7.7"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-cambrian-root/1897136
 abv: "5.1"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

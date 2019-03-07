@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stewart-brewing-cascadian-east/562112"
 abv: "5.4"
 ibu: "60"
 robots: noindex,nofollow
-lang: en
 ---

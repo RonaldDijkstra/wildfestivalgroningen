@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-maallust-de-drent/2894726"
 abv: "7.5"
 ibu: "24"
 robots: noindex,nofollow
-lang: en
 ---

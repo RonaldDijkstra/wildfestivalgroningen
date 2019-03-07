@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/rock-city-brewing-space-joose/2605985"
 abv: "8.0"
 ibu: "42"
 robots: noindex,nofollow
-lang: nl
 ---

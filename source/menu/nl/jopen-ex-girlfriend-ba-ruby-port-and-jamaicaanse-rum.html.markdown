@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-ex-girlfriend-ba-ruby-port-and-jamaica
 abv: "11.3"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

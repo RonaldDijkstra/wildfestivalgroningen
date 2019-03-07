@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/anderson-valley-brewing-company-framboise-ro
 abv: "4.2"
 ibu: "12"
 robots: noindex,nofollow
-lang: en
 ---

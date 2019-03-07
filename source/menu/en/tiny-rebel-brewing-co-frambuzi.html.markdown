@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/tiny-rebel-brewing-co-frambuzi/1614091"
 abv: "4.3"
 ibu: "15"
 robots: noindex,nofollow
-lang: en
 ---

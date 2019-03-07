@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/de-struise-brouwers-pannepot-special-reserva
 abv: "10.0"
 ibu: "27"
 robots: noindex,nofollow
-lang: nl
 ---

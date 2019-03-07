@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/nevel-meander/2857692"
 abv: "6.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

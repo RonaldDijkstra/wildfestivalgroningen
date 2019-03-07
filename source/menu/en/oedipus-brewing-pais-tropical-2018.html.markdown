@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/oedipus-brewing-pais-tropical-2018/2684812"
 abv: "4.5"
 ibu: "15"
 robots: noindex,nofollow
-lang: en
 ---

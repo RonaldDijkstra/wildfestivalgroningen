@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-martinus-tripel/1334827"
 abv: "8.6"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

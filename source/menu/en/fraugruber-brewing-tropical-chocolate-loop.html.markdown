@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fraugruber-brewing-tropical-chocolate-loop/3
 abv: "9.3"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

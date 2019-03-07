@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/corviri-brouwerij-corviri-ipa/1025817"
 abv: "7.2"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

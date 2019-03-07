@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/garage-beer-co-dark-times-and-difficult-plac
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

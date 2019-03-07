@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/de-moersleutel-battery-jumper/3038628"
 abv: "8.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

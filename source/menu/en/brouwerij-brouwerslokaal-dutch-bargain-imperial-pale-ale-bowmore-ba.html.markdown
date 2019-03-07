@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-brouwerslokaal-dutch-bargain-imper
 abv: "10.0"
 ibu: "45"
 robots: noindex,nofollow
-lang: en
 ---

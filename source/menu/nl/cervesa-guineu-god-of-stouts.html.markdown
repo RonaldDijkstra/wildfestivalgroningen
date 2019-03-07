@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/cervesa-guineu-god-of-stouts/2962397"
 abv: "12.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

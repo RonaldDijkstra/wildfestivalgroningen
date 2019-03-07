@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/bird-brewery-fuut-fieuw/1611849"
 abv: "4.6"
 ibu: "32"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-blue-and-black-eyes/2135509"
 abv: "4.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: en
 ---

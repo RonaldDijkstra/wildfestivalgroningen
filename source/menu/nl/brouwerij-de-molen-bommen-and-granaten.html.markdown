@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-molen-bommen-and-granaten/13467
 abv: "11.9"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

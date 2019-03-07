@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stanislaus-brewskovitch-craft-beer-all-black
 abv: "7.5"
 ibu: "100"
 robots: noindex,nofollow
-lang: en
 ---

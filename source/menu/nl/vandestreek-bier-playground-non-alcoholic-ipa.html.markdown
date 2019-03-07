@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vandestreek-bier-playground-non-alcoholic-ip
 abv: "0.5"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

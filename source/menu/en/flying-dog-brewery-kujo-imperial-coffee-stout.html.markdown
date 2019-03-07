@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/flying-dog-brewery-kujo-imperial-coffee-stou
 abv: "8.9"
 ibu: "40"
 robots: noindex,nofollow
-lang: en
 ---

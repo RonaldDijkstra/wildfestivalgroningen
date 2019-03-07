@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/solt-grondzee-tripel-bier/2630097"
 abv: "8.5"
 ibu: "32"
 robots: noindex,nofollow
-lang: en
 ---

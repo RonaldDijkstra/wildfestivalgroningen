@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/4-islands-brewing-blind-lion/2354764"
 abv: "6.0"
 ibu: "53"
 robots: noindex,nofollow
-lang: nl
 ---

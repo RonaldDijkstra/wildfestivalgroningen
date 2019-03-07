@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/harviestoun-brewery-old-engine-oil/449"
 abv: "6.0"
 ibu: "40"
 robots: noindex,nofollow
-lang: en
 ---

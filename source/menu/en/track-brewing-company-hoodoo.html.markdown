@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/track-brewing-company-hoodoo/2855962"
 abv: "8.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

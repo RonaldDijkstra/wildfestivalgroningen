@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-maallust-de-vagebond-vienna/97194"
 abv: "5.0"
 ibu: "26"
 robots: noindex,nofollow
-lang: nl
 ---

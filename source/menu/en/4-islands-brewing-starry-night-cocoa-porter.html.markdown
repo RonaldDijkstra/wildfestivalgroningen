@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/4-islands-brewing-starry-night-cocoa-porter/
 abv: "6.0"
 ibu: "35"
 robots: noindex,nofollow
-lang: en
 ---

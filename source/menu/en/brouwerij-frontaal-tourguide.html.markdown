@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-frontaal-tourguide/2737569"
 abv: "5.4"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-totally-yuzu/3053274"
 abv: "6.8"
 ibu: "51"
 robots: noindex,nofollow
-lang: en
 ---

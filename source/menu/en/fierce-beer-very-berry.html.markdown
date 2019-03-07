@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fierce-beer-very-berry/2195346"
 abv: "4.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

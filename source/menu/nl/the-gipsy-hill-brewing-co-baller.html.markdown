@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/the-gipsy-hill-brewing-co-baller/2940100"
 abv: "5.6"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

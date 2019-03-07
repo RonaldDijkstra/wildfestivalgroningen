@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/oitava-colina-satantonio/1636222"
 abv: "10.5"
 ibu: "45"
 robots: noindex,nofollow
-lang: en
 ---

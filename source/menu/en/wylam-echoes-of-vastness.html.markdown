@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/wylam-echoes-of-vastness/2896398"
 abv: "4.8"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

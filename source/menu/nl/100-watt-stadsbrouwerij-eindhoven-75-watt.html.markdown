@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/100-watt-stadsbrouwerij-eindhoven-75-watt/14
 abv: "8.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

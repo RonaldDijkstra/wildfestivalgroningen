@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-kees-pink-grapefruit-ipa/1149112"
 abv: "5.5"
 ibu: "65"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/coolhead-brew-lemon-sherbet/2809532"
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/gebrouwen-door-vrouwen-tricky-tripel/1115061
 abv: "7.8"
 ibu: "22"
 robots: noindex,nofollow
-lang: en
 ---

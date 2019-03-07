@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-prael-tripel/57834"
 abv: "7.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

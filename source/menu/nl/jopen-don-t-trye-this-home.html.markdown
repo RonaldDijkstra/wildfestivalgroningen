@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-don-t-trye-this-home/1462020"
 abv: "12.0"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

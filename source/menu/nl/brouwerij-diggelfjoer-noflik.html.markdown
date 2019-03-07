@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-diggelfjoer-noflik/2626251"
 abv: "5.0"
 ibu: "20"
 robots: noindex,nofollow
-lang: nl
 ---

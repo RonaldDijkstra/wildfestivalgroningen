@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-frontaal-rhodesian-bba-jack-daniel
 abv: "11.3"
 ibu: "55"
 robots: noindex,nofollow
-lang: nl
 ---

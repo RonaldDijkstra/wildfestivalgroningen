@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/anarchy-brew-co-psychotronic-warlord/3070174
 abv: "6.9"
 ibu: "15"
 robots: noindex,nofollow
-lang: en
 ---

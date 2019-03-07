@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fierce-beer-peanut-riot/1491676"
 abv: "6.5"
 ibu: "94"
 robots: noindex,nofollow
-lang: nl
 ---

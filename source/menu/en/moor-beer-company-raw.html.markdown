@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/moor-beer-company-raw/207874"
 abv: "4.3"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/oedipus-brewing-mannenliefde/223444"
 abv: "6.0"
 ibu: "25"
 robots: noindex,nofollow
-lang: nl
 ---

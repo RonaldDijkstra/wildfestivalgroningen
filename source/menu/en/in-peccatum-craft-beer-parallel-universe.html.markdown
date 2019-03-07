@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/in-peccatum-craft-beer-parallel-universe/290
 abv: "4.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

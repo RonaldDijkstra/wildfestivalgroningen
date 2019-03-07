@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-breugem-saense-tripel/475773"
 abv: "8.5"
 ibu: "24"
 robots: noindex,nofollow
-lang: en
 ---

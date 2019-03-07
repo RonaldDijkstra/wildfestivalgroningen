@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-beam-of-light/3046
 abv: "7.4"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

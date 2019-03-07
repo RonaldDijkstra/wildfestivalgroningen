@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-frontaal-rhodesian/907642"
 abv: "11.3"
 ibu: "51"
 robots: noindex,nofollow
-lang: nl
 ---

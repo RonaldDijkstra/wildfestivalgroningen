@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/flying-dog-brewery-easy-ipa/270757"
 abv: "4.7"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

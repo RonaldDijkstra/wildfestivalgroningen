@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stone-brewing-berlin-white-ghost-berliner-we
 abv: "4.7"
 ibu: "12"
 robots: noindex,nofollow
-lang: en
 ---

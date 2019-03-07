@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/pontus-brewing-carcinus/2482738"
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

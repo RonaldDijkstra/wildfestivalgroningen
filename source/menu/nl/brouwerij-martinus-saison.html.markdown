@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-martinus-saison/1491207"
 abv: "6.7"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

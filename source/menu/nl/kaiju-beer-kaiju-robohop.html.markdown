@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/kaiju-beer-kaiju-robohop/893504"
 abv: "5.7"
 ibu: "40"
 robots: noindex,nofollow
-lang: nl
 ---

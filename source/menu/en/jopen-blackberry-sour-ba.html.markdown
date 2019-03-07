@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-blackberry-sour-ba/2972351"
 abv: "10.0"
 ibu: "40"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-in-de-nacht-liquid-love-bourbon/26
 abv: "10.5"
 ibu: "27"
 robots: noindex,nofollow
-lang: nl
 ---

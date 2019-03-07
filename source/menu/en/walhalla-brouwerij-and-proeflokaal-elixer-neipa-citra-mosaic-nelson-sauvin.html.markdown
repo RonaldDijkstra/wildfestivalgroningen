@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/walhalla-brouwerij-and-proeflokaal-elixer-ne
 abv: "6.4"
 ibu: "30"
 robots: noindex,nofollow
-lang: en
 ---

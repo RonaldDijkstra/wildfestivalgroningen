@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/garage-beer-co-politica/2639025"
 abv: "4.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

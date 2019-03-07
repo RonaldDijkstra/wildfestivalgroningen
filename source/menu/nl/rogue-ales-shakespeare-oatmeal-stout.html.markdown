@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/rogue-ales-shakespeare-oatmeal-stout/9144"
 abv: "5.8"
 ibu: "60"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-ex-girlfriend-ba-jamaican-rum/2524481"
 abv: "13.0"
 ibu: "35"
 robots: noindex,nofollow
-lang: nl
 ---

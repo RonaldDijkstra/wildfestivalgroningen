@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/moor-beer-company-drinking-with-the-fish/255
 abv: "6.8"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

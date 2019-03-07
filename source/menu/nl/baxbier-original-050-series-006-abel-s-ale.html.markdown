@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/baxbier-original-050-series-006-abel-s-ale/2
 abv: "7.8"
 ibu: "49"
 robots: noindex,nofollow
-lang: nl
 ---

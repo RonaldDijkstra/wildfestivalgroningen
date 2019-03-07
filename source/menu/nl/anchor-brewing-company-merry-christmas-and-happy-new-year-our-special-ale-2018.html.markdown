@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/anchor-brewing-company-merry-christmas-and-h
 abv: "6.9"
 ibu: "40"
 robots: noindex,nofollow
-lang: nl
 ---

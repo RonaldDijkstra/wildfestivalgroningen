@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/cinema-brewers-dancing-dirty/2634768"
 abv: "5.3"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

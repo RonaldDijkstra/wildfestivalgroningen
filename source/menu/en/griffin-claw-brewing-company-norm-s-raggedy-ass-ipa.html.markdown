@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/griffin-claw-brewing-company-norm-s-raggedy-
 abv: "7.2"
 ibu: "65"
 robots: noindex,nofollow
-lang: en
 ---

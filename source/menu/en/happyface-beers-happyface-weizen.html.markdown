@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/happyface-beers-happyface-weizen/2877450"
 abv: "6.0"
 ibu: "18"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-frontaal-billiard-ba-springbank/24
 abv: "10.1"
 ibu: "55"
 robots: noindex,nofollow
-lang: en
 ---

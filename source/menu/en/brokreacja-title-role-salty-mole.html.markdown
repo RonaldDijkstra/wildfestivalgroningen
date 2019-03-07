@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brokreacja-title-role-salty-mole/2212119"
 abv: "4.5"
 ibu: "18"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/black-isle-brewery-black-isle-chai-pa/305197
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

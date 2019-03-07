@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-cascade-crocodile/2972514"
 abv: "5.7"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

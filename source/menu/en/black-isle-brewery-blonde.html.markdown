@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/black-isle-brewery-blonde/14488"
 abv: "4.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

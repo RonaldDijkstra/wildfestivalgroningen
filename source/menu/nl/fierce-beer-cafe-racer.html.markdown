@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fierce-beer-cafe-racer/1167985"
 abv: "6.5"
 ibu: "20"
 robots: noindex,nofollow
-lang: nl
 ---

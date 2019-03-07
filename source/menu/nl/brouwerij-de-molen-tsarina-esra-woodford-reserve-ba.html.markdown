@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-molen-tsarina-esra-woodford-res
 abv: "11.9"
 ibu: "93"
 robots: noindex,nofollow
-lang: nl
 ---

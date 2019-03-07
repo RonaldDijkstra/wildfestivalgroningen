@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/loverbeer-beerbrugna/29097"
 abv: "6.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

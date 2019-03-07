@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/black-isle-brewery-systems-theory-west-coast
 abv: "9.6"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

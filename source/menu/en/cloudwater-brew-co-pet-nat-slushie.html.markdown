@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/cloudwater-brew-co-pet-nat-slushie/3039704"
 abv: "8.8"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

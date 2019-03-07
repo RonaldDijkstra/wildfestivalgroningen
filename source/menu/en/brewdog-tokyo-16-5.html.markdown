@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brewdog-tokyo-16-5/650968"
 abv: "16.5"
 ibu: "90"
 robots: noindex,nofollow
-lang: en
 ---

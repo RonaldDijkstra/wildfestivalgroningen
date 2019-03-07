@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/magic-rock-brewing-cannonball/61315"
 abv: "7.4"
 ibu: "60"
 robots: noindex,nofollow
-lang: nl
 ---

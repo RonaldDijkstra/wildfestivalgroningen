@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-schwarzwalder-kirsch/1794299"
 abv: "8.0"
 ibu: "65"
 robots: noindex,nofollow
-lang: en
 ---

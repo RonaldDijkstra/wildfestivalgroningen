@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brewery-john-martin-brewery-timmermans-bourg
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

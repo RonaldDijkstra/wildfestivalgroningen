@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-brother-brother/3005889"
 abv: "6.2"
 ibu: "17"
 robots: noindex,nofollow
-lang: en
 ---

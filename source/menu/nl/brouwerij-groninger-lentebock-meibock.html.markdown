@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-groninger-lentebock-meibock/201546
 abv: "7.0"
 ibu: "32"
 robots: noindex,nofollow
-lang: nl
 ---

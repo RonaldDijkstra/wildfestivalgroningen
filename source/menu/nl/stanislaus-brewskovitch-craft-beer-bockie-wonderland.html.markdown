@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stanislaus-brewskovitch-craft-beer-bockie-wo
 abv: "6.5"
 ibu: "24"
 robots: noindex,nofollow
-lang: nl
 ---

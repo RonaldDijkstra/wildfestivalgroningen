@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-svalbard/2932928"
 abv: "8.1"
 ibu: "35"
 robots: noindex,nofollow
-lang: nl
 ---

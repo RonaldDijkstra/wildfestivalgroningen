@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/six-north-north-sea-bridges-amundsix/2797896
 abv: "6.7"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

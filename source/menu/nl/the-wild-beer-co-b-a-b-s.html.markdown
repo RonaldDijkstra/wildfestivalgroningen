@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/the-wild-beer-co-b-a-b-s/3029908"
 abv: "11.3"
 ibu: "67"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/berging-brouwerij-s2-russian-imperial-drop-s
 abv: "8.9"
 ibu: "70"
 robots: noindex,nofollow
-lang: nl
 ---

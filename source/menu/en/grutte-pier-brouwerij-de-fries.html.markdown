@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/grutte-pier-brouwerij-de-fries/2944467"
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-3-fonteinen-3-fonteinen-oude-geuze
 abv: "5.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

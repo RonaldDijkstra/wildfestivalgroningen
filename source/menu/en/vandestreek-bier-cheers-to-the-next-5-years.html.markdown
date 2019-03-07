@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vandestreek-bier-cheers-to-the-next-5-years/
 abv: "9.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

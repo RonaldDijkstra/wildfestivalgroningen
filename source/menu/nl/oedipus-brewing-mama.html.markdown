@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/oedipus-brewing-mama/223424"
 abv: "5.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

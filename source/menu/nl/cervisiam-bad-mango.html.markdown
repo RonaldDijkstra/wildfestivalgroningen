@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/cervisiam-bad-mango/1416132"
 abv: "7.5"
 ibu: "60"
 robots: noindex,nofollow
-lang: nl
 ---

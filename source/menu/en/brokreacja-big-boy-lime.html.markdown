@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brokreacja-big-boy-lime/2821517"
 abv: "5.5"
 ibu: "40"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/latitude-42-brewing-company-south-pacific-im
 abv: "8.4"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

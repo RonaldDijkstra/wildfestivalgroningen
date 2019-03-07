@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/happyface-beers-happyface-tripel/1620218"
 abv: "8.0"
 ibu: "22"
 robots: noindex,nofollow
-lang: nl
 ---

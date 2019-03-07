@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/sanfrutos-four-rooms-barleywine/2888039"
 abv: "8.4"
 ibu: "52"
 robots: noindex,nofollow
-lang: nl
 ---

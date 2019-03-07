@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/northern-monk-heathen/1514437"
 abv: "7.2"
 ibu: "25"
 robots: noindex,nofollow
-lang: nl
 ---

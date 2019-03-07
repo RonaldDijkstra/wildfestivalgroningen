@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fierce-beer-late-shift/2843202"
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

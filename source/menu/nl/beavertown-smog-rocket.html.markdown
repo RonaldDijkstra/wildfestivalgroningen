@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/beavertown-smog-rocket/169302"
 abv: "5.4"
 ibu: "23"
 robots: noindex,nofollow
-lang: nl
 ---

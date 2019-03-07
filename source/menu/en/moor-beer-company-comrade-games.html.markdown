@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/moor-beer-company-comrade-games/2146863"
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

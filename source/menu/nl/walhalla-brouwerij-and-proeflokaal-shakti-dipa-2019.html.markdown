@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/walhalla-brouwerij-and-proeflokaal-shakti-di
 abv: "8.2"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

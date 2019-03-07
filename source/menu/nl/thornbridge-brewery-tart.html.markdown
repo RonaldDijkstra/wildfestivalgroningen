@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/thornbridge-brewery-tart/1082786"
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

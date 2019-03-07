@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/nevel-weide/2374863"
 abv: "4.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

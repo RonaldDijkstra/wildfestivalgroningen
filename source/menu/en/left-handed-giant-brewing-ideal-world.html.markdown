@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-ideal-world/307189
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

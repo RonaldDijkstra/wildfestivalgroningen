@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/alaskan-brewing-co-smoked-porter-2013/474099
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

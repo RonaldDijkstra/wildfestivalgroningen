@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/to-ol-black-malts-and-body-salts/386689"
 abv: "9.9"
 ibu: "120"
 robots: noindex,nofollow
-lang: en
 ---

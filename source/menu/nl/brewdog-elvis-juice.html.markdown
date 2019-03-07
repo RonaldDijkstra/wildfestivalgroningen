@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brewdog-elvis-juice/1441008"
 abv: "6.5"
 ibu: "40"
 robots: noindex,nofollow
-lang: nl
 ---

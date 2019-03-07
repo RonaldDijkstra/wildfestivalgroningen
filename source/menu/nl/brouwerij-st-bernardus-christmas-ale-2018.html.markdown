@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-st-bernardus-christmas-ale-2018/28
 abv: "10.0"
 ibu: "28"
 robots: noindex,nofollow
-lang: nl
 ---

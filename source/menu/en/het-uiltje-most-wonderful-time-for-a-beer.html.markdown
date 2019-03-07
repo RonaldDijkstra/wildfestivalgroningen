@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-most-wonderful-time-for-a-beer/12
 abv: "10.0"
 ibu: "20"
 robots: noindex,nofollow
-lang: en
 ---

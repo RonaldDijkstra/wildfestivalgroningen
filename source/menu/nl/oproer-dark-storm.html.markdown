@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/oproer-dark-storm/1808607"
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

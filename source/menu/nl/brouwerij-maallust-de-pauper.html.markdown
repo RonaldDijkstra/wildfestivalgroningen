@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-maallust-de-pauper/2085660"
 abv: "5.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

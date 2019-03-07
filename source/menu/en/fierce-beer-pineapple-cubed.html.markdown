@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fierce-beer-pineapple-cubed/2849065"
 abv: "8.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

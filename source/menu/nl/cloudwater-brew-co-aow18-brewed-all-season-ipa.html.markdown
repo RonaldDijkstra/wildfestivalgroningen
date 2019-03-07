@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/cloudwater-brew-co-aow18-brewed-all-season-i
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

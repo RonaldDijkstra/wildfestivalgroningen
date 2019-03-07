@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-frontaal-barley-bird/2521629"
 abv: "10.0"
 ibu: "56"
 robots: noindex,nofollow
-lang: nl
 ---

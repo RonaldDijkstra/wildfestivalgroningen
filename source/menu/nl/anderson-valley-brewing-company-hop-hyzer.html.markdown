@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/anderson-valley-brewing-company-hop-hyzer/22
 abv: "4.9"
 ibu: "40"
 robots: noindex,nofollow
-lang: nl
 ---

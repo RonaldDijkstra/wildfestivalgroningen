@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/st-austell-brewery-sayzon/1994451"
 abv: "5.9"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

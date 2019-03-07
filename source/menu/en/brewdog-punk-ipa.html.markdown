@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brewdog-punk-ipa/5702"
 abv: "5.6"
 ibu: "35"
 robots: noindex,nofollow
-lang: en
 ---

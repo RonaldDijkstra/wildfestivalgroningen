@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/bird-brewery-de-rumoerige-roodborst/1381083"
 abv: "5.8"
 ibu: "34"
 robots: noindex,nofollow
-lang: nl
 ---

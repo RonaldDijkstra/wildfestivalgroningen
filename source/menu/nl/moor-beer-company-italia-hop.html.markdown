@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/moor-beer-company-italia-hop/2590426"
 abv: "4.1"
 ibu: "69"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/omnipollo-agamemnon-monster-shake/3038682"
 abv: "12.0"
 ibu: "65"
 robots: noindex,nofollow
-lang: nl
 ---

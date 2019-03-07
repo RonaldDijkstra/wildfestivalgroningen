@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-simcoe-the-saint-bernard/2972509"
 abv: "7.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

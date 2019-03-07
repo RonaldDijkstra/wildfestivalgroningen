@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/la-calavera-lost-in-translation/2838557"
 abv: "8.3"
 ibu: "18"
 robots: noindex,nofollow
-lang: en
 ---

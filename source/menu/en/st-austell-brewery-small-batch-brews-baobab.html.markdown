@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/st-austell-brewery-small-batch-brews-baobab/
 abv: "5.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/ramses-bier-bloedzuiger/1018977"
 abv: "6.0"
 ibu: "38"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/sierra-nevada-brewing-co-pale-ale/6284"
 abv: "5.6"
 ibu: "38"
 robots: noindex,nofollow
-lang: en
 ---

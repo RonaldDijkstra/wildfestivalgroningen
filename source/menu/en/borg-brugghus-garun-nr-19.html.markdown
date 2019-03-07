@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/borg-brugghus-garun-nr-19/448399"
 abv: "11.5"
 ibu: "45"
 robots: noindex,nofollow
-lang: en
 ---

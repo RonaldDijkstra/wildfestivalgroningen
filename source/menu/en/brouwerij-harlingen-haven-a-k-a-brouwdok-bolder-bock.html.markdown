@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-harlingen-haven-a-k-a-brouwdok-bol
 abv: "7.5"
 ibu: "30"
 robots: noindex,nofollow
-lang: en
 ---

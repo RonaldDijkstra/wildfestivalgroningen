@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-stygian-abyss/2879435
 abv: "11.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

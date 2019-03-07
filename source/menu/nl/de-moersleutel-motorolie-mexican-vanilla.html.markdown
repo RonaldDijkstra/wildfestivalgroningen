@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/de-moersleutel-motorolie-mexican-vanilla/239
 abv: "12.0"
 ibu: "55"
 robots: noindex,nofollow
-lang: nl
 ---

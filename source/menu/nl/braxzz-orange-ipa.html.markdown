@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/braxzz-orange-ipa/2757796"
 abv: "0.2"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

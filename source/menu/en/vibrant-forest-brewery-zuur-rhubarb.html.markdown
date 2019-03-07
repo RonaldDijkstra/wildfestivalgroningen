@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-zuur-rhubarb/1697656"
 abv: "3.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

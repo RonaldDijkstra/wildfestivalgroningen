@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/larkin-s-brewing-co-dark-matter/2918100"
 abv: "7.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/moor-beer-company-old-freddy-walker/20278"
 abv: "7.3"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

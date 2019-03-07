@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/yeastie-boys-loose-lips/2912701"
 abv: "4.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

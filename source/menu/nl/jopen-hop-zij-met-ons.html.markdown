@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-hop-zij-met-ons/1176696"
 abv: "6.0"
 ibu: "65"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-cuvee-du-owl-2018/2641891"
 abv: "15.0"
 ibu: "65"
 robots: noindex,nofollow
-lang: nl
 ---

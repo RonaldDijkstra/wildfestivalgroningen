@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/de-moersleutel-barrel-blend-v/2987248"
 abv: "13.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

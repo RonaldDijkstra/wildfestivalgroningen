@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/billy-the-mountain-brewing-co-holy-moses/204
 abv: "7.0"
 ibu: "66"
 robots: noindex,nofollow
-lang: nl
 ---

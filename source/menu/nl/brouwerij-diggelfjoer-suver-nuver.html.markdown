@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-diggelfjoer-suver-nuver/1504372"
 abv: "9.0"
 ibu: "37"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-smoke-n-magic/1950491"
 abv: "6.0"
 ibu: "60"
 robots: noindex,nofollow
-lang: nl
 ---

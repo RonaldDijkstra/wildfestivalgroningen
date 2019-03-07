@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/oproer-imperial-oatmeal-stout-barrel-aged/23
 abv: "10.0"
 ibu: "75"
 robots: noindex,nofollow
-lang: nl
 ---

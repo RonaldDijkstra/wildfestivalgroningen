@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-alvinne-wild-west/138501"
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

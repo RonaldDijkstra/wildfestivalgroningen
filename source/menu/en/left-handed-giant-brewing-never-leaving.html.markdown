@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-never-leaving/2987
 abv: "8.4"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

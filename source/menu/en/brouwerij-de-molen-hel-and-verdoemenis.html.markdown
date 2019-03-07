@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-molen-hel-and-verdoemenis/59860
 abv: "10.0"
 ibu: "102"
 robots: noindex,nofollow
-lang: en
 ---

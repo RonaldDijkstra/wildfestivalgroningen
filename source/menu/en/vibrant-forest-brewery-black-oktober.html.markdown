@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-black-oktober/140576"
 abv: "9.0"
 ibu: "90"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fallen-brewing-co-north-sea-bridges-tap-saff
 abv: "8.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

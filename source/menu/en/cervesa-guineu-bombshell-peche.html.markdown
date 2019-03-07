@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/cervesa-guineu-bombshell-peche/2800692"
 abv: "11.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

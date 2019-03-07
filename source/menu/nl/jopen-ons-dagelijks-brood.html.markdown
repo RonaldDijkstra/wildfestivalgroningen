@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-ons-dagelijks-brood/2674612"
 abv: "6.0"
 ibu: "35"
 robots: noindex,nofollow
-lang: nl
 ---

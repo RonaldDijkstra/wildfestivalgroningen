@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brasserie-dupont-saison-dupont/8073"
 abv: "6.5"
 ibu: "30"
 robots: noindex,nofollow
-lang: en
 ---

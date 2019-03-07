@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-werf-porno-blond/2766728"
 abv: "6.0"
 ibu: "12"
 robots: noindex,nofollow
-lang: en
 ---

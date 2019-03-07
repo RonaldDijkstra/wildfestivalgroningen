@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-groninger-tripel/2598284"
 abv: "9.0"
 ibu: "35"
 robots: noindex,nofollow
-lang: nl
 ---

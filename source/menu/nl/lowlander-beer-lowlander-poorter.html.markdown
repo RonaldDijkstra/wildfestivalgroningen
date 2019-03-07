@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/lowlander-beer-lowlander-poorter/1425458"
 abv: "6.0"
 ibu: "45"
 robots: noindex,nofollow
-lang: nl
 ---

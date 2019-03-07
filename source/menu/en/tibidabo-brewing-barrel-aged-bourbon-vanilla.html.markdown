@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/tibidabo-brewing-barrel-aged-bourbon-vanilla
 abv: "11.0"
 ibu: "70"
 robots: noindex,nofollow
-lang: en
 ---

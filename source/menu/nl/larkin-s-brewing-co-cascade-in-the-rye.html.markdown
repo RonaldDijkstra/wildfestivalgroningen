@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/larkin-s-brewing-co-cascade-in-the-rye/29611
 abv: "7.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

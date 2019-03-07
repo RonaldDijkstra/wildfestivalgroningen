@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/in-peccatum-craft-beer-juicy-pale-ale/194221
 abv: "4.7"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

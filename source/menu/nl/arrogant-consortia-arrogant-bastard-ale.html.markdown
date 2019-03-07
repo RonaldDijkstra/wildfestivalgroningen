@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/arrogant-consortia-arrogant-bastard-ale/1809
 abv: "7.2"
 ibu: "100"
 robots: noindex,nofollow
-lang: nl
 ---

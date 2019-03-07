@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/wylam-fruits-of-perception/2819408"
 abv: "5.8"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

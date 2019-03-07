@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/central-waters-brewing-company-cassian-sunse
 abv: "11.7"
 ibu: "27"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/scheldebrouwerij-oma-corrie/2407213"
 abv: "8.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

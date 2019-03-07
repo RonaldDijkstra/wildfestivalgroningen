@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/berging-brouwerij-oak2/2504571"
 abv: "9.0"
 ibu: "38"
 robots: noindex,nofollow
-lang: en
 ---

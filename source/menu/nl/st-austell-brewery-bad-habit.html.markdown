@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/st-austell-brewery-bad-habit/268637"
 abv: "8.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

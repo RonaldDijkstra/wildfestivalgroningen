@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-werf-roestige-bok/2277252"
 abv: "6.6"
 ibu: "15"
 robots: noindex,nofollow
-lang: en
 ---

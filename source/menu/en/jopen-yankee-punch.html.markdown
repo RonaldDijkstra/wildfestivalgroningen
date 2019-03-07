@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-yankee-punch/2894187"
 abv: "7.6"
 ibu: "35"
 robots: noindex,nofollow
-lang: en
 ---

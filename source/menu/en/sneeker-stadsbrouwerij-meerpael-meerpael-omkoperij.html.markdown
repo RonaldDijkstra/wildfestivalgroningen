@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/sneeker-stadsbrouwerij-meerpael-meerpael-omk
 abv: "7.3"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/the-flying-inn-aenima/2829875"
 abv: "3.7"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

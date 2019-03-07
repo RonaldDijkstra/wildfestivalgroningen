@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/st-austell-brewery-small-batch-brews-cardina
 abv: "7.8"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

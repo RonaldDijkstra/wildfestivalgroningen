@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-het-anker-gouden-carolus-tripel/35
 abv: "9.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: en
 ---

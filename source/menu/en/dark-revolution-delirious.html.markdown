@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/dark-revolution-delirious/2050863"
 abv: "8.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

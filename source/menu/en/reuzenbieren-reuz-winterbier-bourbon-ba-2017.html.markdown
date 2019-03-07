@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/reuzenbieren-reuz-winterbier-bourbon-ba-2017
 abv: "10.0"
 ibu: "40"
 robots: noindex,nofollow
-lang: en
 ---

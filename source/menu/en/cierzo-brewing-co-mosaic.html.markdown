@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/cierzo-brewing-co-mosaic/2886706"
 abv: "4.5"
 ibu: "50"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/cierzo-brewing-co-back-to-black/2886710"
 abv: "9.0"
 ibu: "100"
 robots: noindex,nofollow
-lang: en
 ---

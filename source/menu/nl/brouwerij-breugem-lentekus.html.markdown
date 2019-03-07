@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-breugem-lentekus/1501499"
 abv: "7.5"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

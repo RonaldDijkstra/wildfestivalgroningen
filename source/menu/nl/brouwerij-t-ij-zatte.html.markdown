@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-t-ij-zatte/906"
 abv: "8.0"
 ibu: "19"
 robots: noindex,nofollow
-lang: nl
 ---

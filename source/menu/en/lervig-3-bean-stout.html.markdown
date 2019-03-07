@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/lervig-3-bean-stout/1145082"
 abv: "12.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: en
 ---

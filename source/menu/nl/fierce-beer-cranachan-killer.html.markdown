@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fierce-beer-cranachan-killer/1354574"
 abv: "5.5"
 ibu: "25"
 robots: noindex,nofollow
-lang: nl
 ---

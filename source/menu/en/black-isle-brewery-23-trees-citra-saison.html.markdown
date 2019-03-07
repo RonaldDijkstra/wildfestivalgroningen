@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/black-isle-brewery-23-trees-citra-saison/199
 abv: "6.6"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-emelisse-winter-stout-apple-pie/28
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

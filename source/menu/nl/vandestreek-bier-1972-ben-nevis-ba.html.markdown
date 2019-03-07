@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vandestreek-bier-1972-ben-nevis-ba/2820485"
 abv: "11.3"
 ibu: "71"
 robots: noindex,nofollow
-lang: nl
 ---

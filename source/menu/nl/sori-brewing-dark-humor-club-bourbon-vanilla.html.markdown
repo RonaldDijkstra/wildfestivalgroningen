@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/sori-brewing-dark-humor-club-bourbon-vanilla
 abv: "8.0"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

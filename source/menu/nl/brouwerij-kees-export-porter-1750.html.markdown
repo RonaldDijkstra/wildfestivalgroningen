@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-kees-export-porter-1750/1072271"
 abv: "10.5"
 ibu: "108"
 robots: noindex,nofollow
-lang: nl
 ---

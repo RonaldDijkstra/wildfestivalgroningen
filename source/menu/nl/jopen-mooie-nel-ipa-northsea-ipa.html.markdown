@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-mooie-nel-ipa-northsea-ipa/155693"
 abv: "6.5"
 ibu: "70"
 robots: noindex,nofollow
-lang: nl
 ---

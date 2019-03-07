@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-little-black-dress/2055904"
 abv: "8.8"
 ibu: "75"
 robots: noindex,nofollow
-lang: en
 ---

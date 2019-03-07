@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-natte-gijt-gijtebok-american-oa
 abv: "7.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

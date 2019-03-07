@@ -30,17 +30,6 @@ set :markdown,
   with_toc_data: true
 set :markdown_engine, :redcarpet
 
-# Activate and setup the blog content type to use for menu
-# activate :blog do |blog|
-#   blog.name = "menu"
-#   blog.prefix = "menu"
-#   blog.sources = "/nl/:title.html"
-#   blog.permalink = ":title"
-#   blog.paginate = true
-#   blog.page_link = "{num}"
-#   blog.per_page = 50
-# end
-
 activate :blog do |blog|
   blog.name = "menu"
   blog.sources = "/menu/:lang/:title.html"

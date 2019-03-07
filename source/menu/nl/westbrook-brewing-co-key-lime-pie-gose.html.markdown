@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/westbrook-brewing-co-key-lime-pie-gose/15282
 abv: "4.0"
 ibu: "10"
 robots: noindex,nofollow
-lang: nl
 ---

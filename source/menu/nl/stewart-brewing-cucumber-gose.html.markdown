@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stewart-brewing-cucumber-gose/2855177"
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/coolhead-brew-kobra-2/3028496"
 abv: "6.66"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

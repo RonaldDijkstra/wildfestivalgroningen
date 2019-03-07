@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-deeper-water/23579
 abv: "5.1"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

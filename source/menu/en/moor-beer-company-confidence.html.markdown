@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/moor-beer-company-confidence/77926"
 abv: "4.6"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

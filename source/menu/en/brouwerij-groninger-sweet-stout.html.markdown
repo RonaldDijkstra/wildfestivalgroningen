@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-groninger-sweet-stout/1024518"
 abv: "6.0"
 ibu: "57"
 robots: noindex,nofollow
-lang: en
 ---

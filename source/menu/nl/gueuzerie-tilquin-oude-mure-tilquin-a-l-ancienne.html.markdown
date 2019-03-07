@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/gueuzerie-tilquin-oude-mure-tilquin-a-l-anci
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

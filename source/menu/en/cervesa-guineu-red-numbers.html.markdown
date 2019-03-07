@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/cervesa-guineu-red-numbers/2800701"
 abv: "13.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

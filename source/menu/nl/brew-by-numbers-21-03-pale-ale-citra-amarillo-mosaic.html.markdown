@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brew-by-numbers-21-03-pale-ale-citra-amarill
 abv: "5.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

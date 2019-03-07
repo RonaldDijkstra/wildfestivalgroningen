@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/in-peccatum-craft-beer-isla-guayaba/2943692"
 abv: "4.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-fizzy-bubblech/2972519"
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

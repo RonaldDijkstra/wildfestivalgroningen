@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-meesterstuk-2018-ba-auchriosk-whisky/2
 abv: "13.0"
 ibu: "25"
 robots: noindex,nofollow
-lang: nl
 ---

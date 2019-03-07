@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stewart-brewing-radical-road/167182"
 abv: "6.4"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

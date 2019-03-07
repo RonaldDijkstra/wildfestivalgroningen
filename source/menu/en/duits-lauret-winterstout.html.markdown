@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/duits-lauret-winterstout/121552"
 abv: "8.5"
 ibu: "40"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-don-t-trye-this-home-cognac-ba/1859181
 abv: "12.5"
 ibu: "30"
 robots: noindex,nofollow
-lang: en
 ---

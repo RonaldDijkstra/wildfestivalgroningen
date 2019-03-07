@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/abbaye-de-maredsous-maredsous-6-blonde/7767"
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

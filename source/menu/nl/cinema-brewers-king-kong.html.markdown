@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/cinema-brewers-king-kong/1355892"
 abv: "8.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

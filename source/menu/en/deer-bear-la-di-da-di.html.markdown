@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/deer-bear-la-di-da-di/2884266"
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

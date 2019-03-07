@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/coolhead-brew-naked-sauna-sour/3028492"
 abv: "4.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

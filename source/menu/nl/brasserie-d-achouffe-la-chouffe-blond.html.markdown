@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brasserie-d-achouffe-la-chouffe-blond/52593"
 abv: "8.0"
 ibu: "20"
 robots: noindex,nofollow
-lang: nl
 ---

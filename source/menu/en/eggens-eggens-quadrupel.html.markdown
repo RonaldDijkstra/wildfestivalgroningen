@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/eggens-eggens-quadrupel/2956115"
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stadsbrouwerij-radboud-dubbele-blik/2049888"
 abv: "7.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

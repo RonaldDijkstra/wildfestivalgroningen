@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/de-kromme-haring-beluga/2597718"
 abv: "10.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

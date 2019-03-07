@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-symbiosis/2952073"
 abv: "7.4"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

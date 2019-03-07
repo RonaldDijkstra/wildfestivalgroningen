@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/omnipollo-nebuchadnezzar-2018/2643318"
 abv: "8.5"
 ibu: "100"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/geuzestekerij-de-cam-framboise-lambiek/26737
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/laugar-brewery-random-series-90/2031832"
 abv: "9.5"
 ibu: "40"
 robots: noindex,nofollow
-lang: en
 ---

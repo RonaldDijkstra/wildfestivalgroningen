@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brokreacja-devil-ink/2842612"
 abv: "5.0"
 ibu: "40"
 robots: noindex,nofollow
-lang: en
 ---

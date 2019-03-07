@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/de-moersleutel-wanna-taste-my-candy-cane/295
 abv: "11.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

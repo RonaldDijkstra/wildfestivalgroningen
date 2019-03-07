@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/larkin-s-brewing-co-summer-session-saison/27
 abv: "4.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

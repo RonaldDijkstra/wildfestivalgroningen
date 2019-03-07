@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-brouwerslokaal-dutch-bargain-limit
 abv: "6.0"
 ibu: "15"
 robots: noindex,nofollow
-lang: nl
 ---

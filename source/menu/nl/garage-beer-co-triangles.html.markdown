@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/garage-beer-co-triangles/2555146"
 abv: "5.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

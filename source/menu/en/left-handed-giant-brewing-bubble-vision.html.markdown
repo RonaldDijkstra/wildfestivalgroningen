@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-bubble-vision/3059
 abv: "8.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

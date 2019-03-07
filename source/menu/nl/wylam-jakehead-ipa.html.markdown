@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/wylam-jakehead-ipa/425106"
 abv: "6.3"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

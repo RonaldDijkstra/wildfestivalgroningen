@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/sudden-death-brewing-who-shot-the-almond-bro
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

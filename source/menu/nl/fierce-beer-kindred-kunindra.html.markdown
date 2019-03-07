@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fierce-beer-kindred-kunindra/1111673"
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

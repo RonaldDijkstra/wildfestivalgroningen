@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/coolhead-brew-deep-double-apple-crumble/3028
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

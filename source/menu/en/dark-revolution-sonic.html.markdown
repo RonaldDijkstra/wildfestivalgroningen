@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/dark-revolution-sonic/2498775"
 abv: "4.9"
 ibu: "40"
 robots: noindex,nofollow
-lang: en
 ---

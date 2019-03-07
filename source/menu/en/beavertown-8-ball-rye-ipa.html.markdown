@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/beavertown-8-ball-rye-ipa/136670"
 abv: "6.2"
 ibu: "65"
 robots: noindex,nofollow
-lang: en
 ---

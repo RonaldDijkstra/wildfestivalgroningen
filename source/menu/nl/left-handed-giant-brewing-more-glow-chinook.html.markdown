@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-more-glow-chinook/
 abv: "6.4"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

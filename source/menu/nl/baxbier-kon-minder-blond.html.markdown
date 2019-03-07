@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/baxbier-kon-minder-blond/638586"
 abv: "5.1"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/kompaan-bier-brouwerij-kompaan-tommy-double-
 abv: "11.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

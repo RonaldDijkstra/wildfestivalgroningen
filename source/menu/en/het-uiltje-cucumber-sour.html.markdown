@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-cucumber-sour/2775790"
 abv: "3.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

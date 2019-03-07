@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/heaps-of-hops-vonkelwater/2091665"
 abv: "3.5"
 ibu: "18"
 robots: noindex,nofollow
-lang: nl
 ---

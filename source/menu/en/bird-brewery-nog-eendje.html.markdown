@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/bird-brewery-nog-eendje/2523404"
 abv: "6.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: en
 ---

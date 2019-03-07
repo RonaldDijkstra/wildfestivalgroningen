@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/founders-brewing-co-canadian-breakfast-stout
 abv: "11.7"
 ibu: "45"
 robots: noindex,nofollow
-lang: en
 ---

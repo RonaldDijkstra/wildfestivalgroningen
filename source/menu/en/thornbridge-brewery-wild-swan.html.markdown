@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/thornbridge-brewery-wild-swan/24400"
 abv: "3.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/oedipus-brewing-kinderyoga/1244820"
 abv: "11.0"
 ibu: "50"
 robots: noindex,nofollow
-lang: en
 ---

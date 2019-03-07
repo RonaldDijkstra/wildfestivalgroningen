@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fraugruber-brewing-flying-monkey/2876980"
 abv: "5.3"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

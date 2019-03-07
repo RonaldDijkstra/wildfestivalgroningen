@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/kinnegar-brewing-olan-s-tart/1902922"
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

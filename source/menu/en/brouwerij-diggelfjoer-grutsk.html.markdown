@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-diggelfjoer-grutsk/3100473"
 abv: "10.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: en
 ---

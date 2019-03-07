@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/dark-revolution-elevator/2151941"
 abv: "7.2"
 ibu: "100"
 robots: noindex,nofollow
-lang: nl
 ---

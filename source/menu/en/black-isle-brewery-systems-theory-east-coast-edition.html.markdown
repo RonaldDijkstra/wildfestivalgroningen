@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/black-isle-brewery-systems-theory-east-coast
 abv: "9.4"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

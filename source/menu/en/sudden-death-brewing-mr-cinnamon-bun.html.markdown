@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/sudden-death-brewing-mr-cinnamon-bun/2883364
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

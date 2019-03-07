@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fierce-beer-tangerine-tart/2098937"
 abv: "4.5"
 ibu: "10"
 robots: noindex,nofollow
-lang: nl
 ---

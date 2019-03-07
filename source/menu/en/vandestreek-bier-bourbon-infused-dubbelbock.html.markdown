@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vandestreek-bier-bourbon-infused-dubbelbock/
 abv: "9.0"
 ibu: "20"
 robots: noindex,nofollow
-lang: en
 ---

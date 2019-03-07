@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/punt-ipa/2931528"
 abv: "6.6"
 ibu: "60"
 robots: noindex,nofollow
-lang: en
 ---

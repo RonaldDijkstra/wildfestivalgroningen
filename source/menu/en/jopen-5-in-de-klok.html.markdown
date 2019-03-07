@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-5-in-de-klok/2186371"
 abv: "3.0"
 ibu: "27"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brasserie-popihn-russian-imperial-stout-toas
 abv: "11.52"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

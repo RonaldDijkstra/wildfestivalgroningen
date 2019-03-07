@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-alvinne-cuvee-freddy/7700"
 abv: "8.0"
 ibu: "5"
 robots: noindex,nofollow
-lang: nl
 ---

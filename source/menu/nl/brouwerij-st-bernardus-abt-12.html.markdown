@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-st-bernardus-abt-12/6760"
 abv: "10.0"
 ibu: "22"
 robots: noindex,nofollow
-lang: nl
 ---

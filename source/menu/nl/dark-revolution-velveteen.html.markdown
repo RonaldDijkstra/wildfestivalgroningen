@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/dark-revolution-velveteen/1542382"
 abv: "4.8"
 ibu: "38"
 robots: noindex,nofollow
-lang: nl
 ---

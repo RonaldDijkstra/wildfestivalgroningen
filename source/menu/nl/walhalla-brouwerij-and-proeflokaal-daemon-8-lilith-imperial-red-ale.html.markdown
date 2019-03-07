@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/walhalla-brouwerij-and-proeflokaal-daemon-8-
 abv: "11.0"
 ibu: "68"
 robots: noindex,nofollow
-lang: nl
 ---

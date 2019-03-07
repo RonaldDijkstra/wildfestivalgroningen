@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weih
 abv: "7.7"
 ibu: "17"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/black-isle-brewery-colonel-custard-s-christm
 abv: "9.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

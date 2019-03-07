@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/gebrouwen-door-vrouwen-gember-goud/2100890"
 abv: "4.6"
 ibu: "17"
 robots: noindex,nofollow
-lang: nl
 ---

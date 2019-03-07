@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/happyface-beers-happyface-stout/1823579"
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

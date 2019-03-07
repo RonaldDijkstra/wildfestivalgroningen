@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/siren-craft-brew-death-by-caribbean-chocolat
 abv: "10.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

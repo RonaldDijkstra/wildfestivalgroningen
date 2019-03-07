@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-luciferin/2906141"
 abv: "7.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

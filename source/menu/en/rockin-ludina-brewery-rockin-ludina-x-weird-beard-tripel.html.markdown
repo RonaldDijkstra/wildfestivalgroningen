@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/rockin-ludina-brewery-rockin-ludina-x-weird-
 abv: "10.2"
 ibu: "35"
 robots: noindex,nofollow
-lang: en
 ---

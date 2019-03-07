@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/kinnegar-brewing-skinny-legs/2719986"
 abv: "3.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-groninger-spelt-pale-ale/1024504"
 abv: "5.0"
 ibu: "49"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/pontus-brewing-allmouth/2477415"
 abv: "9.5"
 ibu: "60"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/omnipollo-pleroma/2119564"
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

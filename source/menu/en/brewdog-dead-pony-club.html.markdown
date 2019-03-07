@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brewdog-dead-pony-club/164769"
 abv: "3.8"
 ibu: "40"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/admiraals-bierbrouwerij-stoarmmok/2320136"
 abv: "7.0"
 ibu: "22"
 robots: noindex,nofollow
-lang: nl
 ---

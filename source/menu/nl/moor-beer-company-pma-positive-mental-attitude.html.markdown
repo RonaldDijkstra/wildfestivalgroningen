@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/moor-beer-company-pma-positive-mental-attitu
 abv: "5.3"
 ibu: "45"
 robots: noindex,nofollow
-lang: nl
 ---

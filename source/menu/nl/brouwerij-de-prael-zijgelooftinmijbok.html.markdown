@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-prael-zijgelooftinmijbok/254318
 abv: "5.7"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

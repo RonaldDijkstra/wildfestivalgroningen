@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/lowlander-beer-lowlander-winter-i-p-a/287438
 abv: "5.0"
 ibu: "35"
 robots: noindex,nofollow
-lang: nl
 ---

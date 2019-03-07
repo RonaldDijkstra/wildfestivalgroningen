@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/muifelbrouwerij-beerskey/248089"
 abv: "11.0"
 ibu: "40"
 robots: noindex,nofollow
-lang: nl
 ---

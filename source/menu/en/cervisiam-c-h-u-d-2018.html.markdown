@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/cervisiam-c-h-u-d-2018/2866241"
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-small-systems/3059
 abv: "3.8"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

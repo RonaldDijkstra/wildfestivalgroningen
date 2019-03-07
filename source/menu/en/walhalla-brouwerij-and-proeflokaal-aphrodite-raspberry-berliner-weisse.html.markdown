@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/walhalla-brouwerij-and-proeflokaal-aphrodite
 abv: "4.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

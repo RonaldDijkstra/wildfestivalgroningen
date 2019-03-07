@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/baxbier-kon-minder-tripel/3074077"
 abv: "8.6"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

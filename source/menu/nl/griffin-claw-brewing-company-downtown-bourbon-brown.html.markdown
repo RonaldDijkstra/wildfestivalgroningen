@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/griffin-claw-brewing-company-downtown-bourbo
 abv: "9.0"
 ibu: "22"
 robots: noindex,nofollow
-lang: nl
 ---

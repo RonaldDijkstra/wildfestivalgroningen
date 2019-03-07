@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-klein-duimpje-dubbelbok/261648"
 abv: "8.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

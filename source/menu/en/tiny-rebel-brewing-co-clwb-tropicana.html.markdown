@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/tiny-rebel-brewing-co-clwb-tropicana/1425440
 abv: "5.5"
 ibu: "40"
 robots: noindex,nofollow
-lang: en
 ---

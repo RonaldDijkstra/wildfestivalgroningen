@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-parts-unknown/2984
 abv: "4.8"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

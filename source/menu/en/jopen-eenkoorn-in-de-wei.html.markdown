@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-eenkoorn-in-de-wei/2096582"
 abv: "6.5"
 ibu: "35"
 robots: noindex,nofollow
-lang: en
 ---

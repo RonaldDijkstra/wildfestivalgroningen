@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-wheat-weet-mag-het-zeggen/2294353"
 abv: "11.0"
 ibu: "60"
 robots: noindex,nofollow
-lang: en
 ---

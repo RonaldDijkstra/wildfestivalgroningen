@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-groninger-baltic-porter-plus/25982
 abv: "10.0"
 ibu: "25"
 robots: noindex,nofollow
-lang: en
 ---

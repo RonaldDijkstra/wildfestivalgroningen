@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/torebrew-smoky-orange/2320818"
 abv: "8.0"
 ibu: "28"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/bird-brewery-fazantisch/2972429"
 abv: "8.0"
 ibu: "35"
 robots: noindex,nofollow
-lang: en
 ---

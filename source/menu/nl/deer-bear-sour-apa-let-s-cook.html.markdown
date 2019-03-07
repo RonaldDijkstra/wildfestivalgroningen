@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/deer-bear-sour-apa-let-s-cook/1801763"
 abv: "5.0"
 ibu: "29"
 robots: noindex,nofollow
-lang: nl
 ---

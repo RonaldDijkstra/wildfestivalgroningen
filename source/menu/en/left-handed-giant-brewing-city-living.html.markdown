@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-city-living/290757
 abv: "3.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

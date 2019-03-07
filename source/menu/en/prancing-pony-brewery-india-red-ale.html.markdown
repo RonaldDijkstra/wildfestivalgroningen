@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/prancing-pony-brewery-india-red-ale/486410"
 abv: "7.9"
 ibu: "60"
 robots: noindex,nofollow
-lang: en
 ---

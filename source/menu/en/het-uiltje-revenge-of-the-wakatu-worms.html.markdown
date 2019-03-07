@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-revenge-of-the-wakatu-worms/30701
 abv: "3.9"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

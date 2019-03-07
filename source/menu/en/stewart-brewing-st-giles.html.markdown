@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stewart-brewing-st-giles/47662"
 abv: "5.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: en
 ---

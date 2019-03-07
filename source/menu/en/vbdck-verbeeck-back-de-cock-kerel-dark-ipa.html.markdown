@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vbdck-verbeeck-back-de-cock-kerel-dark-ipa/2
 abv: "6.6"
 ibu: "54"
 robots: noindex,nofollow
-lang: en
 ---

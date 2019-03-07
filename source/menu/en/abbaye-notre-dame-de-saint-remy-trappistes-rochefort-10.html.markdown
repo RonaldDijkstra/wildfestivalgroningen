@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/abbaye-notre-dame-de-saint-remy-trappistes-r
 abv: "11.3"
 ibu: "27"
 robots: noindex,nofollow
-lang: en
 ---

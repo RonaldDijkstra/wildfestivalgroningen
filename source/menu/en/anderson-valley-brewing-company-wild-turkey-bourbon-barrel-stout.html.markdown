@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/anderson-valley-brewing-company-wild-turkey-
 abv: "6.9"
 ibu: "14"
 robots: noindex,nofollow
-lang: en
 ---

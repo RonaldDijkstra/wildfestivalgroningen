@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brokreacja-the-gravedigger-bowmore-ba/265494
 abv: "10.3"
 ibu: "100"
 robots: noindex,nofollow
-lang: en
 ---

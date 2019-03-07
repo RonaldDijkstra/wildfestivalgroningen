@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/morebeer-brewing-eye-of-the-eagle/2701844"
 abv: "7.9"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

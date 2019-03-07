@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fraugruber-brewing-cherry-s-in-black/2964547
 abv: "6.3"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

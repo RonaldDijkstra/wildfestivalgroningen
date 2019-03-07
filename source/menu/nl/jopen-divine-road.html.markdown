@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-divine-road/2192613"
 abv: "4.0"
 ibu: "25"
 robots: noindex,nofollow
-lang: nl
 ---

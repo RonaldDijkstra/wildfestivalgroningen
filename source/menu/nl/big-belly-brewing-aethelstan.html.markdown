@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/big-belly-brewing-aethelstan/1857988"
 abv: "10.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

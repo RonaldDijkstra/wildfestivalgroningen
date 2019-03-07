@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/the-wild-beer-co-ghost-zapper/2700400"
 abv: "5.4"
 ibu: "2"
 robots: noindex,nofollow
-lang: nl
 ---

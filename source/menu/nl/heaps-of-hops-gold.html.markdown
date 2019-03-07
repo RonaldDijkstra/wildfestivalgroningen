@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/heaps-of-hops-gold/2091659"
 abv: "3.5"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

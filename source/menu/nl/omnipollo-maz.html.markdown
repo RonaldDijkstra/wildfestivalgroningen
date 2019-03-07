@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/omnipollo-maz/166518"
 abv: "5.6"
 ibu: "48"
 robots: noindex,nofollow
-lang: nl
 ---

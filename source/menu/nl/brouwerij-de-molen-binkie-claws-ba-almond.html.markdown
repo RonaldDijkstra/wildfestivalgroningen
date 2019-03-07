@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-molen-binkie-claws-ba-almond/27
 abv: "11.2"
 ibu: "37"
 robots: noindex,nofollow
-lang: nl
 ---

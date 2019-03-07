@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-hoop-top-scotch-ale-limited-editio
 abv: "6.5"
 ibu: "36"
 robots: noindex,nofollow
-lang: en
 ---

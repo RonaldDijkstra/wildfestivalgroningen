@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/sori-brewing-maximon/2354703"
 abv: "10.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/lehe-pruulikoda-ravnodenstvie/1744996"
 abv: "11.0"
 ibu: "110"
 robots: noindex,nofollow
-lang: en
 ---

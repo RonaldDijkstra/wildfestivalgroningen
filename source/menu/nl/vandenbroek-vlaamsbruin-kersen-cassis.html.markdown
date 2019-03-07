@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vandenbroek-vlaamsbruin-kersen-cassis/230533
 abv: "6.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/black-isle-brewery-goldeneye-pale-ale/14484"
 abv: "5.6"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

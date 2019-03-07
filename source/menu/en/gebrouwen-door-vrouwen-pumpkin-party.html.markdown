@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/gebrouwen-door-vrouwen-pumpkin-party/2312946
 abv: "6.9"
 ibu: "27"
 robots: noindex,nofollow
-lang: en
 ---

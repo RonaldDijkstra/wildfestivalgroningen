@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/black-isle-brewery-red-kite-ale/14490"
 abv: "4.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

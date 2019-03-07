@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/davo-road-trip/633648"
 abv: "8.5"
 ibu: "28"
 robots: noindex,nofollow
-lang: en
 ---

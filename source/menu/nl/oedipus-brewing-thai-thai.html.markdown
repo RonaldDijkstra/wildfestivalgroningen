@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/oedipus-brewing-thai-thai/213365"
 abv: "8.0"
 ibu: "20"
 robots: noindex,nofollow
-lang: nl
 ---

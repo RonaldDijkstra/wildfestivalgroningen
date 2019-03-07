@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-cacaophony/2931419"
 abv: "8.4"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

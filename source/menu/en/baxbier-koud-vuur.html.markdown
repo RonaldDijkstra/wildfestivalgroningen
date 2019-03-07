@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/baxbier-koud-vuur/639286"
 abv: "6.5"
 ibu: "38"
 robots: noindex,nofollow
-lang: en
 ---

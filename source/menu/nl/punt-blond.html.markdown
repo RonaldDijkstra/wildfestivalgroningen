@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/punt-blond/2730824"
 abv: "5.1"
 ibu: "35"
 robots: noindex,nofollow
-lang: nl
 ---

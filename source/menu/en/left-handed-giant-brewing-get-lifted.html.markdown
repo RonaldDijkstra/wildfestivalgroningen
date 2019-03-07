@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-get-lifted/3059762
 abv: "5.6"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

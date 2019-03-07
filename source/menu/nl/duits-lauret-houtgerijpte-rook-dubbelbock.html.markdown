@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/duits-lauret-houtgerijpte-rook-dubbelbock/89
 abv: "7.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

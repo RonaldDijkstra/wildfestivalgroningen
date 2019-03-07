@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-chicxulub/2577400"
 abv: "9.4"
 ibu: "90"
 robots: noindex,nofollow
-lang: en
 ---

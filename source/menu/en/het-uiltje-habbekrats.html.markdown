@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-habbekrats/2758025"
 abv: "1.0"
 ibu: "8"
 robots: noindex,nofollow
-lang: en
 ---

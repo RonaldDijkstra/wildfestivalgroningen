@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-enjoy-the-ride/2027487"
 abv: "4.5"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

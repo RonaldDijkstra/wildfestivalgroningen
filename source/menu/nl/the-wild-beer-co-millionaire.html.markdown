@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/the-wild-beer-co-millionaire/915726"
 abv: "4.7"
 ibu: "14"
 robots: noindex,nofollow
-lang: nl
 ---

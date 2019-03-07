@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-molen-amarillo-extra-hop/141287
 abv: "9.2"
 ibu: "60"
 robots: noindex,nofollow
-lang: nl
 ---

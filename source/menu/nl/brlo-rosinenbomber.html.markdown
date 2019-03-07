@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brlo-rosinenbomber/2757012"
 abv: "12.0"
 ibu: "80"
 robots: noindex,nofollow
-lang: nl
 ---

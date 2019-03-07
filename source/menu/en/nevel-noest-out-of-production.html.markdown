@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/nevel-noest-out-of-production/2769315"
 abv: "4.9"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

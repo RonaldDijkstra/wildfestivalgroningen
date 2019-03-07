@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-roman-ename-pater/1027123"
 abv: "5.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

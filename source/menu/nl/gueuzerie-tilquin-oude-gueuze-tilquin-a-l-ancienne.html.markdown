@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/gueuzerie-tilquin-oude-gueuze-tilquin-a-l-an
 abv: "7.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

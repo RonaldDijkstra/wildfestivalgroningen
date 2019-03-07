@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-sgt-nightvision-bourbon-barrel-ag
 abv: "11.5"
 ibu: "80"
 robots: noindex,nofollow
-lang: en
 ---

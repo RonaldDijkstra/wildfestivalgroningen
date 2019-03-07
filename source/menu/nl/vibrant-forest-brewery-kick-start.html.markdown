@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-kick-start/1703063"
 abv: "5.7"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

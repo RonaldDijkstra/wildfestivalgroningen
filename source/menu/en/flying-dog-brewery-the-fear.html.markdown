@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/flying-dog-brewery-the-fear/63816"
 abv: "9.0"
 ibu: "45"
 robots: noindex,nofollow
-lang: en
 ---

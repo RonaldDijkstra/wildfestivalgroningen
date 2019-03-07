@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/bird-brewery-nognietnaar-huismus/1725455"
 abv: "6.4"
 ibu: "38"
 robots: noindex,nofollow
-lang: en
 ---

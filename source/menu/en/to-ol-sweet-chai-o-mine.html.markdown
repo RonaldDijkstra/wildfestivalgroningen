@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/to-ol-sweet-chai-o-mine/2329855"
 abv: "8.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

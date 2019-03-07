@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/the-gipsy-hill-brewing-co-blitzen/2937557"
 abv: "3.4"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

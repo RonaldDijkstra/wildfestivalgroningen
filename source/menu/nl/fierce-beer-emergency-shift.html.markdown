@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/fierce-beer-emergency-shift/2711251"
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

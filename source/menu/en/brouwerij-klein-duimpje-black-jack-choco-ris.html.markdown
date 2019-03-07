@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-klein-duimpje-black-jack-choco-ris
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

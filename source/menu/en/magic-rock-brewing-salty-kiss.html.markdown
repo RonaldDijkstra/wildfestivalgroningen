@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/magic-rock-brewing-salty-kiss/322150"
 abv: "4.1"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

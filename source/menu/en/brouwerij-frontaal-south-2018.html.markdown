@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-frontaal-south-2018/2713751"
 abv: "2.8"
 ibu: "29"
 robots: noindex,nofollow
-lang: en
 ---

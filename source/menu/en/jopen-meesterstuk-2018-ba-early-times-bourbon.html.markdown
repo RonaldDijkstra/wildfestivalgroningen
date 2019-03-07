@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-meesterstuk-2018-ba-early-times-bourbo
 abv: "12.0"
 ibu: "25"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brasserie-cantillon-gueuze-100-lambic-bio/56
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

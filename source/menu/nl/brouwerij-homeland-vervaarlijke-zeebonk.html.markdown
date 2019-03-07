@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-homeland-vervaarlijke-zeebonk/2611
 abv: "7.1"
 ibu: "15"
 robots: noindex,nofollow
-lang: nl
 ---

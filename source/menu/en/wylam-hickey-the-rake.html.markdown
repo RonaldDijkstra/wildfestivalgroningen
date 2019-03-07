@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/wylam-hickey-the-rake/1452696"
 abv: "4.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-maria-magdalena-4-eureka/2380691"
 abv: "6.0"
 ibu: "80"
 robots: noindex,nofollow
-lang: nl
 ---

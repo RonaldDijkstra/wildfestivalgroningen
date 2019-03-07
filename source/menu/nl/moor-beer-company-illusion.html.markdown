@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/moor-beer-company-illusion/56945"
 abv: "4.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

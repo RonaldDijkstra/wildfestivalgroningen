@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/black-isle-brewery-scotch-ale/98184"
 abv: "6.8"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

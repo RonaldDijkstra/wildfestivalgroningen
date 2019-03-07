@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/in-peccatum-craft-beer-oh-daisy-you-are-wild
 abv: "4.4"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-emelisse-white-label-russian-imper
 abv: "9.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

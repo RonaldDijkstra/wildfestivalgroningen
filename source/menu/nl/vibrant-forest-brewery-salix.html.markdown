@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-salix/2653664"
 abv: "4.5"
 ibu: "10"
 robots: noindex,nofollow
-lang: nl
 ---

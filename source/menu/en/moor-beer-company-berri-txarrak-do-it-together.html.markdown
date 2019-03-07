@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/moor-beer-company-berri-txarrak-do-it-togeth
 abv: "5.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

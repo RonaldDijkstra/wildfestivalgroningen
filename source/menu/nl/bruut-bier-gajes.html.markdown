@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/bruut-bier-gajes/1367373"
 abv: "8.0"
 ibu: "37"
 robots: noindex,nofollow
-lang: nl
 ---

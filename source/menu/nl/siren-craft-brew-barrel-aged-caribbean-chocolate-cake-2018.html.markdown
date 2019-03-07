@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/siren-craft-brew-barrel-aged-caribbean-choco
 abv: "8.7"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-umbral-abyss/1988573"
 abv: "11.5"
 ibu: "100"
 robots: noindex,nofollow
-lang: nl
 ---

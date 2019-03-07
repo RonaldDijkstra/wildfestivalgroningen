@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brewdog-cocoa-psycho/273455"
 abv: "10.0"
 ibu: "85"
 robots: noindex,nofollow
-lang: en
 ---

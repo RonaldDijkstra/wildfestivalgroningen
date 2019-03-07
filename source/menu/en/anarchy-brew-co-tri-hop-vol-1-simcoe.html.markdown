@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/anarchy-brew-co-tri-hop-vol-1-simcoe/3079527
 abv: "7.3"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

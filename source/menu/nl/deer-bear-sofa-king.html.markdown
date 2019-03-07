@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/deer-bear-sofa-king/2532261"
 abv: "5.9"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

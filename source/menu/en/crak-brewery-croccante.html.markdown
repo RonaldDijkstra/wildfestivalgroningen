@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/crak-brewery-croccante/2943813"
 abv: "10.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

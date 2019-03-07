@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/rogue-ales-fresh-roast/355358"
 abv: "5.7"
 ibu: "37"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/samuel-smith-s-old-brewery-organic-chocolate
 abv: "5.0"
 ibu: "28"
 robots: noindex,nofollow
-lang: nl
 ---

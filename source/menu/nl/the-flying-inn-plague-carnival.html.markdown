@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/the-flying-inn-plague-carnival/2062583"
 abv: "7.5"
 ibu: "70"
 robots: noindex,nofollow
-lang: nl
 ---

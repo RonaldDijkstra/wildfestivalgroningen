@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-frontaal-my-milkshake-ipa-brings-a
 abv: "7.0"
 ibu: "45"
 robots: noindex,nofollow
-lang: nl
 ---

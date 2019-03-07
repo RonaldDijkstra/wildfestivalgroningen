@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-stijl-russian-imperial-stout/12675
 abv: "10.0"
 ibu: "70"
 robots: noindex,nofollow
-lang: nl
 ---

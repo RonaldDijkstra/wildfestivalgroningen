@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/anarchy-brew-co-anti-venom/986362"
 abv: "6.0"
 ibu: "56"
 robots: noindex,nofollow
-lang: en
 ---

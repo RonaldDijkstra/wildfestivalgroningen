@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/dark-revolution-baloo/2884383"
 abv: "8.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

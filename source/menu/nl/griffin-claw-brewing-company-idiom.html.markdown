@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/griffin-claw-brewing-company-idiom/2888584"
 abv: "9.5"
 ibu: "65"
 robots: noindex,nofollow
-lang: nl
 ---

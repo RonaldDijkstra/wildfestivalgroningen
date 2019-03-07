@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/grutte-pier-brouwerij-grutte-pier-tripel/832
 abv: "7.5"
 ibu: "29"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/the-flying-inn-the-warp/2920547"
 abv: "13.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

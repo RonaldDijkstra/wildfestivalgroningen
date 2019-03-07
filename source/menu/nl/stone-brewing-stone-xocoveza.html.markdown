@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stone-brewing-stone-xocoveza/1311232"
 abv: "8.1"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/huyghe-brewery-delirium-tremens/4485"
 abv: "8.5"
 ibu: "26"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/anarchy-brew-co-smash-2-amarillo-munich/3070
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

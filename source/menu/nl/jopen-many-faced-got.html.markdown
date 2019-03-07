@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-many-faced-got/1723760"
 abv: "10.0"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

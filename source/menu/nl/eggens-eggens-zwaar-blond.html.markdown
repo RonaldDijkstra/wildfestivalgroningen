@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/eggens-eggens-zwaar-blond/2847005"
 abv: "7.9"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

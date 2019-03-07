@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/pilot-north-sea-bridges-tropisk/2797911"
 abv: "7.4"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

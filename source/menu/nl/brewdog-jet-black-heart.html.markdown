@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brewdog-jet-black-heart/1416253"
 abv: "4.7"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

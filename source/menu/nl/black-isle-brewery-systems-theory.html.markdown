@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/black-isle-brewery-systems-theory/2487327"
 abv: "9.4"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

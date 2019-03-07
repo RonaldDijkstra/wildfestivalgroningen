@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/eggens-ipa/2525212"
 abv: "6.7"
 ibu: "42"
 robots: noindex,nofollow
-lang: nl
 ---

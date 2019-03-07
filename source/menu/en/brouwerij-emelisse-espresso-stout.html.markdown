@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-emelisse-espresso-stout/11726"
 abv: "9.5"
 ibu: "71"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/omnipollo-double-peach-candy-popcorn-sour/26
 abv: "3.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

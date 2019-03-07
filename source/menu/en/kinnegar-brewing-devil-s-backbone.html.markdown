@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/kinnegar-brewing-devil-s-backbone/200848"
 abv: "4.9"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/plattelandsbrouwerij-het-zotte-kalf-brangus/
 abv: "10.0"
 ibu: "41"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/eggens-eggens-tripel/2379456"
 abv: "8.1"
 ibu: "15"
 robots: noindex,nofollow
-lang: nl
 ---

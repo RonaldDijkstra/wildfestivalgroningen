@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/kompaan-bier-brouwerij-kompaan-kompaan-39-bl
 abv: "9.1"
 ibu: "62"
 robots: noindex,nofollow
-lang: en
 ---

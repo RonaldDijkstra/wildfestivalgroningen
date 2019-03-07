@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/solt-soltcamp/2677594"
 abv: "5.3"
 ibu: "37"
 robots: noindex,nofollow
-lang: nl
 ---

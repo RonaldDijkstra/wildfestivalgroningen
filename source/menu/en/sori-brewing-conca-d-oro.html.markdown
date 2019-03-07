@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/sori-brewing-conca-d-oro/1478016"
 abv: "11.5"
 ibu: "24"
 robots: noindex,nofollow
-lang: en
 ---

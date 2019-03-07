@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/the-wild-beer-co-wineybeest/948037"
 abv: "11.0"
 ibu: "45"
 robots: noindex,nofollow
-lang: en
 ---

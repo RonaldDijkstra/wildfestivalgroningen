@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/omnipollo-leon/71307"
 abv: "6.5"
 ibu: "37"
 robots: noindex,nofollow
-lang: nl
 ---

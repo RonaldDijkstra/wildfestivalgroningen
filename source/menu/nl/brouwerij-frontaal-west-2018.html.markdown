@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-frontaal-west-2018/2854193"
 abv: "6.5"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

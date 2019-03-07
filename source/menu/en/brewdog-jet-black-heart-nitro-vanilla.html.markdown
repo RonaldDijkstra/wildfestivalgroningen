@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brewdog-jet-black-heart-nitro-vanilla/280236
 abv: "4.7"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

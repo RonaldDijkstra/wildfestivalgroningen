@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/magic-rock-brewing-the-wave-project/2875453"
 abv: "5.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

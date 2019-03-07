@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/the-gipsy-hill-brewing-co-fugitive/2964765"
 abv: "7.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

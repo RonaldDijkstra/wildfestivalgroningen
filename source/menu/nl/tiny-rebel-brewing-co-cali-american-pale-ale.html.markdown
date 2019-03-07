@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/tiny-rebel-brewing-co-cali-american-pale-ale
 abv: "5.6"
 ibu: "55"
 robots: noindex,nofollow
-lang: nl
 ---

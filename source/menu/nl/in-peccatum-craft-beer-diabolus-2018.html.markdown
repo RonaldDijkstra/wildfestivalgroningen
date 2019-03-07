@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/in-peccatum-craft-beer-diabolus-2018/2872378
 abv: "13.0"
 ibu: "25"
 robots: noindex,nofollow
-lang: nl
 ---

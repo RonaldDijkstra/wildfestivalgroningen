@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/rigters-pitch-black/2060277"
 abv: "7.6"
 ibu: "88"
 robots: noindex,nofollow
-lang: nl
 ---

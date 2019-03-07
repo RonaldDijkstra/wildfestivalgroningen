@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/two-chefs-brewing-green-bullet-ipa/382605"
 abv: "5.7"
 ibu: "40"
 robots: noindex,nofollow
-lang: nl
 ---

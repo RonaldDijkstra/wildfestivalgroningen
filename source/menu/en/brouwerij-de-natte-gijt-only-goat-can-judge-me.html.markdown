@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-natte-gijt-only-goat-can-judge-
 abv: "5.9"
 ibu: "25"
 robots: noindex,nofollow
-lang: en
 ---

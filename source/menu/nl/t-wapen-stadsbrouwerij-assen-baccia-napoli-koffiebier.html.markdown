@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/t-wapen-stadsbrouwerij-assen-baccia-napoli-k
 abv: "8.4"
 ibu: "28"
 robots: noindex,nofollow
-lang: nl
 ---

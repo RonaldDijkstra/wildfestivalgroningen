@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/anarchy-brew-co-ddh-vol-1/3060083"
 abv: "6.0"
 ibu: "24"
 robots: noindex,nofollow
-lang: nl
 ---

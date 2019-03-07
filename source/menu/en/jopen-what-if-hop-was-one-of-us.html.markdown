@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-what-if-hop-was-one-of-us/2686968"
 abv: "4.5"
 ibu: "30"
 robots: noindex,nofollow
-lang: en
 ---

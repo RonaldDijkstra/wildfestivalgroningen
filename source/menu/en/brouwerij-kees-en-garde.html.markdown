@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-kees-en-garde/2364405"
 abv: "7.5"
 ibu: "35"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-martinus-smoked-porter/1859146"
 abv: "9.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

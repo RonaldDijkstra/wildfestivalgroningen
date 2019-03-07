@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/de-moersleutel-first-things-first/3095662"
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

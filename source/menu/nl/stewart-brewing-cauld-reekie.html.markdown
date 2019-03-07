@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stewart-brewing-cauld-reekie/28339"
 abv: "6.2"
 ibu: "65"
 robots: noindex,nofollow
-lang: nl
 ---

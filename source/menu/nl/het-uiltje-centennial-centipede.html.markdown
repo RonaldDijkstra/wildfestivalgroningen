@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-centennial-centipede/3039602"
 abv: "4.8"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

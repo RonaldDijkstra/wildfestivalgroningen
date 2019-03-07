@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vandenbroek-watergeus/1138443"
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

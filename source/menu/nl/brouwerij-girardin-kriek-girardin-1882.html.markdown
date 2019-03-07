@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-girardin-kriek-girardin-1882/29939
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

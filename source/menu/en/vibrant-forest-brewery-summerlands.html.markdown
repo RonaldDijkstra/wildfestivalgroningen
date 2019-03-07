@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vibrant-forest-brewery-summerlands/148008"
 abv: "3.5"
 ibu: "35"
 robots: noindex,nofollow
-lang: en
 ---

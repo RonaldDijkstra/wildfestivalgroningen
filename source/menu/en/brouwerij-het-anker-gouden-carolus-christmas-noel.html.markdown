@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-het-anker-gouden-carolus-christmas
 abv: "10.5"
 ibu: "11"
 robots: noindex,nofollow
-lang: en
 ---

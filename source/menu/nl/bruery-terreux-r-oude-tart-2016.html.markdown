@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/bruery-terreux-r-oude-tart-2016/1744184"
 abv: "7.7"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

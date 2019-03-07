@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/turning-point-brew-co-lucid-dream/2062541"
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

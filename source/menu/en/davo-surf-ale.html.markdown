@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/davo-surf-ale/382646"
 abv: "6.4"
 ibu: "24"
 robots: noindex,nofollow
-lang: en
 ---

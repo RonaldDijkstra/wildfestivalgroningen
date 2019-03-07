@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-lost-in-the-light/
 abv: "5.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

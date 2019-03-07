@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/left-handed-giant-brewing-inner-circle/29748
 abv: "5.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

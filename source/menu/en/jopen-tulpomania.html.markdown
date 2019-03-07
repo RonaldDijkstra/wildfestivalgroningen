@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-tulpomania/1027326"
 abv: "5.5"
 ibu: "45"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/het-uiltje-sequence-series-cask-ferment-3/30
 abv: "12.2"
 ibu: "74"
 robots: noindex,nofollow
-lang: en
 ---

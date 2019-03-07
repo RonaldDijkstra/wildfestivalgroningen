@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/omnipollo-zodiak/852701"
 abv: "6.2"
 ibu: "65"
 robots: noindex,nofollow
-lang: en
 ---

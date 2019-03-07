@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/kinnegar-brewing-yannaroddy/522463"
 abv: "4.8"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

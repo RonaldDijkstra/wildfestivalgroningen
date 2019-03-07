@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/mad-scientist-jam72/1501089"
 abv: "7.2"
 ibu: "60"
 robots: noindex,nofollow
-lang: nl
 ---

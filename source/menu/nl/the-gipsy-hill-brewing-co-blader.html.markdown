@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/the-gipsy-hill-brewing-co-blader/2970547"
 abv: "5.2"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

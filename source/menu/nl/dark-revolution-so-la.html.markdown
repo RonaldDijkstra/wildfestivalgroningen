@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/dark-revolution-so-la/1443665"
 abv: "4.5"
 ibu: "45"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/st-austell-brewery-korev/32862"
 abv: "4.8"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

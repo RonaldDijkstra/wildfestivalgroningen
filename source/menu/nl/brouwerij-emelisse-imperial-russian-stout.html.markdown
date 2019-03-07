@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-emelisse-imperial-russian-stout/11
 abv: "11.0"
 ibu: "90"
 robots: noindex,nofollow
-lang: nl
 ---

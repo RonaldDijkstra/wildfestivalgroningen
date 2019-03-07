@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stanislaus-brewskovitch-craft-beer-bock-the-
 abv: "8.0"
 ibu: "20"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/stone-brewing-stone-ipa/821"
 abv: "6.9"
 ibu: "71"
 robots: noindex,nofollow
-lang: nl
 ---

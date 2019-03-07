@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-de-school-de-direkteur/2973353"
 abv: "11.5"
 ibu: "20"
 robots: noindex,nofollow
-lang: nl
 ---

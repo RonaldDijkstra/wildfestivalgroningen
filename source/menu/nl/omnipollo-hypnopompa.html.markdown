@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/omnipollo-hypnopompa/432069"
 abv: "11.0"
 ibu: "66"
 robots: noindex,nofollow
-lang: nl
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-breugem-heet-and-stout/2526623"
 abv: "8.0"
 ibu: "42"
 robots: noindex,nofollow
-lang: en
 ---

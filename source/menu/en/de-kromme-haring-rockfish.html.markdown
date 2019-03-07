@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/de-kromme-haring-rockfish/1951803"
 abv: "5.5"
 ibu: "36"
 robots: noindex,nofollow
-lang: en
 ---

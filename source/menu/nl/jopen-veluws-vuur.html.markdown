@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/jopen-veluws-vuur/2206662"
 abv: "11.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

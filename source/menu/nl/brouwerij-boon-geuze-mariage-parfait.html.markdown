@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-boon-geuze-mariage-parfait/29149"
 abv: "8.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

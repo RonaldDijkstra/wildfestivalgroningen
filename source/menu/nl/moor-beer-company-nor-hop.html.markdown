@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/moor-beer-company-nor-hop/211224"
 abv: "4.1"
 ibu: "30"
 robots: noindex,nofollow
-lang: nl
 ---

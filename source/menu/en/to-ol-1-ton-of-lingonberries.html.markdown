@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/to-ol-1-ton-of-lingonberries/2487293"
 abv: "8.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

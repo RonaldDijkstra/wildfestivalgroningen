@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/vandestreek-bier-blackbock/1205331"
 abv: "6.0"
 ibu: "44"
 robots: noindex,nofollow
-lang: nl
 ---

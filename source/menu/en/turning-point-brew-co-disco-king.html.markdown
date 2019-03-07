@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/turning-point-brew-co-disco-king/2062525"
 abv: "5.1"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

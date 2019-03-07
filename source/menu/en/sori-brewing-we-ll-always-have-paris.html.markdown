@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/sori-brewing-we-ll-always-have-paris/2427535
 abv: "9.5"
 ibu: "48"
 robots: noindex,nofollow
-lang: en
 ---

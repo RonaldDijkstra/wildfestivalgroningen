@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/berging-brouwerij-s3-russian-imperial-stout/
 abv: "9.2"
 ibu: "100"
 robots: noindex,nofollow
-lang: en
 ---

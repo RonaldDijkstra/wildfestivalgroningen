@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/siren-craft-brew-broken-dream-breakfast-stou
 abv: "6.5"
 ibu: "0"
 robots: noindex,nofollow
-lang: en
 ---

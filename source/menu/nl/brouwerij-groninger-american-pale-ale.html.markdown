@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/brouwerij-groninger-american-pale-ale/148815
 abv: "8.0"
 ibu: "50"
 robots: noindex,nofollow
-lang: nl
 ---

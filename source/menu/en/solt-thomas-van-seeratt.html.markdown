@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/solt-thomas-van-seeratt/2131708"
 abv: "5.8"
 ibu: "22"
 robots: noindex,nofollow
-lang: en
 ---

@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/black-isle-brewery-yellowhammer/14489"
 abv: "4.0"
 ibu: "0"
 robots: noindex,nofollow
-lang: nl
 ---

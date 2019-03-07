@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/waterloo-brewery-mont-st-jean-waterloo-recol
 abv: "6.0"
 ibu: "32"
 robots: noindex,nofollow
-lang: nl
 ---

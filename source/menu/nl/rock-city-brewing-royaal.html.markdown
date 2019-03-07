@@ -10,5 +10,4 @@ untappd_url: "https://untappd.com/b/rock-city-brewing-royaal/2236453"
 abv: "4.7"
 ibu: "25"
 robots: noindex,nofollow
-lang: nl
 ---
