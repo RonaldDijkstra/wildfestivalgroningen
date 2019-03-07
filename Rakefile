@@ -36,7 +36,8 @@ task :build do
   puts "== Retrieved external data".green
   puts "== Brewing...".green
   system "bundle exec middleman build --verbose" || exit(1)
-  FileUtils.rm_rf("build/menu/beers/", verbose: true)
+  FileUtils.rm_rf("build/en/beers/", verbose: true)
+  FileUtils.rm_rf("build/nl/", verbose: true)
 end
 
 ## Build & Proof
