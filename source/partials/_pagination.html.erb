@@ -25,7 +25,9 @@
           </li>
         <% else %>
           <%
-          page_url = "/menu/"
+          page_url = ""
+          page_url << "/en" unless lang == :nl
+          page_url << "/menu/"
           page_url << "#{page}/" unless page == 1
           %>
           <li class="item">
