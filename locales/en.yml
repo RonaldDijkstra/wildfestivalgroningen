@@ -21,17 +21,13 @@
       name: "Your name"
       submit: "Submit"
     navigation:
-      about: "About"
       contact: "Contact"
-      participators: "Participators"
+      participants: "Participants"
       index: "Home"
-      organisation: "Organisation"
       program: "Program"
       tickets: "Tickets"
     # Pages
     pages:
-      about:
-        title: "About the Festival"
       contact:
         title: "Contact"
       index:
@@ -44,7 +40,7 @@
           about:
             text: "Here a short text about the festival with links to %{link}"
             title: "About"
-          line-up:
+          participants:
             text: "Here a short text about the participators with link to %{link}"
             title: "Participators"
           location:
@@ -55,8 +51,8 @@
             title: "Program"
       organisation:
         title: "Organisation"
-      participators:
-        title: "Participators"
+      participants:
+        title: "Participants"
       program:
         title: "Program"
       thanks:
