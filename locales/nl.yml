@@ -41,6 +41,8 @@
             title: "Programma"
       organisation:
         title: "Organisatie"
+      participants:
+        title: "Deelnemers"
       program:
         title: "Programma"
       thanks:
