@@ -12,17 +12,13 @@
       name: "Je naam"
       submit: "Verstuur"
     navigation:
-      about: "Over"
       contact: "Contact"
       index: "Home"
-      organisation: "Organisatie"
-      participators: "Deelnemers"
+      participants: "Deelnemers"
       program: "Programma"
       tickets: "Tickets"
     # Pages
     pages:
-      about:
-        title: "Over het festival"
       contact:
         title: "Contact"
       index:
@@ -34,7 +30,7 @@
           about:
             text: "Hier een korte tekst over het festival met links naar %{link}"
             title: "Over"
-          line-up:
+          participants:
             text: "Hier een korte tekst over de deelnemers met link naar %{link}"
             title: "Deelnemers"
           location:
@@ -45,7 +41,7 @@
             title: "Programma"
       organisation:
         title: "Organisatie"
-      participators:
+      participants:
         title: "Deelnemers"
       program:
         title: "Programma"
