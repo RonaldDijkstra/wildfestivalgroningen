@@ -1,12 +1,12 @@
 <nav class="site-navigation" role="navigation">
-  <div class="logo">
+  <!-- <div class="logo">
     <% link_to("/", relative: false, class: "root-link home") do %>
         <%= inline_svg "logo-wild-festival-groningen-2019.svg", alt: "Logo Wild Festival Groningen 2019", class: "logo-desktop" %>
         <span class="logo-mobile">
           <%= data.site.name %>
         </span>
     <% end %>
-  </div>
+  </div> -->
 
   <a id="mobile-toggle" class="mobile-toggle">
     <span></span>
@@ -15,7 +15,33 @@
   </a>
 
   <div class="navigation-bar">
-    <ul class="menu">
+
+    <div class="logo">
+
+    </div>
+
+    <div class="navigation-left">
+      <%= current_link_to t("navigation.index"), "/index.html", relative: false, class: "root-link" %>
+      <%= current_link_to t("navigation.participants"), "/deelnemers.html", class: "root-link" %>
+      <%= current_link_to t("navigation.program"), "/programma.html", class: "root-link" %>
+    </div>
+
+    <div class="navigation-right">
+      <%= current_link_to t("navigation.tickets"), "/tickets.html", class: "root-link" %>
+      <%= current_link_to t("navigation.contact"), "/contact.html", class: "root-link" %>
+      <% if I18n.locale == :nl %>
+        <a href="/en/" class="language-link">
+          <%= inline_svg "en.svg", alt: "English" %>
+          <span>English</span>
+        </a>
+      <% elsif I18n.locale == :en %>
+        <a href="/" class="language-link">
+          <%= inline_svg "nl.svg", alt: "Nederlands" %>
+          <span>Nederlands</span>
+        </a>
+      <% end %>
+    </div>
+    <!-- <ul class="menu">
       <li>
         <%= current_link_to t("navigation.index"), "/index.html", relative: false, class: "root-link" %>
       </li>
@@ -45,9 +71,7 @@
         <% end %>
       </li>
     </ul>
-    <div class="social-links">
-      <a href="https://www.facebook.com/Wild-Festival-Groningen-500252510502337/" class="icon-facebook" target="_blank" rel="noopener noreferrer"></a>
-      <a href="https://www.instagram.com/wildfestivalgroningen/" class="icon-instagram" target="_blank" rel="noopener noreferrer"></a>
-    </div>
+  -->
+    <%#= partial "partials/social-links" %>
   </div>
 </nav>

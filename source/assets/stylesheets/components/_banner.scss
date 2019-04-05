@@ -5,11 +5,7 @@ header {
   background-attachment: scroll;
   background-size: cover;
   color: $white;
-  padding: 0 $base-spacing;
-
-  @include grid-media($for-desktop-up) {
-    padding: 0;
-  }
+  padding: 60px $base-spacing 0;
 
   &.variant-big {
     text-align: center;
