@@ -5,6 +5,17 @@
   position: fixed;
   width: 100%;
 
+  .logo {
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 60px;
+    font-size: 40px;
+    position: absolute;
+    left: 50%;
+    margin-left: -5 0px;
+}
+
   a {
     color: $dark-gray;
     text-decoration: none;
