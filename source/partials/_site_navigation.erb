@@ -1,12 +1,5 @@
 <nav class="site-navigation" role="navigation">
-  <!-- <div class="logo">
-    <% link_to("/", relative: false, class: "root-link home") do %>
-        <%= inline_svg "logo-wild-festival-groningen-2019.svg", alt: "Logo Wild Festival Groningen 2019", class: "logo-desktop" %>
-        <span class="logo-mobile">
-          <%= data.site.name %>
-        </span>
-    <% end %>
-  </div> -->
+
 
   <a id="mobile-toggle" class="mobile-toggle">
     <span></span>
@@ -17,7 +10,9 @@
   <div class="navigation-bar">
 
     <div class="logo">
-      <%= image_tag "assets/images/logo-wild-festival-groningen.png", alt: "Logo Wild Festival Groningen", class: "logo-image" %>
+      <% link_to("/", relative: false, class: "root-link home") do %>
+        <%= image_tag "assets/images/logo-wild-festival-groningen-2019.svg", alt: "Logo Wild Festival Groningen", class: "logo-image" %>
+      <% end %>
     </div>
 
     <div class="navigation-left">

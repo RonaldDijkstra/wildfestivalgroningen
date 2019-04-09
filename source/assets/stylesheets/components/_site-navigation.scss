@@ -1,20 +1,69 @@
 .site-navigation {
   background: $white;
-  height: 50px;
+  box-shadow: 0 4px 2px -2px rgba($black, 0.1);
+  height: 60px;
   line-height: 50px;
+  padding: 5px 0;
   position: fixed;
   width: 100%;
 
   .logo {
-    width: 100px;
-    text-align: center;
-    font-weight: bold;
-    line-height: 60px;
-    font-size: 40px;
-    position: absolute;
     left: 50%;
-    margin-left: -5 0px;
-}
+    line-height: 60px;
+    margin-left: -120px;
+    position: absolute;
+    text-align: center;
+    width: 240px;
+  }
+
+  .navigation-left {
+    left: 0;
+    margin-right: 120px;
+    position: absolute;
+    right: 50%;
+    text-align: right;
+  }
+
+  .navigation-right {
+    left: 50%;
+    margin-left: 120px;
+    position: absolute;
+    right: 0;
+    text-align: left;
+  }
+
+  .navigation-bar {
+    display: none;
+    float: none;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s;
+    width: 100%;
+
+    @include grid-media($for-desktop-up) {
+      display: block;
+    }
+
+    a {
+      display: inline-block;
+      font-family: 'MoonFlower', cursive;
+      font-size: $base-font-size * 1.6;
+      line-height: auto;
+      padding-left: 0.5em;
+      padding-right: 0.5em;
+      text-transform: uppercase;
+
+      &:hover {
+        color: $blue;
+      }
+
+      &[aria-current]:not([aria-current="false"]) {
+        background-color: $white;
+        background-position: 0 bottom;
+        color: $blue;
+        font-weight: $font-weight-semibold;
+      }
+    }
 
   a {
     color: $dark-gray;
@@ -87,83 +136,5 @@
       max-height: 34em;
     }
   }
-
-  .navigation-bar {
-    float: none;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.4s;
-    width: 100%;
-
-    @include grid-media($for-desktop-up) {
-      max-height: 50px;
-    }
-
-    a {
-      display: inline-block;
-      font-family: $heading-font-family;
-      font-size: $base-font-size * 1.6;
-      line-height: 50px;
-      padding-left: 1em;
-      padding-right: 1em;
-      text-transform: uppercase;
-
-      &:hover {
-        color: $limegreen;
-      }
-
-      &[aria-current]:not([aria-current="false"]) {
-        background-color: $white;
-        background-position: 0 bottom;
-        color: $limegreen;
-        font-weight: $font-weight-semibold;
-      }
-    }
-
-    .navigation-left {
-      left: 0;
-      margin-right: 100px;
-      position: absolute;
-      right: 50%;
-      text-align: right;
-    }
-
-    .navigation-right {
-      left: 50%;
-      margin-left: 100px;
-      position: absolute;
-      right: 0;
-      text-align: left;
-    }
-
-    // .menu {
-    //   list-style-type: none;
-    //   margin: 0;
-    //   padding: 0;
-    //
-    //   li {
-    //     display: block;
-    //     list-style-type: none;
-    //   }
-    //
-    //   a {
-    //     background: $dark-gray;
-    //     border-bottom: $base-border;
-    //     color: $white;
-    //     display: block;
-    //     font-family: $heading-font-family;
-    //     font-size: $base-font-size * 1.6;
-    //     font-weight: $font-weight-small;
-    //     padding: 0 $base-spacing * 0.7;
-    //     text-transform: uppercase;
-    //
-    //     &[aria-current]:not([aria-current="false"]) {
-    //       background-color: $white;
-    //       background-position: 0 bottom;
-    //       color: $action-color;
-    //       font-weight: $font-weight-semibold;
-    //     }
-    //   }
-    // }
   }
 }
