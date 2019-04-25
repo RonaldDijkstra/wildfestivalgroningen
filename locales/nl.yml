@@ -43,6 +43,12 @@
         title: "Organisatie"
       participants:
         title: "Deelnemers"
+        antidoot:
+          text: |
+            Bier, cider en wijn. Wild gefermenteerd met 100% natuurlijke gist en bacteriën.
+            Antidoot geeft hun eigen twist aan de traditionele Belgische lambiek en saison, met lokale experimentele ingrediënten zoals fruit en kruiden, met rijping op houten vaten.
+          link: https://www.antidoot.be/
+
       program:
         title: "Programma"
       thanks:
