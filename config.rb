@@ -12,6 +12,19 @@ activate :directory_indexes
 activate :inline_svg
 activate :sprockets
 
+ENV["SEGMENT_KEY"] = "qwGd4qV8VZhmjk2t5RV4n6SZt5jqe7Y2"
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-24956010-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-24956010-6');
+</script>
+
+
 # Ignore the selection file for Icomoon
 ignore "assets/fonts/selection.json"
 
