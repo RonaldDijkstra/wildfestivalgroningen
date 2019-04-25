@@ -43,13 +43,17 @@
         title: "Organisatie"
       participants:
         title: "Deelnemers"
+        text: |
+          Meer dan twintig deelnemers zullen zorgen voor een unieke line-up van brouwers, wijnboeren en ciderhuizen. Lokale ingrediënten, spontane vergisting en rijping op eiken vaten staan centraal.
+
+          Naast drinken is er heerlijk eten in de foodcourt met echt wild, gefermenteerde producten en producten rechtstreeks uit de natuur.
         antidoot:
           text: |
             Bier, cider en wijn. Wild gefermenteerd met 100% natuurlijke gist en bacteriën.
             Antidoot geeft hun eigen twist aan de traditionele Belgische lambiek en saison, met lokale experimentele ingrediënten zoals fruit en kruiden, met rijping op houten vaten.
         vandenbroek:
           text: |
-            Spontaan vergiste bieren gerijpt op eiken vaten. Gebrouwen in de zelf gemaakte  houtgestookte brouwerij met koperen ketels en traditioneel koelschip. 
+            Spontaan vergiste bieren gerijpt op eiken vaten. Gebrouwen in de zelf gemaakte  houtgestookte brouwerij met koperen ketels en traditioneel koelschip.
       program:
         title: "Programma"
       thanks:
