@@ -9,6 +9,14 @@ $for-desktop-up: (
   padding: 2em $base-spacing;
 }
 
-.single-column .grid-row {
-  max-width: 800px;
+.single-column {
+  .grid-row {
+    max-width: 800px;
+  }
+
+  &.small {
+    .grid-row {
+      max-width: 640px;
+    }
+  }
 }
