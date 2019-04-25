@@ -12,6 +12,8 @@ activate :directory_indexes
 activate :inline_svg
 activate :sprockets
 
+ENV["SEGMENT_KEY"] = "qwGd4qV8VZhmjk2t5RV4n6SZt5jqe7Y2"
+
 # Ignore the selection file for Icomoon
 ignore "assets/fonts/selection.json"
 
