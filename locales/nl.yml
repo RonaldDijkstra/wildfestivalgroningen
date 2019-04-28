@@ -14,7 +14,7 @@
     navigation:
       contact: "Contact"
       index: "Home"
-      participants: "Deelnemers"
+      line-up: "Line-up"
       program: "Programma"
       tickets: "Tickets"
     # Pages
@@ -30,9 +30,9 @@
           about:
             text: "Hier een korte tekst over het festival met links naar %{link}"
             title: "Over"
-          participants:
+          line-up:
             text: "Hier een korte tekst over de deelnemers met link naar %{link}"
-            title: "Deelnemers"
+            title: "Line-up"
           location:
             text: "Hier komt de kaart"
             title: "Locatie"
@@ -41,8 +41,8 @@
             title: "Programma"
       organisation:
         title: "Organisatie"
-      participants:
-        title: "Deelnemers"
+      line-up:
+        title: "Line-up"
         tba: "Binnenkort worden meer namen bekend gemaakt!<br>Verwacht twintig van de beste brouwers, wijnboeren en ciderhuizen uit Europa."
         text: |
           Meer dan twintig deelnemers zullen zorgen voor een unieke line-up van brouwers, wijnboeren en ciderhuizen. Lokale ingrediënten, spontane vergisting en rijping op eiken vaten staan centraal.

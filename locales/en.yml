@@ -6,7 +6,7 @@
     paths:
       bedankt: "thanks"
       contact: "contact"
-      deelnemers: "participants"
+      deelnemers: "line-up"
       organisatie: "organisation"
       over: "about"
       programma: "program"
@@ -22,7 +22,7 @@
       submit: "Submit"
     navigation:
       contact: "Contact"
-      participants: "Participants"
+      line-up: "Line-up"
       index: "Home"
       program: "Program"
       tickets: "Tickets"
@@ -40,7 +40,7 @@
           about:
             text: "Here a short text about the festival with links to %{link}"
             title: "About"
-          participants:
+          line-up:
             text: "Here a short text about the participators with link to %{link}"
             title: "Participators"
           location:
@@ -51,11 +51,11 @@
             title: "Program"
       organisation:
         title: "Organisation"
-      participants:
-        title: "Participants"
+      line-up:
+        title: "Line-up"
         tba: "More names will be announced soon!<br>Expect twenty of the best brewers, winemakers and cider houses from Europe."
         text: |
-          More than twenty participants will ensure an outstanding line-up of brewers, winemakers and cider houses. This unique festival is dedicated to local ingredients, spontaneous fermentation and aging in oak barrels.
+          More than twenty line-up will ensure an outstanding line-up of brewers, winemakers and cider houses. This unique festival is dedicated to local ingredients, spontaneous fermentation and aging in oak barrels.
 
           In addition to wild drinks, there is delicious food in the food court with real wild, fermented products and products directly from nature.
       program:
