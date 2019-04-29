@@ -5,12 +5,8 @@
     # Path translations
     paths:
       bedankt: "thanks"
-      contact: "contact"
-      deelnemers: "line-up"
       organisatie: "organisation"
-      over: "about"
       programma: "program"
-      tickets: "tickets"
     site:
       description: "Wild Festival Groningen is a new concept of Bierselect Groningen & Boilermaker."
     actions:
@@ -36,21 +32,6 @@
           title: "Wild Festival Groningen"
           date: "November 23, 2019"
           location: "EM2 Venue"
-        sections:
-          about:
-            text: "Here a short text about the festival with links to %{link}"
-            title: "About"
-          line-up:
-            text: "Here a short text about the participators with link to %{link}"
-            title: "Participators"
-          location:
-            text: "Here a map"
-            title: "Location"
-          program:
-            text: "Here a short text about the program with link to %{link}"
-            title: "Program"
-      organisation:
-        title: "Organisation"
       line-up:
         title: "Line-up"
         tba: "More names will be announced soon!<br>Expect twenty of the best brewers, winemakers and cider houses from Europe."

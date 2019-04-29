@@ -26,21 +26,6 @@
         banner:
           date: "23 november 2019"
           location: "EM2 Venue"
-        sections:
-          about:
-            text: "Hier een korte tekst over het festival met links naar %{link}"
-            title: "Over"
-          line-up:
-            text: "Hier een korte tekst over de deelnemers met link naar %{link}"
-            title: "Line-up"
-          location:
-            text: "Hier komt de kaart"
-            title: "Locatie"
-          program:
-            text: "Hier een korte tekst over het programma met link naar %{link}"
-            title: "Programma"
-      organisation:
-        title: "Organisatie"
       line-up:
         title: "Line-up"
         tba: "Binnenkort worden meer namen bekend gemaakt!<br>Verwacht twintig van de beste brouwers, wijnboeren en ciderhuizen uit Europa."
