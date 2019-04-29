@@ -1,0 +1,40 @@
+section.line-up {
+  background: $lighter-gray;
+  text-align: center;
+
+  .line-up-wrapper {
+    margin-bottom: 3em;
+
+    @include grid-media($for-desktop-up) {
+      display: flex;
+      margin-bottom: 1em;
+    }
+  }
+
+  .line-up-item {
+    background: $white;
+    border: 1px solid $black;
+    border-radius: 50%;
+    height: 280px;
+    margin: 0 auto 1em;
+    overflow: hidden;
+    width: 280px;
+
+    @include grid-media($for-desktop-up) {
+      flex: 0 1 auto;
+      height: 200px;
+      width: 200px;
+    }
+
+    &:last-child {
+      margin: 0 auto;
+    }
+
+    img {
+      display: block;
+      height: 100%;
+      margin: 0 auto;
+      width: 100%;
+    }
+  }
+}

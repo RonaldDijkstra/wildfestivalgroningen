@@ -32,6 +32,8 @@
           title: "Wild Festival Groningen"
           date: "November 23, 2019"
           location: "EM2 Venue"
+        line-up:
+          button: "View the line-up"
       line-up:
         title: "Line-up"
         tba: "More names will be announced soon!<br>Expect twenty of the best brewers, winemakers and cider houses from Europe."

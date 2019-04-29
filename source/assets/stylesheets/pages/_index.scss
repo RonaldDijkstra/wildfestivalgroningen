@@ -10,20 +10,12 @@ body.index {
     }
 
     h2 {
-      font-size: $base-font-size * 1.6;
+      font-size: $base-font-size * 2.4;
       text-align: center;
     }
 
     p {
       text-align: center;
-    }
-
-    &.line-up {
-      background: $lighter-gray;
-    }
-
-    &.location {
-      background: $lighter-gray;
     }
   }
 }

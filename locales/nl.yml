@@ -26,6 +26,8 @@
         banner:
           date: "23 november 2019"
           location: "EM2 Venue"
+        line-up:
+          button: "Bekijk de line-up"
       line-up:
         title: "Line-up"
         tba: "Binnenkort worden meer namen bekend gemaakt!<br>Verwacht twintig van de beste brouwers, wijnboeren en ciderhuizen uit Europa."
