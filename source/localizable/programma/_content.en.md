@@ -1,4 +1,4 @@
-## Side Events, November 22, 2019 (Friday)
+## Side Events, November 21 (Thursday) & 22 (Friday), 2019
 Various events at different locations in Groningen.<br>
 More information soon!
 
@@ -7,7 +7,7 @@ More information soon!
 __Session 1 Saturday afternoon__<br>
 13:30 – 17:30
 
-__Sessie 2 Saturday night__<br>
+__Session 2 Saturday night__<br>
 18:30 – 22:30
 
 __Foodcourt__<br>
