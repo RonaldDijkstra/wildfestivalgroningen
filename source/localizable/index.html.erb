@@ -6,9 +6,12 @@ sitemap_priority: 1
 ---
 
 <%= partial "homepage/banner" %>
-<section class="introduction">
+<section class="introduction single-column">
   <div class="grid-row">
-    <%= partial "homepage/introduction" %>
+    <article>
+      <%= partial "homepage/introduction" %>
+    </article>
   </div>
 </section>
+<%= partial "partials/line-up" %>
 <%= partial "partials/maps" %>
