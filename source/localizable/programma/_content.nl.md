@@ -1,9 +1,9 @@
-## Side Events vrijdag 22 november
+## Side Events donderdag 21 en vrijdag 22 november 2019
 
 Diverse evenementen op verschillende locaties in Groningen.<br>
 Binnenkort meer informatie!
 
-## Wild Festival Groningen 23 november
+## Wild Festival Groningen 23 november 2019
 
 __Sessie 1 zaterdagmiddag__<br>
 13:30 – 17:30
