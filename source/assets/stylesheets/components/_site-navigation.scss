@@ -73,7 +73,7 @@
     }
 
     span {
-      background-color: $white;
+      background-color: $action-color;
       bottom: auto;
       height: 3px;
       left: 50%;
@@ -86,7 +86,7 @@
 
       &::after,
       &::before {
-        background-color: $white;
+        background-color: $action-color;
         content: "";
         height: 3px;
         left: 0;
@@ -131,7 +131,7 @@
     width: 100%;
 
     @include grid-media($for-desktop-up) {
-      border-top: $base-border;
+      background-color: $dark-gray;
       display: block;
       max-height: none;
       text-align: center;
@@ -158,28 +158,21 @@
 
       a {
         background: $dark-gray;
-        border-bottom: $base-border;
-        color: $white;
+        color: $action-color;
         display: block;
         font-family: $heading-font-family;
         font-size: $base-font-size * 1.6;
         font-weight: $font-weight-small;
-        padding: 0 $base-spacing * 0.7;
+        padding: 0 $base-spacing * 0.9;
         text-transform: uppercase;
 
         @include grid-media($for-desktop-up) {
-          background: linear-gradient($action-color, $action-color);
-          background-position: 0 3em;
-          background-repeat: no-repeat;
-          background-size: 100% 0.1em;
           border-bottom: 0;
-          color: $dark-gray;
           display: block;
-          //transition: background-position 200ms ease;
+          transition: background-color 200ms ease;
 
           &:hover {
-            //background: linear-gradient($action-color, $action-color);
-            background-position: 0 bottom;
+            background: darken($dark-gray, 20%);
             color: $action-color;
             text-decoration: none;
           }
@@ -198,12 +191,16 @@
         }
 
         &[aria-current]:not([aria-current="false"]) {
-          background-color: $white;
+          background-color: darken($dark-gray, 20%);
           background-position: 0 bottom;
           color: $action-color;
           font-weight: $font-weight-semibold;
 
           @include grid-media($for-desktop-up) {
+            background-image: linear-gradient($action-color, $action-color);
+            background-position: 0 bottom;
+            background-repeat: no-repeat;
+            background-size: 100% 0.05em;
             color: $action-color;
             font-weight: $font-weight-small;
           }
