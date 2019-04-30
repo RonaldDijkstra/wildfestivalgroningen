@@ -5,7 +5,9 @@ title:
 robots: noindex,nofollow
 ---
 
-<%= partial "bedankt/banner" %>
+<%= partial "partials/banner", locals: { variant: "variant-normal",
+                                         background_image: "banner-forest-2.jpg",
+                                         title: t("pages.contact.title")} %>
 
 <section class="content">
   <div class="grid-row">
