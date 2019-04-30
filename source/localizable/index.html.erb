@@ -5,7 +5,13 @@ description:
 sitemap_priority: 1
 ---
 
-<%= partial "homepage/banner" %>
+<%= partial "partials/banner", locals: { variant: "variant-big",
+                                         # variant_overlay: "primary-overlay",
+                                         background_image: "banner-homepage.jpg",
+                                         title: "WILD FESTIVAL GRONINGEN",
+                                         pre_title: "BEER | WINE | CIDER | FOOD",
+                                         sub_title_date: t("pages.index.banner.date"),
+                                         sub_title_location: t("pages.index.banner.date")} %>
 
 <section class="introduction single-column">
   <div class="grid-row">

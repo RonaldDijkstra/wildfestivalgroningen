@@ -1,9 +1,4 @@
 body.index {
-  header.banner {
-    $banner-image: "../images/banner-homepage.jpg";
-    background-image: url($banner-image);
-  }
-
   section {
     .grid-row {
       padding: 3em 1em;
