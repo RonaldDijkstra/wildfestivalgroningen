@@ -192,17 +192,13 @@
 
         &[aria-current]:not([aria-current="false"]) {
           background-color: darken($dark-gray, 20%);
-          background-position: 0 bottom;
           color: $action-color;
-          font-weight: $font-weight-semibold;
 
           @include grid-media($for-desktop-up) {
             background-image: linear-gradient($action-color, $action-color);
             background-position: 0 bottom;
             background-repeat: no-repeat;
             background-size: 100% 0.05em;
-            color: $action-color;
-            font-weight: $font-weight-small;
           }
         }
       }
