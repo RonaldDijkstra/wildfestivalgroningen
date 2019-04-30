@@ -1,0 +1,6 @@
+body.x404 {
+  header.banner {
+    $banner-image: "../images/banner-field.jpg";
+    background-image: url($banner-image);
+  }
+}
