@@ -40,7 +40,8 @@ page "/*.xml", layout: false
 configure :production do
   activate :asset_hash, ignore: [
     %r{^assets/fonts/.*},
-    "assets/images/maps-marker.svg"
+    "assets/images/maps-marker.svg",
+    "assets/images/wildfestival-groningen-1200x630.jpg"
   ]
   activate :gzip
   activate :minify_css
