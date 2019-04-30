@@ -1,40 +1,25 @@
 .social-links {
-  background-color: $dark-gray;
   line-height: normal;
   padding: 2em 0;
   position: relative;
   text-align: center;
+  z-index: 1;
 
-  @include grid-media($for-desktop-up) {
-    background-color: transparent;
-    padding: 1em;
-    position: fixed;
-    right: 0;
-    top: 0;
+  a {
+    text-decoration: none;
   }
 
   [class^="icon-"],
   [class*=" icon-"] {
-    background-color: $white;
+    background-color: $action-color;
     border-radius: 50%;
-    color: $dark-gray;
-    font-size: $base-font-size * 1.2;
+    color: $white;
+    font-size: $base-font-size * 1.8;
     margin: 0 0.2em;
     padding: $base-spacing * 0.4;
 
-    @include grid-media($for-desktop-up) {
-      background-color: $dark-gray;
-      color: $white;
-      font-size: 1em;
-      margin: 0 0.1em;
-    }
-
     &:hover {
-      background-color: lighten($brown, 50%);
-
-      @include grid-media($for-desktop-up) {
-        background-color: darken($dark-gray, 10%);
-      }
+      background-color: darken($action-color, 10%);
     }
   }
 }
