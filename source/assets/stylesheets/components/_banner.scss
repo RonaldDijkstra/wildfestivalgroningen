@@ -2,13 +2,14 @@ header {
   $banner-image: "../images/banner-homepage.jpg";
 
   background: url($banner-image) no-repeat center center fixed;
-  // background-attachment: scroll;
+  background-attachment: scroll;
   background-size: cover;
   color: $white;
   padding: 0 $base-spacing;
   position: relative;
 
   @include grid-media($for-desktop-up) {
+    background-attachment: fixed;
     padding: 0;
   }
 
