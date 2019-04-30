@@ -8,13 +8,9 @@ description:
 sitemap_priority: 0.8
 ---
 
-<header class="banner variant-normal" role="banner">
-  <div class="grid-row">
-    <h1>
-      <%= t("pages.contact.title") %>
-    </h1>
-  </div>
-</header>
+<%= partial "partials/banner", locals: { variant: "variant-normal",
+                                         background_image: "banner-forest.jpg",
+                                         title: t("pages.contact.title")} %>
 
 <section class="single-column">
   <div class="grid-row">
