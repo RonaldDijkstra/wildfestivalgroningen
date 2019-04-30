@@ -16,8 +16,19 @@ sitemap_priority: 0.8
   </div>
 </header>
 
+<section class="single-column">
+  <div class="grid-row">
+    <article>
+      <%= partial "contact/content" %>
+    </article>
+  </div>
+</section>
+
 <section class="form">
   <div class="grid-row form-grid-row">
+    <h2>
+      <%= t("sections.contact-form") %>
+    </h2>
     <%= partial "partials/contact_form" %>
   </div>
 </section>
