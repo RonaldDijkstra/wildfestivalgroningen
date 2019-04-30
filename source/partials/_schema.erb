@@ -3,12 +3,12 @@
   "@context": "http://schema.org/",
   "@type": "Event",
   "name": "<%= data.site.name %>",
-  "description": "<%= t("site.description") %>",
+  "description": "<%= meta_description %>",
   "about": "Beer Festival",
-  "startDate": "2019-11-23",
-  "endDate": "2019-11-23",
+  "startDate": "2019-11-23T13:30",
+  "endDate": "2019-11-23T22:30",
   "organizer": "Bierselect Groningen",
-  "performers": "",
+  "performers": "Antidoot, Vandenbroek, Ciderwinkel, Doggerland, Mill's Brewing, Nevel, Tommie Sjef, Vino per Tutti, De Wilde Slager, Wild Creatures",
   "location": {
     "@type": "Place",
     "name": "EM2 Venue",
@@ -17,6 +17,23 @@
       "addressLocality": "Groningen",
       "addressRegion": "Groningen"
     }
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://wildfestivalgroningen.stager.nl/web/tickets/323267",
+        "price": "19.50",
+        "priceCurrency": "EUR"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://wildfestivalgroningen.stager.nl/web/tickets/324118",
+        "price": "19.50",
+        "priceCurrency": "EUR"
+      }
+    ]
   }
 }
 </script>
