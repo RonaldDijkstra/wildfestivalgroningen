@@ -32,5 +32,5 @@ end
 
 # Linters (not required)
 gem "rubocop", require: false
-gem "rubocop-performance", require: false
+# gem "rubocop-performance", require: false
 gem "scss_lint", require: false
