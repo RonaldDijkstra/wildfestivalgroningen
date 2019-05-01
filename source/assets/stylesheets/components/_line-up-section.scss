@@ -1,5 +1,5 @@
 section.line-up {
-  background: $lighter-gray;
+  background: $lightest-gray;
   text-align: center;
 
   .line-up-wrapper {
@@ -13,7 +13,7 @@ section.line-up {
 
   .line-up-item {
     background: $white;
-    border: 1px solid $black;
+    border: 1px solid $light-gray;
     border-radius: 50%;
     height: 280px;
     margin: 0 auto 1em;
