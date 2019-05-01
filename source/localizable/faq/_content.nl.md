@@ -8,7 +8,7 @@ Wild Festival Groningen wordt georganiseerd door <a href="http://www.bierselect.
 
 ## Wat is EM2?
 
-EM2 is een onafhankelijk podium en evenementenlocatie. Op het oude suikerunie-terrein programmeert EM2 unieke evenementen. Voor meer informatie over deze unieke, sfeervolle locatie <a href="https://em2groningen.nl/" target="_blank">bezoek je de website</a> van EM2. 
+EM2 is een onafhankelijk podium en evenementenlocatie. Op het oude Suikerunie-terrein in Groningen programmeert EM2 unieke evenementen. Voor meer informatie over deze unieke, sfeervolle locatie <a href="https://em2groningen.nl/" target="_blank">bezoek je de website</a> van EM2.
 
 ## Wat kost Wild Festival Groningen?
 
