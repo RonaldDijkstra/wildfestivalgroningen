@@ -11,3 +11,11 @@ sitemap_priority: 0.8
 <%= partial "partials/banner", locals: { variant: "variant-normal",
                                          background_image: "banner-ingredients.jpg",
                                          title: t("pages.faq.title")} %>
+
+<section class="single-column">
+  <div class="grid-row">
+    <article>
+      <%= partial "faq/content" %>
+    </article>
+  </div>
+</section>
