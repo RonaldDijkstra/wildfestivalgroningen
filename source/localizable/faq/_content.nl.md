@@ -26,7 +26,8 @@ Munten kosten € 2,- en zijn te breken in twee halven. De prijs kan verschillen
 
 ## Hoe lang duurt een sessie?
 
-Een sessie duurt 4 uur. Sessie 1 is van 13:30 uur tot 17:30 uur. Sessie 2 is van 18:30 uur tot 22:30 uur. De foodcourt is open van 13:00 uur tot 22:00 uur.
+Een sessie duurt vier uur. Sessie 1 is van 13:30 uur tot 17:30 uur. Sessie 2 is van 18:30 uur tot 22:30 uur.<br>
+De Wilde Foodcourt is open van 14:00 uur tot 22:00 uur. Hier kan je terecht tijdens en na de eerste sessie, als je beide sessies komt kan je blijven eten, of je komt vóór of tijdens de tweede sessie een heerlijke hap eten.
 
 ## Wanneer worden de side events bekend gemaakt?
 
