@@ -28,6 +28,8 @@
           location: "EM2 Venue"
         line-up:
           button: "Bekijk de line-up"
+      faq:
+        title: "Veelgestelde vragen"
       line-up:
         title: "Line-up"
         tba: "Binnenkort worden meer namen bekend gemaakt!<br>Verwacht twintig van de beste brouwers, wijnboeren en ciderhuizen uit Europa."

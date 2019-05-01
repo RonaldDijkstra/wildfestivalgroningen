@@ -34,6 +34,8 @@
           location: "EM2 Venue"
         line-up:
           button: "View the line-up"
+      faq:
+        title: "Frequently Asked Questions"
       line-up:
         title: "Line-up"
         tba: "More names will be announced soon!<br>Expect twenty of the best brewers, winemakers and cider houses from Europe."
