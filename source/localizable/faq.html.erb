@@ -1,0 +1,21 @@
+---
+title:
+  nl: "Veelgestelde vragen"
+  en: "FAQ"
+description:
+  nl: "Bekijk hier alle informatie over het festival. Staat je vraag er niet bij? Neem contact op!"
+  en: "View all information about the festival. Is your question not answered here? Get in touch!"
+sitemap_priority: 0.8
+---
+
+<%= partial "partials/banner", locals: { variant: "variant-normal",
+                                         background_image: "banner-ingredients.jpg",
+                                         title: t("pages.faq.title")} %>
+
+<section class="single-column">
+  <div class="grid-row">
+    <article>
+      <%= partial "faq/content" %>
+    </article>
+  </div>
+</section>

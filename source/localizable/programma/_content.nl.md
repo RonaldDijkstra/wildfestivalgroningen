@@ -12,4 +12,4 @@ __Sessie 2 zaterdagavond__<br>
 18:30 – 22:30
 
 __Foodcourt__<br>
-13:00 – 22:00
+14:00 – 22:00
