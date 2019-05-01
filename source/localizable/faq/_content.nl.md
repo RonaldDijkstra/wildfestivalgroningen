@@ -22,7 +22,7 @@ Een ticket geeft toegang tot één sessie op het festival, een prachtig proefgla
 
 ## Wat kost een munt?
 
-Munten kosten € 2. Bieren, wijnen en ciders zijn verkrijgbaar voor 1, 2 of 3 munten.
+Munten kosten € 2,- en zijn te breken in twee halven. De prijs kan verschillen per bier, cider en wijn.
 
 ## Hoe lang duurt een sessie?
 

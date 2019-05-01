@@ -7,7 +7,7 @@ Wild Festival Groningen is organized by <a href="http://www.bierselect.nl/" targ
 
 ## What is EM2?
 
-EM2 is an independent stage and event location. EM2 programs unique events on the Suikerunie site in Groningen. For more information about this unique, attractive location, <a href="https://em2groningen.nl/" target="_blank">visit the EM2 website</a>. 
+EM2 is an independent stage and event location. EM2 programs unique events on the Suikerunie site in Groningen. For more information about this unique, attractive location, <a href="https://em2groningen.nl/" target="_blank">visit the EM2 website</a>.
 
 ## What does Wild Festival Groningen cost?
 
@@ -21,7 +21,7 @@ A ticket gives access to one session at the festival, a beautiful tasting glass 
 
 ## What does a token cost?
 
-Coins cost € 2. Beers, wines and ciders are available for 1, 2 or 3 coins.
+Tokens cost € 2 each and can be broken into halves. The price can vary per beer, cider and wine.
 
 ## How long is a session?
 
