@@ -1,6 +1,6 @@
 ## Wat is Wild Festival Groningen?
 
-De eerste editie van Wild Festival Groningen brengt de werelden van wilde bieren, natuurwijnen en ciders bij elkaar. Wilde spontane fermentatie staat centraal, gecombineerd met heerlijk eten die de natuur geeft.
+De eerste editie van Wild Festival Groningen brengt de werelden van wilde bieren, natuurwijnen en ciders bij elkaar. Wilde spontane fermentatie staat centraal, gecombineerd met heerlijk eten uit de natuur.
 
 ## Wie organiseert Wild Festival Groningen?
 
