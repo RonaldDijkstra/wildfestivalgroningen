@@ -10,7 +10,7 @@
     site:
       description: "Wild Festival Groningen is a new concept of Bierselect Groningen & Boilermaker."
     actions:
-      buy_now: "Buy tickets now"
+      buy_now: "Get Tickets"
       tickets: "Tickets"
     form:
       email: "Your email"
