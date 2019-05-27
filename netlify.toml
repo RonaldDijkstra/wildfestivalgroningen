@@ -1,8 +1,6 @@
 [build]
   command = "bundle exec middleman build"
   publish = "build/"
-[template.environment]
-  SEGMENT_KEY = "change me to your Segment API key"
 
 [[redirects]]
   from = "/en/*"
