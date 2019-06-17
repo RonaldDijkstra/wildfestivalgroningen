@@ -5,7 +5,7 @@
     site:
       description: "Wild Festival Groningen is een nieuw concept van Bierselect Groningen & Boilermaker, waarbij natuurlijke, spontane vergisting centraal staat."
     actions:
-      buy_now: "Koop nu tickets"
+      buy_now: "Reserveer Tickets"
       tickets: "Tickets"
     form:
       email: "Je e-mailadres"
@@ -29,7 +29,8 @@
           date: "23 november 2019"
           location: "EM2 Venue"
         line-up:
-          button: "Bekijk de line-up"
+          button: "Bekijk line-up"
+          text: "Meer dan twintig deelnemers zullen zorgen voor een unieke line-up van brouwers, wijnboeren en ciderhuizen."
       faq:
         title: "Veelgestelde vragen"
       line-up:
@@ -65,8 +66,8 @@
       thanks:
         title: "Bedankt!"
       tickets:
-        title: "Tickets"
-        text: "Een ticket geeft toegang tot het festival, een prachtig proefglas en twee munten à € 2,-. Voorverkoop start 1 mei 2019 om 20:00u."
+        title: "Reserveer je tickets"
+        text: "Een ticket geeft toegang tot het festival, een prachtig proefglas en twee munten à € 2,-."
     sections:
-      social: "Volg ons via social media"
       contact-form: "Contactformulier"
+      social: "Volg ons via social media"

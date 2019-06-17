@@ -1,8 +1,13 @@
 <section class="line-up">
   <div class="grid-row">
+
     <h2>
       Line-up
     </h2>
+
+    <p>
+      <%= t("pages.index.line-up.text") %>
+    </p>
 
     <div class="line-up-wrapper">
       <div class="line-up-item">
@@ -15,10 +20,11 @@
         <%= image_tag "assets/images/line-up/tommie-sjef-wild-ales.png", alt: "Tommie Sjef Wild Ales" %>
       </div>
       <div class="line-up-item">
-        <%= image_tag "assets/images/line-up/mills.png", alt: "Mills Brewing" %>
+        <%= image_tag "assets/images/line-up/mills.png", alt: "Mill's Brewing" %>
       </div>
     </div>
 
     <%= locale_link_to t("pages.index.line-up.button"), "/line-up.html", class: "button big" %>
+
   </div>
 </section>

@@ -11,6 +11,11 @@ section.line-up {
     }
   }
 
+  p {
+    margin: 0 auto 2em;
+    max-width: 640px;
+  }
+
   .line-up-item {
     background: $white;
     border: 1px solid $light-gray;

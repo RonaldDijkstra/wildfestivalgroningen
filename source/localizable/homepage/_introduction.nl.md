@@ -1,1 +1,1 @@
-Wild Festival Groningen brengt de werelden van wilde bieren, natuurwijnen en ciders bij elkaar. Wilde spontane fermentatie staat centraal, gecombineerd met heerlijk eten uit de natuur.
+Wild Festival Groningen brengt de werelden van wilde bieren, natuurwijnen en ciders bij elkaar. Wilde, spontane fermentatie staat centraal, gecombineerd met heerlijk eten uit de natuur. Een festival dat je niet wilt missen!

@@ -59,6 +59,10 @@
     @include button($orange);
   }
 
+  &.light-blue {
+    @include button($light-blue);
+  }
+
   &.white {
     @include button($white);
     color: lighten($base-font-color, 15);
