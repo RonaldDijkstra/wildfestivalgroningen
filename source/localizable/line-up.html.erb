@@ -17,251 +17,27 @@ sitemap_priority: 0.8
     </article>
   </div>
 
+  <%
+  all_participants = data["line-up_" + I18n.locale.to_s]
+  participants = all_participants.clone
+  %>
+
   <div class="grid-row">
     <div class="flex-wrapper">
 
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/bokke-methode-goat.png", alt: "Bokke Methode Goat" %>
+      <% participants.sort{ |a,b| a.name.to_s <=> b.name.to_s }.each do |participant| %>
+        <div class="flex-item">
+          <div class="item-image border-light-gray">
+            <%= image_tag "assets/images/line-up/#{participant.image}", alt: participant.name %>
+          </div>
+          <div class="item-text">
+            <h3><%= participant.name %></h3>
+            <p><%= participant.location %></p>
+            <p><%= participant.description %></p>
+            <%= link_to participant.link_title, participant.link_url %>
+          </div>
         </div>
-        <div class="item-text">
-          <h3>
-            Bokke / Methode Goat
-          </h3>
-          <p>
-            Hasselt (BE)
-          </p>
-          <p>
-            <%= t("pages.line-up.bokke") %>
-          </p>
-          <a href="https://www.facebook.com/Bokke29" target="_blank">facebook.com/bokke</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/kemker.png", alt: "Brauerei J. Kemker" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            Brauerei J. Kemker
-          </h3>
-          <p>
-            Everswinkel (DE)
-          </p>
-          <p>
-            <%= t("pages.line-up.kemker") %>
-          </p>
-          <a href="https://www.brauerei-kemker.de/" target="_blank">www.brauerei-kemker.de</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/a-tue-tete.png", alt: "À Tue-Tête!" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            À Tue-Tête!
-          </h3>
-          <p>
-            Aigle (CH)
-          </p>
-          <p>
-            <%= t("pages.line-up.a-tue-tete") %>
-          </p>
-          <a href="https://www.facebook.com/attbrasserie/" target="_blank">facebook.com/attbrasserie</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/clavelin.png", alt: "Clavelin" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            Clavelin
-          </h3>
-          <p>
-            Amsterdam (NL)
-          </p>
-          <p>
-            <%= t("pages.line-up.clavelin") %>
-          </p>
-          <a href="https://www.clavelin.nl/" target="_blank">www.clavelin.nl</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/antidoot-wilde-fermenten.png", alt: "Antidoot Wilde Fermenten" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            Antidoot Wilde Fermenten
-          </h3>
-          <p>
-            Kortenaken (BE)
-          </p>
-          <p>
-            <%= t("pages.line-up.antidoot") %>
-          </p>
-          <a href="https://www.antidoot.be" target="_blank">www.antidoot.be</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/brouwerij-vandenbroek.png", alt: "Brouwerij Vandenbroek" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            Brouwerij Vandenbroek
-          </h3>
-          <p>
-            Midwolde (NL)
-          <p>
-            <%= t("pages.line-up.vandenbroek") %>
-          </p>
-          <a href="https://brouwerijvandenbroek.com" target="_blank">brouwerijvandenbroek.com</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/ciderwinkel.png", alt: "Ciderwinkel" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            Ciderwinkel
-          </h3>
-          <p>
-            Pieterburen (NL)
-          <p>
-            <%= t("pages.line-up.ciderwinkel") %>
-          </p>
-          <a href="https://www.ciderwinkel.nl/" target="_blank">www.ciderwinkel.nl</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/doggerland.png", alt: "Doggerland" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            Doggerland Craft Cider
-          </h3>
-          <p>
-            Groningen (NL)
-          <p>
-            <%= t("pages.line-up.doggerland") %>
-          </p>
-          <a href="https://doggerlandcider.com/" target="_blank">doggerlandcider.com</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/mills.png", alt: "Mill's Brewing" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            Mill's Brewing
-          </h3>
-          <p>
-            Berkeley (UK)
-          <p>
-            <%= t("pages.line-up.mills") %>
-          </p>
-          <a href="https://millsbrewing.wordpress.com/" target="_blank">millsbrewing.wordpress.com</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/nevel-artisan-ales.png", alt: "Nevel Artisan Ales" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            Nevel Artisan Ales
-          </h3>
-          <p>
-            Nijmegen (NL)
-          <p>
-            <%= t("pages.line-up.nevel") %>
-          </p>
-          <a href="https://nevel.org/" target="_blank">nevel.org</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/tommie-sjef-wild-ales.png", alt: "Tommie Sjef Wild Ales" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            Tommie Sjef Wild Ales
-          </h3>
-          <p>
-            Den Helder (NL)
-          <p>
-            <%= t("pages.line-up.tommie-sjef") %>
-          </p>
-          <a href="https://www.tswildales.com/" target="_blank">tswildales.com</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/vino-per-tutti.png", alt: "Vino per Tutti" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            Vino per Tutti
-          </h3>
-          <p>
-            Groningen (NL)
-          <p>
-            <%= t("pages.line-up.vino-per-tutti") %>
-          </p>
-          <a href="https://www.vinopertutti.nl/home" target="_blank">www.vinopertutti.nl/home</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/wilde-slager.png", alt: "De Wilde Slager" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            De Wilde Slager
-          </h3>
-          <p>
-            Groningen (NL)
-          <p>
-            <%= t("pages.line-up.wilde-slager") %>
-          </p>
-          <a href="http://dewildeslager.nl/" target="_blank">dewildeslager.nl</a>
-        </div>
-      </div>
-
-      <div class="flex-item">
-        <div class="item-image border-light-gray">
-          <%= image_tag "assets/images/line-up/wild-creatures.png", alt: "Wild Creatures" %>
-        </div>
-        <div class="item-text">
-          <h3>
-            Wild Creatures
-          </h3>
-          <p>
-            Mikulov (CZ)
-          <p>
-            <%= t("pages.line-up.wild-creatures") %>
-          </p>
-          <a href="http://wildcreatures.cz/index.php?lang=EN&sec=intro" target="_blank">wildcreatures.cz</a>
-        </div>
-      </div>
+      <% end %>
 
       <p class="tba">
         <em><%= t("pages.line-up.tba") %></em>
