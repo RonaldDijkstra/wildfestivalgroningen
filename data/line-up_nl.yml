@@ -16,8 +16,8 @@
   image: "antidoot-wilde-fermenten.png"
   location: "Kortenaken (BE)"
   description: |
-      Bier, cider en wijn. Wild gefermenteerd met 100% natuurlijke gist en bacteriën.
-      Antidoot geeft hun eigen twist aan de traditionele Belgische lambiek en saison, met lokale experimentele ingrediënten zoals fruit en kruiden, met rijping op houten vaten.
+    Bier, cider en wijn. Wild gefermenteerd met 100% natuurlijke gist en bacteriën.
+    Antidoot geeft hun eigen twist aan de traditionele Belgische lambiek en saison, met lokale experimentele ingrediënten zoals fruit en kruiden, met rijping op houten vaten.
   link_url: "https://www.antidoot.be/"
   link_title: "www.antidoot.be"
 - name: "Clavelin"
@@ -28,7 +28,7 @@
   link_url: "https://www.clavelin.nl/"
   link_title: "www.clavelin.nl"
 - name: "Brauerei J. Kemker"
-  image: "kemker.png"
+  image: "brauerei-kemker.png"
   location: "Everswinkel (DE)"
   description: |
     De Duitse brouwerij van Jan Kemker bevindt zich op een boerderij vlakbij Münster. Ze maken, geinspireerd door oude stijlen, traditionele ciders, saisons met gemengde vergisting, gruit en wilde bieren.
@@ -56,7 +56,7 @@
   link_url: "https://doggerlandcider.com/"
   link_title: "doggerlandcider.com"
 - name: "Mill's Brewing"
-  image: "mills.png"
+  image: "mills-brewing.png"
   location: "Berkeley (UK)"
   description: |
     Brouwen en blenden van natuurlijk gefermenteerde bieren met minimale moderne middellen. Spontane gisting en lokaal verzamelde ingrediënten.
@@ -80,7 +80,7 @@
   image: "vino-per-tutti.png"
   location: "Groningen (NL)"
   description: |
-    Wijnimporteur gespecialiseerd in de mooiste Italiaanse natuurlijke artisanale wijnen
+    Wijnimporteur gespecialiseerd in de mooiste Italiaanse natuurlijke artisanale wijnen.
   link_url: "https://www.vinopertutti.nl/home"
   link_title: "www.vinopertutti.nl/home"
 - name: "De Wilde Slager"
