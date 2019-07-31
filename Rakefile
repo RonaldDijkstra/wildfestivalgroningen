@@ -32,16 +32,6 @@ task :build do
   system "bundle exec middleman build --verbose" || exit(1)
 end
 
-## Build & Proof
-task :proof do
-  puts "== Project: " + project_name.green
-  puts "== Brewing in verbose mode...".green
-  system "bundle exec middleman build --verbose" || exit(1)
-  # Run html-proofer with options
-  puts "== Proofing the brew...".green
-  system "ruby lib/html_proofer.rb" || exit(1)
-end
-
 def git_branch_name
   `git rev-parse --abbrev-ref HEAD`
 end
