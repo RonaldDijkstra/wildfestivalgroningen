@@ -51,7 +51,7 @@
         title: "Thanks!"
       tickets:
         title: "Buy Your Tickets"
-        text: "A ticket gives access to the festival, a beautiful tasting glass and two tokens (€2 each)."
+        text: "A ticket gives access to the festival, a beautiful tasting glass and two tokens."
     sections:
       social: "Follow us on social media"
       contact-form: "Contactform"

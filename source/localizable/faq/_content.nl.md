@@ -18,11 +18,7 @@ Deurverkoop € 19,50 (mits beschikbaar)<br>
 
 ## Wat krijg ik voor mijn ticket?
 
-Een ticket geeft toegang tot één sessie op het festival, een prachtig proefglas en twee munten à € 2,-.
-
-## Wat kost een munt?
-
-Munten kosten € 2,- en zijn te breken in twee halven. De prijs kan verschillen per bier, cider en wijn. We schenken in glazen vanaf 8 cl.
+Een ticket geeft toegang tot één sessie op het festival, een prachtig proefglas en twee munten.
 
 ## Hoe lang duurt een sessie?
 
