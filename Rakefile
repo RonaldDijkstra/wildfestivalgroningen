@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "./lib/colorizer"
-
 def project_name
   "Wildfestival Groningen #WFG 🍺"
 end
@@ -9,7 +7,7 @@ end
 ## Serve
 namespace :serve do
   def serve(env)
-    puts "== Project: " + project_name.green
+    puts "== Project: " + project_name
     puts "== Locale: #{env}"
     system "LOCALE=#{env} bundle exec middleman serve" || exit(1)
   end
@@ -27,8 +25,8 @@ end
 
 ## Build the website
 task :build do
-  puts "== Project: " + project_name.green
-  puts "== Brewing in verbose mode...".green
+  puts "== Project: " + project_name
+  puts "== Brewing in verbose mode..."
   system "bundle exec middleman build --verbose" || exit(1)
 end
 
