@@ -76,7 +76,7 @@ module ApplicationHelpers
 
   # Get full url
   def full_url(url, locale = I18n.locale)
-    base = "https://www.wildfestivalgroningen.nl/#{locale}"
+    base = "https://#{I18n.t('CNAME', locale: locale)}"
     URI.join(base, url).to_s
   end
 
@@ -94,6 +94,7 @@ module ApplicationHelpers
       "#{lang.downcase}_#{lang.upcase}"
     end
   end
+
 
 
   FILE_EXTENSION = /\.(\w+)$/.freeze
@@ -135,9 +136,9 @@ module ApplicationHelpers
     url_parts[0] = extensions[:i18n].localized_path(url_parts[0], locale) ||
                    url_parts[0]
     url = url_parts.join("#")
-    url_for(url, options)
+    url = url_for(url, options)
     # Replace leading locale url segment with domain
-    # url.sub("/#{locale}/", full_url("/", locale))
+    url.sub("/#{locale}/", full_url("/", locale))
   end
 
   def locale_pretty_url(url, options = {})
@@ -157,5 +158,63 @@ module ApplicationHelpers
   # 404?
   def x404?
     current_page.url == "/404.html"
+  end
+
+  # Define titles for the language flags
+  def flag_titles
+    { nl: "Nederlands", en: "English" }
+  end
+
+  # Get flag image
+  def flag_image(lang)
+    inline_svg "#{lang}.svg"
+  end
+
+  # 404?
+  def x404?(page = current_page)
+    current_page.target_resource.path == "localizable/404.html"
+  end
+
+  # Get full root url
+  def full_root_url(lang)
+    full_url("", lang)
+  end
+
+  # Get locale root path
+  def locale_root_path(page = current_page)
+    page.locale_root_path
+  end
+
+  # Define the Switch links
+  def switch_link
+    if x404?
+      case lang
+      when :nl
+        "https://www.wildfestivalgroningen.nl/en/"
+      when :en
+        "https://www.wildfestivalgroningen.nl/"
+      end
+    else
+      current_page.target_resource.path.gsub("localizable", "").to_s
+    end
+  end
+
+  # The link has a flag image
+  def linktitle_with_flag(lang)
+    "<span class='link-title link-icon'>#{flag_image(lang)}</span>"
+  end
+
+  # Language Switcher
+  def language_switcher
+    html = +""
+    other_locales.each do |lang|
+      html << locale_link_to(
+        linktitle_with_flag(lang),
+        switch_link,
+        title: flag_titles[lang],
+        locale: lang
+      )
+    end
+    html
   end
 end
