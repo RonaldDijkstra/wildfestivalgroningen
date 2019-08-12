@@ -76,7 +76,7 @@ module ApplicationHelpers
 
   # Get full url
   def full_url(url, locale = I18n.locale)
-    base = "https://#{I18n.t('CNAME', locale: locale)}"
+    base = "https://www.wildfestivalgroningen.nl/#{locale}"
     URI.join(base, url).to_s
   end
 
@@ -94,6 +94,7 @@ module ApplicationHelpers
       "#{lang.downcase}_#{lang.upcase}"
     end
   end
+
 
   FILE_EXTENSION = /\.(\w+)$/.freeze
 
@@ -133,6 +134,10 @@ module ApplicationHelpers
     url_parts = url.split("#")
     url_parts[0] = extensions[:i18n].localized_path(url_parts[0], locale) ||
                    url_parts[0]
+    url = url_parts.join("#")
+    url_for(url, options)
+    # Replace leading locale url segment with domain
+    # url.sub("/#{locale}/", full_url("/", locale))
   end
 
   def locale_pretty_url(url, options = {})

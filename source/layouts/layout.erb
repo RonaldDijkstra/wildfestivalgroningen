@@ -13,6 +13,49 @@
     <%= partial "partials/open_graph" %>
   </head>
   <body class="<%= page_classes %>">
+
+<%
+def sitemap_pages
+  sitemap.resources.select do |page|
+    page.destination_path =~ /\.html/
+  end
+end
+%>
+
+<%
+switch_link =
+current_page.target_resource.path.gsub("localizable", "").to_s
+%>
+
+
+<% other_locales.each do |language| %>
+  <%= locale_link_to "MOI", switch_link, locale: language %>
+<% end %>
+
+<%= switch_link %>
+
+<%
+# def language_switcher_desktop
+#   html = + ""
+#     other_locales.each do |language|
+#       sitemap_pages.each do |resource|
+#         next unless resource.metadata[:options][:locale] == language
+#         # puts language
+#         # link = current_resource.target_resource.path.gsub("localizable/", "").to_s
+#         # if language == nl
+#         #   link = current_resource.target_resource.path.to_s
+#         # end
+#         #html << link
+#         #html << locale_link_to("link", current_resource.destination_path.to_s, title: "title", locale: language, class: "test")
+#         html << locale_link_to("test", resource.destination_path.dup.to_s)
+#         html << "<br><br>"
+#       end
+#     end
+#   html
+# end
+%>
+
+
     <main class="main" role="main">
       <%= partial "partials/site_navigation" %>
       <%= yield %>
