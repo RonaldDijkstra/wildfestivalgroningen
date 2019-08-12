@@ -11,8 +11,8 @@ EM2 is an independent stage and event location. EM2 programs unique events on th
 
 ## What does Wild Festival Groningen cost?
 
-Early Bird Tickets € 14.50 (+ 0.99 ticket fee)<br>
-Presale € 17.50 (+0.99 ticket fee)<br>
+Early Bird Tickets € 14.50 (+ 0.99 ticket fee)
+Presale € 17.50 (+0.99 ticket fee)
 Door sale € 19.50 (if available)
 
 ## What do I get for my ticket?

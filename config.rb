@@ -22,16 +22,12 @@ set :css_dir, "assets/stylesheets"
 set :fonts_dir, "assets/fonts"
 set :images_dir, "assets/images"
 set :js_dir, "assets/javascripts"
-set :markdown,
-  autolink: true,
-  fenced_code_blocks: true,
-  footnotes: true,
-  highlight: true,
-  smartypants: true,
-  strikethrough: true,
-  tables: true,
-  with_toc_data: true
+
+# Use kramdown for markdown
+# https://kramdown.gettalong.org/
 set :markdown_engine, :kramdown
+set :markdown, input: "GFM",
+               auto_ids: true
 
 page "/*.json", layout: false
 page "/*.txt", layout: false

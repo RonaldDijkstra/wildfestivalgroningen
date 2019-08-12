@@ -12,9 +12,9 @@ EM2 is een onafhankelijk podium en evenementenlocatie. Op het oude Suikerunie-te
 
 ## Wat kost Wild Festival Groningen?
 
-Early Bird Tickets € 14,50 (+0,99 ticketfee)<br>
-Voorverkoop € 17,50 (+0,99 ticketfee)<br>
-Deurverkoop € 19,50 (mits beschikbaar)<br>
+Early Bird Tickets € 14,50 (+0,99 ticketfee)
+Voorverkoop € 17,50 (+0,99 ticketfee)
+Deurverkoop € 19,50 (mits beschikbaar)
 
 ## Wat krijg ik voor mijn ticket?
 
@@ -22,7 +22,7 @@ Een ticket geeft toegang tot één sessie op het festival, een prachtig proefgla
 
 ## Hoe lang duurt een sessie?
 
-Een sessie duurt vier uur. Sessie 1 is van 13:30 uur tot 17:30 uur. Sessie 2 is van 18:30 uur tot 22:30 uur.<br>
+Een sessie duurt vier uur. Sessie 1 is van 13:30 uur tot 17:30 uur. Sessie 2 is van 18:30 uur tot 22:30 uur.
 De Wild Foodcourt is open van 14:00 uur tot 22:00 uur. Hier kan je terecht tijdens en na de eerste sessie, als je beide sessies komt kan je blijven eten, of je komt vóór of tijdens de tweede sessie een heerlijke hap eten.
 
 ## Wanneer worden de side events bekend gemaakt?
