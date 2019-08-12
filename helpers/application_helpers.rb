@@ -1,20 +1,4 @@
 module ApplicationHelpers
-  def markdown(contents)
-    renderer = Redcarpet::Render::HTML
-    markdown = Redcarpet::Markdown.new(
-      renderer,
-      autolink: true,
-      fenced_code_blocks: true,
-      footnotes: true,
-      highlight: true,
-      smartypants: true,
-      strikethrough: true,
-      tables: true,
-      with_toc_data: true
-    )
-    markdown.render(contents)
-  end
-
   # Get the website name from site.yml
   def website_name
     data.site.name
@@ -133,6 +117,8 @@ module ApplicationHelpers
     url_parts = url.split("#")
     url_parts[0] = extensions[:i18n].localized_path(url_parts[0], locale) ||
                    url_parts[0]
+    url = url_parts.join("#")
+    url_for(url, options)
   end
 
   def locale_pretty_url(url, options = {})
@@ -142,6 +128,61 @@ module ApplicationHelpers
   # Where's the current resource proxied to?
   def proxied_to
     current_resource.target_resource.path.gsub("localizable/", "")
+  end
+
+  # Get locale root path
+  def locale_root_path(page = current_page)
+    page.locale_root_path
+  end
+
+  # Get full root url
+  def full_root_url(lang)
+    case lang
+    when :en
+      full_url("", lang)
+    when :nl
+      full_url("/en", lang)
+    end
+  end
+
+  #
+  # Language Switcher
+  #
+
+  # Define titles for language flags
+  def flag_titles
+    { nl: "Nederlands", de: "Deutsch", en: "English" }
+  end
+
+  # Get flag image
+  def flag_image(lang)
+    inline_svg "#{lang}.svg"
+  end
+
+  def switch_link
+    if x404?
+      full_root_url(lang)
+    else
+      current_page.target_resource.path.gsub("localizable", "").to_s
+    end
+  end
+
+  # LinkTitle
+  def linktitle_with_flag(lang)
+    "<span class='link-title link-icon'>#{flag_image(lang)}</span>"
+  end
+
+  def language_switcher
+    html = +""
+    other_locales.each do |lang|
+      html << locale_link_to(
+        linktitle_with_flag(lang),
+        switch_link,
+        title: flag_titles[lang],
+        locale: lang
+      )
+    end
+    html
   end
 
   # Get the other languages than current
