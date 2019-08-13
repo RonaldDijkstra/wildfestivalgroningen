@@ -169,7 +169,10 @@ module ApplicationHelpers
 
   # LinkTitle
   def linktitle_with_flag(lang)
-    "<span class='link-title link-icon'>#{flag_image(lang)}</span>"
+    "#{flag_image(lang)}
+     <span>
+      #{flag_titles[lang]}
+     </span>"
   end
 
   def language_switcher
@@ -178,6 +181,7 @@ module ApplicationHelpers
       html << locale_link_to(
         linktitle_with_flag(lang),
         switch_link,
+        class: "language-link",
         title: flag_titles[lang],
         locale: lang
       )
