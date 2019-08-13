@@ -192,6 +192,6 @@ module ApplicationHelpers
 
   # 404?
   def x404?
-    current_page.url == "/404.html"
+    current_page.url =~ /404.html/
   end
 end
