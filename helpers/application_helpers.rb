@@ -199,7 +199,7 @@ module ApplicationHelpers
     html
   end
 
-
+  # Get the pages from the sitemap that do not get excluded from robots
   def sitemap_pages
     sitemap.resources.select do |page|
       page.destination_path =~ /\.html/ &&
