@@ -1,99 +1,114 @@
-- name: "Bokke / Methode Goat"
+- name: "Bokke / Methode Goat 🇧🇪"
   image: "bokke-methode-goat.png"
-  location: "Hasselt (BE)"
   description: |
     Deze stekerij uit Hasselt, België, is een van de grootste namen in de huidige bierwereld. Raf Soef blend, met veel passie, geduld en precisie, verschillende lambieken en saisons tot prachtige creaties. Voor het vergisten worden de beste fruitsoorten en houten vaten geselecteerd.
   link_url: "https://www.facebook.com/Bokke29"
   link_title: "facebook.com/bokke"
-- name: "A Tue-Tête!"
+- name: "A Tue-Tête! 🇨🇭"
   image: "a-tue-tete.png"
-  location: "Aigle (CH)"
   description: |
     À Tue-Tête! is een kleine brouwerij en stekerij, gespecialiseerd in diverse soorten gemengde vergisting en vatgerijpte bieren. Ze komen uit de Zwitserse Alpen waar ze omringd zijn door wijngaarden en boomgaarden. À Tue-Tête! wil een verbinding maken tussen de huidige craft beer cultuur in Zwitserland en de traditionele wijnwereld.
   link_url: "https://www.facebook.com/attbrasserie/"
   link_title: "facebook.com/attbrasserie"
-- name: "Antidoot Wilde Fermenten"
+- name: "Antidoot Wilde Fermenten 🇧🇪"
   image: "antidoot-wilde-fermenten.png"
-  location: "Kortenaken (BE)"
   description: |
     Bier, cider en wijn. Wild gefermenteerd met 100% natuurlijke gist en bacteriën.
     Antidoot geeft hun eigen twist aan de traditionele Belgische lambiek en saison, met lokale experimentele ingrediënten zoals fruit en kruiden, met rijping op houten vaten.
   link_url: "https://www.antidoot.be/"
   link_title: "www.antidoot.be"
-- name: "Clavelin"
+- name: "Clavelin 🇳🇱"
   image: "clavelin.png"
-  location: "Amsterdam (NL)"
   description: |
     Jean van Roekel is wijnmaker in de Loire en importeur van natuurwijnen. Clavelin staat voor bijzondere natuurwijnen zonder toevoegingen, ongefilterd, vergist met natuurlijke gisten.
   link_url: "https://www.clavelin.nl/"
   link_title: "www.clavelin.nl"
-- name: "Brauerei J. Kemker"
+- name: "Brauerei J. Kemker 🇩🇪"
   image: "brauerei-kemker.png"
-  location: "Everswinkel (DE)"
   description: |
     De Duitse brouwerij van Jan Kemker bevindt zich op een boerderij vlakbij Münster. Ze maken, geinspireerd door oude stijlen, traditionele ciders, saisons met gemengde vergisting, gruit en wilde bieren.
   link_url: "https://www.brauerei-kemker.de/"
   link_title: "www.braurerei-kemker.de"
-- name: "Brouwerij Vandenbroek"
+- name: "Brouwerij Vandenbroek 🇳🇱"
   image: "brouwerij-vandenbroek.png"
-  location: "Midwolde (NL)"
   description: |
     Spontaan vergiste bieren gerijpt op eiken vaten. Gebrouwen in de zelf gemaakte  houtgestookte brouwerij met koperen ketels en traditioneel koelschip.
   link_url: "https://brouwerijvandenbroek.com/"
   link_title: "brouwerijvandenbroek.com"
-- name: "Ciderwinkel"
+- name: "Ciderwinkel 🇳🇱"
   image: "ciderwinkel.png"
-  location: "Pieterburen (NL)"
   description: |
     Ciderwinkel is importeur & distributeur voor diverse ambachtelijk gemaakte cider.
   link_url: "https://www.ciderwinkel.nl/"
-  link_title: "www.ciderwinkel"
-- name: "Doggerland"
+  link_title: "www.ciderwinkel.nl"
+- name: "Doggerland 🇳🇱"
   image: "doggerland.png"
-  location: "Groningen (NL)"
   description: |
     Ambachtelijke Groningse cider gemaakt van overtollige en ongewenste appels.
   link_url: "https://doggerlandcider.com/"
   link_title: "doggerlandcider.com"
-- name: "Mill's Brewing"
+- name: "Mill's Brewing 🇬🇧"
   image: "mills-brewing.png"
-  location: "Berkeley (UK)"
   description: |
     Brouwen en blenden van natuurlijk gefermenteerde bieren met minimale moderne middellen. Spontane gisting en lokaal verzamelde ingrediënten.
   link_url: "https://millsbrewing.wordpress.com/"
   link_title: "millsbrewing.wordpress.com"
-- name: "Nevel Artisan Ales"
+- name: "Nevel Artisan Ales 🇳🇱"
   image: "nevel-artisan-ales.png"
-  location: "Nijmegen (NL)"
   description: |
     Gebalanceerde bieren met veel lokaal geoogste ingrediënten zoals kruiden en fruit, vergist met hun wilde huiscultuur en gerijpt op eikenhouten vaten.
   link_url: "https://nevel.org/"
   link_title: "nevel.org"
-- name: "Tommie Sjef Wild Ales"
+- name: "Tommie Sjef Wild Ales 🇳🇱"
   image: "tommie-sjef-wild-ales.png"
-  location: "Den Helder (NL)"
   description: |
     Wild vergiste bieren, met diverse biologische ingrediënten, gerijpt op eiken vaten.
   link_url: "https://www.tswildales.com/"
   link_title: "tswildales.com"
-- name: "Vino per Tutti"
+- name: "Vino per Tutti 🇳🇱"
   image: "vino-per-tutti.png"
-  location: "Groningen (NL)"
   description: |
     Wijnimporteur gespecialiseerd in de mooiste Italiaanse natuurlijke artisanale wijnen.
   link_url: "https://www.vinopertutti.nl/home"
   link_title: "www.vinopertutti.nl/home"
-- name: "De Wilde Slager"
+- name: "De Wilde Slager 🇳🇱"
   image: "wilde-slager.png"
-  location: "Groningen (NL)"
   description: |
     Echt wild vlees uit de natuur, duurzaam en seizoensgebonden. Naast vlees zijn er diverse hapjes met gefermenteerde producten en heerlijke gerechten te vinden.
   link_url: "http://dewildeslager.nl/"
   link_title: "dewildeslager.nl"
-- name: "Wild Creatures"
+- name: "Wild Creatures 🇨🇿"
   image: "wild-creatures.png"
-  location: "Mikulov (CZ)"
   description: |
     De enige Tsjechische brouwerij met wilde bieren. Ze gebruiken technieken uit de wijnproductie, oude wijnvaten en leggen zo de link tussen spontaan vergiste bieren en wijn.
   link_url: "http://wildcreatures.cz/index.php?lang=EN&sec=intro"
   link_title: "wildcreatures.cz"
+- name: Oersoep 🇳🇱
+  image: oersoep.png
+  description: |
+    Oersoep produceert bier in de oude soepfabriek op het Honigcomplex in Nijmegen. Ze maken bieren met verschillende huisculturen, wilde en spontane vergisting. Naast de brouwerij staat de brewpub Stoom, waar je terecht kan voor mooie bier-spijs combinaties.
+    En je kan nu mede-eigenaar worden door middel van hun crowdfunding!
+  link_url: https://www.oersoepbrouwerij.nl/
+  link_title: www.oersoepbrouwerij.nl
+- name: Pomme d'Or 🇳🇱
+  image: pomme-d-or.png
+  description: |
+    Cider en Calvados van de allerhoogste kwaliteit koop je bij Pomme d’Or. Rechtstreekse import van kleine producenten van grote klasse, direct in de webshop te bestellen.
+  link_url: http://www.pommedor.nl/
+  link_title: www.pommedor.nl
+- name: Gueuzerie Tilquin 🇧🇪
+  image: gueuzerie-tilquin.png
+  description: |
+    Gueuzerie Tilquin is de enige geuzestekerij van Wallonië, gevestigd in Bierk in de Zennevallei en is een van de beste stekers van België.
+    Ze gebruiken vers gebrouwen wort van verschillende brouwerijen, die in eiken vaten gisten en rijpen gedurende 1, 2 of 3 jaar, waarna het versneden (gemengd) en gebotteld wordt.
+    Naast Oude Geuze maken ze diverse fruitlambieken zoals de Oude Quetsche, Oude Pinot Noir en de experimentele Fruit Series.
+  link_url: http://www.gueuzerietilquin.be/
+  link_title: www.gueuzerietilquin.be
+- name: Zomerdijk Brewing & Blending 🇳🇱
+  image: zomerdijk-brewing-blending.png
+  description: |
+    Zomerdijk Brewing & Blending is de wilde afdeling van Brouwerij Moersleutel uit Alkmaar.
+    In deze aparte afdeling van de brouwerij worden op hele kleine schaal verschillende wild vergiste bieren gemaakt die in houten vaten gisten en rijpen.
+    Vanwege de kleine oplages erg uniek dat ze op ons festival aanwezig zijn!
+  link_url: https://www.facebook.com/Zomerdijk-Brewing-Blending-172114720179073/
+  link_title: www.facebook.com/Zomerdijk-Brewing-Blending
