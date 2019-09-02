@@ -126,8 +126,8 @@ module ApplicationHelpers
   end
 
   # Where's the current resource proxied to?
-  def proxied_to
-    current_resource.target_resource.path.gsub("localizable/", "")
+  def proxied_to(page = current_page)
+    page.target_resource.path.gsub("localizable/", "")
   end
 
   # Get locale root path
@@ -143,6 +143,16 @@ module ApplicationHelpers
     when :nl
       full_url("/en", lang)
     end
+  end
+
+  # Get the other languages than current
+  def other_locales
+    langs - [I18n.locale]
+  end
+
+  # 404?
+  def x404?
+    current_page.url =~ /404.html/
   end
 
   #
@@ -189,13 +199,27 @@ module ApplicationHelpers
     html
   end
 
-  # Get the other languages than current
-  def other_locales
-    langs - [I18n.locale]
+  # Get the pages from the sitemap that do not get excluded from robots
+  def sitemap_pages
+    sitemap.resources.select do |page|
+      page.destination_path =~ /\.html/ &&
+        !(page.data.robots && page.data.robots.include?("noindex"))
+    end
   end
 
-  # 404?
-  def x404?
-    current_page.url =~ /404.html/
+  # Get alternate link tags for a given page
+  def alternate_link_tags(page)
+    link_tags = []
+    other_locales.each do |locale|
+      # Loop pages to find the ones proxied_to for each language
+      sitemap_pages.each do |r|
+        r_full_url = r.url.sub("", full_url("", locale))
+        next unless r.target.gsub("localizable/", "") == page.target_resource.path.gsub("localizable/", "") &&
+                    r.metadata[:options][:locale] == locale
+        href = r_full_url
+        link_tags << tag(:link, rel: :alternate, hreflang: locale, href: href)
+      end
+    end
+    link_tags.join("\n    ")
   end
 end
