@@ -1,14 +1,15 @@
-## Side Events, November 21 (Thursday) & 22 (Friday), 2019
-Various events at different locations in Groningen.<br>
-More information soon!
-
 ## Wild Festival Groningen, November 23, 2019 (Saturday)
 
-__Session 1 Saturday afternoon__<br>
+__Session I__
 13:30 – 17:30
 
-__Session 2 Saturday night__<br>
+__Session II__
 18:30 – 22:30
 
-__Foodcourt__<br>
+__Foodcourt__
 14:00 – 22:00
+
+## Side Events, November 21 (Thursday), 22 (Friday) and 24 (Sunday) 2019
+
+Various events at different locations in and around Groningen.
+More information soon!
