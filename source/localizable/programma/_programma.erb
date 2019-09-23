@@ -39,7 +39,7 @@ timetable_items = all_timetable_items.clone
                     <% end %>
                     <% if item.link %>
                       <div class="timetable-link">
-                        <a href="<%= item.link %>">
+                        <a href="<%= item.link %>" target="<%= item.link_target %>">
                           <%= item.link_title %>
                         </a>
                       </div>
