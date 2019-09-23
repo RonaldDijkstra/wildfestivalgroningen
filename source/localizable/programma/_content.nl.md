@@ -1,9 +1,9 @@
 ## Wild Festival Groningen 23 november 2019
 
-__Sessie I
+__Sessie I__
 13:30 – 17:30
 
-__Sessie II_
+__Sessie II__
 18:30 – 22:30
 
 __Foodcourt__
