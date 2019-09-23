@@ -32,14 +32,14 @@
     link_target: "_self"
 - day: "Zaterdag 23 november 2019"
   items:
-  - title: "Bierfestival Groningen Sessie I"
+  - title: "Wildfestival Groningen Sessie I"
     time: "13:30 - 17:30"
     location: "EM2, Groningen"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor mollis leo id sollicitudin."
     link: https://www.link.nl
     link_title: "Tickets"
     link_target: "_self"
-  - title: "Bierfestival Groningen Sessie II"
+  - title: "Wildfestival Groningen Sessie II"
     time: "18:30 - 22:30"
     location: "EM2, Groningen"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor mollis leo id sollicitudin."
