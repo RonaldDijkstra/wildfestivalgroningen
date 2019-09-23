@@ -1,0 +1,57 @@
+- day: "Donderdag 21 november 2019"
+  items:
+  - title: "Beer & Bites"
+    time: "18:30 - 22:00"
+    location: "Beer&, Groningen"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor mollis leo id sollicitudin."
+    link: https://www.link.nl
+    link_title: "Reserveer"
+    link_target: "_self"
+  - title: "Special Guests: h.Ertie + Brouwerij VandenBroek"
+    time: "20:00 - 23:00"
+    location: "De Koffer, Groningen"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor mollis leo id sollicitudin."
+    link: https://www.link.nl
+    link_title: "Reserveer"
+    link_target: "_self"
+- day: "Vrijdag 22 november 2019"
+  items:
+  - title: "Bierdiner"
+    time: "18:30 - 22:00"
+    location: "Prinsenhof, Groningen"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor mollis leo id sollicitudin."
+    link: https://www.link.nl
+    link_title: "Reserveer"
+    link_target: "_self"
+  - title: "Bokke 101% Geuze Tasting"
+    time: "18:30 - 22:00"
+    location: "?, Groningen"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor mollis leo id sollicitudin."
+    link: https://www.link.nl
+    link_title: "Reserveer"
+    link_target: "_self"
+- day: "Zaterdag 23 november 2019"
+  items:
+  - title: "Bierfestival Groningen Sessie I"
+    time: "13:30 - 17:30"
+    location: "EM2, Groningen"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor mollis leo id sollicitudin."
+    link: https://www.link.nl
+    link_title: "Tickets"
+    link_target: "_self"
+  - title: "Bierfestival Groningen Sessie II"
+    time: "18:30 - 22:30"
+    location: "EM2, Groningen"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor mollis leo id sollicitudin."
+    link: https://www.link.nl
+    link_title: "Tickets"
+    link_target: "_self"
+- day: "Zondag 24 november 2019"
+  items:
+  - title: "Bier Spijs Lunch"
+    time: "13:30 - 17:30"
+    location: "Onder de Linden, Aduard"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor mollis leo id sollicitudin."
+    link: https://www.link.nl
+    link_title: "Reserveer"
+    link_target: "_self"

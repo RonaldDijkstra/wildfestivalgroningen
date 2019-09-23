@@ -1,0 +1,59 @@
+<%
+all_timetable_items = data["timetable_" + I18n.locale.to_s]
+timetable_items = all_timetable_items.clone
+%>
+
+<% if timetable_items %>
+  <div class="timetable">
+    <div class="timetable-list">
+
+      <% timetable_items.each do |day| %>
+
+        <div class="timetable-header">
+          <%= day.day %>
+        </div>
+
+        <% if day.items %>
+
+          <div class="timetable-content">
+            <% day.items.each do |item| %>
+              <div class="timetable-item">
+                <div class="timetable-meta">
+                  <div class="timetable-title">
+                    <%= item.title %>
+                  </div>
+                  <span class="timetable-time">
+                    <%= item.time %>
+                  </span>
+                  <span class="timetable-location">
+                    <%= item.location %>
+                  </span>
+                </div>
+
+                <% if item.description || item.link %>
+                  <div class="timetable-info">
+                    <% if item.description %>
+                      <p class="timetable-description">
+                        <%= item.description %>
+                      </p>
+                    <% end %>
+                    <% if item.link %>
+                      <div class="timetable-link">
+                        <a href="<%= item.link %>">
+                          <%= item.link_title %>
+                        </a>
+                      </div>
+                    <% end %>
+                  </div>
+                <% end %>
+              </div>
+            <% end %>
+          </div>
+
+        <% end %>
+
+      <% end %>
+
+    </div>
+  </div>
+<% end %>
