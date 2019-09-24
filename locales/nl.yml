@@ -42,6 +42,7 @@
           Naast drinken is er heerlijk eten in de foodcourt met echt wild, gefermenteerde producten en producten rechtstreeks uit de natuur.
       program:
         message: "Diverse activiteiten van donderdag t/m zondag bij lokale cafés en restaurants, oa: Café de Koffer, Café de Toeter, Beer& en Herberg Onder de Linden."
+        message-title: "Overige dagen"
         title: "Programma"
       thanks:
         title: "Bedankt!"
