@@ -1,17 +1,103 @@
-- day: "Zaterdag 23 november 2019"
-  items:
-  - title: "Wildfestival Groningen Sessie I"
-    time: "13:30 - 17:30"
-    location: "EM2, Groningen"
-    link: "https://wildfestivalgroningen.stager.nl/web/tickets"
-    link_title: "Tickets"
-    link_target: "_blank"
-  - title: "Wildfestival Groningen Sessie II"
-    time: "18:30 - 22:30"
-    location: "EM2, Groningen"
-    link: "https://wildfestivalgroningen.stager.nl/web/tickets"
-    link_title: "Tickets"
-    link_target: "_blank"
-  - title: "Wildfestival Groningen Foodcourt"
-    time: "14:00 - 22:00"
-    location: "EM2, Groningen"
+- table: Wild Festival Groningen Main Event
+  days:
+    - date: Zaterdag 23 november 2019
+      items:
+        - title: "Sessie I"
+          time: "13:30 - 17:30"
+          location: "EM2"
+          city: "Groningen"
+          price: "€17,50"
+          description: "Sessie I van het festival. Je ticket is inclusief 2 munten en een prachtig proefglas."
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+        - title: "Sessie II"
+          time: "18:30 - 22:30"
+          location: "EM2"
+          city: "Groningen"
+          price: "€17,50"
+          description: "Sessie II van het festival. Je ticket is inclusief 2 munten en een prachtig proefglas."
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+        - title: "Foodcourt"
+          time: "14:00 - 22:00"
+          location: "EM2"
+          city: "Groningen"
+          description: "Proef 'Good Food' van De Wilde Slager, Fermenthings, Wilde Wadoesters en Dhana Chocola. Je kunt met dezelfde munten betalen als voor je drankjes."
+- table: Side Events
+  days:
+    - date: Donderdag 21 november 2019
+      items:
+        - title: Diner
+          time: inloop 18:00/19:00
+          location: Beer&
+          city: Groningen
+          price: €40
+          description: 3-gangen diner, gepaired met wild/sour/lambic.
+        - title: Huisstekerij h.Ertie + Brouwerij VandenBroek
+          time: 20:00 - 23:00
+          location: De Koffer
+          city: Groningen
+          description: "We trappen het weekend van het festival af met een gezellige avond in een van de beste biercafé's van Groningen: De Koffer. Huisstekerij h.ertie en Brouwerij Vandenbroek zullen te gast zijn. Voor dit event is het niet nodig om tickets aan te schaffen."
+    - date: Vrijdag 22 november 2019
+      items:
+        - title: Huisstekerij h.Ertie Tasting
+          time: 14:30 - 17:00
+          location: De Toeter
+          city: Groningen
+          description: Tijdens deze speciale proeverij kunnen liefhebbers kennismaken met liefst 8 verschillende geuzes/lambieken van de gerenommeerde Huisstekerij (Uli) h.Ertie.
+          price: €45
+        - title: À Tue-Tête! + Oersoep Tasting
+          time: 15:00 - 17:00
+          location: De Koffer
+          city: Groningen
+          description: À Tue-Tête! uit Aigle, Zwitserland en Oersoep uit Nijmegen, Nederland bundelen de krachten tijdens deze uitdagende tasting.
+          price: €25
+        - title: Wilde Chutney Cheese + Beer Sessies
+          time: 15:30 - 17:00<br>19:30 - 21:00
+          location: MS Ludina (boot)
+          city: Groningen
+          description: <em>Dancing on the cusp of beer, cider and wine.</em> Open die grenzen en verken! Dit is een persoonlijke selectie van onafhankelijk biersommelier Elaine Olsthoorn waarin ze bieren van Cantillon, Kent Falls Brewing, Revel Cider en Ale Apothecary presenteert, gecombineerd met boerenkazen uit Groningen en omstreken.
+          price: €25
+        - title: Bokke 101% Geuze Tasting
+          time: 17:30 - 19:30
+          location: De Toeter
+          city: Groningen
+          description: Oh yes! Raf Soef, ook wel bekend als Bokke, komt met zijn befaamde 101% geuze tasting & workshop naar Groningen. Tijdens deze tasting annex workshop proef je verschillende blends, waarna je zelf met enkele basislambieken een blend kunt samenstellen. Dit wil je niet missen!
+          price: €35
+        - title: Nevel Artisan Ales + Brauerei J. Kemker Tasting
+          time: 17:00 - 19:00
+          location: TBA
+          city: TBA
+          description: Brauerei J. Kemker en Nevel nemen je mee op reis langs verschillende manieren van wild vergisten. Beiden staan bekend om hun niet-alledaagse gebruik van ingrediënten en vertellen je er graag alles over tijdens deze gecombineerde tasting.
+          price: €25
+        - title: Rockin’ Ludina + Wild Creatures Tasting
+          time: 20:00 - 22:00
+          location: De Toeter
+          city: Groningen
+          description: Local heroes Rockin' Ludina en de enige wildvergistende brouwerij van Tsjechië Wild Creatures zullen tijdens deze proeverij je laten proeven van hun mooiste barrel aged sours.
+          price: €25
+    - date: Zaterdag 23 november 2019
+      items:
+        - title: Fermenthings Kimchi Workshop
+          time: 15:00 - 16:30
+          location: EM2
+          city: Groningen
+          description: Fermenthings organiseert een Kimchi Workshop tijdens het Wild Festival.
+          price: €25
+        - title: "Wild Pluk Excursies: Groene Avonturen"
+          time: 14:00 - 15:00<br>16:00 - 17:00
+          location: EM2
+          city: Groningen
+          description: Ga mee op het groene avontuur met Nevel. Tijdens deze wandeling gaan jullie op zoek naar de niet-alledaagse ingrediënten voor bier, waaronder wilde gist.
+          price: €15
+    - date: Zondag 24 november 2019
+      items:
+        - title: Bier Spijs Lunch
+          time: 12:30 - 17:00
+          location: Onder de Linden
+          city: Aduard
+          description: We sluiten Wild Festival Groningen af met een nieuwe editie van de Bier Spijs Lunch in Michelin-restaurant Onder de Linden. Tijdens deze lunch worden prachtige bieren gepaired met de mooiste gerechten. Met deze keer twee zeer bijzondere gasten.
+          price: €110 pp, reserveren noodzakelijk
+

@@ -1,45 +1,42 @@
 <%
-all_timetable_items = data["timetable_" + I18n.locale.to_s]
-timetable_items = all_timetable_items.clone
+all_timetable_tables = data["timetable_" + I18n.locale.to_s]
+timetable_tables = all_timetable_tables.clone
 %>
 
-<% if timetable_items %>
-  <div class="timetable">
-    <div class="timetable-list">
+<% if timetable_tables %>
 
-      <% timetable_items.each do |day| %>
+  <div class="tt">
 
-        <div class="timetable-header">
-          <%= day.day %>
+    <% timetable_tables.each do |table| %>
+
+      <div class="tt-list">
+
+        <div class="tt-header">
+          <%= table.table %>
         </div>
 
-        <% if day.items %>
+        <% table.days.each do |day| %>
 
-          <div class="timetable-content">
-            <% day.items.each do |item| %>
-              <div class="timetable-item">
-                <div class="timetable-meta">
-                  <div class="timetable-title">
+          <div class="tt-day">
+            <%= day.date %>
+          </div>
+
+          <% day.items.each do |item| %>
+            <div class="tt-item">
+              <div class="tt-col left">
+                <div class="tt-title">
                     <%= item.title %>
-                  </div>
-                  <span class="timetable-time">
-                    <%= item.time %>
-                  </span>
-                  <span class="timetable-location">
-                    <%= item.location %>
-                  </span>
                 </div>
-
                 <% if item.description || item.link %>
-                  <div class="timetable-info">
+                  <div class="tt-info">
                     <% if item.description %>
-                      <p class="timetable-description">
+                      <div class="tt-description">
                         <%= item.description %>
-                      </p>
+                      </div>
                     <% end %>
                     <% if item.link %>
-                      <div class="timetable-link">
-                        <a href="<%= item.link %>" target="<%= item.link_target %>">
+                      <div class="tt-link">
+                        <a href="<%= item.link %>" class="button" target="<%= item.link_target %>">
                           <%= item.link_title %>
                         </a>
                       </div>
@@ -47,25 +44,33 @@ timetable_items = all_timetable_items.clone
                   </div>
                 <% end %>
               </div>
-            <% end %>
-          </div>
+              <% if item.time || item.location || item.city || item.price %>
+                <div class="tt-col right">
+                  <div class="tt-meta">
+                    <div class="tt-price">
+                      <%= item.price %>
+                    </div>
+                    <div class="tt-time">
+                      <%= item.time %>
+                    </div>
+                    <div class="tt-location">
+                      <%= item.location %>
+                    </div>
+                    <div class="tt-city">
+                      <%= item.city %>
+                    </div>
+                  </div>
+                </div>
+               <% end %>
+            </div>
+          <% end %>
 
         <% end %>
 
-        <div class="timetable-header">
-          <%= t("pages.program.message-title") %>
-        </div>
-        <div class="timetable-content">
-          <div class="timetable-item">
-              <p>
-                <%= t("pages.program.message") %>
-              </p>
-            </div>
-          </div>
-        </div>
+      </div>
 
-      <% end %>
+    <% end %>
 
-    </div>
   </div>
+
 <% end %>

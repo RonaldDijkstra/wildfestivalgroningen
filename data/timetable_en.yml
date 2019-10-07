@@ -1,17 +1,13 @@
-- day: "Saturday 23 November 2019"
-  items:
-  - title: "Wildfestival Groningen Session I"
-    time: "13:30 - 17:30"
-    location: "EM2, Groningen"
-    link: "https://wildfestivalgroningen.stager.nl/web/tickets"
-    link_title: "Tickets"
-    link_target: "_blank"
-  - title: "Wildfestival Groningen Session II"
-    time: "18:30 - 22:30"
-    location: "EM2, Groningen"
-    link: "https://wildfestivalgroningen.stager.nl/web/tickets"
-    link_title: "Tickets"
-    link_target: "_blank"
-  - title: "Wildfestival Groningen Foodcourt"
-    time: "14:00 - 22:00"
-    location: "EM2, Groningen"
+- table: Wild Festival Groningen Main Event
+  days:
+    - date: Saturday 23th november 2019
+      items:
+        - title: "Session I"
+          time: "13:30 - 17:30"
+          location: "EM2"
+          city: "Groningen"
+          price: "€17,50"
+          description: "Session I of the Festival. Your ticket includes 2 tokens and a beautiful tasting glass."
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
