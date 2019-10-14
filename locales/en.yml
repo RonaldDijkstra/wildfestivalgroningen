@@ -1,59 +1,58 @@
----
-  en:
-    CNAME: www.wildfestivalgroningen.nl
+en:
+  CNAME: www.wildfestivalgroningen.nl
 
-    # Path translations
-    paths:
-      bedankt: "thanks"
-      organisatie: "organisation"
-      programma: "program"
-    site:
-      description: "Wild Festival Groningen is een nieuw concept van Bierselect Groningen & Boilermaker, waarbij natuurlijke, spontane vergisting centraal staat."
-    actions:
-      buy_now: "Buy Your Tickets"
-      tickets: "Tickets"
-    form:
-      email: "Your email"
-      message: "Message"
-      name: "Your name"
-      submit: "Submit"
-    navigation:
-      contact: "Contact"
-      faq: "FAQ"
-      line-up: "Line-up"
-      index: "Home"
-      program: "Program"
-      tickets: "Tickets"
-    # Pages
-    pages:
-      contact:
-        title: "Contact"
-      index:
-        title: "Wild Festival Groningen 2019"
-        banner:
-          title: "Wild Festival Groningen"
-          date: "November 23, 2019"
-          location: "EM2 Venue"
-        line-up:
-          button: "View the Line-up"
-          text: "More than twenty participants from Europe will ensure an unique line-up of brewers, winemakers and cider houses."
-      faq:
-        title: "Frequently Asked Questions"
+  # Path translations
+  paths:
+    bedankt: "thanks"
+    organisatie: "organisation"
+    programma: "program"
+  site:
+    description: "Wild Festival Groningen is een nieuw concept van Bierselect Groningen & Boilermaker, waarbij natuurlijke, spontane vergisting centraal staat."
+  actions:
+    buy_now: "Buy Your Tickets"
+    tickets: "Tickets"
+  form:
+    email: "Your email"
+    message: "Message"
+    name: "Your name"
+    submit: "Submit"
+  navigation:
+    contact: "Contact"
+    faq: "FAQ"
+    line-up: "Line-up"
+    index: "Home"
+    program: "Program"
+    tickets: "Tickets"
+  # Pages
+  pages:
+    contact:
+      title: "Contact"
+    index:
+      title: "Wild Festival Groningen 2019"
+      banner:
+        title: "Wild Festival Groningen"
+        date: "November 23, 2019"
+        location: "EM2 Venue"
       line-up:
-        title: "Line-up"
-        tba: At the next, and last, addition to the line-up, we will announce a number of homeblenders / -brewers and highlight the food court, making the line-up complete!
-        text: |
-          More than twenty participants from Europe will ensure an unique line-up of brewers, winemakers and cider houses. It brings together the passion for local ingredients, spontaneous fermentation and aging in oak barrels.
-          In addition of drinking and tasting, there is delicious food in the foodcourt with real wild, fermented products and food directly harvested from nature.
-      program:
-        message: "Various activities from Thursday to Sunday at local cafés and restaurants, including: Café de Koffer, Café de Toeter, Beer& and Herberg Onder de Linden."
-        message-title: "Other days"
-        title: "Program"
-      thanks:
-        title: "Thanks!"
-      tickets:
-        title: "Buy Your Tickets"
-        text: "A ticket gives access to the festival, a beautiful tasting glass and two tokens."
-    sections:
-      social: "Follow us on social media"
-      contact-form: "Contactform"
+        button: "View the Line-up"
+        text: "More than twenty participants from Europe will ensure an unique line-up of brewers, winemakers and cider houses."
+    faq:
+      title: "Frequently Asked Questions"
+    line-up:
+      title: "Line-up"
+      tba: At the next, and last, addition to the line-up, we will announce a number of homeblenders / -brewers and highlight the food court, making the line-up complete!
+      text: |
+        More than twenty participants from Europe will ensure an unique line-up of brewers, winemakers and cider houses. It brings together the passion for local ingredients, spontaneous fermentation and aging in oak barrels.
+        In addition of drinking and tasting, there is delicious food in the foodcourt with real wild, fermented products and food directly harvested from nature.
+    program:
+      message: "Various activities from Thursday to Sunday at local cafés and restaurants, including: Café de Koffer, Café de Toeter, Beer& and Herberg Onder de Linden."
+      message-title: "Other days"
+      title: "Program"
+    thanks:
+      title: "Thanks!"
+    tickets:
+      title: "Buy Your Tickets"
+      text: "A ticket gives access to the festival, a beautiful tasting glass and two tokens."
+  sections:
+    social: "Follow us on social media"
+    contact-form: "Contactform"
