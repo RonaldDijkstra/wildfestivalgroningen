@@ -25,28 +25,42 @@
           location: "EM2"
           city: "Groningen"
           description: "Proef 'Good Food' van De Wilde Slager, Fermenthings, Wilde Wadoesters en Dhana Chocola. Je kunt met dezelfde munten betalen als voor je drankjes."
+- table: Wild Weekend
+  days:
+    - date: Donderdag 21 november t/m zondag 24 november 2019
+      items:
+        - title: Wild Weekend @ Bierlokaal Café De Koffer
+          time: Hele weekend
+          location: Café De Koffer
+          city: Groningen
+          description: Special Guests, proeverijen, naast de uitgebreide bierkaart hebben ze voor de gelegenheid een extra bierkaart met de mooiste sours!
+        - title: Wild Weekend @ Café De Toeter
+          time: Hele weekend
+          location: Café De Toeter
+          city: Groningen
+          description: Veel proeverijen, tastings, bier-spijs combinaties en een speciale bierkaart.
 - table: Side Events
   days:
     - date: Donderdag 21 november 2019
       items:
         - title: Diner
-          time: inloop 18:00/19:00
+          time: Inloop 18:00/19:00
           location: Beer&
           city: Groningen
           price: €40
-          description: 3-gangen diner, gepaired met wild/sour/lambic.
+          description: De mannen van Beer& zullen voor de gelegenheid een speciaal bier-spijs menu koken met 3 verschillende wilde bieren, geselecteerd door Bierselect.
         - title: Huisstekerij h.Ertie + Brouwerij VandenBroek
           time: 20:00 - 23:00
           location: De Koffer
           city: Groningen
-          description: "We trappen het weekend van het festival af met een gezellige avond in een van de beste biercafé's van Groningen: De Koffer. Huisstekerij h.ertie en Brouwerij Vandenbroek zullen te gast zijn. Voor dit event is het niet nodig om tickets aan te schaffen."
+          description: Huisstekerij h.ertie en Brouwerij Vandenbroek zijn te gast bij De Koffer, een van de beste biercafés van Groningen. Toon en Uli kennen elkaar al jaren en delen hun passie voor geuze graag! Speciale flessen zullen te drinken zijn aan de bar.<br><br>Voor dit event is het niet nodig om tickets aan te schaffen, gratis entree!
     - date: Vrijdag 22 november 2019
       items:
         - title: Huisstekerij h.Ertie Tasting
           time: 14:30 - 17:00
           location: De Toeter
           city: Groningen
-          description: Tijdens deze speciale proeverij kunnen liefhebbers kennismaken met liefst 8 verschillende geuzes/lambieken van de gerenommeerde Huisstekerij (Uli) h.Ertie.
+          description: Tijdens deze speciale proeverij kunnen liefhebbers kennismaken met maar liefst 8 verschillende geuzes en lambieken, geschonken door de beroemde Huisstekerij h.Ertie. Jonge en oude lambiek, verschillende geuzes (oa. met zeer oude lambiek), een verrassing en een speciaal afsluitertje.
           price: €45
         - title: À Tue-Tête! + Oersoep Tasting
           time: 15:00 - 17:00
@@ -58,19 +72,19 @@
           time: 15:30 - 17:00<br>19:30 - 21:00
           location: MS Ludina (boot)
           city: Groningen
-          description: <em>Dancing on the cusp of beer, cider and wine.</em> Open die grenzen en verken! Dit is een persoonlijke selectie van onafhankelijk biersommelier Elaine Olsthoorn waarin ze bieren van Cantillon, Kent Falls Brewing, Revel Cider en Ale Apothecary presenteert, gecombineerd met boerenkazen uit Groningen en omstreken.
+          description: <em>Dancing on the cusp of beer, cider and wine.</em> Open die grenzen en verken! Dit is een persoonlijke selectie van onafhankelijk biersommelier Elaine Olsthoorn waarin ze bieren van Cantillon, Kent Falls Brewing en Revel Cider presenteert, gecombineerd met bijzondere kazen uit Groningen en omstreken.
           price: €25
         - title: Bokke 101% Geuze Tasting
           time: 17:30 - 19:30
           location: De Toeter
           city: Groningen
-          description: Oh yes! Raf Soef, ook wel bekend als Bokke, komt met zijn befaamde 101% geuze tasting & workshop naar Groningen. Tijdens deze tasting annex workshop proef je verschillende blends, waarna je zelf met enkele basislambieken een blend kunt samenstellen. Dit wil je niet missen!
+          description: Team Bokke komt met hun befaamde 101% geuze tasting naar Groningen!<br><br>Lambiekbieren hebben een ‘sence of place’ in tegenstelling tot elke andere bierstijl. Hoewel de brouwerijen zich in hetzelfde Pajottenland bevinden, heeft elke brouwerij zijn eigen mix van inheemse gisten en bacteriën, die vrij door de lucht stromen en in het wort vallen tijdens de nachtelijke blootstelling aan de lucht in het koelschip. In deze proeverij gaan we 4 verschillende lambieken en 4 verschillende geuzes verkennen.<br><br>Eerst proeven we 4 lambieken naast elkaar om de verschillende aroma's, smaken en kenmerken te ontdekken. Daarna proeven we 4 geuze-blends, gemaakt met dezelfde lambiek. Elke geuze-mix heeft 50% van één lambiek en gelijke verhoudingen van de drie andere lambieken. (Dat is een volle 101% geuze, ik was nooit goed in wiskunde).<br><br>Door deze proeverij kunnen we ontdekken hoe de verschillende lambieken zich samen in de fles ontwikkelen. Elke deelnemer krijgt 8 glazen (elk 7 cl), zodat we alle verschillende bieren tijdens de proeverij kunnen vergelijken.
           price: €35
         - title: Nevel Artisan Ales + Brauerei J. Kemker Tasting
           time: 17:00 - 19:00
           location: TBA
           city: TBA
-          description: Brauerei J. Kemker en Nevel nemen je mee op reis langs verschillende manieren van wild vergisten. Beiden staan bekend om hun niet-alledaagse gebruik van ingrediënten en vertellen je er graag alles over tijdens deze gecombineerde tasting.
+          description: Brauerei J. Kemker en Nevel nemen je mee op reis langs verschillende bieren met bijzondere ingrediënten. Beiden staan bekend om hun niet-alledaagse gebruik van ingrediënten en vertellen je er graag alles over tijdens deze gecombineerde tasting.
           price: €25
         - title: Rockin’ Ludina + Wild Creatures Tasting
           time: 20:00 - 22:00
@@ -84,13 +98,13 @@
           time: 15:00 - 16:30
           location: EM2
           city: Groningen
-          description: Fermenthings organiseert een Kimchi Workshop tijdens het Wild Festival.
+          description: Fermenthings organiseert een Kimchi Workshop tijdens het Wild Festival. Tijdens de workshop leer je de basis van het fermenteren, ga je Kimchi maken, ga je naar huis met je eigen pot en kan het fermenteren beginnen!
           price: €25
         - title: "Wild Pluk Excursies: Groene Avonturen"
           time: 14:00 - 15:00<br>16:00 - 17:00
           location: EM2
           city: Groningen
-          description: Ga mee op het groene avontuur met Nevel. Tijdens deze wandeling gaan jullie op zoek naar de niet-alledaagse ingrediënten voor bier, waaronder wilde gist.
+          description: Ga mee met de gids van Groene Avonturen. We beginnen de wandeltocht met een Wild bier met in het wild geplukte kruiden/fruit van Nevel. Tijdens deze wandeling ga je op zoek naar eetbare planten, niet-alledaagse ingrediënten, die overal in het wild groeien.
           price: €15
     - date: Zondag 24 november 2019
       items:
@@ -98,5 +112,8 @@
           time: 12:30 - 17:00
           location: Onder de Linden
           city: Aduard
-          description: We sluiten Wild Festival Groningen af met een nieuwe editie van de Bier Spijs Lunch in Michelin-restaurant Onder de Linden. Tijdens deze lunch worden prachtige bieren gepaired met de mooiste gerechten. Met deze keer twee zeer bijzondere gasten.
-          price: €110 pp, reserveren noodzakelijk
+          description: "We sluiten het weekend af op het hoogste culinaire niveau van Groningen, het enige restaurant in Groningen met een michelinster: Herberg Onder de Linden!<br><br>De derde editie van de Bier Spijs Lunch staat in het teken van Wilde bieren, met twee bijzondere gasten: Tommie Sjef en Raf Soef | Bokke.<br><br>Tijdens deze 10 gangen lunch worden 4 bieren van Bokke en 4 bieren van Tommie Sjef Wild Ales gecombineerd met de mooiste gerechten.<br><br>Prijs is all-in, aperitief, 8 gerechten, koffie/thee met friandises. Beperkt plaats! Reserveer via de website van Onder de Linden of bel 050 - 2041235."
+          price: €110 pp
+          link: "https://www.herbergonderdelinden.com/reserveren.html"
+          link_title: "Reserveer"
+          link_target: "_blank"
