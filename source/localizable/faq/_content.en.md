@@ -3,6 +3,7 @@
 This first edition of Wild Festival Groningen brings together the worlds of wild beers, natural wines and ciders. Wild spontaneous fermentation is the central theme, combined with delicious food provided by nature.
 
 ## Who organizes Wild Festival Groningen?
+
 Wild Festival Groningen is organized by <a href="http://www.bierselect.nl/" target="_blank">Bierselect Groningen</a> and <a href="https://www.boilermaker.nl/" target="_blank">Boilermaker</a>.
 
 ## What is EM2?
@@ -39,7 +40,7 @@ Keep an eye out on the site for the list of available beers, ciders and wines.
 
 ## Are other drinks available than those from spontaneous and mixed fermentation?
 
-In addition to wild beers, wines and ciders, there are also drinks such as kombucha and kefir. In addition, EM2 has a bar where you can order coffee, tea, soft drinks and pils.
+In addition to wild beers, wines and ciders, there are also drinks such as kombucha. In addition, EM2 has a bar where you can order coffee, tea, soft drinks and pils.
 
 ## Is vegetarian food available?
 

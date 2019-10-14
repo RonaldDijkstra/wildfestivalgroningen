@@ -36,7 +36,7 @@ Hou de site in de gaten voor de lijst met beschikbare bieren, ciders en wijnen.
 
 ## Worden er ook andere dranken geschonken dan van spontane en gemengde vergisting?
 
-Naast wilde bieren, wijnen en ciders zijn er ook drankjes zoals kombucha en kefir te vinden. Daarnaast heeft EM2 een bar waar je gewoon koffie, thee, fris en pils kan bestellen.
+Naast wilde bieren, wijnen en ciders zijn er ook drankjes zoals kombucha te vinden. Daarnaast heeft EM2 een bar waar je gewoon koffie, thee, fris en pils kan bestellen.
 
 ## Is er vegetarisch eten verkrijgbaar?
 
