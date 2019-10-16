@@ -15,6 +15,12 @@ timetable_tables = all_timetable_tables.clone
           <%= table.table %>
         </div>
 
+        <% if table.message %>
+          <div class="tt-message">
+            <%= table.message %>
+          </div>
+        <% end %>
+
         <% table.days.each do |day| %>
 
           <div class="tt-day">

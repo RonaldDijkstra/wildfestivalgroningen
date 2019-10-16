@@ -1,4 +1,10 @@
 div.tt {
+  .tt-message {
+    background-color: lighten($light-blue, 20%);
+    padding: 16px 24px;
+    text-align: center;
+  }
+
   .tt-list {
     border: $base-border;
     margin-bottom: 64px;
