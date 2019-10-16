@@ -41,7 +41,7 @@
           time: Hele weekend
           location: Café De Toeter
           city: Groningen
-          description: Veel proeverijen, tastings (zie de Side Events kalender), bier-spijs combinaties en een speciale bierkaart.
+          description: Veel proeverijen, (zie de Side Events kalender), bier-spijs combinaties en een speciale bierkaart.
           link: "https://www.cafedetoeter.nl/"
           link_title: "Website"
           link_target: "_blank"
@@ -51,10 +51,10 @@
     - date: Donderdag 21 november 2019
       items:
         - title: Diner
-          time: Inloop 18:00/19:00
+          time: 19:00
           location: Beer&
           city: Groningen
-          price: €40
+          price: €35
           description: De mannen van Beer& zullen voor de gelegenheid een speciaal bier-spijs menu koken met 3 verschillende wilde bieren, geselecteerd door Bierselect.
         - title: Huisstekerij h.Ertie + Brouwerij Vandenbroek
           time: 20:00 - 23:00
@@ -120,7 +120,7 @@
           location: Onder de Linden
           city: Aduard
           description: "We sluiten het weekend af op het hoogste culinaire niveau van Groningen, het enige restaurant in Groningen met een michelinster: Herberg Onder de Linden!<br><br>De derde editie van de Bier Spijs Lunch staat in het teken van wilde bieren, met twee bijzondere gasten: Tommie Sjef en Raf Soef | Bokke.<br><br>Tijdens deze 10 gangen lunch worden 4 bieren van Bokke en 4 bieren van Tommie Sjef Wild Ales gecombineerd met de mooiste gerechten.<br><br>Prijs is all-in, aperitief, 8 gerechten, koffie/thee met friandises. Beperkt plaats! Reserveer via de website van Onder de Linden."
-          price: €110 pp
+          price: €110
           link: "https://www.herbergonderdelinden.com/reserveren.html"
           link_title: "Reserveer"
           link_target: "_blank"
