@@ -1,4 +1,13 @@
 div.tt {
+  .tt-announcement {
+    background-color: lighten($light-blue, 20%);
+    border: 1px solid $light-blue;
+    font-size: $base-font-size * 1;
+    margin-bottom: 32px;
+    padding: 16px 24px;
+    text-align: center;
+  }
+
   .tt-message {
     background-color: lighten($light-blue, 20%);
     font-size: $base-font-size * 0.8;
