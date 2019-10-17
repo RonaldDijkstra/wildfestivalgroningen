@@ -1,17 +1,180 @@
-- day: "Saturday 23 November 2019"
-  items:
-  - title: "Wildfestival Groningen Session I"
-    time: "13:30 - 17:30"
-    location: "EM2, Groningen"
-    link: "https://wildfestivalgroningen.stager.nl/web/tickets"
-    link_title: "Tickets"
-    link_target: "_blank"
-  - title: "Wildfestival Groningen Session II"
-    time: "18:30 - 22:30"
-    location: "EM2, Groningen"
-    link: "https://wildfestivalgroningen.stager.nl/web/tickets"
-    link_title: "Tickets"
-    link_target: "_blank"
-  - title: "Wildfestival Groningen Foodcourt"
-    time: "14:00 - 22:00"
-    location: "EM2, Groningen"
+- table: Wild Festival Groningen Main Event
+  message: "Your festival ticket includes 2 tokens and a beautiful tasting glass (approx. 10cl). At the festival you can buy tokens at €2.50 each.<br>All ticket prices excluding €0.99 ticket fee."
+  days:
+    - date: Saturday, November 23, 2019
+      items:
+        - title: "Session I"
+          time: "13:30 - 17:30"
+          location: "EM2"
+          city: "Groningen"
+          price: "€17,50"
+          description: "Session I of the festival."
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+        - title: "Session II"
+          time: "18:30 - 22:30"
+          location: "EM2"
+          city: "Groningen"
+          price: "€17,50"
+          description: "Session II of the festival."
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+        - title: "Foodcourt"
+          time: "14:00 - 22:00"
+          location: "EM2"
+          city: "Groningen"
+          description: "'Good Food' from De Wilde Slager, Fermenthings, Wilde Wadoesters and Dhana Chocola. You can pay with the same tokens as for your drinks."
+- table: Wild Weekend
+  days:
+    - date: Thursday, November 21 through Sunday, November 24, 2019
+      items:
+        - title: Wild Weekend @ Bierlokaal Café De Koffer
+          time: All weekend
+          location: Café De Koffer
+          city: Groningen
+          description: Special Guests, tastings (see the Side Events below) and in addition to the normal, extensive beer list, they have an additional beer list with the best sours for the occasion!
+          link: "https://dekoffer.nl/"
+          link_title: "Website"
+          link_target: "_blank"
+        - title: Wild Weekend @ Café De Toeter
+          time: All weekend
+          location: Café De Toeter
+          city: Groningen
+          description: Many tastings (see the Side Events below), beer-food combinations and a special beer menu.
+          link: "https://www.cafedetoeter.nl/"
+          link_title: "Website"
+          link_target: "_blank"
+- table: Side Events
+  message: "All side events are accessible without festival tickets.<br>All ticket prices excluding €0.99 ticket fee."
+  days:
+    - date: Thursday, November 21, 2019
+      items:
+        - title: Beer& Diner
+          time: "19:00"
+          location: Beer&
+          city: Groningen
+          price: €35
+          description: The Beer& guys will cook a special beer-food menu for the occasion, with 3 different wild beers, selected by Bierselect.
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+        - title: "Special Guests: Huisstekerij h.Ertie + Brouwerij Vandenbroek"
+          time: 20:00 - 23:00
+          location: De Koffer
+          city: Groningen
+          description: |
+            Huisstekerij h.Ertie and Brouwerij Vandenbroek are Special Guests at Bierlokaal Café De Koffer. Toon and Uli have known each other for years and are happy to share their passion for geuze! Special bottles will be available at the bar.
+            For this event it is not necessary to purchase tickets, free entrance!
+    - date: Friday, November 22, 2019
+      items:
+        - title: "Huisstekerij h.Ertie Tasting"
+          time: 14:30 - 17:00
+          location: De Toeter
+          city: Groningen
+          description: During this special tasting enthusiasts can get familiar with no less than 8 different geuzes and lambics by the famous Huisstekerij h.Ertie. Young and old lambic, different geuzes (including very old lambic), a surprise and a final special beer.
+          price: €45
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+        - title: "À Tue-Tête! + Oersoep Tasting<br><em>'Vintage and Koelschip beers'</em>"
+          time: 15:00 - 17:00
+          location: De Koffer
+          city: Groningen
+          description: |
+            À Tue-Tête! from Aigle, Switzerland and Oersoep from Nijmegen, The Netherlands join forces during this tasting. À Tue-Tête! takes a number of vintage beers from its own cellar and Oersoep will have their Koelschip beers to taste!
+
+            6 beers (3x À Tue-Tête! + 3x Oersoep).
+          price: €25
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+        - title: "Wilde Chutney Cheese + Beer Sessions:<br><em>'Dancing on the cusp of beer, cider and wine'</em>"
+          time: 15:30 - 17:00<br>19:30 - 21:00
+          location: MS Ludina (boat)
+          city: Groningen
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+          description: |
+            Open the borders and explore! This is a personal selection of independent beer sommelier Elaine Olsthoorn in which she presents beers from Cantillon, Kent Falls Brewing, Ale Apothecary and a cider from Revel Cider, combined with special cheeses from Groningen and the surrounding area.
+
+            3 beer / cider + 3 cheeses
+
+            Session 1 15:30 - 17:00: Cantillon, Kent Falls Brewing & Revel Cider
+            Session 2 19:30 - 21:00: Cantillon, Kent Falls Brewing & Ale Apothecary.
+
+            The MS Ludina can be found opposite Café De Toeter."
+          price: €25
+        - title: Bokke 101% Geuze Tasting
+          time: 17:30 - 19:30
+          location: De Toeter
+          city: Groningen
+          description: |
+            Lambic beers have a sense of place unlike any other beer style. Although the breweries are located in the same Pajottenland area, every brewery houses its own mix of native yeasts and bacteria, freely flowing through the air and falling down in the wort during its overnight exposure to the air in the coolship. In this tasting we're going to explore 4 different lambics and 4 different geuze blends.
+
+            First we'll taste 4 lambics side by side, to discover the different aromas, flavors and characteristics. Then we'll taste 4 geuze blends, made with the same lambics. Each geuze blend has 50% of one lambic, and equal proportions of the other lambics. Through this tasting we can discover how the different lambics develop together in the bottle. Every participant gets 8 glasses (7 cl each) so we can compare all the different beers throughout the tasting.
+          price: €35
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+        - title: "Nevel Artisan Ales + Brauerei J. Kemker Tasting<br><em>'Herbal beers'</em>"
+          time: 17:00 - 19:00
+          location: Baxbier
+          city: Groningen
+          description: Brauerei J. Kemker and Nevel Artisan Ales take you on a journey along different beers with special ingredients. Both are known for their unusual using of ingredients and are happy to tell you all about it during this combined tasting.
+          price: €25
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+        - title: "Wild Creatures + Rockin’ Ludina Tasting<br><em>'Local Fruit'</em>"
+          time: 20:00 - 22:00
+          location: De Toeter
+          city: Groningen
+          description: Local heroes Rockin 'Ludina from Groningen and the only spontanously fermenting brewery in the Czech Republic Wild Creatures will have several of their finest barrel aged beers tasted using local fruits during this tasting.
+          price: €25
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+    - date: Saturday, November 23, 2019
+      items:
+        - title: Fermenthings Kimchi Workshop
+          time: 15:00 - 16:30
+          location: EM2
+          city: Groningen
+          description: Fermenthings organizes a Kimchi Workshop during the Wild Festival. During the workshop you will learn the basics of fermentation, make Kimchi, go home with your own pot and start fermenting!
+          price: €25
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+        - title: "Wild Pluk Excursie: Groene Avonturen"
+          time: 14:00 - 15:00
+          location: EM2
+          city: Groningen
+          description: |
+            Join the Green Adventures guide. We start the hike with a Wild beer with wild herbs / fruit from Nevel. During this walk you will hunt for edible plants and unusual ingredients that grow everywhere in the wild. If the first session is full, an extra session will be organized.
+
+            Gathering in front of the entrance of EM2 (also accessible without a festival ticket).
+          price: €15
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
+    - date: Sunday, November 24, 2019
+      items:
+        - title: Herberg Onder de Linden<br><em>Bier Spijs Lunch</em>
+          time: 12:30 - 17:00
+          location: Onder de Linden
+          city: Aduard
+          description: |
+            We end the weekend at the highest culinary level in Groningen, the only restaurant in Groningen with a Michelin star: Herberg Onder de Linden!
+
+            The third edition of the Bier Spijs Lunch is all about wild beers, with two special guests: Tommie Sjef and Raf Soef (Bokke).
+
+            During this 10-course lunch 4 beers from Bokke and 4 beers from Tommie Sjef Wild Ales are combined with the most beautiful dishes.
+
+            Price is all-in, aperitif, 8 dishes, coffee / tea with friandises. Limited spots! Book your reservation at the Herberg Onder de Linden website with mentioning of Bier-Spijs Lunch."
+          price: €110
+          link: "https://www.herbergonderdelinden.com/reserveren.html"
+          link_title: "Book your Reservation"
+          link_target: "_blank"
