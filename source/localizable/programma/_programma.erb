@@ -37,7 +37,7 @@ timetable_tables = all_timetable_tables.clone
                   <div class="tt-info">
                     <% if item.description %>
                       <div class="tt-description">
-                        <%= item.description %>
+                        <%= markitdown item.description %>
                       </div>
                     <% end %>
                     <% if item.link %>

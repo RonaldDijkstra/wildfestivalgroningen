@@ -64,7 +64,10 @@
           time: 20:00 - 23:00
           location: De Koffer
           city: Groningen
-          description: Huisstekerij h.Ertie en Brouwerij Vandenbroek zijn te gast bij Bierlokaal Café De Koffer. Toon en Uli kennen elkaar al jaren en delen hun passie voor geuze graag! Speciale flessen zullen te drinken zijn aan de bar.<br><br>Voor dit event is het niet nodig om tickets aan te schaffen, gratis entree!
+          description: |
+            Huisstekerij h.Ertie en Brouwerij Vandenbroek zijn te gast bij Bierlokaal Café De Koffer. Toon en Uli kennen elkaar al jaren en delen hun passie voor geuze graag! Speciale flessen zullen te drinken zijn aan de bar.
+
+            Voor dit event is het niet nodig om tickets aan te schaffen, gratis entree!
     - date: Vrijdag 22 november 2019
       items:
         - title: "Huisstekerij h.Ertie Tasting"
@@ -80,7 +83,10 @@
           time: 15:00 - 17:00
           location: De Koffer
           city: Groningen
-          description: À Tue-Tête! uit Aigle, Zwitserland en Oersoep uit Nijmegen, Nederland bundelen de krachten tijdens deze uitdagende tasting. À Tue-Tête! neemt een aantal vintage bieren mee uit eigen kelder en Oersoep zal hun Koelschip bieren laten proeven!<br><br>6 bieren (3x À Tue-Tête! + 3x Oersoep).
+          description:
+            À Tue-Tête! uit Aigle, Zwitserland en Oersoep uit Nijmegen, Nederland bundelen de krachten tijdens deze uitdagende tasting. À Tue-Tête! neemt een aantal vintage bieren mee uit eigen kelder en Oersoep zal hun Koelschip bieren laten proeven!
+
+            6 bieren (3x À Tue-Tête! + 3x Oersoep).
           price: €25
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
           link_title: "Tickets"
@@ -89,7 +95,16 @@
           time: 15:30 - 17:00<br>19:30 - 21:00
           location: MS Ludina (boot)
           city: Groningen
-          description: "Open die grenzen en verken! Dit is een persoonlijke selectie van onafhankelijk biersommelier Elaine Olsthoorn waarin ze bieren van Cantillon, Kent Falls Brewing, Ale Apothecary en een cider van Revel Cider presenteert, gecombineerd met bijzondere kazen uit Groningen en omstreken.<br><br>3 bier/cider + 3 kazen<br><br>Sessie 1 15:30 - 17:00: Cantillon, Kent Falls Brewing & Revel Cider<br>Sessie 2 19:30 - 21:00: Cantillon, Kent Falls Brewing & Ale Apothecary.<br><br>De MS Ludina is te vinden tegenover Café De Toeter."
+          description: |
+            Open die grenzen en verken! Dit is een persoonlijke selectie van onafhankelijk biersommelier Elaine Olsthoorn waarin ze bieren van Cantillon, Kent Falls Brewing, Ale Apothecary en een cider van Revel Cider presenteert, gecombineerd met bijzondere kazen uit Groningen en omstreken.
+
+            3 bier/cider + 3 kazen
+
+            Sessie 1 15:30 - 17:00: Cantillon, Kent Falls Brewing & Revel Cider
+            Sessie 2 19:30 - 21:00: Cantillon, Kent Falls Brewing & Ale Apothecary.
+
+
+            De MS Ludina is te vinden tegenover Café De Toeter.
           price: €25
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
           link_title: "Tickets"
@@ -98,7 +113,14 @@
           time: 17:30 - 19:30
           location: De Toeter
           city: Groningen
-          description: Team Bokke komt met hun befaamde 101% geuze tasting naar Groningen!<br><br>Lambiekbieren hebben een ‘sence of place’ in tegenstelling tot elke andere bierstijl. Hoewel de brouwerijen zich in hetzelfde Pajottenland bevinden, heeft elke brouwerij zijn eigen mix van inheemse gisten en bacteriën, die vrij door de lucht stromen en in het wort vallen tijdens de nachtelijke blootstelling aan de lucht in het koelschip. In deze proeverij gaan we 4 verschillende lambieken en 4 verschillende geuzes verkennen.<br><br>Eerst proeven we 4 lambieken naast elkaar om de verschillende aroma's, smaken en kenmerken te ontdekken. Daarna proeven we 4 geuze-blends, gemaakt met dezelfde lambiek. Elke geuze-mix heeft 50% van één lambiek en gelijke verhoudingen van de drie andere lambieken. (Dat is een volle 101% geuze, ik was nooit goed in wiskunde).<br><br>Door deze proeverij kunnen we ontdekken hoe de verschillende lambieken zich samen in de fles ontwikkelen. Elke deelnemer krijgt 8 glazen (elk 7 cl), zodat we alle verschillende bieren tijdens de proeverij kunnen vergelijken.
+          description: |
+            Team Bokke komt met hun befaamde 101% geuze tasting naar Groningen!
+
+            Lambiekbieren hebben een ‘sence of place’ in tegenstelling tot elke andere bierstijl. Hoewel de brouwerijen zich in hetzelfde Pajottenland bevinden, heeft elke brouwerij zijn eigen mix van inheemse gisten en bacteriën, die vrij door de lucht stromen en in het wort vallen tijdens de nachtelijke blootstelling aan de lucht in het koelschip. In deze proeverij gaan we 4 verschillende lambieken en 4 verschillende geuzes verkennen.
+
+            Eerst proeven we 4 lambieken naast elkaar om de verschillende aroma's, smaken en kenmerken te ontdekken. Daarna proeven we 4 geuze-blends, gemaakt met dezelfde lambiek. Elke geuze-mix heeft 50% van één lambiek en gelijke verhoudingen van de drie andere lambieken. (Dat is een volle 101% geuze, ik was nooit goed in wiskunde).
+
+            Door deze proeverij kunnen we ontdekken hoe de verschillende lambieken zich samen in de fles ontwikkelen. Elke deelnemer krijgt 8 glazen (elk 7 cl), zodat we alle verschillende bieren tijdens de proeverij kunnen vergelijken.
           price: €35
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
           link_title: "Tickets"
@@ -133,7 +155,10 @@
           time: 14:00 - 15:00
           location: EM2
           city: Groningen
-          description: Ga mee met de gids van Groene Avonturen. We beginnen de wandeltocht met een Wild bier met in het wild geplukte kruiden/fruit van Nevel. Tijdens deze wandeling ga je op zoek naar eetbare planten, niet-alledaagse ingrediënten, die overal in het wild groeien. Als het vol is komt er een extra sessie.<br><br>Verzamelen voor de entree van EM2 (dus ook toegankelijk zonder festivalticket).
+          description: |
+            Ga mee met de gids van Groene Avonturen. We beginnen de wandeltocht met een Wild bier met in het wild geplukte kruiden/fruit van Nevel. Tijdens deze wandeling ga je op zoek naar eetbare planten, niet-alledaagse ingrediënten, die overal in het wild groeien. Als het vol is komt er een extra sessie.
+
+            Verzamelen voor de entree van EM2 (dus ook toegankelijk zonder festivalticket).
           price: €15
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
           link_title: "Tickets"
@@ -144,7 +169,14 @@
           time: 12:30 - 17:00
           location: Onder de Linden
           city: Aduard
-          description: "We sluiten het weekend af op het hoogste culinaire niveau van Groningen, het enige restaurant in Groningen met een michelinster: Herberg Onder de Linden!<br><br>De derde editie van de Bier Spijs Lunch staat in het teken van wilde bieren, met twee bijzondere gasten: Tommie Sjef en Raf Soef | Bokke.<br><br>Tijdens deze 10 gangen lunch worden 4 bieren van Bokke en 4 bieren van Tommie Sjef Wild Ales gecombineerd met de mooiste gerechten.<br><br>Prijs is all-in, aperitief, 8 gerechten, koffie/thee met friandises. Beperkt plaats! Reserveer via de website van Herberg Onder de Linden onder vermelding van Bier Spijs Lunch."
+          description: |
+            We sluiten het weekend af op het hoogste culinaire niveau van Groningen, het enige restaurant in Groningen met een michelinster: Herberg Onder de Linden!
+
+            De derde editie van de Bier Spijs Lunch staat in het teken van wilde bieren, met twee bijzondere gasten: Tommie Sjef en Raf Soef (Bokke).
+
+            Tijdens deze 10 gangen lunch worden 4 bieren van Bokke en 4 bieren van Tommie Sjef Wild Ales gecombineerd met de mooiste gerechten.
+
+            Prijs is all-in, aperitief, 8 gerechten, koffie/thee met friandises. Beperkt plaats! Reserveer via de website van Herberg Onder de Linden onder vermelding van Bier Spijs Lunch.
           price: €110
           link: "https://www.herbergonderdelinden.com/reserveren.html"
           link_title: "Reserveer"

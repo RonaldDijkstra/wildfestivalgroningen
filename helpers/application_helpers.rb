@@ -199,6 +199,11 @@ module ApplicationHelpers
     html
   end
 
+  # String to markdown
+  def markitdown(string)
+    Tilt["markdown"].new { string }.render
+  end
+
   # Get the pages from the sitemap that do not get excluded from robots
   def sitemap_pages
     sitemap.resources.select do |page|

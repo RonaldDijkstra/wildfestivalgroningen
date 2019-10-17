@@ -1,5 +1,5 @@
 - table: Wild Festival Groningen Main Event
-  message: "Your festival ticket includes 2 tokens and a beautiful tasting glass (approx. 10cl). At the festival you can buy tokens at €2.50 each.<br>All ticket prices excluding € 0.99 ticket fee."
+  message: "Your festival ticket includes 2 tokens and a beautiful tasting glass (approx. 10cl). At the festival you can buy tokens at €2.50 each.<br>All ticket prices excluding €0.99 ticket fee."
   days:
     - date: Saturday, November 23, 2019
       items:
@@ -64,7 +64,9 @@
           time: 20:00 - 23:00
           location: De Koffer
           city: Groningen
-          description: Huisstekerij h.Ertie and Brouwerij Vandenbroek are Special Guests at Bierlokaal Café De Koffer. Toon and Uli have known each other for years and are happy to share their passion for geuze! Special bottles will be available at the bar.<br><br>For this event it is not necessary to purchase tickets, free entrance!
+          description: |
+            Huisstekerij h.Ertie and Brouwerij Vandenbroek are Special Guests at Bierlokaal Café De Koffer. Toon and Uli have known each other for years and are happy to share their passion for geuze! Special bottles will be available at the bar.
+            For this event it is not necessary to purchase tickets, free entrance!
     - date: Friday, November 22, 2019
       items:
         - title: "Huisstekerij h.Ertie Tasting"
@@ -80,7 +82,10 @@
           time: 15:00 - 17:00
           location: De Koffer
           city: Groningen
-          description: À Tue-Tête! from Aigle, Switzerland and Oersoep from Nijmegen, The Netherlands join forces during this tasting. À Tue-Tête! takes a number of vintage beers from its own cellar and Oersoep will have their Koelschip beers to taste!<br><br>6 beers (3x À Tue-Tête! + 3x Oersoep).
+          description: |
+            À Tue-Tête! from Aigle, Switzerland and Oersoep from Nijmegen, The Netherlands join forces during this tasting. À Tue-Tête! takes a number of vintage beers from its own cellar and Oersoep will have their Koelschip beers to taste!
+
+            6 beers (3x À Tue-Tête! + 3x Oersoep).
           price: €25
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
           link_title: "Tickets"
@@ -92,13 +97,24 @@
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
           link_title: "Tickets"
           link_target: "_blank"
-          description: "Open the borders and explore! This is a personal selection of independent beer sommelier Elaine Olsthoorn in which she presents beers from Cantillon, Kent Falls Brewing, Ale Apothecary and a cider from Revel Cider, combined with special cheeses from Groningen and the surrounding area.<br><br>3 beer / cider + 3 cheeses<br><br>Session 1 15:30 - 17:00: Cantillon, Kent Falls Brewing & Revel Cider<br>Session 2 19:30 - 21:00: Cantillon, Kent Falls Brewing & Ale Apothecary.<br><br>The MS Ludina can be found opposite Café De Toeter."
+          description: |
+            Open the borders and explore! This is a personal selection of independent beer sommelier Elaine Olsthoorn in which she presents beers from Cantillon, Kent Falls Brewing, Ale Apothecary and a cider from Revel Cider, combined with special cheeses from Groningen and the surrounding area.
+
+            3 beer / cider + 3 cheeses
+
+            Session 1 15:30 - 17:00: Cantillon, Kent Falls Brewing & Revel Cider
+            Session 2 19:30 - 21:00: Cantillon, Kent Falls Brewing & Ale Apothecary.
+
+            The MS Ludina can be found opposite Café De Toeter."
           price: €25
         - title: Bokke 101% Geuze Tasting
           time: 17:30 - 19:30
           location: De Toeter
           city: Groningen
-          description: Lambic beers have a sense of place unlike any other beer style. Although the breweries are located in the same Pajottenland area, every brewery houses its own mix of native yeasts and bacteria, freely flowing through the air and falling down in the wort during its overnight exposure to the air in the coolship. In this tasting we're going to explore 4 different lambics and 4 different geuze blends.<br><br>First we'll taste 4 lambics side by side, to discover the different aromas, flavors and characteristics. Then we'll taste 4 geuze blends, made with the same lambics. Each geuze blend has 50% of one lambic, and equal proportions of the other lambics. Through this tasting we can discover how the different lambics develop together in the bottle. Every participant gets 8 glasses (7 cl each) so we can compare all the different beers throughout the tasting.
+          description: |
+            Lambic beers have a sense of place unlike any other beer style. Although the breweries are located in the same Pajottenland area, every brewery houses its own mix of native yeasts and bacteria, freely flowing through the air and falling down in the wort during its overnight exposure to the air in the coolship. In this tasting we're going to explore 4 different lambics and 4 different geuze blends.
+
+            First we'll taste 4 lambics side by side, to discover the different aromas, flavors and characteristics. Then we'll taste 4 geuze blends, made with the same lambics. Each geuze blend has 50% of one lambic, and equal proportions of the other lambics. Through this tasting we can discover how the different lambics develop together in the bottle. Every participant gets 8 glasses (7 cl each) so we can compare all the different beers throughout the tasting.
           price: €35
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
           link_title: "Tickets"
@@ -136,7 +152,10 @@
           time: 14:00 - 15:00
           location: EM2
           city: Groningen
-          description: Join the Green Adventures guide. We start the hike with a Wild beer with wild herbs / fruit from Nevel. During this walk you will hunt for edible plants and unusual ingredients that grow everywhere in the wild. If the first session is full, an extra session will be organized.<br><br>Gathering in front of the entrance of EM2 (also accessible without a festival ticket).
+          description: |
+            Join the Green Adventures guide. We start the hike with a Wild beer with wild herbs / fruit from Nevel. During this walk you will hunt for edible plants and unusual ingredients that grow everywhere in the wild. If the first session is full, an extra session will be organized.
+
+            Gathering in front of the entrance of EM2 (also accessible without a festival ticket).
           price: €15
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
           link_title: "Tickets"
@@ -147,7 +166,14 @@
           time: 12:30 - 17:00
           location: Onder de Linden
           city: Aduard
-          description: "We end the weekend at the highest culinary level in Groningen, the only restaurant in Groningen with a Michelin star: Herberg Onder de Linden!<br><br>The third edition of the Bier Spijs Lunch is all about wild beers, with two special guests: Tommie Sjef and Raf Soef | Bokke.<br><br>During this 10-course lunch 4 beers from Bokke and 4 beers from Tommie Sjef Wild Ales are combined with the most beautiful dishes.<br><br>Price is all-in, aperitif, 8 dishes, coffee / tea with friandises. Limited spots! Book your reservation at the Herberg Onder de Linden website with mentioning of Bier-Spijs Lunch."
+          description: |
+            We end the weekend at the highest culinary level in Groningen, the only restaurant in Groningen with a Michelin star: Herberg Onder de Linden!
+
+            The third edition of the Bier Spijs Lunch is all about wild beers, with two special guests: Tommie Sjef and Raf Soef (Bokke).
+
+            During this 10-course lunch 4 beers from Bokke and 4 beers from Tommie Sjef Wild Ales are combined with the most beautiful dishes.
+
+            Price is all-in, aperitif, 8 dishes, coffee / tea with friandises. Limited spots! Book your reservation at the Herberg Onder de Linden website with mentioning of Bier-Spijs Lunch."
           price: €110
           link: "https://www.herbergonderdelinden.com/reserveren.html"
           link_title: "Book your Reservation"
