@@ -1,6 +1,7 @@
 div.tt {
   .tt-message {
     background-color: lighten($light-blue, 20%);
+    font-size: $base-font-size * 0.8;
     padding: 16px 24px;
     text-align: center;
   }
