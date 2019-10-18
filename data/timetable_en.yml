@@ -124,7 +124,10 @@
           time: 17:00 - 19:00
           location: Baxbier
           city: Groningen
-          description: Brauerei J. Kemker and Nevel Artisan Ales take you on a journey along different beers with special ingredients. Both are known for their unusual using of ingredients and are happy to tell you all about it during this combined tasting.
+          description: |
+            Brauerei J. Kemker and Nevel Artisan Ales take you on a journey along different beers with special ingredients. Both are known for their unusual using of ingredients and are happy to tell you all about it during this combined tasting.
+
+            6 beers (3x Nevel + 3x Kemker).
           price: €25
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
           link_title: "Tickets"
@@ -133,7 +136,10 @@
           time: 20:00 - 22:00
           location: De Toeter
           city: Groningen
-          description: Local heroes Rockin 'Ludina from Groningen and the only spontanously fermenting brewery in the Czech Republic Wild Creatures will have several of their finest barrel aged beers tasted using local fruits during this tasting.
+          description: |
+            The only spontanously fermenting brewery in the Czech Republic Wild Creatures and local heroes Rockin 'Ludina from Groningen will let you taste several of their finest barrel aged beers using local fruits.
+
+            6 beers (3x Wild Creatures  + 3x Rockin' Ludina).
           price: €25
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
           link_title: "Tickets"
