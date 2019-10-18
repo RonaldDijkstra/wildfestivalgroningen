@@ -86,7 +86,7 @@
 - name: Oersoep 🇳🇱
   image: oersoep.png
   description: |
-    produces beer in the old soupfactory on the Honig complex in Nijmegen. They brew beers with different house cultures, wild and spontaneous fermentation. 
+    produces beer in the old soupfactory on the Honig complex in Nijmegen. They brew beers with different house cultures, wild and spontaneous fermentation.
   link_url: https://www.oersoepbrouwerij.nl/
   link_title: www.oersoepbrouwerij.nl
 - name: Pomme d'Or 🇳🇱
@@ -109,3 +109,9 @@
     In this separate section of the brewery, various wildly fermented beers are made on a very small scale that ferment and mature in wooden barrels.
   link_url: https://www.facebook.com/Zomerdijk-Brewing-Blending-172114720179073/
   link_title: www.facebook.com/Zomerdijk-Brewing-Blending
+- name: Geuzestekerij T’Pomphuizeke 🇧🇪
+  image: pomphuizeke.png
+  description: |
+    't Pomphuizeke is a home blender from Ghent, Belgium, and has already been very successful at the famous Carnival Brettanomyces.
+  link_url: https://tpomphuizeke.wordpress.com/
+  link_title: tpomphuizeke.wordpress.com/
