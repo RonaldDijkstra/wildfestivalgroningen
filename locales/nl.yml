@@ -40,13 +40,12 @@ nl:
 
         Naast drinken is er heerlijk eten in de foodcourt met echt wild, gefermenteerde producten en producten rechtstreeks uit de natuur.
     program:
-      announcement: "Ticketsale voor de side events start vrijdag 18-10-2019, 12:00 uur"
       title: "Programma"
     thanks:
       title: "Bedankt!"
     tickets:
       title: "Koop je tickets"
-      text: "Koop hier je tickets voor het festival en vanaf vrijdag 18-10-2019 om 12:00 uur voor de side events."
+      text: "Koop hier je tickets voor het festival en de side events."
   sections:
     contact-form: "Contactformulier"
     social: "Volg ons via social media"
