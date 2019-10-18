@@ -112,12 +112,18 @@
 - name: Geuzestekerij T’Pomphuizeke 🇧🇪
   image: pomphuizeke.png
   description: |
-    't Pomphuizeke is een thuissteker uit het Belgische Gent en stond al eens met veel succes op het befaamde Carnival Brettanomyces.
+    't Pomphuizeke is een steker uit het Belgische Gent en stond al eens met veel succes op het befaamde Carnival Brettanomyces.
   link_url: https://tpomphuizeke.wordpress.com/
   link_title: tpomphuizeke.wordpress.com
 - name: Elixer 🇳🇱
   image: elixer.png
   description: |
-    Robert and Nienke's thuis brouwerij met een focus op saisons, gruits, wild en sour ales van gemengde vergisting.
+    Robert and Nienke's kleine brouwerij met een focus op saisons, gruits, wild en sour ales van gemengde vergisting.
   link_url: https://www.facebook.com/elixer.bier.9
   link_title: facebook.com/elixer.bier.9
+- name: Pellicle Vergistingen 🇧🇪
+  image: pellicle-vergistingen.png
+  description: |
+    Matthieu Dupont experimenteert met en blend lambieken. Daarnaast maakt hij zijn eigen natuurwijnen. Zijn blends vormden een hoogtepunt tijdens de Bokke tap take over in De Gebrande Winning afgelopen september.
+  link_url: https://www.instagram.com/pellicle.vergistingen/
+  link_title: instagram.com/pellicle.vergistingen
