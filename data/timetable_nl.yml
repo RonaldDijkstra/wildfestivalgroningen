@@ -134,6 +134,9 @@
 
             6 bieren (3x Nevel + 3x Kemker).
           price: €25
+          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          link_title: "Tickets"
+          link_target: "_blank"
         - title: "Wild Creatures + Rockin’ Ludina Tasting<br><em>'Local Fruit'</em>"
           time: 20:00 - 22:00
           location: De Toeter
