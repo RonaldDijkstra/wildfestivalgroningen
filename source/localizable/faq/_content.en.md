@@ -23,7 +23,6 @@ A ticket gives access to one session at the festival, a beautiful tasting glass 
 ## How long does a session last?
 
 A session lasts four hours. Session 1 is from 1:30 PM to 5:30 PM. Session 2 is from 6:30 PM to 10:30 PM.
-
 The Wild Foodcourt is open from 2:00 PM to 10:00 PM. Here you can go during and after the first session, and if you come both sessions you can continue to eat, or you come before or during the second session to eat a delicious bite!
 
 ## When will the side events be announced?
@@ -62,7 +61,7 @@ There is sufficient parking space on the Suikerunie site, but we strongly advise
 
 ## How do I get to EM2 by public transport?
 
-The address of EM2 is Suikerlaan 6. Take a look <a href="https://9292.nl/reisadvies/groningen_bushalte-hoofdstation/groningen_suikerlaan-6/vertrek" target="_blank">on the 9292 website</a> for current departure times of, among others, Line 8 from Groningen Central Station.
+The address of EM2 is Suikerlaan 6. Take a look <a href="https://9292.nl/en/journeyadvice/groningen_bushalte-hoofdstation/groningen_suikerlaan-6/departure/2019-10-20T1134" target="_blank">on the 9292 website</a> for current departure times of, among others, Line 8 from Groningen Central Station.
 
 ## Is there a wardrobe?
 
