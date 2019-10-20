@@ -22,8 +22,9 @@ A ticket gives access to one session at the festival, a beautiful tasting glass 
 
 ## How long does a session last?
 
-A session lasts four hours. Session 1 is from 1:30 PM to 5:30 PM. Session 2 is from 6:30 pm to 10:30 pm
-The Wild Foodcourt is open from 2 p.m. to 10 p.m. Here you can go during and after the first session, and if you come both sessions you can continue to eat, or you come before or during the second session to eat a delicious bite!
+A session lasts four hours. Session 1 is from 1:30 PM to 5:30 PM. Session 2 is from 6:30 PM to 10:30 PM.
+
+The Wild Foodcourt is open from 2:00 PM to 10:00 PM. Here you can go during and after the first session, and if you come both sessions you can continue to eat, or you come before or during the second session to eat a delicious bite!
 
 ## When will the side events be announced?
 
