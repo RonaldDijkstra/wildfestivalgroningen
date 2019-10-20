@@ -18,11 +18,7 @@ Door sale € 19.50 (if available)
 
 ## What do I get for my ticket?
 
-A ticket gives access to one session at the festival, a beautiful tasting glass and two tokens for € 2.
-
-## What does a token cost?
-
-Tokens cost € 2 each and can be broken into halves. The price can vary per beer, cider and wine. We serve in glasses from 8 cl.
+A ticket gives access to one session at the festival, a beautiful tasting glass (approx. 10cl) and two tokens.
 
 ## How long does a session last?
 
@@ -31,7 +27,7 @@ The Wild Foodcourt is open from 2 p.m. to 10 p.m. Here you can go during and aft
 
 ## When will the side events be announced?
 
-In the coming period we will announce the side events on our website and on social media. Expect a number of cool events such as tastings, dinners and tap-takeovers. A number of "ticketed events" will take place, for which you can purchase tickets through our site.
+The side events are announced! Visit our [program](/en/program/) page for information.
 
 ## Are the same beers served during both sessions?
 
@@ -69,8 +65,8 @@ The address of EM2 is Suikerlaan 6. Take a look <a href="https://9292.nl/reisadv
 
 ## Is there a wardrobe?
 
-Yes
+Yes.
 
-## My question is not listed
+## I have another question
 
 Get in touch via [the contact page](/contact/).

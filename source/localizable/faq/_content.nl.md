@@ -18,7 +18,7 @@ Deurverkoop € 19,50 (mits beschikbaar)
 
 ## Wat krijg ik voor mijn ticket?
 
-Een ticket geeft toegang tot één sessie op het festival, een prachtig proefglas en twee munten.
+Een ticket geeft toegang tot één sessie op het festival, een prachtig proefglas (ca. 10cl) en twee munten.
 
 ## Hoe lang duurt een sessie?
 
@@ -27,7 +27,7 @@ De Wild Foodcourt is open van 14:00 uur tot 22:00 uur. Hier kan je terecht tijde
 
 ## Wanneer worden de side events bekend gemaakt?
 
-De komende tijd zullen we via onze website en op social media de side events bekend maken. Verwacht een aantal toffe events zoals proeverijen, diners en tap-take-overs. Er zullen een aantal ‘ticketed events’ plaats vinden, hiervoor kan je via onze site tickets aanschaffen.
+De side events zijn inmiddels aangekondigd. Zie het uitgebreide [programma](/programma/).
 
 ## Worden tijdens beide sessies dezelfde bieren geschonken?
 
