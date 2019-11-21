@@ -79,30 +79,22 @@
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
           link_title: "Tickets"
           link_target: "_blank"
-        - title: "À Tue-Tête! + Oersoep Tasting<br><em>'Vintage and Koelschip beers'</em>"
-          time: 15:00 - 17:00
+        - title: "Walk In Wilde Vrijdagmiddagborrel"
+          time: 16:00 - 18:00
           location: De Koffer
           city: Groningen
-          description:
-            À Tue-Tête! uit Aigle, Zwitserland en Oersoep uit Nijmegen, Nederland bundelen de krachten tijdens deze uitdagende tasting. À Tue-Tête! neemt een aantal vintage bieren mee uit eigen kelder en Oersoep zal hun Koelschip bieren laten proeven!
+          description: |
+            Vrijdagmiddagborrel met Special Guests: de brouwers van Nevel, Kemker, À Tue-Tête! en Oersoep bij Bierlokaal Café De Koffer!
 
-            6 bieren (3x À Tue-Tête! + 3x Oersoep).
-          price: €25
-          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
-          link_title: "Tickets"
-          link_target: "_blank"
-        - title: "Wilde Chutney Cheese + Beer Sessions:<br><em>'Dancing on the cusp of beer, cider and wine'</em>"
-          time: 15:30 - 17:00<br>19:30 - 21:00
+            Kom langs voor een proeverij, speciale vintage flessen, koelschip bieren en bieren met wilde kruiden.
+        - title: "Wilde Chutney Cheese + Beer:<br><em>'Dancing on the cusp of beer, cider and wine'</em>"
+          time: 19:30 - 21:00
           location: MS Ludina (boot)
           city: Groningen
           description: |
             Open die grenzen en verken! Dit is een persoonlijke selectie van onafhankelijk biersommelier Elaine Olsthoorn waarin ze bieren van Cantillon, Kent Falls Brewing, Ale Apothecary en een cider van Revel Cider presenteert, gecombineerd met bijzondere kazen uit Groningen en omstreken.
 
             3 bier/cider + 3 kazen
-
-            Sessie 1 15:30 - 17:00: Cantillon, Kent Falls Brewing & Revel Cider
-
-            Sessie 2 19:30 - 21:00: Cantillon, Kent Falls Brewing & Ale Apothecary.
 
             De MS Ludina is te vinden tegenover Café De Toeter.
           price: €25
@@ -123,19 +115,6 @@
             Door deze proeverij kunnen we ontdekken hoe de verschillende lambieken zich samen in de fles ontwikkelen. Elke deelnemer krijgt 8 glazen (elk 7 cl), zodat we alle verschillende bieren tijdens de proeverij kunnen vergelijken.
 
             __Uitverkocht.__
-          price: €35
-        - title: "Nevel Artisan Ales + Brauerei J. Kemker Tasting<br><em>'Herbal beers'</em>"
-          time: 17:00 - 19:00
-          location: Baxbier
-          city: Groningen
-          description: |
-            Brauerei J. Kemker en Nevel Artisan Ales nemen je mee op reis langs verschillende bieren met bijzondere ingrediënten. Beiden staan bekend om hun niet-alledaagse gebruik van ingrediënten en vertellen je er graag alles over tijdens deze gecombineerde tasting.
-
-            6 bieren (3x Nevel + 3x Kemker).
-          price: €25
-          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
-          link_title: "Tickets"
-          link_target: "_blank"
         - title: "Wild Creatures + Rockin’ Ludina Tasting<br><em>'Local Fruit'</em>"
           time: 20:00 - 22:00
           location: De Toeter
@@ -178,7 +157,7 @@
           location: Onder de Linden
           city: Aduard
           description: |
-            We sluiten het weekend af op het hoogste culinaire niveau van Groningen, het enige restaurant in Groningen met een michelinster: Herberg Onder de Linden!
+            Op zondag zetten we het Wild Weekend voort op het hoogste culinaire niveau van Groningen, het enige restaurant in Groningen met een michelinster: Herberg Onder de Linden!
 
             De derde editie van de Bier Spijs Lunch staat in het teken van wilde bieren, met twee bijzondere gasten: Tommie Sjef en Raf Soef (Bokke).
 
@@ -187,4 +166,19 @@
             Prijs is all-in, aperitief, 8 gerechten, koffie/thee met friandises.
 
             __Uitverkocht.__
-          price: €110
+        - title: "Diner met Cinque Campi: Hoog bezoek uit Italië"
+          time: 18:00 - 23:00
+          location: Hof van Oldeberkoop
+          city: Oldeberkoop
+          description: |
+            Op deze bijzondere avond in samenwerking met het Hof van Oldeberkoop en als "side-event" van het Wild Festival Groningen komt Vanni (Cinque Campi) vertellen over zijn biodynamische wijnen, de streek en kunt u genieten van een speciaal 4 gangen diner wat het team van de gasterij gaat bereiden.
+
+            De prijs van het 4 gangen diner inclusief wijn, water en koffie is €52,50.
+
+            We hebben een beperkt aantal plaatsen dus reserveer tijdig!
+
+            U kunt reserveren via de mail info@hofvanoldeberkoop.nl, bellen naar 0516 - 451490 of stuur even een PM via Facebook.
+          price: €52,50
+          link: https://www.facebook.com/hofvanoldeberkoop/photos/a.2133549176875502/2544924809071268/?type=3&theater
+          link_title: Reserveren
+          link_target: "_blank"
