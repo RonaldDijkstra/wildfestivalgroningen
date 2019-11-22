@@ -14,11 +14,15 @@ EM2 is een onafhankelijk podium en evenementenlocatie. Op het oude Suikerunie-te
 
 Early Bird Tickets € 14,50 (+0,99 ticketfee)
 Voorverkoop € 17,50 (+0,99 ticketfee)
-Deurverkoop € 19,50 (mits beschikbaar)
+Deurverkoop € 19
 
 ## Wat krijg ik voor mijn ticket?
 
 Een ticket geeft toegang tot één sessie op het festival, een prachtig proefglas (ca. 10cl) en twee munten.
+
+## Wat zijn de betaalmogelijkheden op het festival?
+
+Je kunt met de pin (graag!) en cash betalen.
 
 ## Hoe lang duurt een sessie?
 

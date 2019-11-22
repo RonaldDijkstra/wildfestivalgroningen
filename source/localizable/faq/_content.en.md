@@ -14,11 +14,15 @@ EM2 is an independent stage and event location. EM2 programs unique events on th
 
 Early Bird Tickets € 14.50 (+ 0.99 ticket fee)
 Presale € 17.50 (+0.99 ticket fee)
-Door sale € 19.50 (if available)
+Door sale € 19
 
 ## What do I get for my ticket?
 
 A ticket gives access to one session at the festival, a beautiful tasting glass (approx. 10cl) and two tokens.
+
+## What are the payment options at the festival?
+
+You can pay with a cash card (please!) or cash.
 
 ## How long does a session last?
 
