@@ -26,11 +26,6 @@ We will announce the line-up in the run-up to the festival. Expect the very best
 
 We will announce the side events in the run-up to the festival.
 
-## Can I bring my own beer / wine / cider / food to share?
-
-No, we are dependent on selling beer and food, and therefore we cannot allow bottle shares with your own drinks. We will ensure that there is sufficient to drink and eat for everyone.
-You can take a water bottle with you and refill it at the festival.
-
 ## I have another question
 
 Get in touch via [the contact page](/contact/).

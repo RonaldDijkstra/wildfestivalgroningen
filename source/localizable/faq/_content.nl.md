@@ -26,12 +26,6 @@ In de aanloop naar het festival maken we de line-up bekend. Verwacht het allerbe
 
 In de aanloop naar het festival maken we de side events bekend.
 
-## Mag ik mijn eigen bier/wijn/cider/food meenemen om te delen?
-
-Nee, we zijn afhankelijk van de verkoop, daarom kunnen we bottle shares met eigen meegenomen drinken niet toestaan. We zullen zorgen voor voldoende drinken en eten.
-
-Een waterflesje mag je wel meenemen en kan je op het festival hervullen.
-
 ## Mijn vraag staat er niet bij
 
 Neem contact met ons op [via de contactpagina](/contact/).
