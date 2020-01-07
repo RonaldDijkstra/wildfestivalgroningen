@@ -8,15 +8,15 @@ Wild Festival Groningen is organized by <a href="http://www.bierselect.nl/" targ
 
 ## Where is Wild Festival Groningen 2020?
 
-We will announce this soon.
+More info soon.
 
 ## What does Wild Festival Groningen cost and when does the pre-sale start?
 
-We will announce this soon.
+More info soon.
 
 ## What do I get for my ticket?
 
-We will announce this soon.
+More info soon.
 
 ## When will the line-up be announced?
 

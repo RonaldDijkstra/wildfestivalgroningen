@@ -8,15 +8,15 @@ Wild Festival Groningen wordt georganiseerd door <a href="http://www.bierselect.
 
 ## Waar is Wild Festival Groningen?
 
-Dat maken we binnenkort bekend.
+Binnenkort meer info.
 
 ## Wat kost Wild Festival Groningen en wanneer start de voorverkoop?
 
-Dat maken we binnenkort bekend.
+Binnenkort meer info.
 
 ## Wat krijg ik voor mijn ticket?
 
-Dat maken we binnenkort bekend.
+Binnenkort meer info.
 
 ## Wanneer wordt de line-up bekend gemaakt?
 
