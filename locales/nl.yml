@@ -23,10 +23,9 @@ nl:
     contact:
       title: "Contact"
     index:
-      title: "Wild Festival Groningen 2019"
+      title: "Wild Festival Groningen 2020"
       banner:
-        date: "23 november 2019"
-        location: "EM2 Venue"
+        date: "20 - 21 november 2020"
       line-up:
         button: "Bekijk line-up"
         text: "Meer dan twintig deelnemers zullen zorgen voor een unieke line-up van brouwers, wijnboeren en ciderhuizen."
@@ -35,16 +34,22 @@ nl:
     line-up:
       title: "Line-up"
       text: |
-        Meer dan twintig deelnemers zullen zorgen voor een unieke line-up van brouwers, wijnboeren en ciderhuizen. Lokale ingrediënten, spontane vergisting en rijping op eiken vaten staan centraal.
+        Ook in 2020 zullen we zorgen voor een unieke, zeer goede line-up van brouwers, wijnboeren en ciderhuizen. Lokale ingrediënten, spontane vergisting en rijping op eiken vaten staan centraal.
 
-        Naast drinken is er heerlijk eten in de foodcourt met echt wild, gefermenteerde producten en producten rechtstreeks uit de natuur.
+        Houdt onze kanalen in de gaten voor line-up updates!
     program:
       title: "Programma"
+      text: |
+        Sessie 1 | Vrijdagavond 20 november 2020 | 19:00 - 23:00
+        Sessie 2 | Zaterdagmiddag 21 november 2020 | 13:30 - 17:30
+        Sessie 3 | Zaterdagavond 21 november 2020 | 19:00 - 23:00
+
+        Side events donderdag 19 november, vrijdag 20 november en zondag 22 november!
     thanks:
       title: "Bedankt!"
     tickets:
       title: "Koop je tickets"
-      text: "Koop hier je tickets voor het festival en de side events. Deurkaarten zijn te koop voor €19,- per sessie."
+      text: "Koop hier je straks je tickets voor het festival en de side events."
   sections:
     contact-form: "Contactformulier"
     social: "Volg ons via social media"

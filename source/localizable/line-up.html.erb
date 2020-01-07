@@ -7,37 +7,13 @@ sitemap_priority: 0.8
 ---
 
 <%= partial "partials/banner", locals: { variant: "variant-normal",
-                                         background_image: "banner-tommie-sjef.jpg",
+                                         background_image: "banner-glasses.jpg",
                                          title: t("pages.line-up.title")} %>
 
 <section class="single-column">
   <div class="grid-row">
     <article>
-      <%= t("pages.line-up.text") %>
+      <%= markitdown t("pages.line-up.text") %>
     </article>
-  </div>
-
-  <%
-  all_participants = data["line-up_" + I18n.locale.to_s]
-  participants = all_participants.clone
-  %>
-
-  <div class="grid-row">
-    <div class="flex-wrapper">
-
-      <% participants.sort{ |a,b| a.name.to_s <=> b.name.to_s }.each do |participant| %>
-        <div class="flex-item">
-          <div class="item-image border-light-gray">
-            <%= image_tag "assets/images/line-up/#{participant.image}", alt: participant.name %>
-          </div>
-          <div class="item-text">
-            <h3><%= participant.name %></h3>
-            <p><%= participant.description %></p>
-            <%= link_to participant.link_title, participant.link_url, target: "_blank" %>
-          </div>
-        </div>
-      <% end %>
-
-    </div>
   </div>
 </section>

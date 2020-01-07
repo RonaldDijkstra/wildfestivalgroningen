@@ -9,11 +9,12 @@ sitemap_priority: 1
                                          background_image: "banner-homepage.jpg",
                                          title: "WILD FESTIVAL GRONINGEN",
                                          pre_title: "BEER | WINE | CIDER | FOOD",
-                                         sub_title_date: t("pages.index.banner.date"),
-                                         sub_title_location: t("pages.index.banner.location"),
-                                         button_link: "/tickets.html",
-                                         button_text: t("actions.buy_now"),
-                                         button_variant: "big light-blue"} %>
+                                         sub_title_date: t("pages.index.banner.date")
+                                         # sub_title_location: t("pages.index.banner.location"),
+                                         # button_link: "/tickets.html",
+                                         # button_text: t("actions.buy_now"),
+                                         # button_variant: "big light-blue"
+                                       } %>
 
 <section class="introduction single-column">
   <div class="grid-row">
@@ -23,8 +24,6 @@ sitemap_priority: 1
   </div>
 </section>
 
-<%= partial "partials/featured-line-up" %>
-
 <section class="social">
   <div class="grid-row">
     <h2>
@@ -33,5 +32,3 @@ sitemap_priority: 1
     <%= partial "partials/social-links" %>
   </div>
 </section>
-
-<%= partial "partials/maps" %>
