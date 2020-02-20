@@ -1,10 +1,10 @@
 @font-face {
   font-family: "icomoon";
-  src:  url("../fonts/icomoon.eot?mpu9fp");
-  src:  url("../fonts/icomoon.eot?mpu9fp#iefix") format("embedded-opentype"),
-    url("../fonts/icomoon.ttf?mpu9fp") format("truetype"),
-    url("../fonts/icomoon.woff?mpu9fp") format("woff"),
-    url("../fonts/icomoon.svg?mpu9fp#icomoon") format("svg");
+  src: url("../fonts/icomoon.eot?digag1");
+  src: url("../fonts/icomoon.eot?digag1#iefix") format("embedded-opentype"),
+    url("../fonts/icomoon.ttf?digag1") format("truetype"),
+    url("../fonts/icomoon.woff?digag1") format("woff"),
+    url("../fonts/icomoon.svg?digag1#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -23,6 +23,10 @@
   speak: none;
   text-transform: none;
   vertical-align: middle;
+}
+
+.icon-mail::before {
+  content: "\e904";
 }
 
 .icon-facebook::before {
@@ -55,4 +59,20 @@
 
 .icon-untappd::before {
   content: "\e900";
+}
+
+.icon-arrow-up::before {
+  content: "\ea3a";
+}
+
+.icon-arrow-right::before {
+  content: "\ea3c";
+}
+
+.icon-arrow-down::before {
+  content: "\ea3e";
+}
+
+.icon-arrow-left::before {
+  content: "\ea40";
 }

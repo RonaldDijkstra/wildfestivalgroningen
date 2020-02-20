@@ -1,4 +1,7 @@
 //= require jquery
+//= require jquery.scrollTo
 //= require what-input
 
-//= require _navigation-toggle
+//= require _header
+//= require _hero
+//= require _scroll-to

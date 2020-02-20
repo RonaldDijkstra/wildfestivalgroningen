@@ -1,7 +1,20 @@
+# frozen_string_literal: true
+
+## Application Helpers
 module ApplicationHelpers
   # Get the website name from site.yml
   def website_name
     data.site.name
+  end
+
+  # Get the base url from data
+  def base_url
+    data.site.base_url
+  end
+
+  # Permalink url for sharing
+  def permalink_url
+    full_url(current_page.url)
   end
 
   # Get the title from frontmatter if any
@@ -12,11 +25,7 @@ module ApplicationHelpers
   # If there's a title in frontmatter check if it's localized
   # and then join them with the website_name
   def local_title
-    if frontmatter_title.is_a?(Hash) && frontmatter_title[I18n.locale]
-      [frontmatter_title.send(I18n.locale), website_name].join(" - ")
-    elsif frontmatter_title
-      [frontmatter_title, website_name].join(" - ")
-    end
+    [frontmatter_title, website_name].join(" | ") if frontmatter_title
   end
 
   # Page title is localized or title
@@ -24,25 +33,17 @@ module ApplicationHelpers
     local_title || website_name
   end
 
-  # Description is the value for description in frontmatter data
-  # or the default value defined in site.yml
-  def description
-    current_page.data.description || t("site.description")
-  end
-
-  # Localized description value
-  #
-  # description:
-  #   nl: "Dit is een beschrijving"
-  #   en: "This is a description"
-  #
-  def localized_description
-    description.send(I18n.locale) if description.is_a?(Hash) && description[I18n.locale]
-  end
-
-  # Meta description is localized_description or description
-  def meta_description
-    localized_description || description
+  # Use frontmatter for meta description
+  def meta_description(page = current_page)
+    if content_for?(:meta_description)
+      yield_content(:meta_description)
+    elsif page.data.description
+      page.data.description
+    elsif is_blog_article?
+      Nokogiri::HTML(page.summary(160)).text
+    else
+      data.site.meta_description
+    end
   end
 
   # Robots is current page data or default
@@ -50,23 +51,18 @@ module ApplicationHelpers
     current_page.data.robots || "noydir,noodp,index,follow"
   end
 
-  # Make custom page classes that don't translate from target_resource.path
-  # Now we can target these pages with a single styling
-  def page_classes
-    path = current_resource.target_resource.path
-    classes = super(path.gsub("localizable", ""))
-    classes.prepend("#{I18n.locale} ")
-  end
-
   # Get full url
-  def full_url(url, locale = I18n.locale)
-    base = "https://#{I18n.t('CNAME', locale: locale)}"
-    URI.join(base, url).to_s
+  def full_url(url)
+    URI.join(base_url, url).to_s
   end
 
   # Define image for Open Graph
   def og_image
-    full_url(asset_url(current_page.data.image || "assets/images/wildfestival-groningen-1200x630.jpg"))
+    full_url(
+      asset_url(
+        current_page.data.image || "assets/images/folkingebrew-1200x1200.png"
+      )
+    )
   end
 
   # Get full locale (eg. nl_NL)
@@ -79,10 +75,36 @@ module ApplicationHelpers
     end
   end
 
-  FILE_EXTENSION = /\.(\w+)$/.freeze
+  # 404?
+  def x404?
+    current_page.url == "/404.html"
+  end
 
-  # Current link to helper based on thoughtbot's aria current extension
-  # https://github.com/thoughtbot/middleman-aria_current
+  def blog?(page = current_page)
+    page.url.start_with?("/blog/")
+  end
+
+  def current_page_url
+    if current_page.url.start_with?("/blog/")
+      "/blog/"
+    elsif current_page.url.start_with?("/bieren/")
+      "/bieren/"
+    else
+      current_page.url
+    end
+  end
+
+  def article_class
+    if is_blog_article?
+      if current_page.url.start_with?("/blog/")
+        "blog-article"
+      elsif current_page.url.start_with?("/bieren/")
+        "beer-show"
+      end
+    end
+  end
+
+  # Add aria current to current page navigation item
   def current_link_to(*arguments, aria_current: "page", **options, &block)
     if block_given?
       text = capture(&block)
@@ -92,139 +114,8 @@ module ApplicationHelpers
       path = arguments[1]
     end
 
-    link_options = options
-    resource_path = path.delete("/")
+    options.merge!("aria-current" => aria_current) if path == current_page_url
 
-    link_options["aria-current"] = aria_current if proxied_to == resource_path
-
-    locale_link_to(text, path, link_options)
-  end
-
-  # Localized link_to
-  def locale_link_to(*args, &block)
-    url_arg_index = block_given? ? 0 : 1
-    options_index = block_given? ? 1 : 2
-    args[options_index] ||= {}
-    options = args[options_index].dup
-    args[url_arg_index] = locale_url_for(args[url_arg_index], options)
-    link_to(*args, &block)
-  end
-
-  # Localized url_for
-  def locale_url_for(url, options = {})
-    locale = options[:locale] || I18n.locale
-    options[:relative] = false
-    url_parts = url.split("#")
-    url_parts[0] = extensions[:i18n].localized_path(url_parts[0], locale) ||
-                   url_parts[0]
-    url = url_parts.join("#")
-    url_for(url, options)
-  end
-
-  def locale_pretty_url(url, options = {})
-    locale_url_for(url, options).gsub(".html", "/")
-  end
-
-  # Where's the current resource proxied to?
-  def proxied_to(page = current_page)
-    page.target_resource.path.gsub("localizable/", "")
-  end
-
-  # Get locale root path
-  def locale_root_path(page = current_page)
-    page.locale_root_path
-  end
-
-  # Get full root url
-  def full_root_url(lang)
-    case lang
-    when :en
-      full_url("", lang)
-    when :nl
-      full_url("/en", lang)
-    end
-  end
-
-  # Get the other languages than current
-  def other_locales
-    langs - [I18n.locale]
-  end
-
-  # 404?
-  def x404?
-    current_page.url =~ /404.html/
-  end
-
-  #
-  # Language Switcher
-  #
-
-  # Define titles for language flags
-  def flag_titles
-    { nl: "Nederlands", de: "Deutsch", en: "English" }
-  end
-
-  # Get flag image
-  def flag_image(lang)
-    inline_svg "#{lang}.svg"
-  end
-
-  def switch_link
-    if x404?
-      full_root_url(lang)
-    else
-      current_page.target_resource.path.gsub("localizable", "").to_s
-    end
-  end
-
-  # LinkTitle
-  def linktitle_with_flag(lang)
-    "#{flag_image(lang)}
-     <span>
-      #{flag_titles[lang]}
-     </span>"
-  end
-
-  def language_switcher
-    html = +""
-    other_locales.each do |lang|
-      html << locale_link_to(
-        linktitle_with_flag(lang),
-        switch_link,
-        class: "language-link",
-        title: flag_titles[lang],
-        locale: lang
-      )
-    end
-    html
-  end
-
-  # String to markdown
-  def markitdown(string)
-    Tilt["markdown"].new { string }.render
-  end
-
-  # Get the pages from the sitemap that do not get excluded from robots
-  def sitemap_pages
-    sitemap.resources.select do |page|
-      page.destination_path =~ /\.html/ &&
-        !(page.data.robots && page.data.robots.include?("noindex"))
-    end
-  end
-
-  # Get alternate link tags for a given page
-  def alternate_link_tags(page)
-    link_tags = []
-    other_locales.each do |locale|
-      # Loop pages to find the ones proxied_to for each language
-      sitemap_pages.each do |r|
-        r_full_url = r.url.sub("", full_url("", locale))
-        next unless r.target.gsub("localizable/", "") == page.target_resource.path.gsub("localizable/", "") &&
-                    r.metadata[:options][:locale] == locale
-        href = r_full_url
-        link_tags << tag(:link, rel: :alternate, hreflang: locale, href: href)
-      end
-    end
-    link_tags.join("\n    ")
+    link_to(text, path, options)
   end
 end

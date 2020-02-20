@@ -11,19 +11,25 @@
 @import "base/tables";
 @import "base/typography";
 
-@import "components/banner";
 @import "components/buttons";
-@import "components/flex-wrapper";
 @import "components/forms";
+@import "components/hero";
 @import "components/icons";
-@import "components/line-up-section";
 @import "components/lists";
-@import "components/maps";
+@import "components/page-header";
 @import "components/site-footer";
-@import "components/site-navigation";
-@import "components/social-links";
-@import "components/timetable";
+@import "components/site-header";
 
+@import "pages/about-us";
+@import "pages/contact";
 @import "pages/index";
-@import "pages/faq";
-@import "pages/line-up";
+@import "pages/thanks";
+@import "pages/404";
+
+@import "beers/index";
+@import "beers/show";
+
+@import "blog/article-preview";
+@import "blog/index";
+@import "blog/show";
+

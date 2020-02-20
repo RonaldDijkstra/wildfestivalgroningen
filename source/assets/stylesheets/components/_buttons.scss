@@ -2,23 +2,71 @@
   background-color: $color;
   border: 2px solid $color;
   color: $white;
+  height: auto;
+  letter-spacing: 0.1rem;
 
-  &:hover {
-    background-color: darken($color, 5%);
-    border-color: darken($color, 5%);
-    color: $white;
+  [class*="button-icon"] {
+    transition: all 0.2s ease-in-out;
   }
 
-  &.ghost {
+  &:hover {
+    background-color: lighten($color, 5%);
+    border-color: lighten($color, 5%);
+
+    .button-icon-left {
+      transform: translateX(-0.3rem);
+    }
+
+    .button-icon-right {
+      transform: translateX(0.3rem);
+    }
+  }
+
+  &.style-ghost {
     background-color: transparent;
     border-color: $color;
     color: $color;
 
+    .inline-svg {
+      fill: $color;
+    }
+
     &:hover {
       background-color: rgba($white, 0.1);
-      border-color: darken($color, 10%);
-      color: darken($color, 15%);
+      border-color: lighten($color, 10%);
+      color: lighten($color, 15%);
+
+      .inline-svg {
+        fill: lighten($color, 15%);
+      }
     }
+
+    &.no-border {
+      border: 0;
+    }
+  }
+
+  &.style-solid {
+    background-color: $color;
+    border-color: $color;
+    color: $white;
+
+    .inline-svg {
+      fill: $white;
+    }
+
+    &:hover {
+      background-color: lighten($color, 5%);
+      border-color: lighten($color, 5%);
+    }
+  }
+
+  &.size-normal {
+    padding: 1rem 2rem;
+  }
+
+  &.size-medium {
+    padding: 2.1rem 2rem;
   }
 }
 
@@ -26,7 +74,7 @@
 .button {
   @include button($action-color);
   appearance: none;
-  border-radius: $base-border-radius;
+  border-radius: 0;
   cursor: pointer;
   display: inline-block;
   font-family: $base-font-family;
@@ -34,10 +82,10 @@
   -webkit-font-smoothing: antialiased;
   font-weight: 600;
   line-height: 1;
-  padding: $small-spacing $base-spacing;
   text-align: center;
   text-decoration: none;
-  transition: all 15ms ease;
+  text-transform: uppercase;
+  transition: all 0.2s ease;
   user-select: none;
   vertical-align: baseline;
   white-space: nowrap;
@@ -47,24 +95,8 @@
     opacity: 0.5;
   }
 
-  &.big {
+  &.size-big {
     font-size: $base-font-size * 1.2;
-  }
-
-  &.small {
-    font-size: $base-font-size * 0.8;
-  }
-
-  &.brown {
-    @include button($brown);
-  }
-
-  &.orange {
-    @include button($orange);
-  }
-
-  &.light-blue {
-    @include button($light-blue);
   }
 
   &.white {
