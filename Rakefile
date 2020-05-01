@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 def project_name
-  "Folkingebrew 🍺"
+  "Wild Festival Groningen 🍺"
 end
 
 ## Serve
 task :serve do
   puts "== Project: " + project_name
-  puts "== Start kettle..."
+  puts "== Fill coolship..."
   system "bundle exec middleman serve" || exit(1)
 end
 

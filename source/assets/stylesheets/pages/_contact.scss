@@ -1,7 +1,27 @@
 body.contact {
+  main {
+    &::before {
+      $background-image: "../images/hero-contact.jpg";
+
+      background-image: url($background-image);
+      background-position: 50% bottom;
+      background-repeat: no-repeat;
+      background-size: cover;
+      bottom: 0;
+      content: "";
+      left: 0;
+      mix-blend-mode: screen;
+      opacity: 0.15;
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+  }
+
   .contact-form {
     .grid-row {
-      background: $white;
+      background: $dark-gray;
+      color: $white;
 
       @include grid-media($for-desktop-up) {
         margin-bottom: 4em;

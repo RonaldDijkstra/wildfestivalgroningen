@@ -1,0 +1,31 @@
+---
+title: "Line-up"
+description: "Check the line-up"
+blog: line-up
+pageable: true
+---
+<header class="normal-page-header">
+  <div class="grid-row">
+    <h1>
+      Line-Up
+    </h1>
+  </div>
+</header>
+<section class="participants wide-row">
+  <div class="grid-row">
+    <div class="participants-grid-wrap">
+      <div class="participants-grid feed">
+        <div class="row">
+          <% page_articles.sort_by(&:title).each do |participant| %>
+            <%= partial "line-up/line-up-preview", locals: { participant: participant } %>
+          <% end %>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="grid-row more-tba">
+    <div class="row">
+      More to be announced!
+    </row>
+  </div>
+</section>

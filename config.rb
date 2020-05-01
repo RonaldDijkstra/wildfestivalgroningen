@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
-# We are dutch
-root_locale = :nl
+# Set the locale
+root_locale = :en
 
 # Accessible as `root_locale` in helpers and `config[:root_locale]` in templates
 set :root_locale, root_locale
 
 # Activate i18n for root locale
-activate :i18n, mount_at_root: root_locale, langs: %i[nl]
+activate :i18n, mount_at_root: root_locale, langs: %i[en]
 activate :autoprefixer
 activate :directory_indexes
 activate :inline_svg
@@ -38,33 +38,19 @@ page "/*.txt", layout: false
 page "/*.xml", layout: false
 
 # With layout
-page "blog/index.html", layout: :blog_index
-page "blog/*", layout: :blog_show
-page "bieren/index.html", layout: :beer_index
-page "bieren/*", layout: :beer_show
-
-# Activate and setup the blog content type
-activate :blog do |blog|
-  blog.name = "blog"
-  blog.prefix = "blog"
-  blog.permalink = ":title"
-  blog.sources = "/posts/{year}-{month}-{day}-{title}.html"
-  # blog.tag_template = "blog/tag.html"
-  blog.paginate = true
-  blog.page_link = "{num}"
-  blog.per_page = 10
-end
+page "line-up/index.html", layout: :line_up_index
+page "line-up/*", layout: :line_up_show
 
 # Activate and setup the beer content type
 activate :blog do |blog|
-  blog.name = "bieren"
-  blog.prefix = "bieren"
+  blog.name = "line-up"
+  blog.prefix = "line-up"
   blog.permalink = ":title"
-  blog.sources = "/bieren/{year}-{month}-{day}-{title}.html"
+  blog.sources = "/participants/{title}.html"
   # blog.tag_template = "blog/tag.html"
-  blog.paginate = true
-  blog.page_link = "{num}"
-  blog.per_page = 10
+  blog.paginate = false
+  # blog.page_link = "{num}"
+  # blog.per_page = 10
 end
 
 # Settings for production

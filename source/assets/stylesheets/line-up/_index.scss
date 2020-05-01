@@ -1,5 +1,5 @@
-body.bieren {
-  section.beers {
+body.line-up {
+  section.participants {
     .grid-row {
       margin-left: auto;
       margin-right: auto;
@@ -19,6 +19,7 @@ body.bieren {
       .row {
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
         margin-left: -2rem;
         margin-right: -2rem;
       }
@@ -45,8 +46,8 @@ body.bieren {
         }
 
         @include grid-media($for-desktop-up) {
-          flex: 0 0 33.33333333%;
-          max-width: 33.33333333%;
+          flex: 0 0 25%;
+          max-width: 25%;
 
           img {
             max-width: 430px;
@@ -55,16 +56,18 @@ body.bieren {
       }
 
       .excerpt-box {
+        border-radius: 50%;
         display: block;
         outline: none;
+        overflow: hidden;
         position: relative;
         text-align: center;
         text-decoration: none;
         transition: all 0.2s ease-in-out;
         width: 100%;
 
-        &.beer {
-          background: $dark-gray;
+        &.participant {
+          background: $white;
         }
       }
 
@@ -101,7 +104,7 @@ body.bieren {
         }
 
         &::before {
-          background-color: $black;
+          background-color: $blue;
           bottom: 0;
           content: "";
           display: block;
@@ -135,18 +138,29 @@ body.bieren {
         .excerpt-box-title {
           color: $white;
           font-size: 3rem;
+          font-weight: normal;
           line-height: 1.25;
           margin: 1.2rem 0 0.8rem;
         }
 
         .meta {
           align-items: center;
-          color: $green;
+          color: $light-blue;
           display: flex;
           justify-content: center;
           line-height: 1;
           margin: 0;
         }
+      }
+    }
+
+    .more-tba {
+      .row {
+        color: $white;
+        margin: 0 auto;
+        max-width: $medium-row;
+        padding: 1em;
+        text-align: center;
       }
     }
   }

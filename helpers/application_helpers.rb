@@ -85,10 +85,8 @@ module ApplicationHelpers
   end
 
   def current_page_url
-    if current_page.url.start_with?("/blog/")
-      "/blog/"
-    elsif current_page.url.start_with?("/bieren/")
-      "/bieren/"
+    if current_page.url.start_with?("/line-up/")
+      "/line-up/"
     else
       current_page.url
     end
@@ -96,12 +94,14 @@ module ApplicationHelpers
 
   def article_class
     if is_blog_article?
-      if current_page.url.start_with?("/blog/")
-        "blog-article"
-      elsif current_page.url.start_with?("/bieren/")
-        "beer-show"
+      if current_page.url.start_with?("/line-up/")
+        "line-up-show"
       end
     end
+  end
+
+  def markitdown(string)
+    Tilt["markdown"].new { string }.render
   end
 
   # Add aria current to current page navigation item

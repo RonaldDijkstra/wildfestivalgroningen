@@ -1,7 +1,9 @@
-Folkingebrew is opgericht met het doel om bier te brouwen dat wij zelf graag drinken. Daarom maken wij bieren met een uitgesproken karakter. Bijvoorbeeld in smaak, aroma en kleur.
+The festival is organized by Bierselect and Boilermaker.
 
-Vanwege onze passie voor goed bier proberen we bij ieder bier een beetje beter te worden en onze grenzen te verleggen.
+## Bierselect
 
-Folkinge, het eerste deel van onze naam, verwijst naar de locatie waar we zijn begonnen met brouwen: in de _'backyard'_ van een bierzaak aan de Folkingestraat in Groningen. _Brew_ refereert aan de Amerikaanse craft beer culture, waar we onze inspiratie grotendeels vandaan halen.
+From our passion for specialty beers, we select the best and newest beers from special beer brands and beer styles for retailers and the hospitality industry in Groningen. In addition, we organize tastings, we provide beer-food pairing advice and we regularly attend events with our specialty beers.
 
-![Backyard Cans](/assets/images/backyard-cans.jpg)
+## Boilermaker
+
+A no nonsense one stop brand activation company for premium spirit and beer brands. We serve the perfect blend of smart concepts and execution for companies that dare to stand out of the crowd. With our everlasting smile and long trackrecord in bartending, catering and event management we know how to make new friends and fans for your brand.

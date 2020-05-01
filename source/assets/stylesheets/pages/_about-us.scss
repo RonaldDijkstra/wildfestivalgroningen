@@ -1,11 +1,12 @@
-body.over-ons {
+body.about {
   .about-us {
     @include grid-media($for-desktop-up) {
       padding: 0 1em;
     }
 
     .grid-row {
-      background: $white;
+      background: $dark-gray;
+      color: $white;
 
       @include grid-media($for-desktop-up) {
         margin-bottom: 4em;

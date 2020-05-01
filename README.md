@@ -1,4 +1,4 @@
-# Wild Festival Groningen 2020 #WFG
+# Wild Festival Groningen #WFG
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0a564ece-5dea-4338-b9b1-333824808bbb/deploy-status)](https://app.netlify.com/sites/wildfestivalgroningen/deploys)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=RonaldDijkstra/wildfestivalgroningen)](https://dependabot.com)

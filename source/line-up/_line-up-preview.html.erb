@@ -1,18 +1,18 @@
-<div class="beer-wrap excerpt-box-wrap col-sm-6 col-md-4">
+<div class="participant-wrap excerpt-box-wrap col-sm-6 col-md-4">
 
-  <% link_to beer.url, class: "beer excerpt-box" do %>
+  <% link_to participant.url, class: "participant excerpt-box" do %>
     <div class="image-wrap">
       <div class="image-wrap-content content">
         <div class="image-wrap-content-inner">
           <h4 class="excerpt-box-title">
-            <%= beer.title %>
+            <%= participant.title %>
           </h4>
           <div class="meta">
-            <%= beer.data.style %>
+            <%= participant.data.origin %>
           </div>
         </div>
       </div>
-      <%= image_tag beer.data.image, alt: beer.title, class: "image" %>
+      <%= image_tag participant.data.image, alt: participant.title, class: "image" %>
     </div>
     <div class="content content-alignment--center">
       <div class="meta"></div>

@@ -1,1 +1,3 @@
-Heb je vragen over Folkingebrew of onze bieren? Stuur ons dan een e-mail door middel van het contactformulier. We nemen zo spoedig mogelijk contact met je op.
+Wild Festival Groningen 2020 is organized by [Bierselect Groningen](http://www.bierselect.nl/) and [Boilermaker](https://www.boilermaker.nl/).
+
+If you have any questions about the festival, please contact us using the contact form below.

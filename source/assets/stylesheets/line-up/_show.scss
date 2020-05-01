@@ -1,11 +1,11 @@
-body.bieren {
-  &.beer-show {
-    section.beer {
+body.line-up {
+  &.line-up-show {
+    section.participant {
       padding-top: 8rem;
     }
 
     .grid-row {
-      &.beer-item {
+      &.participant-item {
         height: 100%;
         padding: 0;
 
@@ -19,11 +19,12 @@ body.bieren {
         text-align: center;
       }
 
-      .beer-image {
-        background: $dark-gray;
+      .participant-image {
+        background: $white;
         display: flex;
 
         @include grid-media($for-desktop-up) {
+          border-right: 1px solid $light-gray;
           flex: 0 0 50%;
         }
 
@@ -35,7 +36,6 @@ body.bieren {
 
           .image {
             max-width: 819px;
-            width: 100%;
           }
 
           img {
@@ -46,7 +46,7 @@ body.bieren {
         }
       }
 
-      .beer-text {
+      .participant-text {
         align-items: center;
         background: $white;
         display: flex;
@@ -74,14 +74,14 @@ body.bieren {
           font-size: $base-font-size * 1.4;
         }
 
-        .beer-facts {
+        .participant-facts {
           display: flex;
           flex-wrap: wrap;
           margin-bottom: 0.75em;
           width: 100%;
         }
 
-        .beer-fact {
+        .participant-fact {
           flex: 0 0 50%;
           margin-bottom: 1em;
           padding-right: 1em;
@@ -90,7 +90,7 @@ body.bieren {
             display: block;
           }
 
-          .beer-fact-label {
+          .participant-fact-label {
             color: $light-gray;
             font-size: 0.9em;
             font-weight: bold;
@@ -98,8 +98,8 @@ body.bieren {
           }
         }
 
-        .icon-untappd {
-          background: $green;
+        .icon {
+          background: $light-blue;
           border-radius: $base-border-radius;
           color: $white;
           font-size: $base-font-size * 1.1;
@@ -108,7 +108,7 @@ body.bieren {
           transition: background-color 0.2s ease;
 
           &:hover {
-            background: lighten($green, 5%);
+            background: lighten($light-blue, 5%);
           }
         }
       }

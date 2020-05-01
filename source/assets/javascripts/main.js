@@ -2,6 +2,6 @@
 //= require jquery.scrollTo
 //= require what-input
 
+//= require _faq
 //= require _header
-//= require _hero
 //= require _scroll-to

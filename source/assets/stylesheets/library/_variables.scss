@@ -1,6 +1,6 @@
 // Typography
 $base-font-family: "Open Sans", $font-stack-helvetica;
-$heading-font-family: "d-din_condenseddinCnBd", $font-stack-helvetica;
+$heading-font-family: "MoonFlower", $font-stack-helvetica;
 
 // Line height
 $base-line-height: 1.5;
@@ -29,7 +29,8 @@ $base-z-index: 0;
 // Colors
 $black: #000;
 $white: #fff;
-$blue: #1565c0;
+$blue: #305888;
+$light-blue: #97b6da;
 $green: #54b848;
 $orange: #e86240;
 $dark-gray: #303030;
@@ -41,7 +42,7 @@ $untappd-gray: #f5f2e8;
 
 // Font Colors
 $base-font-color: $dark-gray;
-$action-color: $green;
+$action-color: $light-blue;
 
 // Border
 $base-border-color: $light-gray;
