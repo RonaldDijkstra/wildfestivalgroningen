@@ -37,22 +37,6 @@ page "/*.json", layout: false
 page "/*.txt", layout: false
 page "/*.xml", layout: false
 
-# With layout
-page "line-up/index.html", layout: :line_up_index
-page "line-up/*", layout: :line_up_show
-
-# Activate and setup the beer content type
-activate :blog do |blog|
-  blog.name = "line-up"
-  blog.prefix = "line-up"
-  blog.permalink = ":title"
-  blog.sources = "/participants/{title}.html"
-  # blog.tag_template = "blog/tag.html"
-  blog.paginate = false
-  # blog.page_link = "{num}"
-  # blog.per_page = 10
-end
-
 # Settings for production
 configure :production do
   activate :asset_hash, ignore: [

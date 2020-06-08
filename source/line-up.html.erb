@@ -1,7 +1,6 @@
 ---
-title: "Line-up"
-description: "Check the line-up"
-blog: line-up
+title: "Line-Up"
+description: "Be sure to check this page regularly for line-up updates"
 pageable: true
 ---
 <header class="normal-page-header">
@@ -11,13 +10,18 @@ pageable: true
     </h1>
   </div>
 </header>
+
+<%
+participants = data["line-up"]
+%>
+
 <section class="participants wide-row">
   <div class="grid-row">
     <div class="participants-grid-wrap">
       <div class="participants-grid feed">
         <div class="row">
-          <% page_articles.sort_by(&:title).each do |participant| %>
-            <%= partial "line-up/line-up-preview", locals: { participant: participant } %>
+          <% participants.sort_by(&:title).each do |participant| %>
+            <%= partial "partials/line-up-preview", locals: { participant: participant } %>
           <% end %>
         </div>
       </div>

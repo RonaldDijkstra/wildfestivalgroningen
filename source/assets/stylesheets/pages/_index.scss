@@ -1,23 +1,13 @@
 section.introduction {
   background: $white;
 
-  @include grid-media($for-desktop-up) {
-    $background-image: "../images/hop-background.svg";
-
-    background-color: $white;
-    background-image: url($background-image);
-    background-position: center right;
-    background-repeat: no-repeat;
-    background-size: 360px auto;
-  }
-
   h1 {
-    font-size: $base-font-size * 2;
+    font-size: $base-font-size * 3.2;
   }
 
   .grid-row {
     padding: 2em 1em;
-    text-align: left;
+    text-align: center;
 
     @include grid-media($for-desktop-up) {
       padding: 8em 3em;
@@ -25,6 +15,7 @@ section.introduction {
   }
 
   .row {
+    margin: 0 auto;
     max-width: $small-row;
   }
 
