@@ -2,7 +2,7 @@ We are of course forced to adjust a few things for the organization of our festi
 <br>
 <ol>
 <li>You'll need to buy a festival ticket to be able to buy tickets for one of the side events</li>
-<li>We will have to keep 1.5 meters distance. Therefore the festival will be smaller, with sessions with only 100 people maximum!</li>
+<li>We will have to keep 1.5 meters distance. Therefore the festival will be smaller, with sessions with only 120 people maximum!</li>
 <li>A maximum of 2 people can sit closer to each other, or more people from the same household</li>
 <li>You will get a placed table for the session and everybody has to stay and sit at their place</li>
 <li>You can order by an app on your phone or from a waiter</li>
