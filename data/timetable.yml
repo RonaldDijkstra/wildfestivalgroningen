@@ -2,7 +2,7 @@
   message: "Your festival ticket includes a beautiful tasting glass (approx. 10cl). Due to COVID-19 regulations we have a maximum of 120 tickets per session and paying during the festival is by card only. All ticket prices excluding €0.99 ticket fee.<br><br>
     <strong>Bars open</strong><br>
     All bars will be open during the festival from 14:00 - 00:00.
-You can order bottles, glasses and tastings from our menu."
+You can order bottles, glasses and tastings from our menu<br><br><strong>Tastings and workshops to be announced!</strong>"
   days:
     - date: Friday, November 20, 2020
       items:

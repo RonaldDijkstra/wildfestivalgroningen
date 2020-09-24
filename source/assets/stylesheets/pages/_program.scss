@@ -1,7 +1,11 @@
 body.program {
   .single-column {
     .grid-row {
-      padding-top: 0;
+      padding: 0;
+
+      @include grid-media($for-desktop-up) {
+        padding: 0 1em 2em 1em;
+      }
     }
   }
 }

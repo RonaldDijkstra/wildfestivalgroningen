@@ -4,8 +4,12 @@ section.hero-big {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 20em 2em;
+    padding: 6em 2em;
     position: relative;
+
+    @include grid-media($for-desktop-up) {
+      padding: 20em 2em;
+    }
 
     .hero-logo {
       margin-bottom: 2em;

@@ -53,7 +53,10 @@ div.tt {
       color: lighten($dark-gray, 20%);
       font-size: $base-font-size * 1.2;
       font-weight: $font-weight-bold;
-      text-align: right;
+
+      @include grid-media($for-desktop-up) {
+        text-align: right;
+      }
     }
   }
 

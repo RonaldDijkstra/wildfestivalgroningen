@@ -1,4 +1,4 @@
-# Welcome to Wild Festival Groningen 2020, a very special edition
+# Welcome to Wild Festival Groningen 2020
 
 Wild Festival Groningen 2020 is the second edition of an unique beer, wine, cider and food festival in one.
 
