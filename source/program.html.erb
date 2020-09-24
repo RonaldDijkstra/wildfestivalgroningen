@@ -10,3 +10,92 @@ sitemap_priority: 0.8
     </h1>
   </div>
 </header>
+
+<section class="single-column">
+  <div class="grid-row">
+
+    <%
+    timetable_tables = data["timetable"]
+    %>
+
+    <% if timetable_tables %>
+
+      <div class="tt">
+
+        <% timetable_tables.each do |table| %>
+
+          <div class="tt-list">
+
+            <div class="tt-header">
+              <%= table.table %>
+            </div>
+
+            <% if table.message %>
+              <div class="tt-message">
+                <%= table.message %>
+              </div>
+            <% end %>
+
+            <% table.days.each do |day| %>
+
+              <div class="tt-day">
+                <%= day.date %>
+              </div>
+
+              <% day.items.each do |item| %>
+                <div class="tt-item">
+                  <div class="tt-col left">
+                    <div class="tt-title">
+                        <%= item.title %>
+                    </div>
+                    <% if item.description || item.link %>
+                      <div class="tt-info">
+                        <% if item.description %>
+                          <div class="tt-description">
+                            <%= markitdown item.description %>
+                          </div>
+                        <% end %>
+                        <% if item.link %>
+                          <div class="tt-link">
+                            <a href="<%= item.link %>" class="button size-normal style-solid" target="<%= item.link_target %>">
+                              <%= item.link_title %>
+                            </a>
+                          </div>
+                        <% end %>
+                      </div>
+                    <% end %>
+                  </div>
+                  <% if item.time || item.location || item.city || item.price %>
+                    <div class="tt-col right">
+                      <div class="tt-meta">
+                        <div class="tt-price">
+                          <%= item.price %>
+                        </div>
+                        <div class="tt-time">
+                          <%= item.time %>
+                        </div>
+                        <div class="tt-location">
+                          <%= item.location %>
+                        </div>
+                        <div class="tt-city">
+                          <%= item.city %>
+                        </div>
+                      </div>
+                    </div>
+                   <% end %>
+                </div>
+              <% end %>
+
+            <% end %>
+
+          </div>
+
+        <% end %>
+
+      </div>
+
+    <% end %>
+
+    <p class="tba">Tastings and workshops to be announced!</p>
+  </div>
+</section>

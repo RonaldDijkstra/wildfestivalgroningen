@@ -1,0 +1,22 @@
+.dark-content-box {
+  background-color: lighten($dark-gray, 10%);
+  color: $white;
+
+  @include grid-media($for-desktop-up) {
+    margin-bottom: 4em;
+    padding: 4em 2em;
+  }
+
+  .row {
+    margin: 0 auto;
+    max-width: $smallest-row;
+
+    p:last-of-type {
+      margin-bottom: 0;
+    }
+
+    ol:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}

@@ -95,6 +95,10 @@
     opacity: 0.5;
   }
 
+  &.size-small {
+    font-size: $base-font-size;
+  }
+
   &.size-big {
     font-size: $base-font-size * 1.2;
   }

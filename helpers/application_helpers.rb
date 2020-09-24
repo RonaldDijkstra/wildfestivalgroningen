@@ -39,8 +39,6 @@ module ApplicationHelpers
       yield_content(:meta_description)
     elsif page.data.description
       page.data.description
-    elsif is_blog_article?
-      Nokogiri::HTML(page.summary(160)).text
     else
       data.site.meta_description
     end
@@ -60,7 +58,7 @@ module ApplicationHelpers
   def og_image
     full_url(
       asset_url(
-        current_page.data.image || "assets/images/folkingebrew-1200x1200.png"
+        current_page.data.image || "assets/images/wild-festival-groningen-1200x1200.png"
       )
     )
   end
@@ -89,14 +87,6 @@ module ApplicationHelpers
       "/line-up/"
     else
       current_page.url
-    end
-  end
-
-  def article_class
-    if is_blog_article?
-      if current_page.url.start_with?("/line-up/")
-        "line-up-show"
-      end
     end
   end
 

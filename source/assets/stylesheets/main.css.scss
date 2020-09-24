@@ -12,6 +12,7 @@
 @import "base/typography";
 
 @import "components/buttons";
+@import "components/dark-content-box";
 @import "components/forms";
 @import "components/hero";
 @import "components/icons";
@@ -19,11 +20,15 @@
 @import "components/page-header";
 @import "components/site-footer";
 @import "components/site-header";
+@import "components/timetable";
 
 @import "pages/about-us";
 @import "pages/contact";
+@import "pages/covid-guidelines";
 @import "pages/faq";
 @import "pages/index";
 @import "pages/line-up";
+@import "pages/program";
 @import "pages/thanks";
+@import "pages/tickets";
 @import "pages/404";
