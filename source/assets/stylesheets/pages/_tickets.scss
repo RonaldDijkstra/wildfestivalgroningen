@@ -1,0 +1,27 @@
+body.tickets {
+  .tickets {
+    @include grid-media($for-desktop-up) {
+      padding: 0 1em;
+    }
+
+    .grid-row {
+      background: $dark-gray;
+      color: $white;
+
+      @include grid-media($for-desktop-up) {
+        margin-bottom: 4em;
+        padding: 4em 2em;
+      }
+
+      .row {
+        margin: 0 auto;
+        max-width: $smallest-row;
+        text-align: center;
+
+        p:last-of-type {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<% if participant.popup == true %>
+  <% link_to "", class: "participant-wrap excerpt-box-wrap col modal-trigger", "data-modal": "#modal-#{participant.id}" do %>
+    <%= partial "partials/line-up-preview", locals: { participant: participant } %>
+  <% end %>
+<% else %>
+  <div class="participant-wrap excerpt-box-wrap col">
+  <%= partial "partials/line-up-preview", locals: { participant: participant } %>
+</div>
+<% end %>

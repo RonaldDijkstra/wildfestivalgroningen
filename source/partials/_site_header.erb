@@ -1,0 +1,41 @@
+<header class="site-header">
+  <a href="#menu-toggle" title="Open Nav Menu" class="nav-menu-toggle" id="menu-toggle">
+    <span class="sr-only">toggle menu</span>
+    <span class="bar top"></span>
+    <span class="bar center x1"></span>
+    <span class="bar center x2"></span>
+    <span class="bar bottom"></span>
+  </a>
+  <%= link_to "", "/", relative: false, class: "logo position-mobile-center", style: "background-image: url(#{image_path("logo-wild-festival-groningen-brand-mark.svg")})" %>
+  <div class="nav-wrap" role="navigation">
+    <ul id="menu-primary" class="header-navigation primary-navigation">
+      <li class="menu-item">
+        <%= current_link_to "Tickets", "/tickets/", class: "root-link" %>
+      </li>
+      <li class="menu-item">
+        <%= current_link_to "Line-up", "/line-up/", class: "root-link" %>
+      </li>
+      <li class="menu-item">
+        <%= current_link_to "Program", "/program/", class: "root-link" %>
+      </li>
+      <li class="menu-item">
+        <%= current_link_to "Covid Guidelines", "/covid-guidelines/", class: "root-link" %>
+      </li>
+      <li class="menu-item">
+        <%= current_link_to "Faq", "/faq/", class: "root-link" %>
+      </li>
+      <li class="menu-item">
+        <%= current_link_to "About", "/about/", class: "root-link" %>
+      </li>
+      <li class="menu-item">
+        <%= current_link_to "Contact", "/contact/", class: "root-link" %>
+      </li>
+    </ul>
+  </div>
+  <div class="nav-extras">
+    <div class="site-header-social-links">
+      <a href="https://www.facebook.com/wildfestivalgroningen/" class="social-icon icon-facebook" target="_blank" rel="noopener noreferrer"></a>
+      <a href="https://www.instagram.com/wildfestivalgroningen/" class="social-icon icon-instagram" target="_blank" rel="noopener noreferrer"></a>
+    </div>
+  </div>
+</header>

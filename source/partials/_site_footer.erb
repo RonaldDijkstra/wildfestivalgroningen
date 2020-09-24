@@ -1,8 +1,23 @@
 <footer role="footer">
-  <div class="grid-row">
-    <%= inline_svg "nix-18.svg", alt: "NIX18" %>
-  </div>
-  <div class="grid-row">
-    &copy; <%= Time.new.year %> <%= data.site.name %> <a href="https://www.github.com/ronalddijkstra/wildfestivalgroningen" class="icon-github" target="_blank" rel="noopener noreferrer"></a>
+  <div class="content-wrap">
+    <div class="grid-row">
+      <div class="col">
+
+      </div>
+      <div class="col">
+        <h4>Contact</h4>
+        <div><%= link_to "Send us an email", "/contact.html" %></div>
+      </div>
+      <div class="col social">
+        <h4>Social Media</h4>
+        <div>
+          <a href="https://www.facebook.com/wildfestivalgroningen/" class="social-icon icon-facebook" target="_blank" rel="noopener noreferrer"></a>
+          <a href="https://www.instagram.com/wildfestivalgroningen/" class="social-icon icon-instagram" target="_blank" rel="noopener noreferrer"></a>
+          </div>
+      </div>
+    </div>
+    <div class="grid-row copyright">
+      &copy; <%= Time.new.year %> Wild Festival Groningen
+    </div>
   </div>
 </footer>

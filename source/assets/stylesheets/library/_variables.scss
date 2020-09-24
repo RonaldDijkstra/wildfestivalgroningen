@@ -1,10 +1,17 @@
 // Typography
-$base-font-family: "Open Sans", sans-serif;
-$heading-font-family: "MoonFlowerBold", sans-serif;
+$base-font-family: "Open Sans", $font-stack-helvetica;
+$heading-font-family: "MoonFlower", $font-stack-helvetica;
 
 // Line height
 $base-line-height: 1.5;
 $heading-line-height: 1.2;
+
+// Row widths
+$smallest-row: 640px;
+$small-row: 800px;
+$medium-row: 960px;
+$normal-row: 1260px;
+$wide-row: 1440px;
 
 // Font weights
 $font-weight-small: 300;
@@ -20,19 +27,18 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$blue: #1565c0;
+$black: #000;
+$white: #fff;
+$blue: #305888;
 $light-blue: #97b6da;
-$dark-gray: #333;
+$green: #54b848;
+$orange: #e86240;
+$dark-gray: #303030;
 $medium-gray: #999;
 $light-gray: #aaa;
 $lighter-gray: #ddd;
 $lightest-gray: #efefef;
-$orange: #e86240;
-
-$black: #000;
-$white: #fff;
-$brown: #5d5250;
-$limegreen: #32cd32;
+$untappd-gray: #f5f2e8;
 
 // Font Colors
 $base-font-color: $dark-gray;

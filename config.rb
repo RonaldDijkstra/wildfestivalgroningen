@@ -1,19 +1,23 @@
 # frozen_string_literal: true
 
-# Determine root locale
-root_locale = (ENV["LOCALE"] ? ENV["LOCALE"].to_sym : :nl)
+# Set the locale
+root_locale = :en
+
 # Accessible as `root_locale` in helpers and `config[:root_locale]` in templates
 set :root_locale, root_locale
 
 # Activate i18n for root locale
-activate :i18n, mount_at_root: root_locale, langs: %i[nl en]
+activate :i18n, mount_at_root: root_locale, langs: %i[en]
 activate :autoprefixer
 activate :directory_indexes
 activate :inline_svg
 activate :sprockets
 
+# Set timezone
+Time.zone = "CET"
+
 # Set Google Analytics id
-set :ga_code, "UA-24956010-6"
+set :ga_code, "UA-24956010-7"
 
 # Ignore the selection file for Icomoon
 ignore "assets/fonts/selection.json"
@@ -37,8 +41,7 @@ page "/*.xml", layout: false
 configure :production do
   activate :asset_hash, ignore: [
     %r{^assets/fonts/.*},
-    "assets/images/maps-marker.svg",
-    "assets/images/wildfestival-groningen-1200x630.jpg"
+    "assets/images/logo-folkingebrew-black.svg"
   ]
   activate :gzip
   activate :minify_css

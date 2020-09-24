@@ -1,39 +1,23 @@
 <script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Event",
-  "name": "<%= data.site.name %>",
-  "description": "<%= meta_description %>",
-  "about": "Beer Festival",
-  "startDate": "2019-11-23T13:30",
-  "endDate": "2019-11-23T22:30",
-  "organizer": "Bierselect Groningen",
-  "performers": "Antidoot, Vandenbroek, Ciderwinkel, Doggerland, Mill's Brewing, Nevel, Tommie Sjef, Vino per Tutti, De Wilde Slager, Wild Creatures",
-  "location": {
-    "@type": "Place",
-    "name": "EM2 Venue",
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Folkingebrew",
+    "description": "Craft Bier uit Groningen sinds 2017.",
+    "url": "https://www.folkingebrew.nl",
+    "logo": "https://www.folkingebrew.nl/assets/images/logo-folkingebrew-black.svg",
+    "sameAs": [
+      "https://www.facebook.com/Folkingebrew-167577637289407/",
+      "https://untappd.com/Folkingebrew/",
+      "https://www.instagram.com/folkingebrew/"
+    ],
     "address": {
-      "streetAddress": "Suikerlaan 6",
+      "@type": "PostalAddress",
+      "streetAddress": "Van Eyckstraat 19",
+      "postalCode": "9731 LA",
       "addressLocality": "Groningen",
-      "addressRegion": "Groningen"
+      "addressRegion": "Groningen, Nederland",
+      "email": "mailto:folkingebrew@gmail.com"
     }
-  },
-  "offers": {
-    "@type": "AggregateOffer",
-    "offers": [
-      {
-        "@type": "Offer",
-        "url": "https://wildfestivalgroningen.stager.nl/web/tickets/323267",
-        "price": "17.50",
-        "priceCurrency": "EUR"
-      },
-      {
-        "@type": "Offer",
-        "url": "https://wildfestivalgroningen.stager.nl/web/tickets/324118",
-        "price": "17.50",
-        "priceCurrency": "EUR"
-      }
-    ]
   }
-}
 </script>

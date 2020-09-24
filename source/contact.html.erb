@@ -1,0 +1,25 @@
+---
+title: "Contact"
+description: "If you have any questions about the festival, please contact us using the contact form."
+sitemap_priority: 0.5
+---
+<header class="normal-page-header">
+  <div class="grid-row">
+    <h1>
+      Contact
+    </h1>
+  </div>
+</header>
+<section class="contact-form medium-row">
+  <div class="grid-row">
+    <div class="row">
+      <%= partial "content/contact" %>
+      <%= partial "partials/form", locals: { name: "contact",
+                                             title: "Contactformulier",
+                                             fields: ["name", "email", "message"],
+                                             button_text: "Send",
+                                             button_variant: "size-medium style-solid green",
+                                             icon_right: "icons/arrow-right.svg"} %>
+    </div>
+  </div>
+</section>

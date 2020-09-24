@@ -1,5 +1,13 @@
 $for-desktop-up: (
-  media: "screen and (min-width: 768px)"
+  media: "screen and (min-width: 1200px)",
+);
+
+$for-mobile: (
+  media: "screen and (max-width: 1199px)",
+);
+
+$small-screens-up: (
+  media: "screen and (min-width: 540px)",
 );
 
 .grid-row {
@@ -7,16 +15,30 @@ $for-desktop-up: (
   @include margin(null auto);
   max-width: 960px;
   padding: 2em $base-spacing;
+  position: relative;
+  z-index: 100;
 }
 
-.single-column {
+.smallest-row {
   .grid-row {
-    max-width: 800px;
+    max-width: $smallest-row;
   }
+}
 
-  &.small {
-    .grid-row {
-      max-width: 640px;
-    }
+.small-row {
+  .grid-row {
+    max-width: $small-row;
+  }
+}
+
+.medium-row {
+  .grid-row {
+    max-width: $medium-row;
+  }
+}
+
+.wide-row {
+  .grid-row {
+    max-width: $wide-row;
   }
 }

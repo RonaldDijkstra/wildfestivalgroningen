@@ -11,19 +11,24 @@
 @import "base/tables";
 @import "base/typography";
 
-@import "components/banner";
 @import "components/buttons";
-@import "components/flex-wrapper";
+@import "components/dark-content-box";
 @import "components/forms";
+@import "components/hero";
 @import "components/icons";
-@import "components/line-up-section";
 @import "components/lists";
-@import "components/maps";
+@import "components/page-header";
 @import "components/site-footer";
-@import "components/site-navigation";
-@import "components/social-links";
+@import "components/site-header";
 @import "components/timetable";
 
-@import "pages/index";
+@import "pages/about-us";
+@import "pages/contact";
+@import "pages/covid-guidelines";
 @import "pages/faq";
+@import "pages/index";
 @import "pages/line-up";
+@import "pages/program";
+@import "pages/thanks";
+@import "pages/tickets";
+@import "pages/404";

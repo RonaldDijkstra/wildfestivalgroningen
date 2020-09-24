@@ -1,16 +1,29 @@
-body.index {
-  section {
-    .grid-row {
-      padding: 3em 1em;
-    }
+section.introduction {
+  background: $white;
 
-    h2 {
-      font-size: $base-font-size * 2.4;
-      text-align: center;
-    }
+  h1 {
+    font-size: $base-font-size * 2;
 
-    p {
-      text-align: center;
+    @include grid-media($for-desktop-up) {
+      font-size: $base-font-size * 3.2;
     }
+  }
+
+  .grid-row {
+    padding: 2em 1em;
+    text-align: center;
+
+    @include grid-media($for-desktop-up) {
+      padding: 8em 3em;
+    }
+  }
+
+  .row {
+    margin: 0 auto;
+    max-width: $small-row;
+  }
+
+  p {
+    margin-bottom: 1em;
   }
 }

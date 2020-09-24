@@ -1,47 +1,38 @@
 # frozen_string_literal: true
 
 def project_name
-  "Wildfestival Groningen #WFG 🍺"
+  "Wild Festival Groningen 🍺"
 end
 
 ## Serve
-namespace :serve do
-  def serve(env)
-    puts "== Project: " + project_name
-    puts "== Locale: #{env}"
-    system "LOCALE=#{env} bundle exec middleman serve" || exit(1)
-  end
-
-  desc "Serve NL"
-  task :nl do
-    serve :nl
-  end
-
-  desc "Serve EN"
-  task :en do
-    serve :en
-  end
+task :serve do
+  puts "== Project: " + project_name
+  puts "== Fill coolship..."
+  system "bundle exec middleman serve" || exit(1)
 end
 
 ## Build the website
 task :build do
   puts "== Project: " + project_name
-  puts "== Brewing in verbose mode..."
+  puts "== Brewing the website..."
   system "bundle exec middleman build --verbose" || exit(1)
 end
 
-def git_branch_name
-  `git rev-parse --abbrev-ref HEAD`
-end
-
-desc "Submits PR to GitHub"
-task :pr do
-  branch_name = git_branch_name
-  if branch_name == "master"
-    puts "On master branch, not PRing."
-    exit 1
+# Test Suite
+namespace :test do
+  def test(test)
+    puts "== Project: " + project_name
+    puts "== Test: #{test}"
   end
 
-  `git push -u origin #{branch_name}`
-  `open https://github.com/RonaldDijkstra/wildfestivalgroningen/compare/#{branch_name}`
+  task :html do
+    test :html
+    system "bundle exec middleman build --verbose"
+    system "ruby test.rb"
+  end
+
+  task :ruby do
+    test :ruby
+    system "rubocop"
+  end
 end
