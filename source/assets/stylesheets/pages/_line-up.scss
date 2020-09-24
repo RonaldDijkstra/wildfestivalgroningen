@@ -1,8 +1,4 @@
 body.line-up {
-  main.main {
-    background: $light-gray;
-  }
-
   section.participants {
     .grid-row {
       margin-left: auto;
@@ -29,14 +25,16 @@ body.line-up {
 
         h2 {
           color: $white;
-          font-size: $base-font-size * 3;
+
+          @include grid-media($for-desktop-up) {
+            font-size: $base-font-size * 3;
+          }
         }
       }
 
       .excerpt-box-wrap {
-        // cursor: pointer;
         display: flex;
-        margin-bottom: 6rem;
+        margin-bottom: 4rem;
       }
 
       .col {
@@ -48,27 +46,18 @@ body.line-up {
         width: 100%;
 
         @include grid-media($small-screens-up) {
-          flex: 0 0 50%;
-          max-width: 50%;
-
-          img {
-            display: block;
-            max-width: 362px;
-          }
+          flex: 0 0 33%;
+          max-width: 33%;
         }
 
         @include grid-media($for-desktop-up) {
           flex: 0 0 20%;
           max-width: 20%;
-
-          img {
-            max-width: 430px;
-          }
         }
 
-        // &:hover {
-        //   transform: scale(1.05);
-        // }
+        img {
+          display: block;
+        }
       }
 
       .excerpt-box {

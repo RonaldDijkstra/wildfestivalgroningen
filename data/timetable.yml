@@ -1,12 +1,10 @@
 - table: Wild Festival Groningen 2020 Main Event
-  message: "Your festival ticket includes a beautiful tasting glass (approx. 10cl). Due to COVID-19 measures we have a maximum of 120 tickets per session and paying during the festival is by card only. All ticket prices excluding €0.99 ticket fee."
+  message: "Your festival ticket includes a beautiful tasting glass (approx. 10cl). Due to COVID-19 regulations we have a maximum of 120 tickets per session and paying during the festival is by card only. All ticket prices excluding €0.99 ticket fee."
   days:
     - date: Friday, November 20, 2020
       items:
         - title: "Day 1 - Day Session"
           time: "14:00 - 18:00"
-          location: "EM2"
-          city: "Groningen"
           price: "€15,-"
           description: "Day 1 Day session of the festival."
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
@@ -14,8 +12,6 @@
           link_target: "_blank"
         - title: "Day 1 - Night Session"
           time: "19:00 - 0:00"
-          location: "EM2"
-          city: "Groningen"
           price: "€48,-"
           description: "Day 1 Night session of the festival, which includes a fantastic wild food dinner presented by De Wilde Slager, Fermenthings, Wilde Wadoesters/’t Ailand, Basic Theory Ferments, De Streekboer and Dhana Choco."
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
@@ -23,15 +19,11 @@
           link_target: "_blank"
         - title: "Bar Open"
           time: "14:00 - 0:00"
-          location: "EM2"
-          city: "Groningen"
           description: "EM2's Bar will be open during the festival."
     - date: Saturday, November 21, 2020
       items:
         - title: "Day 2 - Day Session"
           time: "14:00 - 18:00"
-          location: "EM2"
-          city: "Groningen"
           price: "€15,-"
           description: "Day 2 - Day session of the festival."
           link: "https://wildfestivalgroningen.stager.nl/web/tickets"
@@ -39,17 +31,12 @@
           link_target: "_blank"
         - title: "Day 2 - Night Session"
           time: "19:00 - 0:00"
-          location: "EM2"
-          city: "Groningen"
           price: "€48,-"
-          description: "Day 2 Night session of the festival. Dinner is a collaboration of De Wilde Slager, Fermenthings, Wilde Wadoesters/’t Ailand, Basic Theory Ferments, De Streekboer and Dhana Choco."
-          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
+          description: "Day 2 Night session of the festival, which includes a fantastic wild food dinner presented by De Wilde Slager, Fermenthings, Wilde Wadoesters/’t Ailand, Basic Theory Ferments, De Streekboer and Dhana Choco."
           link_title: "Tickets"
           link_target: "_blank"
         - title: "Bar Open"
           time: "14:00 - 0:00"
-          location: "EM2"
-          city: "Groningen"
           description: "EM2's Bar will be open during the festival."
 # - table: Wild Weekend
 #   days:
