@@ -1,43 +1,35 @@
-- table: Wild Festival Groningen 2020 Main Event
-  message: "Your festival ticket includes a beautiful tasting glass (approx. 10cl). Due to COVID-19 regulations we have a maximum of 120 tickets per session and paying during the festival is by card only. All ticket prices excluding €0.99 ticket fee."
+- table: Wild Festival Groningen 2020 Main Event @ EM2
+  message: "Your festival ticket includes a beautiful tasting glass (approx. 10cl). Due to COVID-19 regulations we have a maximum of 120 tickets per session and paying during the festival is by card only. All ticket prices excluding €0.99 ticket fee.<br><br>
+    <strong>Bars open</strong><br>
+    All bars will be open during the festival from 14:00 - 00:00.
+You can order bottles, glasses and tastings from our menu."
   days:
     - date: Friday, November 20, 2020
       items:
-        - title: "Day 1 - Day Session"
-          time: "14:00 - 18:00"
+        - title: "Session 1: 14:00 - 18:00"
           price: "€15,-"
-          description: "Day 1 Day session of the festival."
-          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
-          link_title: "Tickets"
-          link_target: "_blank"
-        - title: "Day 1 - Night Session"
-          time: "19:00 - 0:00"
+          description: "Day session of the festival:<br><br>
+In addition to the menu with bottles of beer, wine and cider, you can order tastings, beer+food pairings and other beautiful wild products!"
+        - title: "Session 2: 19:00 - 0:00"
           price: "€48,-"
-          description: "Day 1 Night session of the festival, which includes a fantastic wild food dinner presented by De Wilde Slager, Fermenthings, Wilde Wadoesters/’t Ailand, Basic Theory Ferments, De Streekboer and Dhana Choco."
-          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
-          link_title: "Tickets"
-          link_target: "_blank"
-        - title: "Bar Open"
-          time: "14:00 - 0:00"
-          description: "EM2's Bar will be open during the festival."
+          description: "A Five course wild dinner with the best natural products!<br><br>
+
+The diner is a collaboration of De Wilde Slager, Wilde Wadoesters, Fermenthings, Basic Theory Ferments, Geitenhouderij Ter Veen and Dhana Choco.<br><br>
+
+You can expect: Charcuterie, sourdough bread, soup, seasonal vegetables, stuffed pitfire roasted wild boar, cheese and raw chocolat (subject to changes)."
     - date: Saturday, November 21, 2020
       items:
-        - title: "Day 2 - Day Session"
-          time: "14:00 - 18:00"
+        - title: "Session 3: 14:00 - 18:00"
           price: "€15,-"
-          description: "Day 2 - Day session of the festival."
-          link: "https://wildfestivalgroningen.stager.nl/web/tickets"
-          link_title: "Tickets"
-          link_target: "_blank"
-        - title: "Day 2 - Night Session"
-          time: "19:00 - 0:00"
+          description: "Day session of the festival:<br><br>
+In addition to the menu with bottles of beer, wine and cider, you can order tastings, beer+food pairings and other beautiful wild products!"
+        - title: "Session 4: 19:00 - 0:00"
           price: "€48,-"
-          description: "Day 2 Night session of the festival, which includes a fantastic wild food dinner presented by De Wilde Slager, Fermenthings, Wilde Wadoesters/’t Ailand, Basic Theory Ferments, De Streekboer and Dhana Choco."
-          link_title: "Tickets"
-          link_target: "_blank"
-        - title: "Bar Open"
-          time: "14:00 - 0:00"
-          description: "EM2's Bar will be open during the festival."
+          description: "A Five course wild dinner with the best natural products!<br><br>
+
+The diner is a collaboration of De Wilde Slager, Wilde Wadoesters, Fermenthings, Basic Theory Ferments, Geitenhouderij Ter Veen and Dhana Choco.<br><br>
+
+You can expect: Charcuterie, sourdough bread, soup, seasonal vegetables, stuffed pitfire roasted wild boar, cheese and raw chocolat (subject to changes)."
 # - table: Wild Weekend
 #   days:
 #     - date: Thursday, November 21 through Sunday, November 24, 2019

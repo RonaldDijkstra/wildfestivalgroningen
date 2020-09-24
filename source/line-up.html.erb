@@ -41,14 +41,13 @@ participants_food = participants.select {|participant| participant.type == "food
             <%= partial "partials/line-up-link", locals: { participant: participant } %>
           <% end %>
         </div>
-
-        <div class="row">
-          <p class="tba">...and maybe some small surprises!<br><br>
-
-          Please note: due to COVID-19 regulations not all participants might be there at the same time.</p>
-        </div>
       </div>
     </div>
+  </div>
+  <div class="grid-row">
+    <p class="tba">...and maybe some small surprises!<br><br>
+
+    Please note: due to COVID-19 regulations not all participants might be there at the same time.</p>
   </div>
 </section>
 

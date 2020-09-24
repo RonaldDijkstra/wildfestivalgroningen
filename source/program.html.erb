@@ -46,10 +46,15 @@ sitemap_priority: 0.8
                 <div class="tt-item">
                   <div class="tt-col left">
                     <div class="tt-title">
-                        <%= item.title %>
+                      <%= item.title %>
                     </div>
-                    <% if item.description || item.link %>
+                    <% if item.description || item.link || item.time %>
                       <div class="tt-info">
+                        <% if item.time %>
+                          <div class="tt-time">
+                            <%= item.time %>
+                          </div>
+                        <% end %>
                         <% if item.description %>
                           <div class="tt-description">
                             <%= markitdown item.description %>
@@ -70,9 +75,6 @@ sitemap_priority: 0.8
                       <div class="tt-meta">
                         <div class="tt-price">
                           <%= item.price %>
-                        </div>
-                        <div class="tt-time">
-                          <%= item.time %>
                         </div>
                         <div class="tt-location">
                           <%= item.location %>

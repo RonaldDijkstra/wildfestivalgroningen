@@ -1,4 +1,4 @@
-# Welcome to Wild Festival Groningen 2020
+# Welcome to Wild Festival Groningen 2020, a very special edition
 
 Wild Festival Groningen 2020 is the second edition of an unique beer, wine, cider and food festival in one.
 
@@ -6,6 +6,6 @@ During the weekend of November 20 we bring the worlds of wild beer, natural wine
 
 In addition to the four festival sessions on Friday, November 20 and Saturday, November 21, various side events will take place in the days around the festival.
 
-Due to COVID-19 regulations we have chosen for a different format than last year's event, so please make sure you read our [COVID guidelines](/covid-guidelines/) before purchasing your ticket!
+Due to COVID-19 regulations we have chosen for a different format than last year's event, namely an all seater event. Please make sure you read our [COVID guidelines](/covid-guidelines/) before purchasing your ticket!
 
 **A festival that you don't want to miss!**

@@ -1,9 +1,8 @@
 div.tt {
   .tt-message {
     background-color: lighten($light-blue, 20%);
-    font-size: $base-font-size * 0.8;
-    padding: 16px 24px;
-    text-align: center;
+    font-size: $base-font-size * 0.9;
+    padding: 16px 32px;
   }
 
   .tt-list {
@@ -17,7 +16,7 @@ div.tt {
     font-family: $heading-font-family;
     font-size: $base-font-size * 1.8;
     line-height: 1.2em;
-    padding: 16px 24px;
+    padding: 16px 32px;
   }
 
   .tt-day {
@@ -25,13 +24,13 @@ div.tt {
     color: $white;
     font-family: $heading-font-family;
     font-size: $base-font-size * 1.5;
-    padding: 16px 24px;
+    padding: 16px 32px;
   }
 
   .tt-item {
     border-bottom: $base-border;
     font-size: $base-font-size * 0.9;
-    padding: 32px 24px;
+    padding: 32px 32px;
 
     @include grid-media($for-desktop-up) {
       display: flex;
@@ -51,7 +50,10 @@ div.tt {
     }
 
     .tt-price {
+      color: lighten($dark-gray, 20%);
+      font-size: $base-font-size * 1.2;
       font-weight: $font-weight-bold;
+      text-align: right;
     }
   }
 

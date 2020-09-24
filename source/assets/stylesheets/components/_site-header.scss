@@ -1,5 +1,5 @@
 body.header-transparent.at-the-top {
-  .site-header {
+  header.site-header {
     background: transparent;
 
     .logo {
@@ -7,6 +7,13 @@ body.header-transparent.at-the-top {
 
       @include grid-media($for-desktop-up) {
         opacity: 1;
+      }
+    }
+
+    a {
+      &[aria-current]:not([aria-current="false"]),
+      &:hover {
+        color: $dark-gray;
       }
     }
   }
