@@ -17,7 +17,7 @@ activate :sprockets
 Time.zone = "CET"
 
 # Set Google Analytics id
-set :ga_code, "UA-24956010-7"
+set :ga_code, "UA-24956010-6"
 
 # Ignore the selection file for Icomoon
 ignore "assets/fonts/selection.json"
