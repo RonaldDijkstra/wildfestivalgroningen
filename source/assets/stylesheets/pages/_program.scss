@@ -4,7 +4,7 @@ body.program {
       padding: 0;
 
       @include grid-media($for-desktop-up) {
-        padding: 0 1em 2em 1em;
+        padding: 0 1em 2em;
       }
     }
   }

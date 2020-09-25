@@ -25,6 +25,7 @@
   type: "drinks"
 - title: "H.ertie"
   image: "hertie.png"
+  type: "drinks"
 - title: "Land & Labour"
   image: "land-and-labour.png"
   type: "drinks"
