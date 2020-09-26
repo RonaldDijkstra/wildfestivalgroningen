@@ -41,7 +41,7 @@ page "/*.xml", layout: false
 configure :production do
   activate :asset_hash, ignore: [
     %r{^assets/fonts/.*},
-    "assets/images/logo-folkingebrew-black.svg"
+    "assets/images/logo-wild-festival-groningen.svg"
   ]
   activate :gzip
   activate :minify_css
