@@ -1,3 +1,8 @@
 [build]
   command = "rake build"
   publish = "build/"
+
+[[redirects]]
+  from = "/en/*"
+  to = "/"
+  status = 301
