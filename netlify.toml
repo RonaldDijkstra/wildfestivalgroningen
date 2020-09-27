@@ -6,3 +6,6 @@
   from = "/en/*"
   to = "/"
   status = 301
+  from = "/programma/"
+  to = "/program/"
+  status = 301
