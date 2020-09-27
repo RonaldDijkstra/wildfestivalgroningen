@@ -53,3 +53,11 @@ configure :production do
 
   I18n.exception_handler = TestExceptionLocalizationHandler.new
 end
+
+after_build do
+  redirects = YAML.load_file("data/redirects.yml")
+
+  File.open("build/_redirects", "w+") do |f|
+    redirects.each { |element| f.puts(element + " 301") }
+  end
+end
