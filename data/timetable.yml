@@ -1,10 +1,10 @@
 - table: Wild Festival Groningen 2020 Main Event @ EM2
-  message: "Your festival ticket includes a beautiful tasting glass (approx. 10cl). Due to COVID-19 regulations we have a maximum of 120 tickets per session and paying during the festival is by card only. All ticket prices excluding €0.99 ticket fee.<br><br>
+  message: "<strong>Wild Festival Groningen 2020 is postponed to June 2021</strong>. Your tickets for the 2020 edition remain valid or you can get a refund. Please read our full message here: <a href=\"https://www.facebook.com/wildfestivalgroningen/posts/951646518696265\" target=\"_blank\">our Facebook post.</a><br><br>Your festival ticket includes a beautiful tasting glass (approx. 10cl). Due to COVID-19 regulations we have a maximum of 120 tickets per session and paying during the festival is by card only. All ticket prices excluding €0.99 ticket fee.<br><br>
     <strong>Bars open</strong><br>
     All bars will be open during the festival from 14:00 - 00:00.
 You can order bottles, glasses and tastings from our menu<br><br><strong>Tastings and workshops to be announced!</strong>"
   days:
-    - date: Friday, November 20, 2020
+    - date: Friday, June 11, 2021
       items:
         - title: "Session 1: 14:00 - 18:00"
           price: "€15,-"
@@ -17,7 +17,7 @@ In addition to the menu with bottles of beer, wine and cider, you can order tast
 The diner is a collaboration of De Wilde Slager, Wilde Wadoesters, Fermenthings, Basic Theory Ferments, Geitenhouderij Ter Veen and Dhana Choco.<br><br>
 
 You can expect: Charcuterie, sourdough bread, soup, seasonal vegetables, stuffed pitfire roasted wild boar, cheese and raw chocolat (subject to changes)."
-    - date: Saturday, November 21, 2020
+    - date: Saturday, June 12, 2021
       items:
         - title: "Session 3: 14:00 - 18:00"
           price: "€15,-"
