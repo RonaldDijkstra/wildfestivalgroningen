@@ -1,12 +1,12 @@
 .announcement {
   background: $dark-gray;
-  margin-top: 1.2em;
-  padding: 1.2em;
+  margin: 1em auto 0;
+  max-width: 640px;
+  padding: 1em;
   width: 100%;
 
   .container {
     color: $white;
-    text-align: center;
   }
 
   p {

@@ -1,35 +1,31 @@
 - table: Wild Festival Groningen 2020 Main Event @ EM2
-  message: "<strong>Wild Festival Groningen 2020 is postponed to June 2021</strong>. Your tickets for the 2020 edition remain valid or you can get a refund. Please read our full message here: <a href=\"https://www.facebook.com/wildfestivalgroningen/posts/951646518696265\" target=\"_blank\">our Facebook post.</a><br><br>Your festival ticket includes a beautiful tasting glass (approx. 10cl). Due to COVID-19 regulations we have a maximum of 120 tickets per session and paying during the festival is by card only. All ticket prices excluding €0.99 ticket fee.<br><br>
+  message: "<strong>Wild Festival Groningen 2020 is postponed to August 2021</strong>. Your tickets for the 2020 edition remain valid or you can get a refund. <a href=\"https://www.facebook.com/wildfestivalgroningen/posts/1088776131649969\" target=\"_blank\">Please read our full message</a>.<br><br><a href=\"/covid-guidelines\">Our COVID-guidelines</a><br><br>
     <strong>Bars open</strong><br>
     All bars will be open during the festival from 14:00 - 00:00.
 You can order bottles, glasses and tastings from our menu<br><br><strong>Tastings and workshops to be announced!</strong>"
   days:
-    - date: Friday, June 11, 2021
+    - date: Friday, August 13, 2021
       items:
-        - title: "Session 1: 14:00 - 18:00"
+        - title: "Session 1: 13:00 - 18:00"
           price: "€15,-"
           description: "Day session of the festival:<br><br>
 In addition to the menu with bottles of beer, wine and cider, you can order tastings, beer+food pairings and other beautiful wild products!"
         - title: "Session 2: 19:00 - 0:00"
           price: "€48,-"
-          description: "A Five course wild dinner with the best natural products!<br><br>
+          description: "A five course wild dinner with the best natural products.<br><br>
 
-The diner is a collaboration of De Wilde Slager, Wilde Wadoesters, Fermenthings, Basic Theory Ferments, Geitenhouderij Ter Veen and Dhana Choco.<br><br>
-
-You can expect: Charcuterie, sourdough bread, soup, seasonal vegetables, stuffed pitfire roasted wild boar, cheese and raw chocolat (subject to changes)."
-    - date: Saturday, June 12, 2021
+The diner is a collaboration of De Wilde Slager, Wilde Wadoesters, Fermenthings, Basic Theory Ferments, Geitenhouderij Ter Veen and Dhana Choco."
+    - date: Saturday, August 14, 2021
       items:
-        - title: "Session 3: 14:00 - 18:00"
+        - title: "Session 3: 13:00 - 18:00"
           price: "€15,-"
           description: "Day session of the festival:<br><br>
 In addition to the menu with bottles of beer, wine and cider, you can order tastings, beer+food pairings and other beautiful wild products!"
         - title: "Session 4: 19:00 - 0:00"
           price: "€48,-"
-          description: "A Five course wild dinner with the best natural products!<br><br>
+          description: "A five course wild dinner with the best natural products.<br><br>
 
-The diner is a collaboration of De Wilde Slager, Wilde Wadoesters, Fermenthings, Basic Theory Ferments, Geitenhouderij Ter Veen and Dhana Choco.<br><br>
-
-You can expect: Charcuterie, sourdough bread, soup, seasonal vegetables, stuffed pitfire roasted wild boar, cheese and raw chocolat (subject to changes)."
+The diner is a collaboration of De Wilde Slager, Wilde Wadoesters, Fermenthings, Basic Theory Ferments, Geitenhouderij Ter Veen and Dhana Choco."
 # - table: Wild Weekend
 #   days:
 #     - date: Thursday, November 21 through Sunday, November 24, 2019
