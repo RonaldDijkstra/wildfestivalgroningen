@@ -4,10 +4,6 @@ section.hero-wrap {
   max-height: 80rem;
   text-align: center;
 
-  &.position-top {
-    margin-top: -8rem;
-  }
-
   .hero {
     display: flex;
     height: 100%;
@@ -58,6 +54,13 @@ section.hero-wrap {
 
     @include grid-media($for-desktop-up) {
       margin-bottom: 1.8em;
+    }
+  }
+
+  h1 {
+    body.x404 & {
+      color: $white;
+      font-size: $base-font-size * 2.4;
     }
   }
 
