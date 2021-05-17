@@ -7,9 +7,9 @@ body.tickets {
     .grid-row {
       background: $dark-gray;
       color: $white;
+      margin-bottom: 4em;
 
       @include grid-media($for-desktop-up) {
-        margin-bottom: 4em;
         padding: 4em 2em;
       }
 
