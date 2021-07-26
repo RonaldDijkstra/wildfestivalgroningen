@@ -1,6 +1,6 @@
 # Welcome to Wild Festival Groningen
 
-Wild Festival Groningen II is the second edition of an unique beer, wine, cider and food festival in one.
+Wild Festival Groningen 2021 is the second edition of an unique beer, wine, cider and food festival in one.
 
 During the weekend of August 13, 2021 we bring the worlds of wild beer, natural wine and cider together. Wild spontaneous fermentation is the central theme, combined with delicious food provided by nature.
 

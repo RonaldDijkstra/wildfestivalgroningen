@@ -11,37 +11,28 @@ sitemap_priority: 0.8
   </div>
 </header>
 
+<%
+  timetable_tables = data["timetable"]
+%>
+
 <section class="single-column">
   <div class="grid-row">
-
-    <%
-    timetable_tables = data["timetable"]
-    %>
-
     <% if timetable_tables %>
-
       <div class="tt">
-
         <% timetable_tables.each do |table| %>
-
           <div class="tt-list">
-
             <div class="tt-header">
               <%= table.table %>
             </div>
-
             <% if table.message %>
               <div class="tt-message">
                 <%= table.message %>
               </div>
             <% end %>
-
             <% table.days.each do |day| %>
-
               <div class="tt-day">
                 <%= day.date %>
               </div>
-
               <% day.items.each do |item| %>
                 <div class="tt-item">
                   <div class="tt-col left">
@@ -87,15 +78,10 @@ sitemap_priority: 0.8
                    <% end %>
                 </div>
               <% end %>
-
             <% end %>
-
           </div>
-
         <% end %>
-
       </div>
-
     <% end %>
   </div>
 </section>

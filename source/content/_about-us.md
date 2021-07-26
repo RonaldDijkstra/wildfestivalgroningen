@@ -1,4 +1,4 @@
-Wild Festival Groningen 2020 is organized by Bierselect and Boilermaker.
+Wild Festival Groningen is organized by Bierselect and Boilermaker.
 
 ## Bierselect
 
