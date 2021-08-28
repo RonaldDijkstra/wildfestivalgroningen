@@ -1,87 +1,91 @@
 ---
 title: "Program"
-description: "Check the main and side events of Wild Festival Groningen 2020."
+description: "Check the main and side events of Wild Festival Groningen."
 sitemap_priority: 0.8
+tba: true
 ---
 <header class="normal-page-header">
   <div class="grid-row">
     <h1>
-      Program
+      Program 2021
     </h1>
   </div>
 </header>
 
-<%
-  timetable_tables = data["timetable"]
-%>
-
 <section class="single-column">
   <div class="grid-row">
-    <% if timetable_tables %>
-      <div class="tt">
-        <% timetable_tables.each do |table| %>
-          <div class="tt-list">
-            <div class="tt-header">
-              <%= table.table %>
-            </div>
-            <% if table.message %>
-              <div class="tt-message">
-                <%= table.message %>
+    <% if current_page.data.tba %>
+      <%= content_tag :h2, "Program to be announced!", class: "tba" %>
+    <% else %>
+      <%
+        timetable_tables = data["timetable"]
+      %>
+      <% if timetable_tables %>
+        <div class="tt">
+          <% timetable_tables.each do |table| %>
+            <div class="tt-list">
+              <div class="tt-header">
+                <%= table.table %>
               </div>
-            <% end %>
-            <% table.days.each do |day| %>
-              <div class="tt-day">
-                <%= day.date %>
-              </div>
-              <% day.items.each do |item| %>
-                <div class="tt-item">
-                  <div class="tt-col left">
-                    <div class="tt-title">
-                      <%= item.title %>
-                    </div>
-                    <% if item.description || item.link || item.time %>
-                      <div class="tt-info">
-                        <% if item.time %>
-                          <div class="tt-time">
-                            <%= item.time %>
-                          </div>
-                        <% end %>
-                        <% if item.description %>
-                          <div class="tt-description">
-                            <%= markitdown item.description %>
-                          </div>
-                        <% end %>
-                        <% if item.link %>
-                          <div class="tt-link">
-                            <a href="<%= item.link %>" class="button size-normal style-solid" target="<%= item.link_target %>">
-                              <%= item.link_title %>
-                            </a>
-                          </div>
-                        <% end %>
-                      </div>
-                    <% end %>
-                  </div>
-                  <% if item.time || item.location || item.city || item.price %>
-                    <div class="tt-col right">
-                      <div class="tt-meta">
-                        <div class="tt-price">
-                          <%= item.price %>
-                        </div>
-                        <div class="tt-location">
-                          <%= item.location %>
-                        </div>
-                        <div class="tt-city">
-                          <%= item.city %>
-                        </div>
-                      </div>
-                    </div>
-                   <% end %>
+              <% if table.message %>
+                <div class="tt-message">
+                  <%= table.message %>
                 </div>
               <% end %>
-            <% end %>
-          </div>
-        <% end %>
-      </div>
+              <% table.days.each do |day| %>
+                <div class="tt-day">
+                  <%= day.date %>
+                </div>
+                <% day.items.each do |item| %>
+                  <div class="tt-item">
+                    <div class="tt-col left">
+                      <div class="tt-title">
+                        <%= item.title %>
+                      </div>
+                      <% if item.description || item.link || item.time %>
+                        <div class="tt-info">
+                          <% if item.time %>
+                            <div class="tt-time">
+                              <%= item.time %>
+                            </div>
+                          <% end %>
+                          <% if item.description %>
+                            <div class="tt-description">
+                              <%= markitdown item.description %>
+                            </div>
+                          <% end %>
+                          <% if item.link %>
+                            <div class="tt-link">
+                              <a href="<%= item.link %>" class="button size-normal style-solid" target="<%= item.link_target %>">
+                                <%= item.link_title %>
+                              </a>
+                            </div>
+                          <% end %>
+                        </div>
+                      <% end %>
+                    </div>
+                    <% if item.time || item.location || item.city || item.price %>
+                      <div class="tt-col right">
+                        <div class="tt-meta">
+                          <div class="tt-price">
+                            <%= item.price %>
+                          </div>
+                          <div class="tt-location">
+                            <%= item.location %>
+                          </div>
+                          <div class="tt-city">
+                            <%= item.city %>
+                          </div>
+                        </div>
+                      </div>
+                     <% end %>
+                  </div>
+                <% end %>
+              <% end %>
+            </div>
+          <% end %>
+        </div>
+      <% end %>
     <% end %>
   </div>
 </section>

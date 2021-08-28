@@ -67,11 +67,18 @@ section.hero-wrap {
   h2 {
     color: $white;
     font-size: $base-font-size * 1.4;
-    margin-bottom: 1.2em;
-    z-index: 2;
+    margin-bottom: 0.5em;
 
     @include grid-media($for-desktop-up) {
-      font-size: $base-font-size * 1.8;
+      font-size: $base-font-size * 2;
+    }
+
+    &.date {
+      font-size: $base-font-size * 2;
+
+      @include grid-media($for-desktop-up) {
+        font-size: $base-font-size * 3;
+      }
     }
   }
 }
