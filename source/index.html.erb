@@ -9,14 +9,13 @@ header_class: header-transparent
   <div class="hero">
     <div class="hero-main">
       <div class="hero-inner">
-         <h2>
-            Beer | Wine | Cider | Food
-         </h2>
-          <%= image_tag "assets/images/logo-wild-festival-groningen-white.svg", alt: "logo Wild Festival Groningen", class: "hero-logo" %>
-          <h2>
-            19 & 20 November 2021
-          </h2>
-          <%#= partial "partials/announcement" %>
+        <h2>
+          Beer | Wine | Cider | Food
+        </h2>
+        <%= image_tag "assets/images/logo-wild-festival-groningen-white.svg", alt: "logo Wild Festival Groningen", class: "hero-logo" %>
+        <h2 class="date">
+          19 & 20 November 2021
+        </h2>
       </div>
     </div>
   </div>
@@ -25,12 +24,6 @@ header_class: header-transparent
   <div class="grid-row">
     <div class="row">
       <%= partial "content/introduction" %>
-      <div class="read-more">
-        <%= partial "partials/button", locals: { to: "/line-up/index.html",
-                                                 variant: "size-medium style-solid blue",
-                                                 text: "Full Line-up",
-                                                 icon_right: "icons/arrow-right.svg"} %>
-      </div>
     </div>
   </div>
 </section>
