@@ -4,7 +4,7 @@
   days:
     - date: Friday, November 19, 2021
       items:
-        - title: "Session 1: 13:00 - 18:00"
+        - title: "Session 1: 14:00 - 18:00"
           # price: "€15,-"
           description: "Day session of the festival."
         - title: "Session 2: 19:00 - 23:00"
@@ -12,7 +12,7 @@
           description: "Night session of the festival."
     - date: Saturday, November 20, 2021
       items:
-        - title: "Session 3: 13:00 - 18:00"
+        - title: "Session 3: 14:00 - 18:00"
           # price: "€15,-"
           description: "Day session of the festival."
         - title: "Session 4: 19:00 - 23:00"
