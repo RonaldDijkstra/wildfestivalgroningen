@@ -1,8 +1,6 @@
 # Welcome to Wild Festival Groningen
 
-Wild Festival Groningen 2021 is the third edition of an unique beer, wine, cider and food festival in one.
-
-During the weekend of November 19, 2021 we bring the worlds of wild beer, natural wine and cider together. Wild spontaneous fermentation is the central theme, combined with delicious food provided by nature.
+During the weekend of November 19, 2021 we bring the worlds of beer, natural wine and cider together, combined with delicious food. Wild spontaneous fermentation is the central theme, but we also offer beer styles like IPA’s, stouts and saisons. 
 
 In addition to the four festival sessions on Friday and Saturday, various side events will take place in the days around the festival.
 

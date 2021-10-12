@@ -1,59 +1,36 @@
 ---
-title: "Line-Up"
+title: "Line-up"
 description: "Be sure to check this page regularly for line-up updates!"
 pageable: true
-tba: true
 ---
 <header class="normal-page-header">
   <div class="grid-row">
     <h1>
-      Line-Up 2021
+      Line-up 2021
     </h1>
   </div>
 </header>
 
 <section class="participants wide-row">
-  <% if current_page.data.tba %>
-    <div class="grid-row">
-      <%= content_tag :h2, "Line-up to be announced!", class: "tba" %>
-    </div>
-  <% else %>
-    <%
-      participants = data["line-up"]
-      participants_drinks = participants.select {|participant| participant.type == "drinks"}
-      participants_food = participants.select {|participant| participant.type == "food"}
-    %>
-    <div class="grid-row">
-      <div class="participants-grid-wrap">
-        <div class="participants-grid feed">
-          <div class="row">
-            <h2 class="sub-title">
-              Drinks
-            </h2>
-          </div>
-          <div class="row">
-            <% participants_drinks.each do |participant| %>
-              <%= partial "partials/line-up-link", locals: { participant: participant } %>
-            <% end %>
-          </div>
-          <div class="row">
-            <h2 class="sub-title">
-              Food
-            </h2>
-          </div>
-          <div class="row">
-            <% participants_food.each do |participant| %>
-              <%= partial "partials/line-up-link", locals: { participant: participant } %>
-            <% end %>
-          </div>
+  <%
+    participants = data["line-up"]
+    participants_drinks = participants.select {|participant| participant.type == "drinks"}
+  %>
+  <div class="grid-row">
+    <div class="participants-grid-wrap">
+      <div class="participants-grid feed">
+        <div class="row">
+          <% participants_drinks.each do |participant| %>
+            <%= partial "partials/line-up-link", locals: { participant: participant } %>
+          <% end %>
         </div>
       </div>
     </div>
-    <div class="grid-row">
-      <p class="tba">
-        ...and maybe some small surprises!<br><br>
-        Please note: due to COVID-19 regulations not all participants might be there at the same time.
-      </p>
-    </div>
-  <% end %>
+  </div>
+  <div class="grid-row">
+    <p class="tba">
+      ...and maybe some small surprises!<br><br>
+      Please note: due to COVID-19 regulations not all participants might be there at the same time.
+    </p>
+  </div>
 </section>
