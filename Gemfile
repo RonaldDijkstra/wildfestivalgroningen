@@ -9,6 +9,9 @@ gem "middleman-blog"
 gem "middleman-inline_svg"
 gem "middleman-minify-html"
 gem "middleman-sprockets"
+gem "middleman-livereload"
+
+gem "middleman-dato", "~> 0.10.0"
 
 # Templating Engines
 gem "builder"

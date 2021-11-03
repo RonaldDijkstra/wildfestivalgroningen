@@ -13,6 +13,9 @@ activate :directory_indexes
 activate :inline_svg
 activate :sprockets
 
+activate :dato, live_reload: true
+# enable livereload on development
+
 # Set timezone
 Time.zone = "CET"
 
@@ -36,6 +39,10 @@ set :markdown, input: "GFM",
 page "/*.json", layout: false
 page "/*.txt", layout: false
 page "/*.xml", layout: false
+
+configure :development do
+  activate :livereload
+end
 
 # Settings for production
 configure :production do
