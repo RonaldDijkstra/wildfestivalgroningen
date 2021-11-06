@@ -29,6 +29,8 @@ gem "neat"
 gem "html-proofer"
 gem "rake"
 
+gem "redcarpet"
+
 # Frontend
 source "https://rails-assets.org" do
   gem "rails-assets-jquery"

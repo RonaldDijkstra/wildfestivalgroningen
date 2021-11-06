@@ -197,6 +197,7 @@ GEM
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
+    redcarpet (3.5.1)
     regexp_parser (2.1.1)
     rexml (3.2.5)
     rss (0.2.9)
@@ -265,6 +266,7 @@ DEPENDENCIES
   rails-assets-jquery.scrollTo!
   rails-assets-what-input!
   rake
+  redcarpet
   rss
   rubocop
   sassc

@@ -30,11 +30,8 @@ set :fonts_dir, "assets/fonts"
 set :images_dir, "assets/images"
 set :js_dir, "assets/javascripts"
 
-# Use kramdown for markdown
-# https://kramdown.gettalong.org/
-set :markdown_engine, :kramdown
-set :markdown, input: "GFM",
-               auto_ids: true
+# Use redcarpet for markdown
+set :markdown_engine, :redcarpet
 
 page "/*.json", layout: false
 page "/*.txt", layout: false
