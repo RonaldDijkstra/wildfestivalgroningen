@@ -63,6 +63,7 @@ configure :production do
   activate :minify_css
   activate :minify_html
   activate :minify_javascript
+  activate :relative_assets
 
   # Raise exception for missing translations during build
   require "lib/test_exception_localization_handler"
