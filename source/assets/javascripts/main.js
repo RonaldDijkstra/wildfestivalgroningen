@@ -1,5 +1,8 @@
-//= require jquery
-//= require what-input
+import '../stylesheets/main.scss';
+import 'what-input';
 
-//= require _faq
-//= require _header
+import faq from './faq.js';
+import header from './header.js';
+
+faq();
+header();

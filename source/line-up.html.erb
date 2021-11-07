@@ -29,12 +29,11 @@ pageable: true
       </div>
     </div>
   </div>
-  <div class="grid-row">
-    <p class="tba">
-      ...and maybe some small surprises!<br><br>
-      Please note: due to COVID-19 regulations not all participants might be there at the same time.
-    </p>
-
-    <%= markdownify(dato.line_up_page.) %>
-  </div>
+  <% if dato.line_up_page.text_below_participant %>
+    <div class="grid-row">
+      <div class="tba">
+        <%= markdownify(dato.line_up_page.text_below_participant) %>
+      </div>
+    </div>
+  <% end %>
 </section>
