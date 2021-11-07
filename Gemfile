@@ -5,10 +5,11 @@ source "https://rubygems.org"
 # Middleman Core & Extensions
 gem "middleman"
 gem "middleman-autoprefixer", "~> 3.0.0"
-gem "middleman-blog"
 gem "middleman-inline_svg"
 gem "middleman-minify-html"
-gem "middleman-sprockets"
+gem "middleman-livereload"
+
+gem "middleman-dato", "~> 0.10.0"
 
 # Templating Engines
 gem "builder"
@@ -26,12 +27,7 @@ gem "neat"
 gem "html-proofer"
 gem "rake"
 
-# Frontend
-source "https://rails-assets.org" do
-  gem "rails-assets-jquery"
-  gem "rails-assets-jquery.scrollTo"
-  gem "rails-assets-what-input"
-end
+gem "redcarpet"
 
 # Linters (not required)
 gem "rubocop", require: false

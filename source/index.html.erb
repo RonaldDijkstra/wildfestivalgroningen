@@ -23,7 +23,10 @@ header_class: header-transparent
 <section class="introduction wide-row" id="main-content">
   <div class="grid-row">
     <div class="row">
-      <%= partial "content/introduction" %>
+      <h1>
+        <%= dato.homepage.title %>
+      </h1>
+      <%= markdownify(dato.homepage.text) %>
     </div>
   </div>
 </section>

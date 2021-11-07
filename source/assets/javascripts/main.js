@@ -1,7 +1,8 @@
-//= require jquery
-//= require jquery.scrollTo
-//= require what-input
+import '../stylesheets/main.scss';
+import 'what-input';
 
-//= require _faq
-//= require _header
-//= require _scroll-to
+import faq from './faq.js';
+import header from './header.js';
+
+faq();
+header();

@@ -6,31 +6,34 @@ pageable: true
 <header class="normal-page-header">
   <div class="grid-row">
     <h1>
-      Line-up 2021
+      <%= dato.line_up_page.title %>
     </h1>
   </div>
 </header>
 
 <section class="participants wide-row">
-  <%
-    participants = data["line-up"]
-    participants_drinks = participants.select {|participant| participant.type == "drinks"}
-  %>
   <div class="grid-row">
     <div class="participants-grid-wrap">
       <div class="participants-grid feed">
         <div class="row">
-          <% participants_drinks.each do |participant| %>
-            <%= partial "partials/line-up-link", locals: { participant: participant } %>
+          <% dato.line_up_page.line_up.each do |record| %>
+            <div class="participant-wrap excerpt-box-wrap col">
+              <div class="participant excerpt-box">
+                <div class="image-wrap">
+                  <%= image_tag record.logo.url(fm: 'png', auto: 'compress', class: "image", alt: record.name) %>
+                </div>
+              </div>
+            </div>
           <% end %>
         </div>
       </div>
     </div>
   </div>
-  <div class="grid-row">
-    <p class="tba">
-      ...and maybe some small surprises!<br><br>
-      Please note: due to COVID-19 regulations not all participants might be there at the same time.
-    </p>
-  </div>
+  <% if dato.line_up_page.text_below_participant %>
+    <div class="grid-row">
+      <div class="tba">
+        <%= markdownify(dato.line_up_page.text_below_participant) %>
+      </div>
+    </div>
+  <% end %>
 </section>

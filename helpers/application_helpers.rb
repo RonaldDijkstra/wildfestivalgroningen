@@ -108,4 +108,9 @@ module ApplicationHelpers
 
     link_to(text, path, options)
   end
+
+  def markdownify(text)
+    markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+    markdown.render(text)
+  end
 end
