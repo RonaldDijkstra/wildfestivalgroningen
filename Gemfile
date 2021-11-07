@@ -5,7 +5,6 @@ source "https://rubygems.org"
 # Middleman Core & Extensions
 gem "middleman"
 gem "middleman-autoprefixer", "~> 3.0.0"
-gem "middleman-blog"
 gem "middleman-inline_svg"
 gem "middleman-minify-html"
 gem "middleman-livereload"
