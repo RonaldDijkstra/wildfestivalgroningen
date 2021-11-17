@@ -10,17 +10,26 @@ header_class: header-transparent
     <div class="hero-main">
       <div class="hero-inner">
         <h2>
-          Beer | Wine | Cider | Food
+          <%= dato.homepage.tagline %>
         </h2>
         <%= image_tag "assets/images/logo-wild-festival-groningen-white.svg", alt: "logo Wild Festival Groningen", class: "hero-logo" %>
         <h2 class="date">
-          19 & 20 November 2021
+          <%= dato.homepage.dates %>
         </h2>
       </div>
     </div>
   </div>
 </section>
-<section class="introduction wide-row" id="main-content">
+<% if !dato.homepage.postponed_text.empty? %>
+  <section class="postponed wide-row">
+    <div class="grid-row">
+      <div class="row">
+        <%= markdownify(dato.homepage.postponed_text) %>
+      </div>
+    </div>
+  </section>
+<% end %>
+<section class="introduction wide-row">
   <div class="grid-row">
     <div class="row">
       <h1>

@@ -1,3 +1,25 @@
+section.postponed {
+  background: $black;
+  color: $white;
+
+  .grid-row {
+    padding: 2em 1em;
+
+    @include grid-media($for-desktop-up) {
+      padding: 8em 3em;
+    }
+  }
+
+  .row {
+    margin: 0 auto;
+    max-width: $small-row;
+  }
+
+  p {
+    margin-bottom: 1em;
+  }
+}
+
 section.introduction {
   background: $white;
 
